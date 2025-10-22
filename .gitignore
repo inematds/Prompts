@@ -1,0 +1,7 @@
+Docs/*.zip
+*.zip
+site/
+*.mp4
+Docs/**/*.mp4
+docs/data/**/*.mp4
+docs/data/
