@@ -25,3 +25,4 @@ Docs/
 # BMAD (local only)
 .bmad-core/
 .bmad-*/
+publish_tmp/
