@@ -49,7 +49,7 @@ call :ensure_line "%GITIGNORE%" "Docs/**/*.mp4"
 call :ensure_line "%GITIGNORE%" "docs/data/**/*.mp4"
 
 echo.
-echo [5/8] Untracking existing ZIP/MP4 files and data folder (keeps them on disk)...
+echo [5/8] Untracking existing ZIP/MP4 files (keeps them on disk)...
 for /r %%F in (*.zip) do (
   set "ZIPPATH=%%F"
   REM Only untrack if file is tracked by git
@@ -65,12 +65,7 @@ for /r %%F in (*.mp4) do (
     git rm --cached "!VIDPATH!" >NUL 2>&1
   )
 )
-if exist "docs\data" (
-  git ls-files --error-unmatch "docs/data" >NUL 2>&1 && (
-    echo - Untracking folder: docs/data
-    git rm -r --cached "docs/data" >NUL 2>&1
-  )
-)
+REM docs/data/ now holds only light files (.txt/.json/.md) per .gitignore allowlist
 
 echo.
 echo [6/8] Commit changes...
