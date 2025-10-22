@@ -26,3 +26,5 @@ Docs/
 .bmad-core/
 .bmad-*/
 publish_tmp/
+
+scripts/
