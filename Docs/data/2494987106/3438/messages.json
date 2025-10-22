@@ -1,0 +1,99 @@
+[
+  {
+    "id": 3449,
+    "author": "INEMA",
+    "date": "2025-04-18T04:52:03+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "4.1 prompt eng.zip"
+  },
+  {
+    "id": 3448,
+    "author": "INEMA",
+    "date": "2025-04-18T04:51:51+00:00",
+    "text": "Prompt usado:\n\"Sua missão:\n1. FASE DE PESQUISA: Pesquise minuciosamente no site da OpenAI toda a documentação relacionada à família de APIs GPT-4.1 (incluindo GPT-4.1, GPT-4.1-mini e GPT-4.1-nano).\n2. COMPILAÇÃO DE DOCUMENTAÇÃO: Crie uma análise detalhada de cada modelo da família GPT-4.1, incluindo:\n- Especificações técnicas (janela de contexto, limites de token, etc.)\n- Benchmarks de desempenho em comparação com modelos anteriores (GPT-4.5, GPT-4o)\n- Informações sobre preços\n- Recursos e capacidades suportados\n- Endpoints e parâmetros da API\n- Limitações conhecidas\n3. GERAÇÃO DE CÓDIGO: Desenvolva um script pronto para uso em Python que:\n- Requer apenas uma entrada de chave de API do usuário\n- Demonstra como chamar cada modelo na família GPT-4.1\n- Inclui tratamento adequado de erros e práticas recomendadas\n- Mostra exemplos dos principais recursos (como a janela de contexto do token 1M)\n- É amplamente comentado para facilitar a compreensão\n4. ANÁLISE DE CASOS DE USO: Identifique novos casos de uso especificamente habilitados por:\n- A janela de contexto do token 1M\n- Recursos de codificação aprimorados\n- Acompanhamento de instruções aprimorado\n- Quaisquer outros recursos exclusivos dos modelos GPT-4.1\n- Concentre-se em aplicativos que não eram práticos com os modelos anteriores\n5. GUIA DE ENGENHARIA DE PROMPT: Crie um documento de práticas recomendadas para engenharia de prompt especificamente para a família GPT-4.1:\n- Destaque as técnicas que funcionam particularmente bem com o GPT-4.1\n- Observe as diferenças na engenharia rápida em comparação com os modelos anteriores\n- Inclua exemplos de prompts eficazes para diferentes casos de uso\n- Explicar como otimizar os recursos de acompanhamento de instruções do modelo\nRetorne suas descobertas como:\n1. Um documento de remarcação abrangente com seções claras\n2. Blocos de código não formatados para facilitar a cópia\n3. Citações das fontes de documentação específicas que você mencionou\nEssas informações devem ser atuais, precisas e refletir a documentação mais recente disponível. Seja minucioso e não deixe nenhum aspecto da API inexplorado.\"",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3447,
+    "author": "INEMA",
+    "date": "2025-04-18T04:50:45+00:00",
+    "text": "mm9 - Experimento Manus #9: Manus me ensina tudo sobre o OpenAI 4.1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3446,
+    "author": "INEMA",
+    "date": "2025-04-18T04:50:41+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3445,
+    "author": "INEMA",
+    "date": "2025-04-18T04:50:40+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3444,
+    "author": "INEMA",
+    "date": "2025-04-18T04:50:39+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3443,
+    "author": "INEMA",
+    "date": "2025-04-18T04:50:39+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3442,
+    "author": "INEMA",
+    "date": "2025-04-18T04:50:38+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3441,
+    "author": "INEMA",
+    "date": "2025-04-18T04:50:38+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3440,
+    "author": "INEMA",
+    "date": "2025-04-18T04:50:38+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3439,
+    "author": "INEMA",
+    "date": "2025-04-18T04:50:37+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3438,
+    "author": "INEMA",
+    "date": "2025-04-18T04:50:30+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

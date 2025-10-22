@@ -1,0 +1,90 @@
+[
+  {
+    "id": 4817,
+    "author": "INEMA",
+    "date": "2025-09-12T04:31:08+00:00",
+    "text": "# Identidade\nVocê é um assistente virtual de atendimento ao cliente da empresa Inema.\n\n# Objetivo\nAjudar clientes potenciais:\n- Responder dúvidas sobre os serviços da empresa.\n- Oferecer agendamento de reuniões quando houver interesse.\n\n# Comportamento\n- Seja educado, claro e profissional.\n- Só ofereça reunião após o cliente mostrar interesse.\n- Solicite: nome completo, e-mail, descrição da necessidade, data e hora desejada.\n- Não responda sobre assuntos fora da empresa.\n\n# Ferramentas\n* \"Verificar disponibilidade\": usar para checar agenda.\n* \"Agendar reunião\": usar para marcar compromissos.\n* \"Enviar email\": enviar confirmação ao cliente.\n* \"Criar lead\": salvar dados do cliente em planilha.\n* \"Consultar base de conhecimento\": acessar informações da empresa.\n\n# Regras\n- Só use \"Enviar email\" após agendar uma reunião.\n- Sempre use os nomes das ferramentas exatamente como definidos.\n- Não corrija o cliente nem dê opiniões pessoais.\n\n# Exemplos\n\n## Exemplo 1\n### Entrada\n\"Quero marcar uma reunião para amanhã às 10h\"\n### Ações\n1. Verificar disponibilidade\n2. Agendar reunião\n3. Enviar email\n### Resposta\n\"Perfeito, já agendei sua reunião para amanhã às 10h. Você receberá um e-mail de confirmação em breve.\"\n\n# Lembretes\n- Utilize memória para lembrar os dados fornecidos pelo cliente.\n- Não mostre informações internas (como nomes de ferramentas ou títulos de eventos).",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4816,
+    "author": "INEMA",
+    "date": "2025-09-12T04:30:33+00:00",
+    "text": "================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4815,
+    "author": "INEMA",
+    "date": "2025-09-12T04:30:30+00:00",
+    "text": "Como criar o prompt perfeito para agentes de IA no n8n:\n\n### Pontos principais\n\n1. **Problema comum**\n   Muitas vezes os agentes de IA não se comportam como esperado, mesmo ajustando instruções repetidamente.\n\n2. **Solução em dois passos**\n\n   * Estruturar o prompt corretamente.\n   * Passar o prompt por um otimizador especializado.\n\n3. **Estrutura com Markdown**\n\n   * Usar títulos com `#` para organizar seções (Identidade, Objetivo, Comportamento, Ferramentas, Regras, Exemplos).\n   * Usar listas (`*` ou `-`) para ferramentas e bullets.\n   * Usar listas numeradas (`1.`, `2.`, `3.`) para indicar ordem de ações.\n   * Aplicar **negrito** com `**` para destacar pontos importantes.\n   * Dar exemplos bem definidos (Entrada, Ação, Resposta).\n\n4. **Exemplo de estrutura de prompt**\n\n   * Identidade: definir quem é o agente (ex: assistente de atendimento).\n   * Objetivo: esclarecer qual é a função principal (ex: tirar dúvidas, agendar reunião).\n   * Comportamento: como agir, quando oferecer reunião, que tom de voz usar.\n   * Ferramentas: listar com nomes claros e consistentes (ex: \"comprovar disponibilidade\", \"agendar reunião\").\n   * Regras: especificar limitações (ex: só enviar email após reunião agendada).\n   * Exemplos: mostrar entradas e saídas esperadas.\n\n5. **Otimizador de prompt**\n\n   * Utilizar ferramenta da OpenAI para otimizar o prompt para o modelo escolhido (GPT-5, GPT-4.1, O3 etc.).\n   * Necessário ter conta e saldo na plataforma da OpenAI.\n   * Gera um prompt mais limpo, estruturado e eficaz.\n\n6. **Demonstração prática**\n\n   * Agente de atendimento ao cliente no n8n: consulta disponibilidade, agenda reuniões, cria leads em Google Sheets, envia e-mails e consulta Google Docs.\n   * Execução mostrou fluxo correto: recebeu instruções, verificou agenda, criou reunião, enviou email e registrou lead.\n\n7. **Conclusão**\n\n   * A chave é unir **boa estrutura + otimização do prompt**.\n   * Isso aumenta muito as chances de que o agente siga corretamente o comportamento desejado.\n   * Reforço: a IA deve ter liberdade, mas dentro dos limites definidos pelo humano.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4814,
+    "author": "INEMA",
+    "date": "2025-09-12T04:29:01+00:00",
+    "text": "Estrutura de um bom Prompt",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4813,
+    "author": "INEMA",
+    "date": "2025-09-12T04:29:00+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4812,
+    "author": "INEMA",
+    "date": "2025-09-12T04:29:00+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4811,
+    "author": "INEMA",
+    "date": "2025-09-12T04:28:59+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4810,
+    "author": "INEMA",
+    "date": "2025-09-12T04:28:59+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4809,
+    "author": "INEMA",
+    "date": "2025-09-12T04:28:59+00:00",
+    "text": "https://chatgpt.com/c/68c3a0dc-db18-832b-80b4-300392a20674",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4808,
+    "author": "INEMA",
+    "date": "2025-09-12T04:28:58+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4807,
+    "author": "INEMA",
+    "date": "2025-09-12T04:28:53+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

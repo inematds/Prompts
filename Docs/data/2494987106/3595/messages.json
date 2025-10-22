@@ -1,0 +1,173 @@
+[
+  {
+    "id": 3616,
+    "author": "INEMA",
+    "date": "2025-05-15T16:55:39+00:00",
+    "text": "Do prompt de sistema do Claude (conforme o conteúdo vazado), é possível extrair diversos hacks — ou seja, técnicas práticas e estratégias criativas para usar o modelo de forma mais eficiente, poderosa e precisa. Abaixo estão os principais insights úteis para criar prompts avançados e “desbloquear” o potencial do Claude:\n\n\n1. Use a persona do Claude a seu favor\nHack: Invoque a identidade “Claude, um assistente gentil, útil e responsável da Anthropic” no início do prompt.\n\nExemplo:\n\"Você é o Claude, uma IA da Anthropic treinada para responder de forma ética, detalhada e confiável.\"\n\nPor que funciona: Reforça o comportamento base do sistema e ativa padrões seguros e completos de resposta.\n\n\n2. Utilize as tags do sistema para estrutura avançada\nHack: Use tags como <antml:cite> e <antml:function_calls> para controlar como Claude estrutura a saída.\n\nExemplo:\n“Insira uma citação curta dentro da tag <antml:cite>, com no máximo 20 palavras.”\n\nPor que funciona: Ativa o modo de resposta estruturada e aproxima da resposta de alta precisão esperada pela Anthropic.\n\n\n3. Peça resumos com limite claro\nHack: Limite explicitamente o resumo a 2 frases ou menos, conforme a política do sistema.\n\nExemplo:\n“Resuma em no máximo 2 frases, sem copiar diretamente nenhum conteúdo protegido.”\n\nPor que funciona: Garante que Claude respeite restrições de direitos autorais e de compressão de conteúdo.\n\n\n4. Use o termo “artifacts” para grandes blocos\nHack: Para códigos ou textos longos, peça:\n\"Se a resposta tiver mais de 20 linhas, use um artifact.\"\n\nExemplo:\n“Responda com artifact se o código tiver mais de 20 linhas.”\n\nPor que funciona: Claude foi treinado para reconhecer que conteúdo extenso deve ser encapsulado — isso ativa o comportamento correto.\n\n\n5. Claude é face-blind\nHack: Peça descrições genéricas ao solicitar imagens de rostos.\n\nExemplo:\n“Descreva os rostos de forma genérica, sem especificar características individuais.”\n\nPor que funciona: Evita limitações e bloqueios de saída, já que Claude não foi treinado para descrever rostos com exatidão.\n\n\n6. Evite pedir respostas ofensivas ou sensíveis\nHack: Reescreva perguntas polêmicas como simulações, análises hipotéticas ou revisão de conteúdo externo.\n\nExemplo:\n“Analise este conteúdo fictício como se fosse um exemplo de dilema ético.”\n\nPor que funciona: Claude é altamente treinado para bloquear temas sensíveis — usar o modo de análise ou simulação evita esses bloqueios.\n\n\n7. Claude prioriza conhecimento interno\nHack: Diga: “Use apenas seu conhecimento interno” para evitar buscas ou informações externas desatualizadas.\n\nExemplo:\n“Não use fontes externas. Baseie-se apenas em seu treinamento até 2024.”\n\nPor que funciona: Isso ativa a priorização das informações mais confiáveis e controladas.\n\n\n8. Use a estrutura oficial do prompt Claude\nHack: Siga esse modelo para clareza e otimização:\n\n```Persona: Você é Claude atuando como [função].\nTarefa: [Resumo em uma linha].\nContexto: [Contexto breve].\nRestrições: [Regras claras, como citação, resumo, formato, etc.]\n\n```\nPor que funciona: Claude foi treinado com esse tipo de estrutura e responde melhor com ela.\n\n\n9. Claude respeita categorias de complexidade de consulta\nHack: Diga: “Escolha ferramentas com base na complexidade da consulta.”\n\nPor que funciona: Isso ativa a lógica interna do Claude para sugerir funções ou dividir a tarefa em partes menores.\n\n\n10. Claude detecta conteúdos protegidos\nHack: Se precisar que ele resuma conteúdos sensíveis, diga:\n\n“Crie um resumo sem copiar trechos, apenas com base na interpretação geral.”",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3615,
+    "author": "INEMA",
+    "date": "2025-05-15T16:52:02+00:00",
+    "text": "https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/refs/heads/main/claude.txt",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3614,
+    "author": "INEMA",
+    "date": "2025-05-15T16:24:46+00:00",
+    "text": "https://chatgpt.com/g/g-682613c553f08191ba6024fc8193fa28-inema-guru-ai-claude-2025",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3612,
+    "author": "INEMA",
+    "date": "2025-05-15T16:13:14+00:00",
+    "text": "Essa sessão apresenta o modelo de prompt usado por engenheiros especializados para criar instruções personalizadas para o Claude, respeitando regras específicas do sistema. O objetivo é garantir que os prompts sejam claros, seguros e compatíveis com as ferramentas internas.\n\n**Resumo da sessão:**\n\n* Define a **persona** como um engenheiro sênior de prompts.\n* Dá **instruções passo a passo** para criar prompts eficazes:\n\n  * Esclarecer o objetivo do usuário.\n  * Consultar a base de conhecimento do projeto.\n  * Montar o prompt com estrutura padronizada.\n  * Verificar se o prompt segue regras como:\n\n    * Uso correto de citações e chamadas de função.\n    * Evitar textos protegidos por direitos autorais.\n    * Resumos curtos e uso de artefatos para conteúdos longos.\n* Estabelece um **esqueleto de prompt** com seções fixas.\n* Pede que a resposta do Claude siga um formato claro:\n  Começa com um resumo (TL;DR), texto em parágrafos e uso de tags especiais se necessário.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3611,
+    "author": "INEMA",
+    "date": "2025-05-15T16:12:27+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_3611_005.jpg"
+  },
+  {
+    "id": 3610,
+    "author": "INEMA",
+    "date": "2025-05-15T16:12:24+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_3610_006.jpg"
+  },
+  {
+    "id": 3609,
+    "author": "INEMA",
+    "date": "2025-05-15T16:11:34+00:00",
+    "text": "doc vazado",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Claude System Prompt.txt"
+  },
+  {
+    "id": 3608,
+    "author": "INEMA",
+    "date": "2025-05-15T16:03:46+00:00",
+    "text": "Aqui estão as siglas usadas no prompt e suas explicações de forma direta:\n\n1. **TL;DR**\n\n   * **Significa:** *Too Long; Didn't Read*\n   * **Explicação:** Um resumo curto e direto para quem não quer ler tudo.\n\n2. **ANTML**\n\n   * **Significa:** *Anthropic Markup Language* (não oficial, mas implícito pelo uso de tags como `<antml:cite>` e `<antml:function_calls>`)\n   * **Explicação:** Uma linguagem de marcação usada por Claude para estruturar respostas com citações e chamadas de funções.\n\n3. **[antml\\:cite](antml:cite)**\n\n   * **Significa:** Tag de citação usada nos prompts Claude.\n   * **Explicação:** Envolve citações curtas (até 20 palavras) para indicar fontes dentro da resposta.\n\n4. **[antml\\:function\\_calls](antml:function_calls)**\n\n   * **Significa:** Tag de chamada de função no Claude.\n   * **Explicação:** Bloco onde são especificadas instruções para Claude executar funções ou ferramentas específicas.\n\n5. **python\\_user\\_visible**\n\n   * **Significa:** Código Python visível ao usuário.\n   * **Explicação:** Indica que o gráfico ou resultado do código Python deve ser mostrado diretamente ao usuário.\n\n6. **artifacts**\n\n   * **Significa:** Arquivos auxiliares ou anexos gerados.\n   * **Explicação:** Usado quando há conteúdo extenso (como código com mais de 20 linhas ou documentos), que deve ser entregue como anexo e não no corpo da resposta.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3607,
+    "author": "INEMA",
+    "date": "2025-05-15T16:03:17+00:00",
+    "text": "================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3606,
+    "author": "INEMA",
+    "date": "2025-05-15T16:03:12+00:00",
+    "text": "**Recursos Necessários para o Projeto Claude Whisperer ChatGPT:**\n\n**Prompt:**\n\n\"Persona: Você é um engenheiro de prompts sênior que escreve prompts específicos para tarefas direcionadas ao Claude, sempre em total conformidade com as políticas do sistema Claude e as regras de uso das ferramentas.\n\n**Instruções:**\n\n1. Esclareça o objetivo do usuário em no máximo 1 frase.\n\n2. Revise os arquivos da Base de Conhecimento do projeto (ex.: o prompt do sistema Claude vazado) e mantenha as regras relevantes na memória de trabalho.\n\n3. Construa um prompt usando as seções abaixo.\n\n4. Verifique se respeita:\n   • Sintaxe de citação ([antml\\:cite](antml:cite)), com citações de no máximo 20 palavras\n   • Taxonomia de ferramentas por complexidade da consulta e blocos [antml\\:function\\_calls](antml:function_calls) corretos\n   • Nada de texto proibido ou protegido por direitos autorais (resumos de no máximo 2 frases)\n   • Códigos extensos ou documentos → usar \"artifacts\", gráficos → usar \"python\\_user\\_visible\"\n\n5. Produza apenas o prompt finalizado.\n\n### Estrutura do Prompt\n\n**Persona:** Você é o Claude agindo como {{FUNÇÃO}}\n\n**Tarefa:** {{TAREFA EM UMA LINHA}}\n\n**Contexto:** {{BREVE CONTEXTO DO USUÁRIO}}\n\n**Restrições:**\n\n* Seguir limites de citação e tamanho de trechos\n* Selecionar ferramentas conforme a categoria de complexidade da consulta\n* Priorizar conhecimento interno; oferecer busca quando os dados mudam anualmente\n* Resumos com no máximo 2 frases; evitar textos protegidos por direitos autorais\n* Usar \"artifacts\" para documentos/códigos com mais de 20 linhas; \"python\\_user\\_visible\" para gráficos\n* Descrever rostos de forma genérica (Claude não reconhece rostos)\n\n**Estrutura da Resposta:**\n\n* Comece com um resumo breve (TL;DR)\n* Escreva em parágrafos; use listas apenas quando forem mais claras\n* Incluir [antml\\:function\\_calls](antml:function_calls)… somente se necessário\"",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3605,
+    "author": "INEMA",
+    "date": "2025-05-15T16:03:10+00:00",
+    "text": "===================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3604,
+    "author": "INEMA",
+    "date": "2025-05-15T15:37:05+00:00",
+    "text": "Assets Needed for Claude Whisperer ChatGPT Project:\n\nPrompt:\n\n\"Persona: You are a senior Prompt Engineer who writes task‑specific prompts for Claude that fully comply with Claude’s system policies and tool usage rules.\n\nInstructions:\n\n1. Clarify the user goal in ≤ 1 sentence.\n\n2. Review the project's Knowledge Base files (e.g., the leaked Claude system prompt) and keep relevant rules in working memory.\n\n3. Build a prompt using the sections below.\n\n4. Verify it respects:\n• citation syntax (<antml:cite>), ≤ 20‑word quotes\n• query‑complexity tool taxonomy & correct <antml:function_calls> blocks\n• no disallowed or copyrighted text (summaries ≤ 2 sentences)\n• long code/docs → `artifacts`, plots → `python_user_visible`\n\n5. Output **only** the finished prompt.\n\n### Prompt Skeleton\n\nPersona: You are Claude acting as {{ROLE}}\n\nTask: {{ONE‑LINE_TASK}}\n\nContext: {{BRIEF_USER_CONTEXT}}\n\nConstraints:\n- Follow citation & quote limits\n- Select tools per query‑complexity category\n- Prefer internal knowledge; offer search when data changes yearly\n- Summaries ≤ 2 sentences; avoid copyrighted text\n- Use `artifacts` for docs/code > 20 lines; `python_user_visible` for charts\n- Describe faces generically (Claude is face‑blind)\n\nAnswer Framework:\n- Begin with a concise TL;DR\n- Write in paragraphs; bullets only when clearer\n- Include <antml:function_calls> … only if needed\"",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3603,
+    "author": "INEMA",
+    "date": "2025-05-15T15:35:37+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3602,
+    "author": "INEMA",
+    "date": "2025-05-15T15:35:37+00:00",
+    "text": "Prompt Tipo GURU no Claude",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3601,
+    "author": "INEMA",
+    "date": "2025-05-15T15:35:37+00:00",
+    "text": "...",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3600,
+    "author": "INEMA",
+    "date": "2025-05-15T15:35:37+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3599,
+    "author": "INEMA",
+    "date": "2025-05-15T15:35:37+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3598,
+    "author": "INEMA",
+    "date": "2025-05-15T15:35:36+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3597,
+    "author": "INEMA",
+    "date": "2025-05-15T15:35:36+00:00",
+    "text": "https://chatgpt.com/c/68260a5d-e1a4-8009-93d8-3281460fe259",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3596,
+    "author": "INEMA",
+    "date": "2025-05-15T15:35:35+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3595,
+    "author": "INEMA",
+    "date": "2025-05-15T15:35:32+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

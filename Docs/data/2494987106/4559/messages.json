@@ -1,0 +1,237 @@
+[
+  {
+    "id": 4592,
+    "author": "INEMA",
+    "date": "2025-08-23T07:00:21+00:00",
+    "text": "checklist explícito.\n\n**Exemplo bom**\n\n```Saída:\n{ \"pdcaas\": 0.84, \"qualidade\": \"boa\", \"recomendacao\": \"uso diário\" }\n\nQA:\n- Cálculo conferido ✔\n- 2 fontes citadas ✔\n- Suposições listadas ✔\n- Nota de confiança: 0.78```\n\n---\n\nResumindo:\n\n* R**esponses API **→ sempre peça saída estruturada e use contexto.\n* R**easoning Effort **→ escolha nível adequado à tarefa.\n* E**agerness **→ defina quanto o modelo pode agir sozinho.\n* E**struturação **→ use blocos claros com objetivo, método, critério de parada e saída.\n* Q**A **→ valide cálculos, fontes, suposições e confiança.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4591,
+    "author": "INEMA",
+    "date": "2025-08-23T07:00:21+00:00",
+    "text": "Vou detalhar cada um dos **5 tópicos do “Novo Guia de Prompting da OpenAI (GPT-5)”** para você, com explicação clara, exemplos de erro e acerto.\n\n---\n\n## 1. Responses API (mantém contexto, suporta multimodal)\n\n**O que é**\nÉ a API mais nova da OpenAI para trabalhar com prompts. Diferente das antigas chamadas isoladas, ela:\n\n* Mantém **estado da conversa** (memória curta dentro da mesma sessão).\n* Suporta **multimodalidade** (texto, imagem, áudio em alguns casos).\n* Permite saída em **formato estruturado** (ex.: JSON).\n\n**Problema comum**\n– Tratar cada pergunta como independente → o modelo repete dados, perde contexto.\n– Não definir formato → você recebe respostas em texto corrido difíceis de usar em apps.\n\n**Como fazer certo**\n– Pedir saída estruturada (JSON ou tabela clara).\n– Informar objetivo, ferramentas que podem ser usadas e critério de parada.\n\n**Exemplo ruim**\n“Analise este rótulo.” → Saída: parágrafo genérico.\n\n**Exemplo bom**\n\n```Objetivo: analisar rótulo de suplemento.\nSaída JSON:\n{ \"proteina_total\": ..., \"pdcaas\": ..., \"recomendacao\": \"...\" }```\n\n---\n\n## 2. Reasoning Effort (low, medium, high)\n\nO** que é\n**Um “controle de esforço” que ajusta a profundidade do raciocínio:\n\n* L**ow **→ respostas rápidas e baratas.\n* M**edium **→ equilíbrio entre custo e profundidade.\n* H**igh **→ explora mais caminhos, faz verificações extras, mas é lento e caro.\n\nP**roblema comum\n**– Usar h**igh **para tarefas simples → custo e demora desnecessários.\n– Usar l**ow **para tarefas complexas → respostas incompletas ou erradas.\n\nC**omo fazer certo\n**– Use l**ow **para cálculos simples ou respostas objetivas.\n– Use h**igh **para investigações detalhadas (mas sempre com limites de tempo e buscas).\n\nE**xemplo ruim\n**“Calcule 2+2. (Effort high)” → desperdício.\n\nE**xemplo bom\n**“Compare 5 suplementos e calcule o PDCAAS. (Effort high, limite: 2 buscas web, tempo < 30s).”\n\n---\n\n## 3. Eagerness / Autonomia (agir sozinho vs. seguir passo a passo)\n\nO** que é\n**Define até onde o modelo pode a**gir sozinho **sem pedir confirmação a cada passo.\n\n* A**lta autonomia **→ ele continua pesquisando e calculando até entregar a resposta final.\n* B**aixa autonomia **→ pede confirmação antes de cada ação.\n\nP**roblema comum\n**– Autonomia demais: o modelo faz buscas/cálculos em excesso sem necessidade.\n– Autonomia de menos: trava pedindo “Posso continuar?” a cada etapa.\n\nC**omo fazer certo\n**– Especifique: quantas ferramentas pode usar, quantas tentativas, quando parar.\n\nE**xemplo ruim\n**“Resolva tudo sozinho.” → pode rodar em loop.\n\nE**xemplo bom\n**\nV```ocê é um agente. Continue até concluir a análise do suplemento.\nMáximo: 2 web_search, 1 análise de imagem.\nPare quando houver cálculo PDCAAS + recomendação final.\n```\n---\n\n## 4. Estruturação com blocos XML/Markdown (goal, method, stop\\_criteria)\n\nO **que é\nO**rganizar o prompt em blocos claros (como XML ou Markdown), dizendo:\n\n* Go**al (objetivo) →** o que deve ser feito.\n* Me**thod (método) →** passos que deve seguir.\n* St**op\\_criteria (critério de parada) →** quando encerrar.\n* Ou**tput\\_schema (formato de saída) →** como a resposta deve vir.\n\nPr**oblema comum\n–** Prompt solto em texto corrido → o modelo responde do jeito que quiser, sem consistência.\n\nCo**mo fazer certo\n–** Divida em blocos curtos, numerados e claros.\n– Sempre inclua o formato de saída esperado.\n\nEx**emplo bom\n\n**<g```oal>Comparar whey, soja e colágeno pelo PDCAAS</goal>\n<method>\n1) Extrair valores\n2) Calcular PDCAAS\n3) Fazer comparação\n</method>\n<stop_criteria>Parar após recomendar para atletas e idosos</stop_criteria>\n<output_schema>\n{ \"nome\": string, \"pdcaas\": number, \"recomendacao\": string }\n</output_schema>\n\n```---\n\n## 5. QA (Quality Assurance) antes da resposta final\n\nO q**ue é\nUm**a checagem final obrigatória, onde o modelo deve:\n\n* Mostrar o cálculo (não só o resultado).\n* Citar fontes confiáveis.\n* Declarar suposições usadas.\n* Dar nota de confiança.\n\nPro**blema comum\n– **O modelo entrega qualquer resposta, sem cálculos visíveis, sem fontes.\n\nCom**o fazer certo\n– **Peça uma seção final “QA” antes de terminar.\n– Dê",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4590,
+    "author": "INEMA",
+    "date": "2025-08-23T06:59:56+00:00",
+    "text": "===========================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4589,
+    "author": "INEMA",
+    "date": "2025-08-23T06:58:27+00:00",
+    "text": "**2. Novo Guia de Prompting da OpenAI (GPT-5):**\n\n1. **Responses API (mantém contexto, suporta multimodal)**\n   – Conversas com estado, aceitando texto e imagens, saídas em JSON estruturado.\n\n2. **Reasoning Effort (low, medium, high)**\n   – Controle da profundidade de raciocínio: simples, equilibrado ou investigativo.\n\n3. **Eagerness / Autonomia (agir sozinho vs. seguir passo a passo)**\n   – Grau de autonomia do agente, com orçamento de ferramentas e critérios de parada.\n\n4. **Estruturação com blocos XML/Markdown (goal, method, stop\\_criteria)**\n   – Definir objetivo, método, limites e formato de saída para reduzir dispersão.\n\n5. **QA (Quality Assurance) antes da resposta final**\n   – Etapa de checagem: cálculos visíveis, fontes citadas, suposições declaradas, nota de confiança.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4588,
+    "author": "INEMA",
+    "date": "2025-08-23T06:57:17+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Novo_Guia_Prompting_GPT5_v2.pdf"
+  },
+  {
+    "id": 4587,
+    "author": "INEMA",
+    "date": "2025-08-23T06:50:18+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Guia_Prompting_GPT5.pdf"
+  },
+  {
+    "id": 4582,
+    "author": "INEMA",
+    "date": "2025-08-23T06:46:58+00:00",
+    "text": "============================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4581,
+    "author": "INEMA",
+    "date": "2025-08-23T06:44:17+00:00",
+    "text": "=====================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4580,
+    "author": "INEMA",
+    "date": "2025-08-23T06:43:59+00:00",
+    "text": "Vou explorar cada um desses **7 blocos** trazendo explicações claras, **exemplos do que dá errado** e **como fazer certo**.\n\n---\n\n## 1. Problema percebido no GPT-5\n\n**Explicação:**\nMuitos usuários acham que o GPT-5 é “preguiçoso” porque ele não entrega respostas profundas. Mas o problema é de **prompting inadequado** — geralmente prompts herdados do GPT-4, curtos e vagos.\n\n**Exemplo errado:**\n“Explique essa tabela nutricional.”\n→ Resposta: “A tabela mostra valores de proteínas, carboidratos e gorduras.” (genérico, sem análise).\n\n**Exemplo certo:**\n“Analise a tabela nutricional deste suplemento. Calcule o PDCAAS com base nas fontes de proteína listadas, explique a qualidade, compare com whey isolado e sugira para quais públicos ele é mais indicado.”\n→ Resposta completa com cálculos, comparação e recomendação prática.\n\n---\n\n## 2. Novo Guia de Prompting da OpenAI\n\n**Explicação:**\nO GPT-5 exige prompts mais estruturados e aproveita melhor recursos da **Responses API**, parâmetros como **Reasoning Effort** e técnicas de QA.\n\n**Exemplo errado:**\n“Liste suplementos proteicos bons.”\n→ Resposta: “Whey, caseína, soja.” (superficial).\n\n**Exemplo certo (com estrutura):**\n\n```<goal>Comparar qualidade proteica de 3 suplementos (whey, soja, colágeno)</goal>\n<method>Calcule PDCAAS, cite fontes oficiais (FDA, PubMed), destaque vantagens e desvantagens</method>\n<stop_criteria>Só finalize após dar recomendação clara para atletas, idosos e uso diário</stop_criteria>```\n\n→ Resposta vem organizada, com cálculos, comparações e recomendações específicas.\n\n---\n\n## 3. Aplicações práticas e testes\n\n**Explicação:**\nCom o GPT-5 é possível transformar prompts em **apps funcionais**: extrair dados de imagens, usar web search e entregar saídas estruturadas.\n\n**Exemplo errado:**\nUpload de foto de rótulo sem instrução → o modelo pode apenas transcrever os números.\n\n**Exemplo certo:**\n“Analise esta imagem de rótulo de suplemento. Extraia as informações nutricionais, calcule a proteína aproveitável (PDCAAS), compare com whey isolado e forneça resumo em JSON.”\n→ Saída JSON clara e pronta para integrar em app.\n\n---\n\n## 4. Hacks e boas práticas\n\n**Explicação:**\nO segredo é **controlar o esforço**, pedir critérios claros e estruturar saídas.\n\n**Exemplo errado:**\n“Analise profundamente.” (sem limites → resposta prolixa, lenta e cara).\n\n**Exemplo certo:**\n“Use Reasoning Effort low, Verbosity low. Dê resposta rápida com no máximo 3 recomendações práticas. Compare apenas com 2 alternativas.”\n→ Resultado enxuto, útil e barato.\n\n---\n\n## 5. Construção de aplicações com GPT-5\n\n**Explicação:**\nCom bons prompts + Responses API já é possível criar apps, mas é preciso pensar em **custo e escalabilidade**.\n\n**Exemplo errado:**\nLançar app gratuito que usa GPT-5 para análise de rótulos. → risco de 100 mil usuários rodando consultas e gerando conta alta em API.\n\n**Exemplo certo:**\n\n* Testar versão beta com limite de acessos.\n* Validar com público se pagariam R\\$19/mês.\n* Só abrir escala após ter modelo de receita que sustente o uso.\n\n---\n\n## 6. Comunidade e colaboração\n\n**Explicação:**\nMelhores prompts nascem em **comunidades ativas** (Discord, GitHub). Testar e corrigir em grupo acelera a evolução.\n\n**Exemplo errado:**\nTrabalhar isolado, sem feedback, usando sempre o mesmo prompt → o resultado fica limitado.\n\n**Exemplo certo:**\nCompartilhar prompt no Discord:\n“Analisem este prompt de PDCAAS, estou esquecendo algo?”\n→ Outro usuário sugere: “Inclua análise de proteínas complementares, arroz + feijão.”\n→ Prompt evolui e resultado melhora.\n\n---\n\n## 7. Reflexões pessoais do criador\n\n**Explicação:**\nAlém da técnica, há a motivação pessoal: usar IA para gerar impacto real na vida das pessoas.\n\n**Exemplo errado:**\nCriar app só pelo hype da IA, sem ligação com problema real.\n\n**Exemplo certo:**\nCriar app de nutrição para ajudar pessoas com obesidade a entender rótulos de suplementos. Ex.: irmão do criador (500 kg → perdeu 50 kg) → caso real que motiva a solução.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4578,
+    "author": "INEMA",
+    "date": "2025-08-23T04:45:39+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4578_010.jpg"
+  },
+  {
+    "id": 4577,
+    "author": "INEMA",
+    "date": "2025-08-23T04:41:23+00:00",
+    "text": "organizados.\n* Discord com membros sugerindo ajustes (ex.: lembrar que arroz + feijão juntos completam aminoácidos).\n* Feedback da comunidade melhorou cálculos do PDCAAS e corrigiu falhas do modelo.\n* Hack colaborativo: membro sugeriu output sempre em TLDR com qualidade, score e recomendação → virou padrão do app.\n\n---\n\n## 7. Reflexões pessoais do criador\n\n* Motivação pessoal conecta tecnologia e impacto humano.\n\nExemplos:\n\n* Irmão obeso (500kg) inspirou criação de app que calcula proteína realmente aproveitável.\n* Crítica aos rótulos: “são confusos de propósito” → IA pode democratizar informação.\n* Ex-engenheiro da Apple que aprendeu “fazendo” → aplica o mesmo estilo em IA.\n* Sonho: apps que melhorem decisões de saúde, alimentação e educação sem depender de especialistas caros.\n* Filosofia: “não vendo cursos, construo junto ao vivo, para aprender e compartilhar.”",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4576,
+    "author": "INEMA",
+    "date": "2025-08-23T04:41:23+00:00",
+    "text": "A lista dos tópicos e enriquecer com **mais exemplos práticos em cada ponto* Agora cheio de cenários de uso.\n\n---\n\n## 1. Problema percebido no GPT-5\n\n* O GPT-5 parece “preguiçoso” quando usamos prompts antigos.\n* Ele pode parar cedo demais, ser vago ou dar respostas muito prolixas.\n\nExemplos:\n\n* Prompt antigo: “Explique a tabela nutricional deste suplemento.” → resposta superficial: “É uma boa fonte de proteína.”\n* Prompt estruturado: “Analise a tabela nutricional, calcule PDCAAS, cite fontes e compare com whey isolado.” → resposta completa, com cálculos e recomendações.\n* Situação comum: no Claude a resposta sai detalhada sem esforço, mas no GPT-5 precisa guiar melhor.\n\n---\n\n## 2. Novo Guia de Prompting da OpenAI\n\n* Introdução da **Responses API** (mantém contexto entre chamadas, aceita multimodalidade).\n* **Reasoning Effort** regula a profundidade do raciocínio.\n* Controle de **Eagerness**: autonomia vs. execução controlada.\n* Estruturação com blocos XML ou Markdown.\n* QA (Quality Assurance) antes de finalizar a resposta.\n\nExemplos:\n\n* Responses API: pedir “pesquise ingredientes → calcule qualidade → sugira uso” em uma só cadeia.\n* Reasoning Effort:\n\n  * *Low*: “Liste 5 cidades mais frias da Europa.” (rápido e direto).\n  * *High*: “Analise mudanças climáticas nessas cidades, cite estudos, proponha impactos na saúde pública.”\n* Eagerness:\n\n  * Autônomo: “Continue pesquisando até comparar pelo menos 3 suplementos similares.”\n  * Controlado: “Não busque fora do que eu passar no prompt.”\n* Estruturação XML:\n\n  ```  <goal>Avaliar suplemento proteico</goal>\n  <method>Extrair rótulo, calcular PDCAAS, comparar com soja e caseína</method>\n  <stop_criteria>Só finalize após fornecer recomendações práticas e fontes</stop_criteria>\n  ```\n\n---\n\n## 3. Aplicações práticas e testes\n\n* GPT-5 pode agir como **agente especializado** em tarefas complexas.\n\nExemplos:\n\n* Cálculo PDCAAS de suplemento → identificou que colágeno quase não tem valor proteico.\n* Upload de rótulo → modelo extraiu valores mesmo com foto torta.\n* Web search + Responses API → puxou dados do FDA e Wikipedia para validar cálculo.\n* Output estruturado em JSON para uso em app:\n\n  ```  {\n    \"quality\": \"Moderada\",\n    \"score\": 0.84,\n    \"recommendations\": \"Bom para uso diário; use whey isolado se foco for hipertrofia\"\n  }\n  ```\n* Outro teste: pedir “faça análise como nutricionista” → resposta com recomendações personalizadas para esportistas e idosos.\n\n---\n\n## 4. Hacks e boas práticas\n\n* Usar **Effort baixo + Verbosity baixo** para tarefas simples (rápido e barato).\n* Usar **Effort alto** para investigações profundas (com cálculos, citações, inferências).\n* Definir **critérios claros** no prompt (não parar até concluir cálculo, comparação e recomendação).\n* Pedir comparações explícitas entre alternativas.\n* Versionar prompts com **Prompt ID** para não precisar mexer no backend.\n\nExemplos:\n\n* Tarefa simples: “Liste 3 benefícios do whey.” → Effort low dá resposta em segundos.\n* Tarefa profunda: “Analise rótulo de 5 proteínas veganas, calcule PDCAAS de cada uma, cite fontes e sugira a melhor para idosos.” → Effort high.\n* Hack de QA: incluir no prompt → “Finalize só após apresentar cálculos, comparação e recomendação final.”\n* Uso de Prompt ID: empresa de nutrição atualiza instruções no servidor sem refazer código.\n\n---\n\n## 5. Construção de aplicações com GPT-5\n\n* Prompting vira o **novo código**.\n* Dá para criar apps inteiros apenas com boas instruções.\n* Necessário pensar em **custo e escalabilidade**.\n\nExemplos:\n\n* App de nutrição: usuário tira foto do rótulo → GPT-5 retorna relatório nutricional.\n* App de educação: GPT-5 transforma rótulos em aula interativa sobre proteínas.\n* Cuidado com custo: app de transcrição gratuito atraiu 100 mil usuários e gerou prejuízo de centenas de dólares.\n* Estratégia sugerida: cobrar desde o início ou validar se o público pagaria.\n\n---\n\n## 6. Comunidade e colaboração\n\n* Aprendizado coletivo é central.\n* Prompts são compartilhados, corrigidos e melhorados em tempo real.\n\nExemplos:\n\n* GitHub com repositório de prompts",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4575,
+    "author": "INEMA",
+    "date": "2025-08-23T04:39:33+00:00",
+    "text": "=======================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4574,
+    "author": "INEMA",
+    "date": "2025-08-23T04:39:29+00:00",
+    "text": "Vou expandir cada um dos tópicos listados com exemplos práticos, tirados da transcrição e adaptados de forma clara.\n---\n\n## 1. Problema percebido no GPT-5\n\nExemplo:\n\n* Usuário pede para o GPT-5 analisar proteína → ele responde devagar e com rodeios.\n* Comparado ao Claude, parece “preguiçoso”.\n* Causa: o prompt foi escrito no estilo antigo do GPT-4 (sem critérios claros).\n\n---\n\n## 2. Novo Guia de Prompting da OpenAI\n\nExemplos:\n\n* **Responses API**: pedir “pesquise o rótulo, calcule a qualidade proteica e só finalize quando tiver recomendação prática”. O modelo lembra do contexto entre cada chamada.\n* **Reasoning Effort**:\n\n  * *Low*: “Liste 3 fontes de proteína baratas.” (resposta rápida).\n  * *High*: “Analise a qualidade proteica de 5 suplementos, calcule PDCAAS e compare com caseína e soja.”\n* **Eagerness**:\n\n  * Controlado: “Pergunte antes de assumir valores ausentes.”\n  * Autônomo: “Continue pesquisando até ter uma análise completa, mesmo sem pedir confirmação.”\n* **Blocos XML**:\n\n  ```  <goal>Analisar rótulo de suplemento</goal>\n  <method>Extraia dados, calcule PDCAAS, compare fontes</method>\n  <stop_criteria>Finalize só após dar recomendações práticas</stop_criteria>\n  ```\n\n---\n\n## 3. Aplicações práticas e testes\n\nExemplos:\n\n* GPT-5 calculou PDCAAS de um suplemento e mostrou o passo matemático.\n* Ao ver colágeno no rótulo → reconheceu como proteína incompleta (PDCAAS ≈ 0).\n* Upload de imagem do rótulo do Amazon → modelo extraiu “37g de proteína” (ainda que a imagem mostrasse 39g).\n* Output estruturado:\n\n  ```  {\n    \"quality\": \"Boa\",\n    \"score\": 0.84,\n    \"key_findings\": \"Contém colágeno que reduz valor nutricional\",\n    \"bottom_line\": \"Bom para uso diário, mas prefira whey isolado para máximo resultado\"\n  }\n  ```\n\n---\n\n## 4. Hacks e boas práticas\n\nExemplos:\n\n* **Effort low + verbosity low** → resposta rápida: “Use whey concentrado como suplemento geral.”\n* **Effort high + verbosity high** → resposta detalhada: inclui cálculos de leucina, digestibilidade, cita FDA e Wikipedia.\n* Critério de QA no prompt: “Não finalize até ter cálculo, comparação e recomendação prática.”\n* Comparação pedida no prompt: “Compare com proteína de soja e caseína.”\n* **Prompt ID**: guardar versão do prompt no backend → atualizar direto sem mexer no código do app.\n\n---\n\n## 5. Construção de aplicações com GPT-5\n\nExemplos:\n\n* App que analisa fotos de rótulos e calcula a **proteína realmente aproveitável** por dose.\n* Usuário tira foto → GPT-5 extrai informações → gera relatório rápido:\n\n  * “Este suplemento promete 22g, mas só 18,5g são aproveitáveis.”\n* Validação de negócio: não oferecer app gratuito (risco de custos altos).\n* Caso citado: app de transcrição gratuito atraiu 100 mil usuários e gerou prejuízo.\n\n---\n\n## 6. Comunidade e colaboração\n\nExemplos:\n\n* Prompts compartilhados no GitHub.\n* Discussão em lives do Discord, onde membros sugerem melhorias (ex.: corrigir cálculo de proteínas complementares).\n* Comentário da comunidade: “Você esqueceu que soja + arroz se complementam, então o score pode subir.” → modelo ajusta a fórmula.\n* Ambiente colaborativo: pessoas testam, falham, corrigem e evoluem juntas.\n\n---\n\n## 7. Reflexões pessoais do criador\n\nExemplos:\n\n* Irmão do criador pesa 500kg, já perdeu 50kg, e ele quer usar IA para ajudá-lo com apps de dieta e proteína.\n* Crítica: rótulos de alimentos são confusos de propósito; IA pode democratizar a informação.\n* Experiência pessoal: ex-engenheiro da Apple, aprendeu “na marra” → aplica o mesmo estilo de aprendizado em IA.\n* Sonho: apps simples que qualquer pessoa possa usar para tomar decisões melhores de saúde e alimentação.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4573,
+    "author": "INEMA",
+    "date": "2025-08-23T04:37:24+00:00",
+    "text": "---\n\n## 1. Problema percebido no GPT-5\n\n* Sensação de que está “preguiçoso” ou menos inteligente.\n* Motivo: prompts antigos não funcionam bem.\n* Necessidade de novas práticas de prompting.\n\n---\n\n## 2. Novo Guia de Prompting da OpenAI\n\n* Introdução da **Responses API** (mantém contexto, suporta multimodal).\n* Controles de **Reasoning Effort** (low, medium, high).\n* Ajuste da **Eagerness/Autonomia** (agir sozinho vs. seguir passo a passo).\n* Estruturação com **blocos XML/Markdown** (goal, method, stop\\_criteria).\n* Importância de definir **QA** (Quality Assurance) antes da resposta final.\n\n---\n\n## 3. Aplicações práticas e testes\n\n* Exemplo do **cálculo PDCAAS** (qualidade proteica).\n* Uso de **imagem de rótulos** → extração automática de dados.\n* Integração com **web search** para complementar informações.\n* Output estruturado em **JSON ou Markdown** (Quality, Score, Key Findings, Bottom Line).\n\n---\n\n## 4. Hacks e boas práticas\n\n* Use *Reasoning Effort low* para tarefas simples, *high* só em análises profundas.\n* Sempre guiar o modelo com critérios de parada.\n* Validar cálculos matemáticos no output.\n* Pedir comparações práticas com outras opções.\n* Usar **Prompt ID** para versionamento e atualização de prompts sem mexer no código.\n\n---\n\n## 5. Construção de aplicações com GPT-5\n\n* Prompting como o “novo código”.\n* Criação de apps apenas com boas instruções (sem precisar de grandes pipelines).\n* Exemplos: análise nutricional, apps de dieta, verificadores de rótulos.\n* Necessidade de pensar em **escala e custo** (apps gratuitos podem gerar dívida).\n* Sugestão: começar cobrando ou validando o valor percebido.\n\n---\n\n## 6. Comunidade e colaboração\n\n* Compartilhamento de prompts no GitHub e Discord.\n* Valorização do aprendizado “fazendo junto”.\n* Importância da experimentação em tempo real.\n* Movimento de **engenheiros builders** (aprender testando).\n\n---\n\n## 7. Reflexões pessoais do criador\n\n* Uso de IA para **ajudar familiares** (ex.: irmão com obesidade).\n* Democratização da informação (nutrição, educação, saúde).\n* Impacto social positivo dos apps bem direcionados.\n* Aprendizado prático (escola da vida, autodidata, “aprender fazendo”).",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4572,
+    "author": "INEMA",
+    "date": "2025-08-23T04:37:11+00:00",
+    "text": "==============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4571,
+    "author": "INEMA",
+    "date": "2025-08-23T04:35:39+00:00",
+    "text": "====================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4570,
+    "author": "INEMA",
+    "date": "2025-08-23T04:35:24+00:00",
+    "text": "<goal>\n  Obter contexto rápido, paralelizar descobertas, parar assim que puder agir\n</goal>\n\n<method>\n  Comece amplo → divida em subconsultas → rode em paralelo → evite pesquisas repetidas\n</method>\n\n<stop_criteria>\n  Pare assim que tiver dados suficientes para agir\n</stop_criteria>",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4569,
+    "author": "INEMA",
+    "date": "2025-08-23T04:35:18+00:00",
+    "text": "=======================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4568,
+    "author": "INEMA",
+    "date": "2025-08-23T04:34:07+00:00",
+    "text": "## Por que o GPT-5 parece “preguiçoso”\n\n* A impressão de “preguiça” vem do uso de prompts antigos (herdados do GPT-4 ou Claude).\n* O GPT-5 foi treinado para **fluxos agentic** (com ferramentas, contexto persistente e controle de esforço).\n* Sem prompting adequado, ele fica prolixo ou inseguro.\n\n---\n\n## Guia prático da OpenAI para corrigir\n\n1. **Responses API**\n\n   * Substitui completions.\n   * Mantém raciocínio entre chamadas de ferramentas (stateful).\n   * Suporta entradas multimodais (texto, imagens) e saídas estruturadas (JSON).\n\n2. **Controle do raciocínio (Reasoning Effort)**\n\n   * Baixo (low): rápido, direto, menos dispersão.\n   * Médio (medium): equilíbrio.\n   * Alto (high): pesquisa profunda, cálculos extras, mais lento.\n   * Hack: use *low* para tarefas simples, *high* só para investigações sérias.\n\n3. **Eagerness (Autonomia)**\n\n   * GPT-5 pode agir sozinho ou seguir passo a passo.\n   * Ajustável no prompt: mais autonomia ou mais controle rígido.\n\n4. **Estruturação de prompts**\n\n   * Use **blocos XML/Markdown** para organizar:\n\n     ```     <goal>Objetivo claro</goal>\n     <method>Método passo a passo</method>\n     <stop_criteria>Quando parar</stop_criteria>\n     ```\n   * Isso guia o modelo e evita dispersão.\n\n5. **Qualidade e validação**\n\n   * Peça outputs com seções fixas: *Quality*, *Score*, *Key Findings*, *Bottom Line*.\n   * Inclua cálculo explícito, fontes de referência e recomendações práticas.\n\n---\n\n## Exemplo prático: análise de proteína\n\n* No caso do suplemento:\n\n  * GPT-5 calculou **PDCAAS (qualidade proteica)**, identificou fontes incompletas (colágeno ≈ zero), inferiu valores, e comparou com alternativas.\n  * Ao usar imagens de rótulos, conseguiu extrair dados direto da foto.\n  * Com web search habilitado, buscou valores oficiais (FDA, Wikipedia) e complementou análise.\n\n* Hack aprendido:\n\n  * Estruturar o prompt para exigir:\n\n    * Cálculo matemático.\n    * Verificação de fontes.\n    * Recomendações práticas.\n    * Comparação com outras proteínas.\n  * Isso transforma o modelo em um **agente persistente de QA**.\n\n---\n\n## Lições de produto e negócio\n\n* “Prompting é o novo código”: basta uma boa instrução e já se tem uma aplicação funcional.\n* Cuidado com custo: apps gratuitos podem gerar dívidas (necessário validar cobrança cedo).\n* Ferramentas como **Prompt ID** permitem atualizar prompts no backend sem mexer no código.\n* Casos de uso fortes: saúde, nutrição, educação → áreas onde informação correta muda vidas.\n\n---\n\n## Hacks consolidados (Guia de Bolso GPT-5)\n\n* Use **Responses API** para manter contexto entre chamadas.\n* Ajuste **Reasoning Effort**: *low* para eficiência, *high* para profundidade.\n* Estruture prompts em blocos `<goal> <method> <stop_criteria>`.\n* Inclua critérios de QA: cálculos, fontes, recomendações, comparação.\n* Para apps: defina output em JSON/Markdown para fácil integração.\n* Se precisar de dados externos → habilite web search.\n* Teste sempre *verbosity low + effort low* antes de aumentar (mais rápido e barato).\n* Use **Prompt ID** para versionar e atualizar sem refazer backend.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4567,
+    "author": "INEMA",
+    "date": "2025-08-23T04:31:06+00:00",
+    "text": "https://www.youtube.com/watch?v=AySE0vMl4S0",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4566,
+    "author": "INEMA",
+    "date": "2025-08-23T04:30:46+00:00",
+    "text": "Prompts para GPT5",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4565,
+    "author": "INEMA",
+    "date": "2025-08-23T04:30:44+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4564,
+    "author": "INEMA",
+    "date": "2025-08-23T04:30:42+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4563,
+    "author": "INEMA",
+    "date": "2025-08-23T04:30:40+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4562,
+    "author": "INEMA",
+    "date": "2025-08-23T04:30:39+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4561,
+    "author": "INEMA",
+    "date": "2025-08-23T04:30:37+00:00",
+    "text": "https://chatgpt.com/c/68a9429a-3a48-8333-b0e7-15a6f98ce66f",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4560,
+    "author": "INEMA",
+    "date": "2025-08-23T04:30:35+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4559,
+    "author": "INEMA",
+    "date": "2025-08-23T04:30:28+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

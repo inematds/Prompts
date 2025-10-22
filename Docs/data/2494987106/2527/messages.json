@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2535,
+    "author": "INEMA",
+    "date": "2025-03-23T21:07:38+00:00",
+    "text": "Abaixo está um **prompt padrão reutilizável** que você pode usar tanto no **Loveable** quanto no **Bolt** (ou qualquer outra ferramenta no-code com IA), para criar aplicações web com upload de imagem, IA, automações, login, banco de dados e pagamento.\n\nEsse prompt cobre **todos os pontos do vídeo**, de forma organizada e adaptável para qualquer projeto de SaaS com IA.\n\n---\n\n### Prompt Padrão para Criar Aplicações com IA no Loveable ou Bolt\n\n```Crie uma aplicação web com as seguintes especificações:\n\n1. **Identidade do Projeto**\n   - Nome: [INSIRA O NOME DO APP]\n   - Tema visual moderno e responsivo, com opção de modo escuro (dark theme).\n   - Estilo visual épico, com animações suaves e aparência profissional.\n\n2. **Funcionalidade Principal**\n   - O usuário deve poder fazer upload de uma imagem.\n   - A imagem deve ser enviada para o webhook:\n     [INSIRA AQUI O LINK DO WEBHOOK DO MAKE.COM OU N8N]\n   - Mostrar uma animação de carregamento durante o processamento (ex: \"Analisando imagem...\").\n   - Após até 60 segundos, a imagem transformada deve ser retornada e exibida na interface.\n   - Exibir a imagem original à esquerda e a transformada à direita.\n\n3. **Autenticação e Banco de Dados**\n   - Implementar sistema de login e cadastro de usuários com e-mail e senha.\n   - Integrar com Supabase para armazenamento de dados dos usuários.\n   - Campos necessários: nome, e-mail, senha.\n   - Manter os usuários autenticados entre sessões.\n   - Exibir erro amigável caso haja falha no login ou cadastro.\n\n4. **Monetização com Stripe**\n   - Integrar o Stripe como gateway de pagamento.\n   - Permitir que o usuário use a funcionalidade uma vez gratuitamente.\n   - Após isso, oferecer um plano de assinatura mensal de R$ [VALOR] (ex: R$ 49,00/mês).\n   - Adicionar botão “Assinar Plano Premium” com redirecionamento ao checkout do Stripe.\n   - Após a confirmação do pagamento, registrar no banco de dados que o usuário é premium.\n\n5. **Experiência do Usuário (UX)**\n   - Exibir mensagens de status: \"Enviando imagem...\", \"Imagem transformada!\", \"Erro ao processar imagem\".\n   - Manter esquema de cores e layout visual atual, sem mudanças automáticas.\n   - Adicionar exemplos de transformação com imagens demonstrativas.\n   - Layout mobile-first, totalmente funcional em smartphones e tablets.\n\n6. **Extras (opcionais para refinar ainda mais)**\n   - Integração com login via Google.\n   - Galeria de transformações do usuário com histórico.\n   - Limite de 20 transformações por mês para usuários premium.\n   - Página de termos de uso e política de privacidade.\n\nInstruções:\n- Mantenha tudo modular para facilitar atualizações futuras.\n- Permitir fácil substituição do webhook, chave da API ou valores do Stripe.```\n\n---\n\n### Como Usar\n\n- N**o Loveable:** Cole esse prompt na criação de um novo projeto.\n- N**o Bolt:** Use esse prompt como instrução principal para montar o fluxo visual (você pode dividir em blocos por funcionalidade).\n- N**o Claude/ChatGPT:** Peça para ele gerar os códigos HTML/CSS/JS a partir disso.\n- N**o ****Make.com**** / n8n:** Use os webhooks e automações referenciadas nesse prompt para conectar tudo.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2534,
+    "author": "INEMA",
+    "date": "2025-03-23T21:07:10+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2533,
+    "author": "INEMA",
+    "date": "2025-03-23T21:07:02+00:00",
+    "text": "Prompt de SaaS com N8N e Lovable",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2532,
+    "author": "INEMA",
+    "date": "2025-03-23T21:06:59+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2531,
+    "author": "INEMA",
+    "date": "2025-03-23T21:06:58+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2530,
+    "author": "INEMA",
+    "date": "2025-03-23T21:06:58+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2529,
+    "author": "INEMA",
+    "date": "2025-03-23T21:06:57+00:00",
+    "text": "https://chatgpt.com/c/67e05b49-3ea8-8009-96ae-52348e305cde",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 2528,
+    "author": "INEMA",
+    "date": "2025-03-23T21:06:57+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2527,
+    "author": "INEMA",
+    "date": "2025-03-23T21:06:36+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

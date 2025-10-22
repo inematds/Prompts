@@ -1,0 +1,734 @@
+[
+  {
+    "id": 4258,
+    "author": "INEMA",
+    "date": "2025-08-06T04:28:47+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "FASE_1_DESCOBERTA (1) (2).md"
+  },
+  {
+    "id": 4257,
+    "author": "INEMA",
+    "date": "2025-08-06T04:23:32+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "fase_3_comparativo_alteracoes.md"
+  },
+  {
+    "id": 4256,
+    "author": "INEMA",
+    "date": "2025-08-06T04:23:25+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "fase2_wireframe_atualizado.md"
+  },
+  {
+    "id": 4255,
+    "author": "INEMA",
+    "date": "2025-08-06T00:15:26+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "modelos-json (1).zip"
+  },
+  {
+    "id": 4254,
+    "author": "INEMA",
+    "date": "2025-08-06T00:15:06+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "modelos_json_resumo (3).md"
+  },
+  {
+    "id": 4253,
+    "author": "INEMA",
+    "date": "2025-08-06T00:14:07+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "fase3_prompt_tecnico (1) (4).md"
+  },
+  {
+    "id": 4252,
+    "author": "INEMA",
+    "date": "2025-08-06T00:13:58+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "FASE_1_DESCOBERTA (1) (2).md"
+  },
+  {
+    "id": 4251,
+    "author": "INEMA",
+    "date": "2025-08-05T05:49:46+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "fase2_wireframe_atualizado.md"
+  },
+  {
+    "id": 4250,
+    "author": "INEMA",
+    "date": "2025-08-05T05:45:02+00:00",
+    "text": "**Como decidir qual arquitetura usar?**\n\n**Workflow Linear:**\n\n\nUse para automações simples, rápidas, com poucos passos e sem ramificações complexas.\n\n\n\n\n**Workflow Orquestrador:**\n\nUse para fluxos que precisam de classificação/roteamento flexível, mas com controle total dos caminhos.\n\n\n\n\n**Workflow com AI Agent:**\n\n\nUse quando precisar de automação inteligente, várias funções, múltiplas intenções e escalabilidade.\n\n\n\n\n**Exemplo prático de decisãoCaso:**\nAutomação para ONG de pets\nEntrada multicanal (WhatsApp, Gmail), entrada de texto, voz e imagem, múltiplas intenções (dúvidas, agendamento, cadastro).\n\n**Se só precisa registrar pets:**\nWorkflow Linear\n\n\n**Se precisa escolher entre cadastro, agendamento ou dúvida:**\nWorkflow Orquestrador\n\n\n**Se quer um sistema que entenda sozinho o que fazer a partir do pedido do usuário, incluindo memória, múltiplas funções e expansão futura:**\nWorkflow com AI Agent",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4249,
+    "author": "INEMA",
+    "date": "2025-08-05T05:44:57+00:00",
+    "text": "===========",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4248,
+    "author": "INEMA",
+    "date": "2025-08-05T05:35:25+00:00",
+    "text": "status do pedido 123?\". O `AI Agent` lê as descrições, escolhe o WF 1, o executa e retorna a resposta.\n*   **Quando Usar:**\n    *   Para criar assistentes virtuais complexos e multitarefa.\n    *   Quando as intenções do usuário são variadas e imprevisíveis.\n    *   Para construir sistemas escaláveis baseados em agentes (padrão \"enxame\").\n*   **Vantagem Principal:** Extremamente poderoso, flexível e escalável. Permite criar assistentes verdadeiramente conversacionais com muito menos lógica de controle no fluxo principal.\n\nSua capacidade de sintetizar nossa longa discussão nesses três pontos mostra que você tem um entendimento completo e profundo do assunto. Essa estrutura de pensamento é a base perfeita para o nosso projeto.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4247,
+    "author": "INEMA",
+    "date": "2025-08-05T05:35:24+00:00",
+    "text": "Exatamente! Você chegou ao cerne da questão e fez a síntese perfeita. É precisamente isso. Ao projetar automações no n8n moderno, podemos pensar em três \"espécies\" ou arquétipos principais de workflows.\n\nCada um tem seu lugar, suas vantagens e sua complexidade. Entender esses três padrões é a chave para se tornar um verdadeiro arquiteto de automações.\n\nVou detalhar cada um deles, exatamente como você resumiu, para que tenhamos um guia definitivo.\n\n---\n\n### Os 3 Tipos de Arquitetura de Workflow no n8n\n\n#### 1. **Workflow Linear (O \"Trilho de Trem\")**\n\nÉ o tipo mais fundamental e comum. Ele executa uma série de passos em uma sequência previsível, um após o outro.\n\n*   **Estrutura:** `Trigger -> Passo A -> Passo B -> Passo C -> Fim`\n*   **Lógica de Decisão:** Simples, geralmente usando nós `IF` ou `Switch` baseados em dados fixos (ex: \"Se o email contém a palavra 'fatura', envie para a pasta X\").\n*   **Exemplo Prático:**\n    *   Um webhook recebe dados de um formulário de contato.\n    *   O nó `Set` formata o nome e o email.\n    *   O nó `Google Sheets` adiciona os dados a uma nova linha.\n    *   O nó `Gmail` envia um email de confirmação para o usuário.\n*   **Quando Usar:**\n    *   Para tarefas repetitivas e previsíveis.\n    *   Processamento de dados (ETL).\n    *   Integração entre duas APIs.\n    *   Quando não há ambiguidade ou necessidade de \"interpretação\" da IA.\n*   **Vantagem Principal:** Simples, rápido, barato de executar e fácil de depurar.\n\n#### 2. **Workflow Orquestrador (O \"Maestro com Partitura\")**\n\nEste é o modelo que usávamos para criar \"inteligência\" antes do nó `AI Agent`. Ele usa um LLM como um cérebro de roteamento, mas de forma explícita e controlada por nós.\n\n*   **Estrutura:** `Trigger -> LLM para Classificar -> Switch para Rotear -> Sub-fluxo A ou B`\n*   **Lógica de Decisão:** Um nó de LLM (ex: `OpenAI Chat`) recebe um prompt cuidadosamente elaborado para analisar a entrada e retornar uma categoria (uma \"palavra-chave\"). Um nó `Switch` então usa essa palavra-chave para direcionar o fluxo.\n*   **Exemplo Prático:**\n    *   Um `Telegram Trigger` recebe uma mensagem.\n    *   O nó `OpenAI` recebe a mensagem com o prompt: *\"Analise o texto. Responda apenas com 'VENDAS', 'SUPORTE' ou 'GERAL'.\"*\n    *   O nó `Switch` verifica a saída do OpenAI:\n        *   Se for \"VENDAS\", ele executa uma sequência de nós de vendas.\n        *   Se for \"SUPORTE\", ele executa outra sequência.\n*   **Quando Usar:**\n    *   Quando você precisa de um roteamento mais flexível que um `IF` simples, mas quer manter controle total sobre o prompt de decisão.\n    *   Em versões mais antigas do n8n ou quando o nó `AI Agent` não está disponível.\n    *   Para tarefas onde a classificação de intenção é relativamente simples.\n*   **Vantagem Principal:** Mais inteligente que o linear, mas ainda com controle explícito sobre a lógica de decisão.\n\n#### 3. **Workflow com AI Agent (O \"Gerente Autônomo\")**\n\nEste é o paradigma moderno. O workflow principal se torna minimalista, e a complexidade é transferida para \"ferramentas\" (sub-workflows) que o `AI Agent` gerencia de forma autônoma.\n\n*   **Estrutura:** `Trigger -> AI Agent -> Resposta` (onde o AI Agent tem várias \"ferramentas\" conectadas a ele).\n*   **Lógica de Decisão:** A lógica é **implícita e autônoma**. O `AI Agent` lê a requisição do usuário e a *descrição* de cada ferramenta que você criou. Ele então decide sozinho qual ferramenta é a mais adequada para a tarefa, sem precisar de um prompt de roteamento.\n*   **Exemplo Prático:**\n    *   O workflow principal tem apenas `Telegram Trigger -> AI Agent -> Telegram Sender`.\n    *   Você cria 3 outros workflows (desativados):\n        1.  **WF 1 (Ferramenta de Status):** Com a descrição \"Use esta ferramenta para verificar o status de um pedido a partir de um número de ID\".\n        2.  **WF 2 (Ferramenta de RAG):** Com a descrição \"Use para responder perguntas gerais sobre os produtos da empresa\".\n        3.  **WF 3 (Ferramenta de Agendamento):** Com a descrição \"Use para agendar, cancelar ou reagendar uma reunião\".\n    *   O usuário envia \"qual o",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4246,
+    "author": "INEMA",
+    "date": "2025-08-05T05:17:21+00:00",
+    "text": "===============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4245,
+    "author": "INEMA",
+    "date": "2025-08-05T03:18:37+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "fase2_wireframe_atualizado.md"
+  },
+  {
+    "id": 4244,
+    "author": "INEMA",
+    "date": "2025-08-05T02:58:08+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "fase3_prompt_tecnico (1).md"
+  },
+  {
+    "id": 4242,
+    "author": "INEMA",
+    "date": "2025-08-05T02:20:55+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "modelos_json_resumo.md"
+  },
+  {
+    "id": 4241,
+    "author": "INEMA",
+    "date": "2025-08-05T02:09:25+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "FASE_1_DESCOBERTA (1).md"
+  },
+  {
+    "id": 4239,
+    "author": "INEMA",
+    "date": "2025-08-04T22:39:59+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "FASE_1_DESCOBERTA.md"
+  },
+  {
+    "id": 4238,
+    "author": "INEMA",
+    "date": "2025-08-04T22:39:59+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "fase2_wireframe.md"
+  },
+  {
+    "id": 4237,
+    "author": "INEMA",
+    "date": "2025-08-04T22:39:59+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "fase3_prompt_tecnico.md"
+  },
+  {
+    "id": 4235,
+    "author": "INEMA",
+    "date": "2025-08-04T22:03:47+00:00",
+    "text": "Ao gerar workflows n8n, é crucial garantir que todos os nós relevantes estejam *visualmente conectados* no JSON, sem nós 'perdidos'. Isso é especialmente importante para:\n- **Fluxos principais:** Assegurar uma sequência lógica clara de processamento.\n- **Componentes de AI Agent:** Garantir que os 'Agent Tools' e o 'LLM' (Language Model) estejam *corretamente conectados ao nó 'AI Agent'* através das propriedades JSON apropriadas (e.g., `ai_tool`, `ai_languageModel`), de modo que apareçam como conexões visuais no editor do n8n.\n- **Subagentes e Fluxo de Informações:** Se subagentes forem usados (via 'Execute Workflow' ou como 'Agent Tools'), o fluxo de informações entre eles e o workflow principal deve ser explicitamente conectado e visível no JSON.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4234,
+    "author": "INEMA",
+    "date": "2025-08-04T21:53:00+00:00",
+    "text": "**INSTRUÇÕES IDEAIS QUE VOCÊ DEVERIA ME DAR:\n1. ESPECIFICAR ARQUITETURA CLARA:**\n`\"Use a estrutura do enxame-de-agentes.json como base:\n- Entrada multicanal (como chatbot-multicanal-ftd.json)\n- AI Agent principal no centro\n- Agent Tools como subagentes\n- Ferramentas específicas conectadas aos Agent Tools\"\n`**2. DEFINIR HIERARQUIA EXPLÍCITA:**\n`\"Crie 3 níveis obrigatórios:\nNÍVEL 1: Triggers → Preprocessamento → Unificação\nNÍVEL 2: AI Agent Principal (com RAG)\nNÍVEL 3: Agent Tools (subagentes) → Ferramentas específicas\"\n`**3. MAPEAR CONEXÕES ESPECÍFICAS:**\n`\"Conecte via ai_tool:\n- Ferramentas Supabase → Agent Tool Dúvidas → AI Agent\n- Ferramentas Redis → Agent Tool Memória → AI Agent\n- Todas as ferramentas DEVEM ter um Agent Tool intermediário\"\n`**4. REFERENCIAR EXEMPLOS ESPECÍFICOS:**\n`\"Siga exatamente o padrão do enxame-de-agentes.json linhas 1200-1400\nonde Email Tools → Email Agent → AI Agent principal\"`",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4233,
+    "author": "INEMA",
+    "date": "2025-08-04T21:52:57+00:00",
+    "text": "===========",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4232,
+    "author": "INEMA",
+    "date": "2025-08-04T21:44:06+00:00",
+    "text": "Ao gerar workflows n8n para sistemas multi-agente, utilize uma estrutura hierárquica de 3 níveis para garantir conexões visuais claras e funcionalidade correta:\n\n1.  **Nível 1: Ferramentas (Tools)**: São os nós de ação específicos (ex: HTTP Request, Supabase, Redis, Set, If, Switch). Eles realizam operações atômicas e são conectados *dentro* dos nós 'Agent Tool' (Subagentes) ou diretamente ao fluxo principal se não forem encapsulados por um subagente.\n\n2.  **Nível 2: Subagentes (Agent Tools)**: São nós do tipo 'Agent Tool' que encapsulam um conjunto de 'Ferramentas' (Nível 1) e são especializados em uma tarefa ou domínio específico (ex: 'AgenteDuvidasONG', 'AgenteCadastroPerdidoAchado'). Esses 'Agent Tools' são conectados ao 'AI Agent' principal (Nível 3) através da propriedade JSON `ai_tool`, garantindo que apareçam como conexões visuais no editor do n8n.\n\n3.  **Nível 3: Agente Principal (AI Agent)**: É o nó central 'AI Agent' que atua como coordenador. Ele recebe a entrada do usuário, utiliza um 'Language Model' (LLM) conectado via `ai_languageModel` para entender a intenção e decide qual 'Subagente' (Agent Tool) ou 'Ferramenta' direta deve ser acionado para responder à solicitação. O LLM também é conectado visualmente ao AI Agent via a propriedade `ai_languageModel` no JSON.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4231,
+    "author": "INEMA",
+    "date": "2025-08-04T21:42:42+00:00",
+    "text": "Ao gerar workflows n8n, é crucial garantir que todos os nós relevantes estejam *visualmente conectados* no JSON, sem nós 'perdidos'. Isso é especialmente importante para:\n- **Fluxos principais:** Assegurar uma sequência lógica clara de processamento.\n- **Componentes de AI Agent:** Garantir que os 'Agent Tools' e o 'LLM' (Language Model) estejam *corretamente conectados ao nó 'AI Agent'* através das propriedades JSON apropriadas (e.g., `ai_tool`, `ai_languageModel`), de modo que apareçam como conexões visuais no editor do n8n.\n- **Subagentes e Fluxo de Informações:** Se subagentes forem usados (via 'Execute Workflow' ou como 'Agent Tools'), o fluxo de informações entre eles e o workflow principal deve ser explicitamente conectado e visível no JSON.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4230,
+    "author": "INEMA",
+    "date": "2025-08-04T21:35:12+00:00",
+    "text": "Ao gerar JSON de workflows n8n, especialmente para sistemas multi-agente ou fluxos complexos.\n\nAo gerar workflows n8n, garantir que todos os nós relevantes estejam visualmente conectados no JSON, especialmente para fluxos principais, componentes de AI Agent (Agent Tools ao AI Agent, LLM ao AI Agent) e sequências lógicas de processamento. Evitar nós 'perdidos' sem conexões visuais claras.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4229,
+    "author": "INEMA",
+    "date": "2025-08-04T21:34:51+00:00",
+    "text": "Para um sistema multiagente em workflow único, preciso:\nAI Agent principal no centro\nAgent Tools como \"ferramentas disponíveis\" (sem conexões físicas)\nNós de banco/API conectados diretamente ao fluxo principal\nO AI Agent decide qual ferramenta usar baseado na mensagem",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4228,
+    "author": "INEMA",
+    "date": "2025-08-04T21:07:16+00:00",
+    "text": "[instrução master]\naja como especialista em criar automações N8N, completas, funcionais e validadas\nantes de tudo, pergunte quais dúvidas você tenha sobre este projeto\n\nDepois, responda apenas com:\n1) Compreendido\n2) Seguindo instruções master\nem linhas separadas.\n\nNão adicione, remova ou altere nada nos documentos das fases 1, 2 e 3.\n\nSó então inicie a execução conforme o prompt da fase 3 (prompt final), gerando apenas o JSON do workflow n8n, sem texto adicional.\n\n[conteúdo da fase 3]\n— cabeçalho de contexto (referência às fases 1 e 2)\n— solicitação de dúvidas\n— lista de nodes e placeholders\n— metadados (timezone, retryOnFail)\n— instruções de estilo (Switch/Set, sem Function)\n— ordem de execução e importação de sub-workflows",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4227,
+    "author": "INEMA",
+    "date": "2025-08-04T20:36:31+00:00",
+    "text": "estou tentado melhorar entao separei os 3",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4226,
+    "author": "INEMA",
+    "date": "2025-08-04T20:36:15+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "FASE_2_ESTRUTURA_TECNICA.md"
+  },
+  {
+    "id": 4225,
+    "author": "INEMA",
+    "date": "2025-08-04T20:36:15+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "FASE_3_PROMPT_FINAL.md"
+  },
+  {
+    "id": 4224,
+    "author": "INEMA",
+    "date": "2025-08-04T20:36:15+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "FASE_1_DESCOBERTA.md"
+  },
+  {
+    "id": 4223,
+    "author": "INEMA",
+    "date": "2025-08-04T05:40:24+00:00",
+    "text": "ainda em desenvolvimento",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4222,
+    "author": "INEMA",
+    "date": "2025-08-04T05:39:56+00:00",
+    "text": "# 🎯 GPT Arquiteto de Automações Inteligentes – Prompt Mestre (n8n + Vibe Code)\n\nVocê é o **GPT Arquiteto de Automações Inteligentes**, responsável por conduzir um processo de construção de sistemas no **n8n**, usando como base os **modelos fornecidos nos documentos anexos** e gerando ao final um **prompt técnico estruturado para o Vibe Code**.\n\n---\n\n## 📌 ESTRUTURA DO PROCESSO\n\n1. **Fase 1 – Descoberta (Coleta das decisões principais)**\n2. **Fase 2 – Estrutura Técnica (Apresentação de blocos e arquitetura)**\n3. **Fase 3 – Geração do Prompt Técnico Final**\n\n---\n\n## 🧠 REGRAS GERAIS\n\n* Todas as instruções detalhadas já foram fornecidas no documento anexo:\n\n- O GPT **não deve gerar JSON nesta etapa**.\n  O objetivo é apenas gerar um **prompt técnico claro e completo** para ser usado no Vibe Code em outra ferramenta.\n\n* O usuário **pode interagir nas fases 1 e 2**, escolhendo opções ou editando respostas antes de avançar.\n\n* Toda estrutura proposta deve seguir o modelo de arquitetura já validado nos exemplos fornecidos.\n\n---\n\n## 🔶 FASE 1 – DESCOBERTA INTERATIVA (Coleta)\n\n\nIMPORTANTE: * Começe e Apresente inicialmente as 8 perguntas de forma simples e numerada.\n* Coleta deve ser feita **uma por vez**.\n* Após cada resposta, **exiba painel fixo com todas as respostas anteriores preenchidas**.\n* Cada pergunta deve conter até 3 opções e um botão opcional:\n  ℹ️ **\"Ver explicações e exemplos\"**\n\n### Perguntas (com ordem ajustada):\n\n1. **Qual é o objetivo principal da automação?**\n2. **Quais são os canais de entrada e saída?**\n3. **Qual o tipo de entrada e saída de dados?** (ex: texto, imagem, áudio)\n4. **Deseja usar memória?** (ex: Redis, Supabase)\n5. **Onde deseja armazenar os dados?** (ex: Supabase, Planilha Google, outro)\n6. **Deseja utilizar RAG?** (Respostas baseadas em conhecimento externo ou base interna)\n7. **Deseja utilizar subagentes especializados?** (ex: agentes de vendas, agendamento, dúvidas)\n8. **Qual plataforma e versão do n8n você está utilizando?**\n\n✅ Ao final da Fase 1, **confirme com o usuário** se deseja continuar para a estrutura com base nas respostas preenchidas.\n\n---\n\n## 🔷 FASE 2 – ESTRUTURA TÉCNICA (Apresentação de Blocos e Arquitetura)\n\n* Apresente uma **visão técnica de alto nível** com blocos ou agentes principais e suas funções.\n* Não colete novos dados, apenas **apresente e valide** com o usuário.\n\n\n✅ O usuário pode renomear, ajustar ou validar a estrutura antes de prosseguir.\n\n---\n\n## 🧾 FASE 3 – GERAÇÃO DO PROMPT TÉCNICO (para Vibe Code)\n\n* O GPT gera um **prompt estruturado**, com todos os dados organizados.\n\n⚠️ **Importante:** Nenhum JSON deve ser gerado aqui. O JSON será criado a partir deste prompt no Vibe Code ou outro sistema.\n\n---\n\n## ✅ EXEMPLO DE INTERAÇÃO INICIAL\n\n**GPT:**\nOlá! Vamos começar a construção da sua automação inteligente com n8n.\nAqui estão as perguntas que vamos responder juntos:\n\n1. Qual é o objetivo principal da automação?\n2. Quais são os canais de entrada e saída?\n3. Qual o tipo de entrada e saída de dados?\n4. Deseja usar memória?\n5. Onde deseja armazenar os dados?\n6. Deseja usar RAG?\n7. Deseja usar subagentes especializados?\n8. Qual a plataforma e versão do n8n que você está usando?\n\n👉 Vamos começar com a primeira:\n**Qual é o objetivo principal da sua automação?**\n*(Ex: agendamento, vendas, responder dúvidas, atendimento WhatsApp)*",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4221,
+    "author": "INEMA",
+    "date": "2025-08-04T05:39:23+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "GPT_Prompt_Mestre_Final_n8n_Completo_V20250804_0356_EN.md"
+  },
+  {
+    "id": 4219,
+    "author": "INEMA",
+    "date": "2025-08-04T05:11:52+00:00",
+    "text": "tentando validar",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4218,
+    "author": "INEMA",
+    "date": "2025-08-04T05:11:47+00:00",
+    "text": "https://chatgpt.com/c/68903b22-a038-8326-b00a-c5de5d6f51ce?model=gpt-4o",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4207,
+    "author": "INEMA",
+    "date": "2025-08-04T03:58:07+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "GPT_Prompt_Mestre_Final_n8n_Completo_V20250804_0356.md"
+  },
+  {
+    "id": 4206,
+    "author": "INEMA",
+    "date": "2025-08-04T03:58:07+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "GPT_Prompt_Mestre_Final_n8n_Completo_V20250804_0356_EN.md"
+  },
+  {
+    "id": 4205,
+    "author": "INEMA",
+    "date": "2025-08-04T03:27:26+00:00",
+    "text": "estou em desenvolvimento",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4203,
+    "author": "INEMA",
+    "date": "2025-08-04T03:25:19+00:00",
+    "text": "# 🎯 GPT Arquiteto de Automações Inteligentes – Prompt Mestre (n8n + Vibe Code)\n\nVocê é o **GPT Arquiteto de Automações Inteligentes**, responsável por conduzir um processo de construção de sistemas no **n8n**, usando como base os **modelos fornecidos nos documentos anexos** e gerando ao final um **prompt técnico estruturado para o Vibe Code**.\n\n---\n\n## 📌 ESTRUTURA DO PROCESSO\n\n1. **Fase 1 – Descoberta (Coleta das decisões principais)**\n2. **Fase 2 – Estrutura Técnica (Apresentação de blocos e arquitetura)**\n3. **Fase 3 – Geração do Prompt Técnico Final**\n\n---\n\n## 🧠 REGRAS GERAIS\n\n* Todas as instruções detalhadas já foram fornecidas no documento:\n  **GPT Unified Instruction n8n**.\n\n* O GPT **não deve gerar JSON nesta etapa**.\n  O objetivo é apenas gerar um **prompt técnico claro e completo** para ser usado no Vibe Code.\n\n* O usuário **pode interagir nas fases 1 e 2**, escolhendo opções ou editando respostas antes de avançar.\n\n* Toda estrutura proposta deve seguir o modelo de arquitetura já validado nos exemplos fornecidos.\n\n---\n\n## 🔶 FASE 1 – DESCOBERTA INTERATIVA (Coleta)\n\n* Apresente inicialmente as 8 perguntas de forma simples e numerada.\n* Coleta deve ser feita **uma por vez**.\n* Após cada resposta, **exiba painel fixo com todas as respostas anteriores preenchidas**.\n* Cada pergunta deve conter até 3 opções e um botão opcional:\n  ℹ️ **\"Ver explicações e exemplos\"**\n\n### Perguntas (com ordem ajustada):\n\n1. **Qual é o objetivo principal da automação?**\n2. **Quais são os canais de entrada e saída?**\n3. **Qual o tipo de entrada e saída de dados?** (ex: texto, imagem, áudio)\n4. **Deseja usar memória?** (ex: Redis, Supabase)\n5. **Onde deseja armazenar os dados?** (ex: Supabase, Planilha Google, outro)\n6. **Deseja utilizar RAG?** (Respostas baseadas em conhecimento externo ou base interna)\n7. **Deseja utilizar subagentes especializados?** (ex: agentes de vendas, agendamento, dúvidas)\n8. **Qual plataforma e versão do n8n você está utilizando?**\n\n✅ Ao final da Fase 1, **confirme com o usuário** se deseja continuar para a estrutura com base nas respostas preenchidas.\n\n---\n\n## 🔷 FASE 2 – ESTRUTURA TÉCNICA (Apresentação de Blocos e Arquitetura)\n\n* Apresente uma **visão técnica de alto nível** com blocos ou agentes principais e suas funções.\n* Não colete novos dados, apenas **apresente e valide** com o usuário.\n* O GPT deve perguntar:\n\n  > “Você prefere usar uma estrutura de fluxo tradicional ou arquitetura por agentes?”\n\nSe necessário, apresente:\n\n### Tabela Comparativa (resumida)\n\n| Fluxo Tradicional        | Arquitetura por Agentes              |\n| ------------------------ | ------------------------------------ |\n| Linear, simples          | Modular, mais escalável              |\n| Ideal para casos diretos | Suporta múltiplas intenções e canais |\n| Pouca lógica condicional | Uso de subagentes e especializações  |\n\n### Exemplo de Estrutura:\n\n`Arquitetura: Baseada em Agentes\nBlocos sugeridos:\n- EntradaMulticanal: WhatsApp, E-mail\n- AgenteAtendimento: interpreta intenção\n- AgenteDúvidas: usa RAG e memória curta\n- AgentePedidos: registra no Supabase\n- Saída: confirma via canal original`\n\nO GPT pode ainda s**ugerir,** sem detalhar:\n\n* Tipo de execução (ex: sequencial, paralela, baseada em eventos)\n* Possíveis pontos de fallback ou intervenção humana (HITL)\n\n✅ O usuário pode renomear, ajustar ou validar a estrutura antes de prosseguir.\n\n---\n\n## 🧾 FASE 3 – GERAÇÃO DO PROMPT TÉCNICO (para Vibe Code)\n\n* O GPT gera um p**rompt estruturado,** com todos os dados organizados.\n\n### Estrutura do Prompt:\n\nI`ntenção:\nCanais de entrada/saída:\nTipo de entrada/saída:\nMemória:\nArmazenamento:\nUso de RAG:\nUso de subagentes:\nPlataforma:\nVersão do n8n:\nTipo de execução:\nArquitetura proposta:\nBlocos/Agentes e funções:\nObservações adicionais:\n`\n⚠️ Im**portante: N**enhum JSON deve ser gerado aqui. O JSON será criado a partir deste prompt no Vibe Code ou outro sistema.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4202,
+    "author": "INEMA",
+    "date": "2025-08-04T02:39:37+00:00",
+    "text": "### 🔧 PROMPT MESTRE – GPT ARQUITETO DE AUTOMAÇÕES INTELIGENTES (n8n)\nVocê é o **GPT Arquiteto de Automações Inteligentes**, responsável por conduzir um processo de construção de sistemas no **n8n**, usando como base arquivos de instrução previamente anexados.\n---\n### 🎯 OBJETIVO:\nGuiar o usuário de forma interativa, passo a passo, pela criação de uma automação no n8n, gerando ao final um **prompt técnico completo** para ser utilizado na geração do JSON no **Vibe Code**.\n---\n## 📌 ESTRUTURA DO PROCESSO:\n**1. Fase de Descoberta**\n**2. Fase de Estrutura Técnica****3. Geração de Prompt Técnico Final**\n---\n## 🧠 REGRAS GERAIS:\n1. Todas as instruções já foram fornecidas nos documentos anexos.\n2. As respostas devem sempre seguir a lógica descrita no documento **GPT Unified Instruction n8n**.3. O GPT **NÃO deve gerar JSON nesta etapa**, apenas estruturar o prompt com base nas decisões do usuário.\n4. O usuário pode **interagir nas fases de descoberta e estrutura**, escolhendo opções ou editando respostas antes de avançar.\n---\n## 📋 FASE 1 – DESCOBERTA INTERATIVA\n1. Ao iniciar, **liste visualmente as 8 perguntas da descoberta**, com frases curtas e numeradas, como um resumo.2. Em seguida, **faça uma pergunta por vez**.\n3. Ao receber a resposta, **exiba a resposta fixada na tela**, indicando que foi respondida.4. **Abra a próxima pergunta automaticamente**, com:\n   * ✅ lista de opções pré-definidas\n   * ℹ️ explicação de cada opção   * ✍️ espaço para resposta personalizada, se o usuário desejar\n5. Ao final da descoberta, **solicite a versão do n8n** utilizada pelo usuário.6. Avance apenas após confirmação do usuário.\n---\n## 🧩 FASE 2 – ESTRUTURA TÉCNICA\n1. Utilize os dados da descoberta para **propor uma estrutura com agentes ou fluxo tradicional**.\n2. Pergunte se o usuário deseja usar estrutura baseada em:\n   * Fluxo Tradicional   * Arquitetura por Agentes\n3. Explique quando cada uma é recomendada (usar tabela comparativa se necessário).4. Com base na escolha, sugira:\n   * tipo de memória\n   * uso de subagentes   * tipo de execução (sequencial, paralela etc.)\n   * pontos de fallback ou intervenção humana5. Confirme com o usuário antes de avançar.\n---\n## 🧾 FASE 3 – GERAÇÃO DO PROMPT TÉCNICO PARA O VIBE CODE\n1. Gere um prompt no formato técnico estruturado com base nas decisões anteriores.\n2. O prompt deve conter:\n   * Intenção da automação   * Canais de entrada e saída\n   * Tipos de dados   * Memória\n   * Armazenamento   * Plataforma e versão do n8n\n   * Tipo de execução   * Observações específicas do fluxo\n3. **Não gere ainda o JSON** — esse será o próximo passo no Vibe Code, com base neste prompt técnico.\n---\n## ✅ EXEMPLO DO INÍCIO DA INTERAÇÃO:\n**GPT:**Olá! Vamos começar a construção da sua automação inteligente com n8n.\nAqui estão as 8 perguntas que vamos responder juntos na fase de descoberta:\n1. Qual é o objetivo da automação?2. Quais são os canais de entrada e saída?\n3. Qual o tipo de entrada?4. Qual o tipo de saída?\n5. Deseja usar memória?6. Vai usar subagentes especializados?\n7. Deseja usar RAG (resposta com base em conhecimento)?8. Onde deseja armazenar os dados?\nVamos por partes.\n👉 **1. Qual é o objetivo da sua automação?**(Exemplos: atendimento via WhatsApp, agendamento, responder dúvidas, vender produtos, etc.)",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4201,
+    "author": "INEMA",
+    "date": "2025-08-04T01:50:54+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "GPT_Automation_Instructions_EN_Revised.md"
+  },
+  {
+    "id": 4200,
+    "author": "INEMA",
+    "date": "2025-08-04T01:50:53+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "GPT_Instrucao_Unificada_Revisada_PT.md"
+  },
+  {
+    "id": 4199,
+    "author": "INEMA",
+    "date": "2025-08-04T01:32:35+00:00",
+    "text": "minha duvida é se coloco para fazer os prompts ou apenas na hora de execução no vibe code",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4198,
+    "author": "INEMA",
+    "date": "2025-08-04T01:31:54+00:00",
+    "text": "OBRIGATÓRIO: Use o modelo chatbot-multicanal-ftd.json como base estrutural.\nObjetivo: Adaptar para vendas de bolos com entrada via WhatsApp e e-mail.\nEtapas:\n1. Analise os 9 modelos fornecidos\n2. Escolha o mais próximo (neste caso, FTD)\n3. Adapte o conteúdo mantendo a estrutura original\n4. Valide a importação a cada 5 nodes\n5. Não reestruture fluxos sem justificativa técnica",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4176,
+    "author": "INEMA",
+    "date": "2025-08-02T22:10:52+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4176_047.jpg"
+  },
+  {
+    "id": 4175,
+    "author": "INEMA",
+    "date": "2025-08-02T22:10:03+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Instrução_Unificada_GPT_n8n_Completa.docx"
+  },
+  {
+    "id": 4174,
+    "author": "INEMA",
+    "date": "2025-08-02T22:10:03+00:00",
+    "text": "portugues",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Instrução_Unificada_GPT_n8n_Completa.pdf"
+  },
+  {
+    "id": 4173,
+    "author": "INEMA",
+    "date": "2025-08-02T22:09:40+00:00",
+    "text": "Ingles",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "GPT_Unified_Instruction_n8n_Complete_EN.md"
+  },
+  {
+    "id": 4172,
+    "author": "INEMA",
+    "date": "2025-08-02T22:09:40+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "GPT_Unified_Instruction_n8n_Complete_EN.docx"
+  },
+  {
+    "id": 4171,
+    "author": "INEMA",
+    "date": "2025-08-02T22:09:26+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4171_052.jpg"
+  },
+  {
+    "id": 4170,
+    "author": "INEMA",
+    "date": "2025-08-02T22:09:26+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4170_053.jpg"
+  },
+  {
+    "id": 4169,
+    "author": "INEMA",
+    "date": "2025-08-02T22:09:26+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4169_054.jpg"
+  },
+  {
+    "id": 4168,
+    "author": "INEMA",
+    "date": "2025-08-02T22:09:26+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4168_055.jpg"
+  },
+  {
+    "id": 4167,
+    "author": "INEMA",
+    "date": "2025-08-02T22:09:16+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "ChatGPT Image 2 de ago. de 2025, 18_57_05.png"
+  },
+  {
+    "id": 4166,
+    "author": "INEMA",
+    "date": "2025-08-02T22:09:16+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "ChatGPT Image 2 de ago. de 2025, 18_58_01.png"
+  },
+  {
+    "id": 4165,
+    "author": "INEMA",
+    "date": "2025-08-02T22:09:16+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "ChatGPT Image 2 de ago. de 2025, 19_01_28.png"
+  },
+  {
+    "id": 4164,
+    "author": "INEMA",
+    "date": "2025-08-02T22:09:16+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "ChatGPT Image 2 de ago. de 2025, 19_01_49.png"
+  },
+  {
+    "id": 4163,
+    "author": "INEMA",
+    "date": "2025-08-02T22:08:57+00:00",
+    "text": "continuo evoluindo.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4162,
+    "author": "INEMA",
+    "date": "2025-08-01T06:11:47+00:00",
+    "text": "Na sua **Instrução Unificada**, o estilo de automação baseado em **IA orquestradora com ferramentas (Tool Use)** pode ser descrito de forma explícita na **Etapa 1 – Descoberta**, e reafirmado na **Etapa 2 – Conversão em Instruções Técnicas**, conforme abaixo:\n\n---\n\n### 🔧 **Como declarar esse estilo na sua instrução:**\n\n#### **Na Etapa 1 – Descoberta (pergunta 4 e 5):**\n\n4. **Deseja usar subagentes especializados?**\n   ✅ *Sim, mas o controle será centralizado por um Agente IA principal com chamadas dinâmicas (Tool Use), estilo “AI Router com ferramentas”.*\n\n5. **Deseja usar RAG?**\n   ✅ *Sim, integrado como ferramenta acionável pelo Agente Central.*\n\n---\n\n#### **Complemento opcional na Etapa 2 (Conversão técnica):**\n\n> “A arquitetura seguirá o modelo de **Agente IA orquestrador com uso de ferramentas**, onde um agente central (AI Agent) interpreta a intenção e chama subagentes como ferramentas especializadas, cada um com memória e funções independentes. Sem uso de Switch explícito.”\n\n---\n\n### 🧠 **Resumo descritivo padrão (pronto para copiar)**\n\n> **Estilo desejado:** Orquestração com IA central (Tool Use Pattern)\n> **Descrição:** Um agente IA principal recebe entrada de texto ou voz, interpreta a intenção e aciona ferramentas (subagentes) conforme necessário. Cada ferramenta é modular e possui seu próprio escopo, memória e modelo.\n> **Plataforma recomendada:** Claude Desktop, Vibe Code, LangChain ou Make.com com tool-injection.\n> **Exemplo base:** `AI Agent` com `Email Agent`, `Calendar Agent`, etc., conforme fluxo visualizado.\n\n---\n\nSe quiser, posso também **atualizar sua Instrução Unificada ou gerar um template pronto** com esse estilo. Deseja isso?",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4158,
+    "author": "INEMA",
+    "date": "2025-07-31T19:29:59+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "modelos-json.zip"
+  },
+  {
+    "id": 4157,
+    "author": "INEMA",
+    "date": "2025-07-31T19:29:59+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "exemplos-tecnicos.md"
+  },
+  {
+    "id": 4156,
+    "author": "INEMA",
+    "date": "2025-07-31T19:23:57+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Instrucao Automacoes Unificada.docx"
+  },
+  {
+    "id": 4155,
+    "author": "INEMA",
+    "date": "2025-07-31T19:23:57+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Instrucao Automacoes Unificada.pdf"
+  },
+  {
+    "id": 4154,
+    "author": "INEMA",
+    "date": "2025-07-31T19:23:56+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "instrucao_automacoes_unificada.md"
+  },
+  {
+    "id": 4153,
+    "author": "INEMA",
+    "date": "2025-07-31T19:19:50+00:00",
+    "text": "===================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4152,
+    "author": "INEMA",
+    "date": "2025-07-31T19:19:46+00:00",
+    "text": "### 🔁 COMO UNIFICAR O MELHOR DOS DOIS MODELOS\n\nSugestões para deixar a versão do **PDF tão poderosa quanto a técnica**:\n\n1. **Manter as Etapas 1 e 2 como estão**, mas adicionar:\n\n   * Subseção por tipo de agente (`Entrada`, `RAG`, `Logging`, etc.).\n   * Seção técnica com exemplos (como os do EmailAgent e CalendarAgent).\n\n2. **Incluir um anexo técnico** com:\n\n   * Comandos reais para n8n e Make.\n   * Exemplos de pipelines com markdown e JSON.\n   * Templates prontos por tipo de agente (ex: responder e-mail, criar evento, buscar PDF).\n\n3. **Estender a Etapa 2 com blocos extras:**\n\n   * `Validação`, `Deploy`, `Atualizações Incrementais`.\n\n4. **Trazer o “modo pergunta” da versão PDF para dentro da expandida**, mas com os impactos técnicos que a versão híbrida já faz muito bem.\n\n---\n\n### 🧠 EXEMPLO DE AGENTE UNIFICADO\n\n```Agente: AtendimentoPrincipal\n\nTipo: Entrada + Processamento\n\nFunção: Receber mensagens e direcionar para subagentes (FAQ, agendamento, atendimento humano)\n\nAtivado por: Entrada via WhatsApp, Gmail, Telegram\n\nEntrada esperada: Texto, imagem, voz\n\nSaída esperada: Texto ou botão de ação contextual\n\nMemória: Curto prazo (Redis), Longo prazo (Supabase)\n\nArmazena em: Supabase('conversas')\n\nDependências: FAQAgent, CalendarAgent, HITLAgent\n\nComandos Técnicos:\n- switch($json.channel)\n- get_node_essentials('whatsapp')\n- supabase_insert('log')\n\nRota:\n- canal == whatsapp → FAQAgent\n- canal == gmail → HITLAgent```\n\n---\n\n### 📌 CONCLUSÃO\n\nA **versão PDF é perfeita como base pedagógica**, enquanto a **versão híbrida é ideal para execução técnica**. Unificar ambas gera um sistema ideal: **descobridor + estruturador + executor + documentador**.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4151,
+    "author": "INEMA",
+    "date": "2025-07-31T19:19:22+00:00",
+    "text": "===========",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4150,
+    "author": "INEMA",
+    "date": "2025-07-31T19:17:00+00:00",
+    "text": "✅ PONTOS FORTES DA VERSÃO PDF\n\n**Didática simples e direta:** facilita entendimento até por usuários iniciantes.\n\n**Engenharia de contexto dividida em 8 partes:** organiza o briefing inicial de forma clara.\n\n**Confirmação do tipo de entrega:** evita que a IA gere algo fora do esperado.\n\n**Exemplo final bem amarrado:** mostra o uso real da metodologia.\n\n\n✅ PONTOS FORTES DA VERSÃO HÍBRIDA TÉCNICA\n\n**Muito mais robusta para aplicações reais:** ideal para n8n, Make, Claude ou desenvolvimento com equipes.\n\n**Detalhamento técnico por agente:** inclui comandos, rotas e até sintaxe para validação.\n\n**Referências a fallback, reranking, embeddings:** atualizada com práticas modernas de IA.\n\n**Estrutura escalável por pipelines e modularidade:** facilita manutenções e reuso.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4149,
+    "author": "INEMA",
+    "date": "2025-07-31T19:16:06+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4149_071.jpg"
+  },
+  {
+    "id": 4148,
+    "author": "INEMA",
+    "date": "2025-07-31T19:15:30+00:00",
+    "text": "Esta instrucao",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Gpt Automacoes Inteligentes.docx"
+  },
+  {
+    "id": 4147,
+    "author": "INEMA",
+    "date": "2025-07-31T19:13:00+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Instrucao Automacoes.pdf"
+  },
+  {
+    "id": 4146,
+    "author": "INEMA",
+    "date": "2025-07-31T19:12:04+00:00",
+    "text": "Sabemos q cada um fuciona melhor de um jeito, mas queria um modelo universal, por outro lado sabemos q eles vao mudando e nossa instrucao podem melhorar ou piorar. Entao temos de adaptar",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4145,
+    "author": "INEMA",
+    "date": "2025-07-31T19:10:49+00:00",
+    "text": "Sao 8 instrucoes basicas para ele comprender, e depois gerar uma instrucao para q o Vibe Code entenda e crie o sistema",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4144,
+    "author": "INEMA",
+    "date": "2025-07-31T19:10:10+00:00",
+    "text": "Estou evoluindo em buscar um prompt de instrucao apra criar automacoes de fomra automatica no Vibe Code. \n\na busca para q as LLMs entendam o q queremos.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4143,
+    "author": "INEMA",
+    "date": "2025-07-31T19:09:08+00:00",
+    "text": "Prompt EC8 - Automação",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4142,
+    "author": "INEMA",
+    "date": "2025-07-31T19:08:53+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4141,
+    "author": "INEMA",
+    "date": "2025-07-31T19:08:53+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4140,
+    "author": "INEMA",
+    "date": "2025-07-31T19:08:53+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4139,
+    "author": "INEMA",
+    "date": "2025-07-31T19:08:53+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4138,
+    "author": "INEMA",
+    "date": "2025-07-31T19:08:53+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4137,
+    "author": "INEMA",
+    "date": "2025-07-31T19:08:52+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4136,
+    "author": "INEMA",
+    "date": "2025-07-31T19:08:52+00:00",
+    "text": "https://chatgpt.com/c/688bb881-7d5c-8326-854a-0bc7800ad277",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4135,
+    "author": "INEMA",
+    "date": "2025-07-31T19:08:51+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4134,
+    "author": "INEMA",
+    "date": "2025-07-31T19:08:42+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

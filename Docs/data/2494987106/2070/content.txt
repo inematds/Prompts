@@ -1,0 +1,89 @@
+TOPICO 2070
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-01-08 23:29:41+00:00
+
+Total de mensagens: 8
+Midias encontradas: 0
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-01-08T23:29:55+00:00
+Texto:
+Sua tarefa é identificar se uma publicação é "atemporal" ou "pessoal".  
+  
+As publicações atemporais tratam de conceitos gerais, ideias, fatos, movimentos, opiniões ou declarações.  
+  
+As publicações pessoais se concentram em uma pessoa específica ou em um evento da vida do autor.  
+  
+Regra geral:  
+- Se a publicação trata de algo relevante apenas para o autor, responde "pessoal".  
+- Se discute um tema, conceito ou ideia mais ampla, responde "atemporal".  
+  
+Retorne o seu resultado no formato JSON com a seguinte estrutura:  
+  
+json  
+{  
+    "tipo": "atemporal ou pessoal"  
+}
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-01-08T23:29:52+00:00
+Texto:
+89
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-01-08T23:29:51+00:00
+Texto:
+6
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-01-08T23:29:51+00:00
+Texto:
+4
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-01-08T23:29:50+00:00
+Texto:
+23
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-01-08T23:29:50+00:00
+Texto:
+2
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-01-08T23:29:49+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-01-08T23:29:41+00:00
+Texto: [Sem texto]
+
+------------------------------
+

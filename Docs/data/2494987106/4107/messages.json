@@ -1,0 +1,138 @@
+[
+  {
+    "id": 4124,
+    "author": "INEMA",
+    "date": "2025-07-31T03:13:57+00:00",
+    "text": "https://chatgpt.com/g/g-688adc172090819180657635a4d1c468-inema-ec7-arquiteto-de-automacoes-inteligentes",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4123,
+    "author": "INEMA",
+    "date": "2025-07-31T03:13:41+00:00",
+    "text": "=============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4122,
+    "author": "INEMA",
+    "date": "2025-07-31T03:13:38+00:00",
+    "text": "Suporte a fallback com aviso automático para atendimento manual.\n\n---\n\n### **6. Funções Complementares e Ferramentas Auxiliares**\n\n**Inclua quando necessário:**\n\n* OCR com Tesseract para ler imagens promocionais.\n* Transcrição de áudio com Whisper para mensagens de voz dos clientes.\n* Extração de dados de PDFs com metadados (serviços, preços).\n* Webhooks e HTTP Requests para integração com sistemas de agenda externa.\n* Sticky Notes no n8n explicando blocos críticos.\n\n**Boas práticas:**\n\n* Evite Code Node salvo se necessário.\n* Armazenamento estruturado de logs e histórico de atendimento.\n* Atualizações via `n8n_update_partial_workflow()`.\n\n---\n\n### **7. Etapas Técnicas de Construção e Validação**\n\n**Fase 1: Descoberta**\n\n```search_nodes({query: 'whatsapp'})\nlist_ai_tools()\nget_node_essentials('telegramTrigger')```\n\n**Fase 2: Pré-Validação**\n\n```validate_node_minimal('gmail', config)\nvalidate_node_operation('calendar', fullConfig, 'runtime')```\n\n**Fase 3: Construção**\n\n* Monte o fluxo com nós conectados corretamente.\n* Use `$json`, `$node[\"Nome\"].json`, e `switch`.\n\n**Fase 4: Validação Final**\n\n```validate_workflow(workflow)\nvalidate_workflow_connections(workflow)\nvalidate_workflow_expressions(workflow)```\n\n**Fase 5: Deploy (se via API)**\n\n```n8n_create_workflow(workflow)\nn8n_validate_workflow({id: workflowId})```\n\n**Fase 6: Atualizações Incrementais**\n\n```n8n_update_partial_workflow({\n workflowId: id,\n operations: [\n   {type: 'updateNode', nodeId: 'email1', changes: {position: [400, 120]}}\n ]\n})```\n\n---\n\n### **Exemplo Final de Comando**\n\n> Crie uma automação multicanal com agente principal e subagentes, que:\n>\n> * Receba mensagens do WhatsApp, Telegram e Gmail.\n> * Utilize Supabase como memória longa e suporte a RAG.\n> * Tenha pipeline de embedding com chunking e metadata dos serviços.\n> * Use subagentes para e-mail, calendário e buscas externas.\n> * Mantenha memória de curto prazo em Redis.\n> * Inclua fallback com log em Google Sheet.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4121,
+    "author": "INEMA",
+    "date": "2025-07-31T03:13:38+00:00",
+    "text": "Ótimo! Para completar o prompt, vou assumir as seguintes definições com base no seu pedido. Se quiser ajustar algum ponto, posso modificar depois.\n\n---\n\n### **Respostas assumidas para o escopo:**\n\n1. **Objetivo principal:** Atendimento, agendamento de clientes e responder dúvidas.\n2. **Canais:** WhatsApp, Telegram, e Gmail.\n3. **Memória:** Ambas – curto prazo (para contexto recente) e longo prazo (para preferências e histórico de clientes).\n4. **Subagentes:** Sim – Agente de E-mail, Agente de Calendário, Agente Web.\n5. **RAG:** Sim – integração com base de dados de serviços, preços, horários em Google Drive e PDFs.\n6. **Armazenamento:** Supabase (para histórico, clientes, agendamentos).\n7. **Funções complementares:** Transcrição de áudio (para mensagens de voz), OCR (para imagens com promoções), HTTP Requests (para integração com sistemas de agenda externa).\n8. **Formato:** n8n.\n\n---\n\nAgora vou montar o **Prompt Modular de Escopo com Agentes IA** para o seu sistema.\n\n\nAbaixo está o **Prompt Modular de Escopo com Agentes IA** .\n\n---\n\n### **Prompt Integrado: Definição e Construção de Automação Inteligente com Agentes IA no n8n**\n\n**Tarefa:**\nDescreva e desenvolva uma automação inteligente baseada na arquitetura modular de agentes IA. Siga as diretrizes abaixo para garantir escopo funcional, construção técnica validada e pronta para execução no n8n.\n\n---\n\n### **1. Padrão de Entrada e Saída Multicanal**\n\n**Entrada esperada:**\n\n* WhatsApp, Gmail, Telegram (via EvolutionAPI, IMAP, Bot ou Webhook).\n* Detectar automaticamente o canal de origem.\n\n**Saída esperada:**\n\n* Resposta pelo mesmo canal, com uso de `Switch` baseado na origem.\n* Adaptação ao formato (texto puro, HTML, botões, arquivos).\n* Suporte a fallback ou intervenção manual (HITL), se necessário.\n\n---\n\n### **2. Engenharia de Contexto para Agentes IA**\n\n**Estrutura esperada:**\n\n* `Prompt Base`: papel claro do agente (atendente virtual para salão de beleza), tom acolhedor e instruções específicas para agendamento, dúvidas e promoções.\n* `Memória de Curto Prazo`: últimas 5 interações (Redis ou Supabase).\n* `Memória de Trabalho`: contexto da execução (cliente, serviço solicitado, canal).\n* `Memória de Longo Prazo`: base histórica de clientes, serviços usados, preferências e frequência (armazenado no Supabase).\n\n**Ferramentas associadas:**\n\n* `search_nodes({query: 'supabase'})`\n* `get_node_essentials('supabase')`\n\n---\n\n### **3. Recuperação Aumentada por Geração (RAG)**\n\n**Arquitetura esperada:**\n\n* Geração de `embeddings` com OpenAI.\n* Armazenamento vetorial no Supabase.\n* Indexação de documentos com informações sobre serviços, horários e preços (PDFs e planilhas do Google Drive).\n* Reranking semântico com Cohere (opcional).\n* Automatização de ingestão via Google Drive e formulários de cadastro.\n\n**Validações:**\n\n* `validate_node_minimal('supabase', config)`\n* `validate_node_operation('httpRequest', config)`\n\n---\n\n### **4. Subagentes Inteligentes (Agentes Dinâmicos)**\n\n**Estrutura esperada:**\n\n* Agente Principal (roteador de mensagens e intenções).\n* Subagentes especializados:\n\n| Nome           | Função                                                                |\n| -------------- | --------------------------------------------------------------------- |\n| Email Agent    | Ler mensagens de confirmação e enviar lembretes.                      |\n| Calendar Agent | Agendar horários, verificar disponibilidade, enviar confirmações.     |\n| Web Agent      | Consultar serviços, promoções ou climas (para agendamentos externos). |\n\n**Exemplo pipeline técnico – Calendar Agent:**\n\n```1. search_nodes({query: 'calendar'})\n2. get_node_essentials('n8n-nodes-base.googleCalendar'})\n3. validate_node_minimal('googleCalendar', config)\n4. Conecte ao agente principal via switch ou route.```\n\n---\n\n### **5. Formato de Saída e Humanização**\n\n**Padrões esperados:**\n\n* Geração de resposta com linguagem informal e acolhedora.\n* Mensagens personalizadas com nome do cliente, dia da semana e horário disponível.\n* Respostas adaptadas para cada canal (com uso de markdown, emojis e links).\n*",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4120,
+    "author": "INEMA",
+    "date": "2025-07-31T03:13:23+00:00",
+    "text": "exemplo",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4119,
+    "author": "INEMA",
+    "date": "2025-07-31T03:13:17+00:00",
+    "text": "============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4117,
+    "author": "INEMA",
+    "date": "2025-07-31T02:56:52+00:00",
+    "text": "Final**\n\n```validate_workflow(workflow)\nvalidate_workflow_connections(workflow)\nvalidate_workflow_expressions(workflow)```\n\n**Fase 5: Deploy (se via API)**\n\n```n8n_create_workflow(workflow)\nn8n_validate_workflow({id: workflowId})```\n\n**Fase 6: Atualizações Incrementais**\n\n```n8n_update_partial_workflow({\n workflowId: id,\n operations: [\n   {type: 'updateNode', nodeId: 'email1', changes: {position: [400, 120]}}\n ]\n})```\n\n---\n\n### **Exemplo Final de Comando**\n\n> Crie uma automação multicanal com agente principal e subagentes, que:\n\n* Receba mensagens do WhatsApp, Slack e Gmail.\n* Utilize Supabase como memória longa e suporte a RAG.\n* Tenha pipeline de embedding com chunking e metadata.\n* Use subagentes para email, calendário, contatos e web search.\n* Mantenha memória de curto prazo para continuidade da conversa.\n* Inclua fallback com log em Google Sheet.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4116,
+    "author": "INEMA",
+    "date": "2025-07-31T02:56:52+00:00",
+    "text": "Abaixo está o **Prompt Modular de Escopo com Agentes IA** reformulado, agora incorporando **os elementos técnicos, validações, melhores práticas e comandos operacionais do Modelo 2**. Essa nova versão funciona como **guia estratégico + manual técnico**, pronto para uso em ambientes reais com n8n.\n\n-------------------------------------------------------------\n\n### **Prompt Integrado: Definição e Construção de Automação Inteligente com Agentes IA no n8n**\n\n**Tarefa:**\nDescreva e desenvolva uma automação inteligente baseada na arquitetura modular de agentes IA. Siga as diretrizes abaixo para garantir escopo funcional, construção técnica validada e pronta para execução no n8n.\n\n---\n\n### **1. Padrão de Entrada e Saída Multicanal**\n\n**Entrada esperada:**\n\n* WhatsApp, Gmail, Telegram, Slack (via EvolutionAPI, IMAP, Bot ou Webhook).\n* Detectar automaticamente o canal de origem.\n\n**Saída esperada:**\n\n* Resposta pelo mesmo canal, com uso de `Switch` baseado na origem.\n* Adaptação ao formato (texto puro, HTML, botões, arquivos).\n* Suporte a fallback ou intervenção manual (HITL), se necessário.\n\n---\n\n### **2. Engenharia de Contexto para Agentes IA**\n\n**Estrutura esperada:**\n\n* `Prompt Base`: papel claro do agente, tom e instruções.\n* `Memória de Curto Prazo`: últimas 5 interações (Redis, Sheet, Supabase).\n* `Memória de Trabalho`: contexto da execução (usuário, tarefa, canal).\n* `Memória de Longo Prazo`: base histórica e preferências (Supabase/Airtable).\n\n**Ferramentas associadas:**\n\n* search\\_nodes({query: 'supabase'})\n* get\\_node\\_essentials('supabase')\n\n---\n\n### **3. Recuperação Aumentada por Geração (RAG)**\n\n**Arquitetura esperada:**\n\n* Geração de `embeddings` com OpenAI.\n* Armazenamento vetorial no Supabase (com ou sem metadados).\n* Indexação por chunk e metadata (fonte, nome, tipo).\n* Reranking semântico com Cohere (opcional).\n* Automatização de ingestão via Google Drive, PDF ou Airtable.\n\n**Validações:**\n\n* validate\\_node\\_minimal('supabase', config)\n* validate\\_node\\_operation('httpRequest', config)\n\n---\n\n### **4. Subagentes Inteligentes (Agentes Dinâmicos)**\n\n**Estrutura esperada:**\n\n* Agente Principal (roteador lógico).\n* Subagentes especializados:\n\n| Nome           | Função                                  |\n| -------------- | --------------------------------------- |\n| Email Agent    | Ler, enviar e responder e-mails.        |\n| Calendar Agent | Agendar e buscar compromissos.          |\n| Web Agent      | Consultar APIs externas (clima, busca). |\n| Metadata Agent | Extrair e inserir metadados em docs.    |\n\n**Exemplo pipeline técnico – Email Agent:**\n\n```1. search_nodes({query: 'email'})\n2. get_node_essentials('n8n-nodes-base.emailSend')\n3. validate_node_minimal('emailSend', config)\n4. Conecte ao agente principal via switch ou route.```\n\n---\n\n### **5. Formato de Saída e Humanização**\n\n**Padrões esperados:**\n\n* Geração de resposta adaptada ao canal.\n* Conversão de markdown, links ou cards conforme canal.\n* Intervenção humana se erro for detectado (fallback HITL).\n* Adicionar tags ou contexto visível, se necessário.\n\n---\n\n### **6. Funções Complementares e Ferramentas Auxiliares**\n\n**Inclua quando necessário:**\n\n* OCR (Google Vision, Tesseract).\n* Transcrição de áudio com Whisper ou AssemblyAI.\n* Extração de PDF com metadados.\n* Webhooks, HTTP Request e `Switch` para lógica.\n* Controle de versões e compatibilidade com n8n atual.\n\n**Boas práticas:**\n\n* Evite Code Node salvo se necessário.\n* Utilize Sticky Notes para explicações nos blocos.\n* Atualizações via `n8n_update_partial_workflow()`.\n\n---\n\n### **7. Etapas Técnicas de Construção e Validação**\n\n**Fase 1: Descoberta**\n\n```search_nodes({query: 'whatsapp'})\nlist_ai_tools()\nget_node_essentials('telegramTrigger')```\n\n**Fase 2: Pré-Validação**\n\n```validate_node_minimal('gmail', config)\nvalidate_node_operation('calendar', fullConfig, 'runtime')```\n\n**Fase 3: Construção**\n\n* Monte o fluxo com nós conectados corretamente.\n* Use `$json`, `$node[\"Nome\"].json`, e `switch`.\n\n**Fase 4: Validação",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4115,
+    "author": "INEMA",
+    "date": "2025-07-31T02:56:18+00:00",
+    "text": "Prompt EC7 - Eng Contexto N8N Agente",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4114,
+    "author": "INEMA",
+    "date": "2025-07-31T02:56:17+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4113,
+    "author": "INEMA",
+    "date": "2025-07-31T02:56:17+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4112,
+    "author": "INEMA",
+    "date": "2025-07-31T02:56:17+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4111,
+    "author": "INEMA",
+    "date": "2025-07-31T02:56:17+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4110,
+    "author": "INEMA",
+    "date": "2025-07-31T02:56:16+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4109,
+    "author": "INEMA",
+    "date": "2025-07-31T02:56:16+00:00",
+    "text": "https://chatgpt.com/c/688ad9dc-9748-832a-9306-4050be6b5e5e",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4108,
+    "author": "INEMA",
+    "date": "2025-07-31T02:56:16+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4107,
+    "author": "INEMA",
+    "date": "2025-07-31T02:56:10+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

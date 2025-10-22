@@ -1,0 +1,217 @@
+TOPICO 4259
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-08-07 00:56:47+00:00
+
+Total de mensagens: 22
+Midias baixadas: 4
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-08-07T19:52:04+00:00
+Texto:
+voce usa este prompt para facilitar e criar o prompt harmony format e ai roda ele depois
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-08-07T19:51:34+00:00
+Texto: [Sem texto]
+Midia: MessageMediaDocument -> GPT-OSS-120B Harmony Format Optimizer (1).txt
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-08-07T19:48:54+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_4292_003.jpg
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-08-07T19:48:44+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_4291_004.jpg
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-08-07T01:01:30+00:00
+Texto:
+<|start|>system<|message|>
+
+Use os canais: analysis (raciocínio), commentary (notas), final (resposta).
+
+<|end|>
+<|start|>developer<|message|>
+
+Inclua exemplos e boas práticas. Explique erros comuns.
+
+<|end|>
+<|start|>user<|message|>
+
+Explique o formato Harmony e como usá-lo.
+
+<|end|>
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-08-07T01:01:23+00:00
+Texto:
+============
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-08-07T01:00:52+00:00
+Texto:
+<|start|>system<|message|>You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-08-06 
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.
+
+Use the analysis channel para explicar os fundamentos técnicos e conceituais do RAG (Retrieval-Augmented Generation), incluindo como funciona, arquitetura e vantagens.
+Use the commentary channel para comparar RAG com abordagens tradicionais, indicar contextos de uso e observações práticas de implementação.
+Use the final channel para fornecer uma explicação clara e acessível ao público geral sobre o que é RAG, como funciona e por que é útil.<|end|>
+
+<|start|>developer<|message|>Inclua explicação do fluxo RAG (retrieval + generation), mencione tecnologias comuns (ex: vectordb, embeddings, LLM), exemplos de aplicação prática e diferenças entre RAG e sistemas puramente generativos. Evite jargões excessivos no canal final.<|end|>
+
+<|start|>user<|message|>Explique de forma detalhada o que é RAG e como ele funciona na prática.<|end|>
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-08-07T00:58:12+00:00
+Texto:
+=====
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-08-07T00:58:00+00:00
+Texto:
+Como seria fazer um prompt Harmony  usando este formato
+
+o assunto seria 
+
+o que é RAG
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-08-07T00:57:12+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-08-07T00:57:09+00:00
+Texto:
+....
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-08-07T00:57:09+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-08-07T00:57:08+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-08-07T00:57:08+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 15
+Autor: INEMA
+Data: 2025-08-07T00:57:05+00:00
+Texto:
+Prompt Basico Harmony
+
+------------------------------
+
+MENSAGEM 16
+Autor: INEMA
+Data: 2025-08-07T00:56:55+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 17
+Autor: INEMA
+Data: 2025-08-07T00:56:55+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 18
+Autor: INEMA
+Data: 2025-08-07T00:56:55+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 19
+Autor: INEMA
+Data: 2025-08-07T00:56:54+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 20
+Autor: INEMA
+Data: 2025-08-07T00:56:54+00:00
+Texto:
+https://chatgpt.com/c/6893f03f-26f4-832b-8ab7-1ade0160c142
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 21
+Autor: INEMA
+Data: 2025-08-07T00:56:53+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 22
+Autor: INEMA
+Data: 2025-08-07T00:56:47+00:00
+Texto: [Sem texto]
+
+------------------------------
+

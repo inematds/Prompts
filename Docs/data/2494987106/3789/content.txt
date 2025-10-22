@@ -1,0 +1,121 @@
+TOPICO 3789
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-06-17 23:57:57+00:00
+
+Total de mensagens: 13
+Midias baixadas: 4
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-06-18T00:20:06+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_3801_001.jpg
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-06-18T00:01:49+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_3800_002.jpg
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-06-18T00:01:43+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_3799_003.jpg
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-06-18T00:01:33+00:00
+Texto:
+https://chatgpt.com/g/g-685200d4c5a08191909f1364e4fe2fe4-inema-imagem-video-x1-max
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-06-17T23:58:05+00:00
+Texto:
+I want you to act as a cinematic visual storyteller. Based on the concept I provide, create two outputs:
+
+1. A highly detailed ultra-realistic cinematic image in the style of high-budget sci-fi or post-apocalyptic movies (like Blade Runner, Dune, Mad Max, Cyberpunk 2077). Use elements such as volumetric lighting, environmental effects (fog, fire, rain, dust), low-angle or tracking shots, glowing lights, reflections, hyper contrast between warm and cold tones. The character or scene should be full of life and atmosphere. Render in 16:9 aspect ratio.
+
+2. Then, transform that image into a dynamic 5-second video scene. Describe fluid motion, such as drifting, walking, charging, or reacting to an event (explosion, lightning, impact). Include dramatic camera movement (tracking, slow motion, rotation), intense environmental interaction (water spray, debris flying, fire blowing), and cinematic motion blur. Make it feel like a cutscene from a AAA movie or game trailer.
+
+My scene idea is: [cenário ou ideia aqui]
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-06-17T23:58:03+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-06-17T23:58:03+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-06-17T23:58:03+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-06-17T23:58:03+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-06-17T23:58:02+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-06-17T23:58:02+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-06-17T23:58:01+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-06-17T23:57:57+00:00
+Texto: [Sem texto]
+
+------------------------------
+

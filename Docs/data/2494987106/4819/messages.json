@@ -1,0 +1,123 @@
+[
+  {
+    "id": 4834,
+    "author": "INEMA",
+    "date": "2025-09-12T05:31:22+00:00",
+    "text": "Aqui está a explicação detalhada dos **12 padrões/pro insights avançados** do Prompting Playbook 2025:\n\n---\n\n## 1. O pipeline é a unidade de design, não o prompt\n\n* O prompt isolado não é suficiente.\n* Ele sempre está dentro de um **pipeline**: recuperação de dados (RAG), memória, ferramentas, avaliação.\n* Exemplo: Um prompt que funciona bem no ChatGPT pode falhar se usado dentro de um fluxo de atendimento automatizado sem as mesmas etapas de recuperação ou validação.\n\n---\n\n## 2. Contexto como cadeia de suprimentos com níveis de confiança\n\n* Cada token vem de uma “fonte”: usuário, documentos, web.\n* Trate o contexto como uma **supply chain** → algumas fontes são confiáveis, outras não.\n* Exemplo: “Notas do sistema = confiáveis”, “dados do cliente = parciais”, “web = não confiável”. Isso reduz risco de alucinação e injeção.\n\n---\n\n## 3. Contratos importam\n\n* Prompts funcionam melhor quando há **acordo de formato**.\n* Não basta dizer “explique X”. Melhor: “explique em 3 parágrafos curtos, com exemplos, terminando em um resumo”.\n* JSON não é obrigatório, mas **clareza absoluta no formato** sim.\n\n---\n\n## 4. Entropia é uma variável de design\n\n* Ferramentas como **temperatura, top-p, restrições, exemplos, schemas** moldam a distribuição de probabilidade da saída.\n* Exemplo: reduzir temperatura + dar exemplos → resultado mais previsível.\n* Isso significa que controlar entropia = controlar criatividade e consistência.\n\n---\n\n## 5. Scaffolding vence força bruta\n\n* Em vez de gastar muitos tokens (força bruta), é melhor usar **estruturas auxiliares** (scaffolding).\n* Exemplos de scaffolding: passo a passo, árvore de raciocínio, least-to-most.\n* Isso reduz erros acumulados e torna o modelo mais eficiente.\n\n---\n\n## 6. Mudança de distribuição quebra o melhor prompt\n\n* Um prompt pode funcionar em testes, mas falhar em uso real porque o público faz perguntas diferentes.\n* Solução: tratar prompts como **código em produção** → avaliar, monitorar, versionar e ajustar continuamente.\n\n---\n\n## 7. Pluralidade de modelos é recurso, não problema\n\n* Cada modelo tem **forças e personalidades diferentes**.\n* Exemplo: usar GPT para escrita criativa, Claude para raciocínio longo, Gemini para pesquisa.\n* Em produção, não se usa só um modelo → combina-se vários.\n\n---\n\n## 8. Economia e eficiência são restrições centrais\n\n* Tokens custam tempo e dinheiro.\n* Latência, custo por requisição e fallback precisam ser planejados.\n* Arquiteturas boas buscam **simplicidade e eficiência**, não complexidade.\n\n---\n\n## 9. Governança vence heroísmo\n\n* Não adianta depender de “um bom prompt” mantido por uma pessoa.\n* É preciso ter **governança**: versionamento, A/B testing, logging e biblioteca de prompts.\n* Isso garante escalabilidade e consistência.\n\n---\n\n## 10. Segurança é desenhada desde o início\n\n* Não é algo que se adiciona depois.\n* Incluir desde o começo: regras constitucionais, moderação, resposta a tentativas de jailbreak, tratamento de ambiguidade.\n* Assumir que o modelo é **inseguro por padrão** e projetar segurança.\n\n---\n\n## 11. Memória é uma escolha de produto\n\n* A janela de contexto não é memória real.\n* Projetar: o que vai persistir? Onde será armazenado? Como será validado e resumido?\n* Exemplo: usar banco vetorial (RAG) para guardar histórico e recuperar conforme necessário.\n\n---\n\n## 12. Automação de checagem vence vigilância humana\n\n* Nunca confie só que o modelo seguirá as regras.\n* Use **LLMs auxiliares** ou scripts que checam:\n\n  * Está em formato bullet?\n  * Tem o número de itens certo?\n  * Segue guia de estilo?\n* Automatizar checagens dá muito mais confiabilidade do que humanos revisando manualmente.\n\n---",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4833,
+    "author": "INEMA",
+    "date": "2025-09-12T05:29:27+00:00",
+    "text": "======================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4832,
+    "author": "INEMA",
+    "date": "2025-09-12T05:29:25+00:00",
+    "text": "Aqui está o conteúdo final já resumido e organizado em formato de guia rápido, combinando os **takeaways**, **quotes** e **summary** do vídeo:\n\n---\n\n## Takeaways\n\n1. **Beginner’s Four Moves**\n   Definir formato da saída, dar contexto mínimo, sugerir plano silencioso e pedir auto-checagem.\n   → Isso aumenta muito a confiabilidade.\n\n2. **Pipelines Over Prompts**\n   O design não está no prompt isolado, mas no pipeline (retrieval, memória, avaliação).\n\n3. **Contracts and Scaffolding**\n   Trate prompts como contratos: clareza de formato importa mais que texto bonito.\n   Estrutura (scaffolding) muitas vezes é melhor que força bruta (mais tokens).\n\n4. **Entropy as a Design Variable**\n   Temperatura, restrições, exemplos e schemas moldam a distribuição de probabilidade da saída.\n   → Entender isso dá alavancagem estratégica.\n\n5. **Governance Beats Heroics**\n   Mudanças de distribuição quebram até o melhor prompt.\n   → Versão, monitoramento e checagem automatizada são essenciais.\n\n6. **Economics and Efficiency**\n   Custos, latência e fallback são restrições centrais.\n   → Projetos devem priorizar simplicidade e eficiência.\n\n7. **Model Pluralism**\n   Cada modelo tem seus pontos fortes.\n   → Profissionais avançados usam múltiplos modelos para equilibrar custo, eficiência e qualidade.\n\n---\n\n## Quotes\n\n* “We think of prompts as artifacts, but the real unit of design is the pipeline.”\n* “Scaffolding beats horsepower—good structure matters more than brute force.”\n* “Governance beats heroics. If you’re playing hero ball to keep a prompt alive, it’s not a good prompt.”\n\n---\n\n## Summary\n\nO vídeo reúne mais de um ano de anotações sobre engenharia de prompts em um guia completo, do nível iniciante ao avançado.\n\n* **Parte 1 – Quatro fundamentos para iniciantes**:\n  Definir formato da saída, fornecer contexto mínimo, sugerir plano silencioso e incluir auto-checagem.\n\n* **Parte 2 – 12 princípios avançados**:\n  Projetar prompts dentro de pipelines, tratar contexto como cadeia de suprimentos, usar contratos e scaffolding, reconhecer a entropia como variável de design, esperar pluralidade de modelos, e priorizar governança, eficiência e segurança em vez de improvisos.\n\nA ideia central é que **prompting é fractal**: os mesmos princípios que funcionam em uma conversa simples escalam para arquiteturas de produção.\n\n---",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4831,
+    "author": "INEMA",
+    "date": "2025-09-12T05:28:38+00:00",
+    "text": "=================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4830,
+    "author": "INEMA",
+    "date": "2025-09-12T05:28:36+00:00",
+    "text": "Aqui está o resumo estruturado do vídeo Prompting Playbook 2025: \n4 Beginner Moves, 12 Pro Patterns.\n\n---\n\n## Parte 1 – Moves para Iniciantes (4 passos principais)\n\n1. **Definir o formato da saída (shape)**\n\n   * Especificar exatamente como o resultado deve vir.\n   * Exemplos:\n\n     * Um parágrafo de 110–130 palavras.\n     * Cinco bullet points, uma frase cada.\n     * Tabela de 4 linhas comparando preço, curva de aprendizado, esforço.\n     * Checklist com 6 itens.\n   * Isso evita respostas longas, vagas ou redundantes.\n\n2. **Dar contexto suficiente (sem exagero)**\n\n   * Fornecer apenas os fatos necessários, como numa receita pronta.\n   * Exemplo:\n\n     * Fato 1: churn de clientes subiu de 3% para 5%.\n     * Fato 2: cancelamentos vêm de contas pequenas.\n     * Fato 3: concorrente lançou plano mais barato.\n   * Instruir o modelo a usar só esses fatos e, se não souber, dizer “desconhecido”.\n\n3. **Plano silencioso (direções de bastidores)**\n\n   * Sugerir os passos que o modelo deve seguir, mas sem exibir o raciocínio.\n   * Exemplo: “Liste opções → compare → recomende uma → mostre apenas a resposta final.”\n   * Ajuda a reduzir saídas longas e desnecessárias.\n\n4. **Checagem de qualidade**\n\n   * Pedir que o modelo revise a própria resposta antes de enviar.\n   * Exemplos:\n\n     * Verificar se realmente há 5 bullets.\n     * Confirmar que cada afirmação está baseada em fatos fornecidos.\n     * Garantir que o texto tem o tamanho solicitado.\n   * Isso reduz erros, alucinações e falta de consistência.\n\n---\n\n## Parte 2 – Padrões Avançados (12 insights principais)\n\n1. **Unidade de design é o pipeline, não o prompt.**\n2. **Contexto é uma cadeia de suprimentos com limites de confiança.**\n3. **Contratos importam: formato e clareza são prioridade.**\n4. **Entropia é variável de design (temperatura, top-p, restrições moldam o resultado).**\n5. **Scaffolding (estrutura) vence força bruta (mais tokens).**\n6. **Mudança de distribuição quebra o melhor prompt (precisa de monitoramento e testes).**\n7. **Pluralidade de modelos é recurso, não problema (cada modelo tem forças diferentes).**\n8. **Economia é restrição central (custos, latência, eficiência).**\n9. **Governança vence heroísmo (versão, logs, AB tests, biblioteca de prompts).**\n10. **Segurança deve ser projetada desde o início (injeção, jailbreak, moderação).**\n11. **Memória é escolha de produto, não apenas contexto (definir o que persiste, como armazenar e validar).**\n12. **Automação de checagem vence vigilância humana (LLMs auxiliares para validar formato, estilo, regras).**\n\n---\n\n## Exemplos citados\n\n* **Email outline:** 5 bullets fixos (gancho, importância, 2 pontos, call-to-action).\n* **Explicação curta:** conceito explicado em <140 palavras, dividido em 3 seções (o que é, exemplo, armadilhas).\n* **Decisão comparativa:** tabela com 4 linhas, terminando com recomendação clara.\n* **Snapshot de incidente:** incluir notas, quantificar impacto, marcar dono da ação.\n* **Plano de ação de reunião:** checklist de 7 tarefas, cada uma com dono e prazo.\n\n---",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4828,
+    "author": "INEMA",
+    "date": "2025-09-12T05:26:55+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4828_006.jpg"
+  },
+  {
+    "id": 4827,
+    "author": "INEMA",
+    "date": "2025-09-12T05:26:43+00:00",
+    "text": "Prompt Guide 4 Iniciantes e 12 Avancado",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4826,
+    "author": "INEMA",
+    "date": "2025-09-12T05:26:42+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4825,
+    "author": "INEMA",
+    "date": "2025-09-12T05:26:42+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4824,
+    "author": "INEMA",
+    "date": "2025-09-12T05:26:41+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4823,
+    "author": "INEMA",
+    "date": "2025-09-12T05:26:41+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4822,
+    "author": "INEMA",
+    "date": "2025-09-12T05:26:41+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4821,
+    "author": "INEMA",
+    "date": "2025-09-12T05:26:41+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4820,
+    "author": "INEMA",
+    "date": "2025-09-12T05:26:40+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4819,
+    "author": "INEMA",
+    "date": "2025-09-12T05:26:35+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

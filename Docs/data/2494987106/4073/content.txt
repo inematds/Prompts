@@ -1,0 +1,187 @@
+TOPICO 4073
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-07-28 04:25:55+00:00
+
+Total de mensagens: 14
+Midias baixadas: 5
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-07-28T04:34:36+00:00
+Texto:
+https://chatgpt.com/g/g-6886fd417e5481919cda239db6a8d033-inema-caixa-explosiva
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-07-28T04:31:28+00:00
+Texto:
+https://chatgpt.com/g/g-6886fc57a80c819191e06cc982c6c269-inema-explodindo-caixa
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-07-28T04:27:17+00:00
+Texto:
+==========
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-07-28T04:27:13+00:00
+Texto:
+Aqui está a tradução do prompt para português, mantendo as instruções entre colchetes para fácil personalização:
+
+Ace, acesse: [https://gemini.google.com/app](https://gemini.google.com/app) e insira o prompt abaixo:
+
+{
+"description": "Foto realista em estilo cinematográfico de um(a) \[TIPO\_DE\_AMBIENTE] vazio(a) *ex: quarto moderno* com \[TIPO\_DE\_PISO] *ex: piso de madeira escura* e \[CONDIÇÃO\_DE\_LUZ] *ex: luz suave do dia entrando*. Uma caixa lacrada da \[MARCA] *ex: caixa de tênis Nike* está no centro. Ela \[AÇÃO\_DA\_CAIXA] *ex: treme e se abre de repente*, e \[OBJETOS\_TEMÁTICOS] *ex: tênis, bonés, pôsteres* voam para fora e se montam rapidamente em um(a) \[AMBIENTE\_FINAL\_TEMÁTICO] *ex: cofre de tênis Nike*. Sem texto.",
+
+"style": "foto realista, cinematográfico",
+"camera": "lente grande angular fixa, de frente para uma revelação simétrica",
+"lighting": "\[ESTILO\_DE\_LUZ] *ex: luz ambiente fria com pontos de luz*",
+"room": "\[DESCRIÇÃO\_AMBIENTE\_VAZIO] *ex: sala escura vazia com paredes lisas* transforma-se em \[ESTILO\_FINAL\_DO\_AMBIENTE] *ex: sala de exposição Nike de alto contraste*",
+
+"elements": \[
+"\[CAIXA\_DA\_MARCA\_COM\_LOGO] *ex: caixa Nike preta fosca com o símbolo branco*",
+"\[OBJETO\_1] *ex: prateleiras de exibição com Air Jordans*",
+"\[OBJETO\_2] *ex: luminária de parede em neon Nike*",
+"\[OBJETO\_3] *ex: banco com bolsa de academia*",
+"...adicione mais..."
+],
+
+"motion": "\[DESCRIÇÃO\_DO\_MOVIMENTO] *ex: caixa se abre e os itens voam para o lugar instantaneamente*",
+"ending": "\[DESCRIÇÃO\_DO\_CLIMA] *ex: showroom vibrante, com iluminação fria e enérgica*",
+"text": "nenhum",
+"keywords": \[
+"16:9",
+"\[MARCA] *ex: Nike*",
+"\[TEMA] *ex: cofre de tênis*",
+"montagem rápida",
+"sem texto",
+"\[ETIQUETAS\_DE\_LUZ] *ex: luz fria, ponto de luz*"
+]
+}
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-07-28T04:26:54+00:00
+Texto:
+==============
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-07-28T04:26:51+00:00
+Texto:
+Ace, head over to: https://gemini.google.com/app and enter the below prompt:
+
+{
+  "description": "Photorealistic cinematic shot of an empty [ROOM_TYPE] *i.e. modern bedroom* with [FLOOR_TYPE] *i.e. dark wood floors* and [LIGHT_CONDITION] *i.e. soft daylight filtering in*. A sealed [BRAND] box *i.e. Nike shoebox* sits in the center. It [BOX_ACTION] *i.e. shakes and bursts open*, and [THEMED_OBJECTS] *i.e. sneakers, hats, posters* fly out and assemble rapidly into a complete [THEMED_ROOM] *i.e. sneaker vault*. No text.",
+  
+  "style": "photorealistic cinematic",
+  "camera": "fixed wide angle, front-facing for symmetrical reveal",
+  "lighting": "[LIGHT_STYLE] *i.e. ambient cool light with spotlight accents*",
+  "room": "[EMPTY_ROOM_DESCRIPTION] *i.e. empty dark room with plain walls* transforms into [FINAL_ROOM_STYLE] *i.e. high-contrast Nike sneaker display room*",
+
+  "elements": [
+    "[BRAND BOX WITH LOGO] *i.e. matte black Nike box with white swoosh*",
+    "[OBJECT 1] *i.e. display shelves with Air Jordans*",
+    "[OBJECT 2] *i.e. neon Nike wall light*",
+    "[OBJECT 3] *i.e. bench with gym bag*",
+    "...add more..."
+  ],
+
+  "motion": "[MOTION_DESCRIPTION] *i.e. box bursts open and items fly into place instantly*",
+  "ending": "[MOOD_DESCRIPTION] *i.e. bold, high-energy showroom glowing with cool lighting*",
+  "text": "none",
+  "keywords": [
+    "16:9",
+    "[BRAND] *i.e. Nike*",
+    "[THEME] *i.e. sneaker vault*",
+    "fast assembly",
+    "no text",
+    "[LIGHTING TAGS] *i.e. cool lighting, spotlight*"
+  ]
+}
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-07-28T04:26:05+00:00
+Texto:
+Prompt Caixa Explosiva
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-07-28T04:26:03+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-07-28T04:26:02+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-07-28T04:26:02+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-07-28T04:26:02+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-07-28T04:26:02+00:00
+Texto:
+https://chatgpt.com/c/6886fb70-ed18-832b-8ca0-10acf8f17ffe
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-07-28T04:26:01+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-07-28T04:25:55+00:00
+Texto: [Sem texto]
+
+------------------------------
+

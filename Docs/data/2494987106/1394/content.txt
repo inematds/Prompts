@@ -1,0 +1,75 @@
+TOPICO 1394
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2024-10-24 03:54:32+00:00
+
+Total de mensagens: 8
+Midias encontradas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2024-10-24T03:54:52+00:00
+Texto:
+https://anakin.ai/blog/runway-gen-3-prompts/
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2024-10-24T03:54:48+00:00
+Texto:
+67
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2024-10-24T03:54:47+00:00
+Texto:
+5
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2024-10-24T03:54:47+00:00
+Texto:
+4
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2024-10-24T03:54:47+00:00
+Texto:
+23
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2024-10-24T03:54:46+00:00
+Texto:
+2
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2024-10-24T03:54:46+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2024-10-24T03:54:32+00:00
+Texto: [Sem texto]
+
+------------------------------
+

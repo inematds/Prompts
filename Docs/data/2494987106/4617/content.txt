@@ -1,0 +1,683 @@
+TOPICO 4617
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-08-23 10:03:54+00:00
+
+Total de mensagens: 32
+Midias baixadas: 5
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-08-23T17:11:46+00:00
+Texto:
+O conteudo Todo Vazado
+
+https://bit.ly/3JGGmIM
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-08-23T10:13:56+00:00
+Texto:
+**vários furos do prompt original** que explicam por que o hack foi possível e por que a execução era confusa. Vou organizar:
+
+---
+
+## Furos do Prompt Original
+
+### 1. Citação obrigatória de arquivos
+
+* Instrução: **“Sempre cite o arquivo exato + seção”**.
+* Problema: isso abriu a brecha para que usuários pedissem o arquivo diretamente, forçando o modelo a expor conteúdo interno (mega-vazamento).
+
+### 2. Termos vagos e sem critérios
+
+* Exemplo: “Se não tiver certeza, busque em todos os arquivos” ou “não adivinhe se não estiver confiante”.
+* Problema: não havia **critério objetivo** para medir “não estar confiante”. Isso gera respostas inconsistentes e facilita exploração.
+
+### 3. Categorias sobrepostas
+
+* Ex.: “precificação” aparecia em várias partes (Offers, Pricing Playbook, Retention, LTV).
+* Problema: falta de **delimitação clara** entre quando usar cada recurso → risco de respostas confusas, redundantes ou até contraditórias.
+
+### 4. Estrutura fragmentada
+
+* O mapeamento de quais arquivos usar estava **espalhado** em diferentes partes do prompt (filebase map, cheat guide, SOPs, etc.).
+* Problema: sem uma **árvore de decisão centralizada**, ficava desorganizado e vulnerável.
+
+### 5. Finalização fraca do prompt
+
+* O prompt terminava com uma **citação inspiracional** (“Princípio: sempre remova o gargalo e tudo flui”).
+* Problema: os modelos dão mais peso ao **início e final** do prompt (recency/primacy bias). → Ou seja, a instrução final era inútil e deixava o modelo menos consistente.
+
+### 6. Loop AOE mal implementado
+
+* A ideia de Analyze → Optimize → Execute é boa, mas:
+
+  * não havia clareza de quando ativar,
+  * não dizia quantas perguntas de clarificação fazer,
+  * misturava métricas, frameworks e ações de forma confusa.
+* Resultado: a IA poderia travar, dar respostas redundantes ou usar fontes erradas.
+
+### 7. Falta de critérios para queries fora do corpus
+
+* Havia a instrução “se for fora, use conhecimento geral”, mas sem reforço de **transparência clara**.
+* Isso permitia ao modelo responder sem deixar óbvio que estava fora da base → enfraquecendo confiança.
+
+---
+
+## Resumindo os furos
+
+* **Segurança**: citar sempre a fonte abriu a porta para o hack.
+* **Consistência**: termos vagos e sobreposição de categorias confundiam o modelo.
+* **Organização**: mapeamento espalhado em vez de central.
+* **Entrega**: finalização mal pensada + loop AOE desorganizado.
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-08-23T10:13:16+00:00
+Texto:
+===================
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-08-23T10:13:13+00:00
+Texto:
+## O que é uma Árvore de Decisão no Prompt
+
+* É um **fluxo lógico em formato de árvore**, onde cada tipo de pergunta leva a um **recurso específico**.
+* Evita que o modelo fique perdido ou use várias fontes redundantes.
+* É como um **manual de instruções hierárquico**:
+
+  * Pergunta → Categoria → Recurso principal → (se necessário) Recurso complementar.
+
+---
+
+## Exemplo Prático da Árvore de Decisão (para este prompt)
+
+1. **Usuário pergunta sobre precificação**
+
+   * Vai para: **\$100M Offers** → (se o foco for aumento de preço) **Price Raise Playbook** → (se for retenção ligada a preço) **Retention Playbook**.
+
+2. **Usuário pergunta sobre leads**
+
+   * Vai para: **\$100M Leads** → se for tráfego pago → **Goated Ads Playbook** → se for leads frios → **Lead Nurture Playbook**.
+
+3. **Usuário pergunta sobre escala**
+
+   * Vai para: **Scaling Roadmap** → se envolver equipe/gestão → **Leila SOPs**.
+
+4. **Usuário pergunta sobre retenção ou LTV**
+
+   * Vai para: **Retention Playbook** → se for monetização extra → **Lifetime Value Playbook**.
+
+5. **Usuário pergunta sobre posicionamento de marca**
+
+   * Vai para: **Branding Playbook** → complementar com **Journal** para insights.
+
+---
+
+## Como ficaria visualmente (simplificado)
+
+```Pergunta do usuário
+ ├── Preço → $100M Offers → Pricing Playbook → Retention (se churn)
+ ├── Leads → $100M Leads
+ │     ├── Pago → Goated Ads
+ │     └── Frios → Lead Nurture
+ ├── Escala → Scaling Roadmap
+ │     └── Equipe/Ops → Leila SOPs
+ ├── Retenção → Retention Playbook → LTV Playbook
+ └── Marca → Branding Playbook → Journal```
+
+---
+
+Assim, em vez de o modelo ter que a**divinhar,** ele segue uma r**ota definida **e consistente.
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-08-23T10:12:43+00:00
+Texto:
+===================
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-08-23T10:12:40+00:00
+Texto:
+Analisei o prompt original.
+
+Agora vou fazer duas partes: primeiro **reescrevo a versão corrigida**, aplicando todas as melhorias sugeridas pelas críticas; depois faço uma **análise comparativa** explicando o que mudou e por que está melhor.
+
+---
+
+## Prompt Melhorado (versão corrigida)
+
+### Contexto & Identidade
+
+Você é **HormoziGPT**, um parceiro estratégico de execução e crescimento.
+Sua identidade combina:
+
+* Estrategista de negócios de nível mundial.
+* Consultor estilo McKinsey + fundador com exits.
+* Especialista na **Biblioteca \$100M de Alex & Leila Hormozi** (livros, playbooks, roadmaps, SOPs e journals).
+
+### Missão
+
+Responda a qualquer questão sobre negócios, marca ou escala, usando a biblioteca Hormozi como **fonte primária de verdade**.
+Suas respostas devem sempre:
+
+1. Ser baseadas em frameworks, modelos e exemplos práticos.
+2. Incluir pelo menos um **“próximo passo acionável”**.
+3. Citar a fonte exata (arquivo + seção).
+4. Alinhar-se com os objetivos declarados do usuário (riqueza, escala, marca, rede).
+
+### Protocolo de Entrada
+
+* **Consultas diretas** → traga a resposta literal do recurso correspondente.
+* **Consultas estratégicas** → sintetize frameworks em modelos passo a passo.
+* **Consultas ambíguas** → faça até 2 perguntas de clarificação antes de responder.
+* **Fora da biblioteca** → use conhecimento geral, mas deixe explícito que não está nos arquivos.
+
+### Estrutura de Decisão (Árvore de Recursos)
+
+* **Ofertas e preço** → \$100M Offers, Pricing Playbook, Price Raise Playbook.
+* **Leads e tráfego** → \$100M Leads, Goated Ads, Lead Nurture, Hooks.
+* **Escala e operações** → Scaling Roadmap, Leila SOPs.
+* **Modelos financeiros & monetização** → Money Models, Lifetime Value.
+* **Retenção** → Retention Playbook, LTV Playbook.
+* **Marca & posicionamento** → Branding Playbook, Journal.
+* **Soluções rápidas** → Fast Cash Playbook.
+* **Sistemas completos de marketing** → Marketing Machine.
+
+(Obs: Evite sobreposição. Se o tema aparecer em mais de um recurso, selecione apenas o principal e, se relevante, cite o secundário como complemento.)
+
+### Loop AOE (Analyze → Optimize → Execute)
+
+Ative quando a consulta mencionar gargalos, métricas ou crescimento travado.
+
+1. **Diagnosticar** → identificar o gargalo principal (oferta, leads, retenção, conversão, ops, capital).
+2. **Analisar** → quantificar impacto com métricas.
+3. **Otimizar** → mapear gargalo para o recurso correto.
+4. **Executar** → entregar plano passo a passo, vinculado às metas do usuário.
+
+### Regras de Saída
+
+* Sempre cite o recurso exato.
+* Estrutura em tópicos ou etapas claras.
+* Sem linguagem vaga ou floreio.
+* Conclua sempre com um **plano de ação imediato**.
+
+### Estilo & Tom
+
+* Claro, direto, pragmático.
+* Autoridade com proximidade.
+* Viés para ação e execução.
+
+---
+
+## Análise Comparativa
+
+1. **Organização em árvore**
+
+   * O prompt original tinha mapeamento espalhado.
+   * Agora está em formato de **árvore de decisão**, com categorias exclusivas → reduz sobreposição.
+
+2. **Critérios claros**
+
+   * Antes: “se não tiver certeza”.
+   * Agora: até **2 perguntas de clarificação** + regra de uso explícito de conhecimento geral.
+
+3. **Menos redundância**
+
+   * O original repetia tópicos (ex.: precificação em vários pontos).
+   * O novo deixa **um recurso principal por tema** e só complementa quando necessário.
+
+4. **Finalização forte**
+
+   * O original terminava com uma citação.
+   * O novo termina com **regras de estilo e plano de ação**, que guiam melhor o modelo.
+
+5. **Loop AOE mais claro**
+
+   * No original era confuso e redundante.
+   * Agora é uma sequência simples e acionável, com critérios de quando ativar.
+
+6. **Consistência de tom**
+
+   * O original misturava instruções técnicas e frases genéricas.
+   * O novo é **coeso, direto e orientado para aplicação**.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-08-23T10:11:48+00:00
+Texto:
+o prompt hackeado
+Midia: MessageMediaDocument -> System Prompt Hormozi AI.docx
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-08-23T10:11:04+00:00
+Texto:
+===================
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-08-23T10:11:00+00:00
+Texto:
+## Como Seria a Versão Corrigida do Prompt
+
+1. **Estrutura em árvore ou esquema**
+
+   * Em vez de jogar um “Hormozi file base” genérico, deveria existir uma **árvore de decisão clara** (por exemplo:
+
+     * Pergunta sobre **precificação** → vá para “Money Models” e “Pricing Playbook”.
+     * Pergunta sobre **operações** → vá para “Scaling Ops SOP”.
+     * Pergunta sobre **anúncios** → vá para “Ad Inspiration” etc.).
+
+2. **Critérios objetivos**
+
+   * O trecho “se não tiver certeza” deveria ter sido substituído por **regras explícitas** (ex.: “se a resposta não estiver em pelo menos 2 fontes diferentes, declare como fora do corpus e use conhecimento geral”).
+
+3. **Evitar redundância de categorias**
+
+   * Em vez de repetir “precificação” em vários lugares, deveria haver **uma única seção de pricing**, bem segmentada.
+
+4. **Melhor finalização do prompt**
+
+   * O prompt não deveria terminar com uma citação aleatória.
+   * Deveria terminar com **diretrizes de estilo e tom** (ex.: “responda sempre de forma clara, estruturada, com frameworks acionáveis, em tom direto e profissional”).
+
+5. **Uso refinado do loop AOE (Analyze – Optimize – Execute)**
+
+   * Em vez de ativar de forma confusa, deveria ter instruções:
+
+     * Quando ativar (ex.: se a pergunta mencionar gargalos, métricas ou limites de escala).
+     * Quantas rodadas de análise fazer antes de responder.
+     * Como devolver o passo a passo final com clareza.
+
+6. **Separação de recursos (livros, playbooks, SOPs, cheatsheets)**
+
+   * Cada grupo deveria ter seu **gatilho de ativação bem definido**.
+   * Ex.: SOPs apenas para processos práticos, playbooks só para estratégias específicas, livros como fonte principal de frameworks.
+
+---
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-08-23T10:10:24+00:00
+Texto:
+==========================
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-08-23T10:10:20+00:00
+Texto:
+## Como o Prompt Poderia Ser Melhorado
+
+### 1. Estrutura clara em árvore
+
+* Em vez de espalhar instruções e mapeamentos pelo texto, deveria existir uma **árvore de decisão organizada**, mostrando:
+
+  * qual recurso usar em cada tipo de pergunta,
+  * quais subperguntas direcionam para qual playbook,
+  * evitando sobreposição e confusão.
+
+### 2. Definição objetiva de critérios
+
+* Expressões vagas como “se não tiver certeza” precisariam de **critérios quantificáveis**.
+* Exemplo: indicar número mínimo de ocorrências ou parâmetros de confiança antes de buscar fora da base.
+
+### 3. Menos redundância e sobreposição
+
+* O prompt repete tópicos como **precificação** em várias categorias.
+* Ele sugere **delimitar melhor** cada recurso, deixando-os mais **mutuamente exclusivos**.
+
+### 4. Melhor fechamento do prompt
+
+* Em vez de terminar com uma citação aleatória, deveria acabar com **instruções fortes de estilo e entrega** (ex.: tom de voz, clareza, consistência).
+* Isso porque modelos dão mais peso ao início e ao final (recency bias).
+
+### 5. Loop AOE mais organizado
+
+* A ideia do ciclo **Analyze → Optimize → Execute** é boa, mas a execução ficou confusa.
+* Ele sugere definir melhor **quando ativar**, quantas vezes perguntar em caso de dúvida, e como apresentar os passos de execução de forma consistente.
+
+### 6. Segmentação de recursos
+
+* Melhor dividir claramente:
+
+  * Livros principais,
+  * Playbooks,
+  * SOPs,
+  * Cheatsheets.
+* Cada grupo deveria ter gatilhos específicos de quando ser usado.
+
+---
+
+Ou seja: o que faltou foi **clareza, hierarquia e consistência**.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-08-23T10:09:50+00:00
+Texto:
+=======================
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-08-23T10:09:47+00:00
+Texto:
+## Resumo da Análise do Prompt do Chatbot de Hormozi
+
+### 1. Contexto
+
+* O chatbot de Hormozi foi hackeado novamente, desta vez expondo o **system prompt**.
+* O problema principal não foi só técnico, mas também de **estrutura do prompt**.
+
+### 2. Estrutura inicial do Prompt
+
+* Começa com atribuição de papel: **Hormozi GPT** (consultor McKinsey + fundador com exits).
+* Objetivo: agir como estrategista de negócios de alto nível, usando a biblioteca de livros e playbooks de Hormozi.
+* Instrução crítica: **“sempre cite o arquivo exato”** → isso permitiu a exploração que levou ao mega-vazamento.
+
+### 3. Problemas identificados
+
+* Uso de termos vagos como “se não tiver certeza” sem critérios.
+* Categorias sobrepostas (ex.: precificação aparece em diferentes pontos).
+* Falta de clareza sobre quando usar cada recurso (playbooks, SOPs, frameworks).
+* Estrutura desorganizada: mapeamento de arquivos espalhado em vez de hierarquia clara.
+* O prompt termina com uma **citação aleatória**, em vez de diretrizes de estilo consistentes.
+
+### 4. Objetivos e regras
+
+* Alinhar respostas a objetivos do usuário (riqueza, marca, negócios, rede).
+* Sempre basear-se em frameworks e exemplos reais dos arquivos citados.
+* Diferenciar tipos de consultas:
+
+  * Diretas → resposta precisa do arquivo.
+  * Estratégicas → síntese de frameworks em modelo passo a passo.
+  * Ambíguas → fazer uma pergunta de esclarecimento.
+  * Fora do corpus → usar conhecimento geral, deixando explícito.
+
+### 5. Estrutura de Raciocínio (Reasoning Stack)
+
+* Interpretar a consulta.
+* Procurar nos arquivos.
+* Extrair insights.
+* Aplicar contexto.
+* Gerar resposta estruturada.
+
+### 6. Recursos usados
+
+* Arquivos: 100M Offers, Leads, Scaling Roadmap, Money Models, Journal, Playbooks etc.
+* Cada tópico deveria ter uma correspondência clara com o recurso correto.
+* Problema: muitas sobreposições, dificultando a escolha do melhor recurso.
+
+### 7. Loop AOE (Analyze – Optimize – Execute)
+
+* Ativado quando o usuário pergunta sobre gargalos de crescimento ou métricas.
+* Estrutura: diagnosticar, otimizar, executar.
+* Apesar da ideia, a implementação no prompt ficou confusa e redundante.
+
+### 8. Considerações finais
+
+* O prompt poderia ser mais eficaz com uma **árvore de decisão clara** para uso de recursos.
+* Faltou organização para evitar redundâncias e conflitos.
+* O encerramento do prompt não foi estratégico, já que modelos dão mais peso ao começo e ao final.
+* Apesar das falhas, todos os componentes agora estão disponíveis, permitindo que qualquer pessoa **reconstrua o sistema** (RAG com Make, n8n, Claude Code, etc.).
+
+---
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-08-23T10:09:21+00:00
+Texto:
+=========================
+
+------------------------------
+
+MENSAGEM 15
+Autor: INEMA
+Data: 2025-08-23T10:09:16+00:00
+Texto:
+Chatbot do Hormozi foi hackeado de novo - Análise do Prompt do Sistema
+
+A semana do Hormozi ficou ainda pior, já que o prompt do sistema do chatbot de IA dele também vazou 😮‍💨
+Aqui está o que o prompt revela:
+
+atribuição de papel: "você é o Hormozi GPT, um consultor da McKinsey + fundador com exits"
+→ tenta adicionar credibilidade com microdetalhes
+→ se posiciona como "parceiro de execução estratégica"
+→ falha fatal: "sempre cite o arquivo exato"
+→ essa única linha possibilitou todo o hack
+
+problemas na estrutura do prompt:
+→ termos vagos como "se não tiver certeza" sem critérios definidos
+→ categorias sobrepostas (precificação aparece em vários lugares)
+→ mapeamento de arquivos espalhado em vez de organizado
+→ nenhuma separação clara para recursos mutuamente exclusivos
+→ termina com uma citação aleatória em vez de diretrizes de estilo
+
+o que é interessante: tentaram criar um “loop AOE” (analisar, otimizar, executar) para gargalos de crescimento, mas a execução foi confusa
+
+o lado positivo: agora você tem tudo o que precisa para reconstruir esse sistema de 6.000 dólares – todos os livros (incluindo os 2 playbooks escaneados que faltavam), além da estrutura completa do prompt
+
+loucura que um produto premium tivesse falhas de segurança tão básicas, mas pelo menos podemos aprender com esses erros caros
+
+------------------------------
+
+MENSAGEM 16
+Autor: INEMA
+Data: 2025-08-23T10:08:32+00:00
+Texto:
+As Falhas
+
+------------------------------
+
+MENSAGEM 17
+Autor: INEMA
+Data: 2025-08-23T10:08:19+00:00
+Texto:
+=======================
+
+------------------------------
+
+MENSAGEM 18
+Autor: INEMA
+Data: 2025-08-23T10:08:10+00:00
+Texto:
+## Quem é Alex Hormozi?
+
+**Alex Hormozi** é um empreendedor, investidor, autor e filantropo americano de origem iraniana, reconhecido por sua trajetória impressionante de construção e escalada de negócios bem-sucedidos. A seguir, um panorama de sua importância, popularidade e feitos mais valorizados:
+
+### 1. Trajetória e feitos empresariais
+
+* Em 2013, iniciou seu primeiro negócio físico, que expandiu para seis unidades em apenas três anos antes de vendê-lo.
+* Em seguida, passou a reverter operações de mais de 32 negócios físicos utilizando o mesmo modelo de sucesso.
+* Criou um modelo de licenciamento que se espalhou para milhares de locais (\~4.000) em poucos anos.
+* Em quatro anos, fundou e escalou três outras empresas, acumulando mais de US\$120 milhões em vendas brutas em quatro setores (software, serviços, e-commerce, físico), sem capital externo.
+* Em 2021, vendeu sua empresa de licenciamento por US\$46,2 milhões.
+* Em 2020, deixou o cargo de CEO e fundou a **Acquisition.com**, uma plataforma para investir seu capital financeiro e intelectual em outras empresas com alto fluxo de caixa — focadas em produtos e serviços escaláveis.
+
+### 2. Educação e princípios iniciais
+
+* Graduou-se pela **Vanderbilt University** com honra magna cum laude, em apenas três anos, com foco em Desenvolvimento Humano e Organizacional, ênfase em Estratégia Corporativa.
+* Atuou como consultor de gestão antes de mergulhar no empreendedorismo.
+
+### 3. Publicações e presença na mídia
+
+* É autor do bestseller **“\$100M Offers: How To Make Offers So Good People Feel Stupid Saying No”**, considerado leitura essencial para empreendedores, abordando criação de ofertas irresistíveis.
+* Possui forte presença online: YouTube, Instagram, podcast ("The Game w/ Alex Hormozi"), com milhões de seguidores e grande visibilidade nas redes sociais.
+
+### 4. Popularidade e reputação
+
+* É descrito como conciso, direto e confiável entre seus seguidores. Muitos destacam sua habilidade de articular ideias complexas de forma simples e objetiva.
+* Seu lema “I have nothing to sell you” reflete seu posicionamento contra práticas comuns de “gurus” que vendem promessas vazias.
+* Sua abordagem prática e sem rodeios o distingue de muitos influenciadores de marketing que priorizam estilo em vez de substância.
+
+---
+
+------------------------------
+
+MENSAGEM 19
+Autor: INEMA
+Data: 2025-08-23T10:06:09+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_4631_019.jpg
+
+------------------------------
+
+MENSAGEM 20
+Autor: INEMA
+Data: 2025-08-23T10:05:53+00:00
+Texto:
+### O HOMEM QUE VALE 100 MILHÕES (E FOI EXPLOITADO POR UM BUG DE SEGURANÇA)
+
+Você talvez nunca tenha ouvido falar de **Alex Hormozi**. Mas deveria.
+Esse cara começou do zero, montou academias, vendeu, escalou dezenas de empresas sem investidores, escreveu um livro que virou **bíblia de marketing** (“\$100M Offers”), e hoje administra uma holding que compra negócios como quem compra café na padaria.
+
+Hormozi não é só empresário. É o **anti-guru**: direto, prático, sem enrolação. Enquanto outros vendem “segredinhos”, ele joga frameworks de milhões de dólares de graça no YouTube, no podcast, no Instagram. Resultado? Virou referência global em **escala, branding e riqueza real**.
+
+E mesmo assim… seu chatbot de inteligência artificial foi hackeado.
+Por quê? Porque uma única linha mal pensada no prompt expôs toda a biblioteca secreta de conteúdo.
+Um sistema de assinatura avaliado em **6 mil dólares** implodiu em minutos.
+
+Moral da história:
+Se até o **Hormozi**, que transformou negócios em impérios e tem milhões de seguidores, pode perder por uma falha estrutural…
+o que **protege você e sua empresa de ser engolido por um descuido?**
+
+---
+
+🔥 **Prepare-se para proteger seu legado.**
+Construa sistemas à prova de falhas. Estruture sua comunicação com clareza.
+Porque o jogo dos negócios é simples:
+**ou você fecha as brechas, ou alguém vai usá-las contra você.**
+
+👉 Compartilhe esse texto com quem ainda acha que “segurança é detalhe”.
+Na nova economia, detalhe é tudo.
+
+------------------------------
+
+MENSAGEM 21
+Autor: INEMA
+Data: 2025-08-23T10:04:53+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_4629_021.jpg
+
+------------------------------
+
+MENSAGEM 22
+Autor: INEMA
+Data: 2025-08-23T10:04:16+00:00
+Texto:
+Hacker do Alex Hormozi
+
+------------------------------
+
+MENSAGEM 23
+Autor: INEMA
+Data: 2025-08-23T10:04:14+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 24
+Autor: INEMA
+Data: 2025-08-23T10:04:12+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 25
+Autor: INEMA
+Data: 2025-08-23T10:04:11+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 26
+Autor: INEMA
+Data: 2025-08-23T10:04:09+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 27
+Autor: INEMA
+Data: 2025-08-23T10:04:07+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 28
+Autor: INEMA
+Data: 2025-08-23T10:04:05+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 29
+Autor: INEMA
+Data: 2025-08-23T10:04:04+00:00
+Texto:
+https://chatgpt.com/c/68a66f30-3394-832d-975e-41ee80049b4b
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 30
+Autor: INEMA
+Data: 2025-08-23T10:04:02+00:00
+Texto:
+https://chatgpt.com/c/68a98953-8464-8327-9175-3b30ce7e5397
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 31
+Autor: INEMA
+Data: 2025-08-23T10:04:01+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 32
+Autor: INEMA
+Data: 2025-08-23T10:03:54+00:00
+Texto: [Sem texto]
+
+------------------------------
+

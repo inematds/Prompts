@@ -1,0 +1,617 @@
+{
+  "grupo_id": "2494987106",
+  "chat_id": -1002494987106,
+  "titulo": "INEMA.Prompts",
+  "metodo": "busca_hibrida",
+  "total_topicos": 100,
+  "data_busca": "2025-09-23T07:16:06.730361",
+  "estatisticas": {
+    "api_oficial": 100,
+    "ids_conhecidos": 0,
+    "novos_encontrados": 0,
+    "total_unico": 100
+  },
+  "observacao": "Busca hibrida resolve limitacao de paginacao do GetForumTopicsRequest",
+  "topicos": [
+    {
+      "id": 678,
+      "title": "Prompts Empoderamento",
+      "date": "2024-10-01T19:26:43+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 2191,
+      "title": "Visão Geral de Prompts",
+      "date": "2025-02-06T08:04:17+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 2261,
+      "title": "Duvidas de Prompts",
+      "date": "2025-02-14T01:47:54+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 2927,
+      "title": "MENU Links PROMPTS",
+      "date": "2025-03-29T04:00:02+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3268,
+      "title": "mp29 - Modelo de divulgação de e-mail frio",
+      "date": "2025-04-07T08:30:54+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3281,
+      "title": "mp30 - Script de saudação de chatbot",
+      "date": "2025-04-07T08:32:21+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3292,
+      "title": "Prompt Agente N8N",
+      "date": "2025-04-08T06:37:52+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3321,
+      "title": "mm5 - Experiencia #5 - Prompt Manus Criar Site",
+      "date": "2025-04-11T03:31:07+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3333,
+      "title": "mm4 - Experiência Manus #4: Agências RIP SEO/GEO",
+      "date": "2025-04-11T03:36:12+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3350,
+      "title": "mm1 - Experiência Manus #1: Auto Projeto Claude & GPTs Person",
+      "date": "2025-04-11T03:40:41+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3363,
+      "title": "mm2 - Experiência Manus #2: RIP AI Consultants...",
+      "date": "2025-04-11T03:42:28+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3382,
+      "title": "mm6 - Experiencia #6 - Prompts Manus Lovable",
+      "date": "2025-04-11T17:34:07+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3394,
+      "title": "xx-Prompt GPT Foto Realista",
+      "date": "2025-04-12T00:15:23+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3406,
+      "title": "Guia de Prompt Google 2025/4",
+      "date": "2025-04-12T01:57:16+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3420,
+      "title": "mm7 - Experiencia #7 - Prompts Manus Vozes",
+      "date": "2025-04-12T21:49:47+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3438,
+      "title": "mm9 - Experimento Manus #9: Manus me ensina tudo sobre o OpenAI 4.1",
+      "date": "2025-04-18T04:50:30+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3450,
+      "title": "Prompt Analise Casa GPT o3",
+      "date": "2025-04-23T02:01:45+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3461,
+      "title": "Prompts Vazados dos SISTEMAS",
+      "date": "2025-04-23T02:11:27+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3478,
+      "title": "mm10 - Experimento #10 Manus - Ensine Vibe Codigo",
+      "date": "2025-04-23T03:09:27+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3493,
+      "title": "PROMPT IMGEM PET",
+      "date": "2025-04-29T00:58:08+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3512,
+      "title": "Prompt ESTOICO",
+      "date": "2025-04-29T01:28:33+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3524,
+      "title": "Acão do GPT no CchatGPT - Aula 30/4/25",
+      "date": "2025-04-30T23:41:33+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3532,
+      "title": "mm11 - Manus + n8n + Lovable",
+      "date": "2025-05-01T02:45:21+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3549,
+      "title": "010525 - Mente Bilionária em Ação",
+      "date": "2025-05-04T21:36:21+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3566,
+      "title": "Prompt IMAGEM de Produtos QUENTES",
+      "date": "2025-05-11T00:47:49+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3584,
+      "title": "Prompt de um Artista",
+      "date": "2025-05-12T19:02:30+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3595,
+      "title": "Prompt Tipo GURU no Claude",
+      "date": "2025-05-15T15:35:32+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3617,
+      "title": "Prompt Guide GPT 4.1",
+      "date": "2025-05-15T19:50:44+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3628,
+      "title": "Master Prompt from jack",
+      "date": "2025-05-24T02:54:51+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3637,
+      "title": "INEMA",
+      "date": "2025-05-24T07:46:07+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3638,
+      "title": "Prompt Vibe Code - Criando app de Videos",
+      "date": "2025-05-25T18:44:54+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3649,
+      "title": "Prompt Perfeito VOE3",
+      "date": "2025-05-31T00:30:39+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3662,
+      "title": "m17 - (n8n) Prompt para VEO3",
+      "date": "2025-06-07T16:39:17+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3671,
+      "title": "Perplexity Labs Prompts",
+      "date": "2025-06-07T17:34:24+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3706,
+      "title": "Estado da Arte sobre PROMPTS",
+      "date": "2025-06-08T02:28:28+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3735,
+      "title": "Gpt personalizado",
+      "date": "2025-06-09T21:17:34+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3736,
+      "title": "Prompt para Agente de X (outro outra API)",
+      "date": "2025-06-10T00:50:11+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3750,
+      "title": "GenSpark #1 Prompt",
+      "date": "2025-06-12T02:50:03+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3765,
+      "title": "Prompt Video VEO3 - para Propostas Vendas",
+      "date": "2025-06-12T04:20:45+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3774,
+      "title": "np01 - Prompt Master VEO3",
+      "date": "2025-06-17T23:22:57+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3789,
+      "title": "Prompt IMAGEM e Video X1",
+      "date": "2025-06-17T23:57:57+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3802,
+      "title": "Metodo META de Prompt Visuais",
+      "date": "2025-06-18T03:20:16+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3826,
+      "title": "Prompts Camera Participante",
+      "date": "2025-06-19T09:03:49+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3842,
+      "title": "Super Prompt VEO3",
+      "date": "2025-06-19T10:01:20+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3856,
+      "title": "M1 - Prompt Engineering Masterclass de Devin",
+      "date": "2025-06-22T06:35:05+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3866,
+      "title": "M2 - Prompt Engineering Masterclass de Devin",
+      "date": "2025-06-22T06:37:46+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3882,
+      "title": "Prompt Estrutural BOLT (Vibe Code)",
+      "date": "2025-06-26T04:34:23+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3898,
+      "title": "Prompts Assistente Total GPT",
+      "date": "2025-07-02T02:02:28+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3917,
+      "title": "Prompt para Lovable - (j95)",
+      "date": "2025-07-05T00:24:40+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3927,
+      "title": "Prompt Perplexity Auditoria M1",
+      "date": "2025-07-06T00:20:07+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3937,
+      "title": "Prompts para Espirtualidade Interior",
+      "date": "2025-07-09T17:53:05+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3962,
+      "title": "Prompt Consultor Estratégico Pessoal",
+      "date": "2025-07-11T00:50:31+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 3980,
+      "title": "Prompt AYRA Magico",
+      "date": "2025-07-13T07:54:26+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4012,
+      "title": "Para criar Artigo de Blog",
+      "date": "2025-07-13T20:15:56+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4013,
+      "title": "Prompt GPT - Assistente de Codigo",
+      "date": "2025-07-14T23:00:05+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4026,
+      "title": "Prompt INUY Oráclo Profundo",
+      "date": "2025-07-16T02:44:59+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4050,
+      "title": "Prompt Cria Fluxos N8n (e30)",
+      "date": "2025-07-17T18:39:07+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4060,
+      "title": "Exemplo Prompt Advogado Vibe Code",
+      "date": "2025-07-22T19:37:01+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4073,
+      "title": "Prompt Caixa Explosiva",
+      "date": "2025-07-28T04:25:55+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4088,
+      "title": "Prompt EC6 -Eng Contexto N8N Agente",
+      "date": "2025-07-30T02:47:22+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4107,
+      "title": "Prompt EC7 - Eng Contexto N8N Agente",
+      "date": "2025-07-31T02:56:10+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4125,
+      "title": "Prompt EC7 v2h - Automação",
+      "date": "2025-07-31T17:50:09+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4134,
+      "title": "Prompt EC8 - Automação",
+      "date": "2025-07-31T19:08:42+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4177,
+      "title": "Prompt Educador - Tutor Bot x1",
+      "date": "2025-08-02T23:19:32+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4208,
+      "title": "Prompt para Descoberta Aberta",
+      "date": "2025-08-04T05:01:04+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4259,
+      "title": "Prompt Basico Harmony",
+      "date": "2025-08-07T00:56:47+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4277,
+      "title": "Prompt Extraia Tom de Voice",
+      "date": "2025-08-07T04:29:25+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4296,
+      "title": "Prompts COPY para Mulheres",
+      "date": "2025-08-07T19:53:37+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4320,
+      "title": "Prompt COPY para o Homem H1",
+      "date": "2025-08-07T20:09:29+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4335,
+      "title": "Prompt de Analise de Tom de TEXTO",
+      "date": "2025-08-07T20:46:10+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4349,
+      "title": "Prompt Escrevento Artigos",
+      "date": "2025-08-07T20:52:59+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4376,
+      "title": "Prompt Criar Workflow N8N",
+      "date": "2025-08-09T02:11:14+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4394,
+      "title": "Prompt GPT Acessa qq LLM via OpenRouter",
+      "date": "2025-08-09T17:12:42+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4412,
+      "title": "Prompt AIH - Escreva com Humano",
+      "date": "2025-08-11T22:27:20+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4428,
+      "title": "Prompt ThumbFut GPT",
+      "date": "2025-08-12T04:26:59+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4445,
+      "title": "Prompt JSON IMAGEM",
+      "date": "2025-08-13T18:12:30+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4454,
+      "title": "Prompt V3 JSON Cinematica",
+      "date": "2025-08-13T18:43:54+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4462,
+      "title": "Prompt J3 - JSON Estruturado",
+      "date": "2025-08-13T18:54:15+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4476,
+      "title": "Prompt da Verdade",
+      "date": "2025-08-14T00:38:30+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4486,
+      "title": "Curso Engenharia de Prompt",
+      "date": "2025-08-15T02:36:16+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4525,
+      "title": "Prompt ap55 - Guia do Agente de Midia",
+      "date": "2025-08-16T02:44:02+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4541,
+      "title": "Hack de um GPT",
+      "date": "2025-08-17T02:13:38+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4559,
+      "title": "Prompts para GPT5",
+      "date": "2025-08-23T04:30:28+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4593,
+      "title": "Prompt ID - Playground OPENAI",
+      "date": "2025-08-23T07:05:44+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4617,
+      "title": "Hacker do Alex Hormozi",
+      "date": "2025-08-23T10:03:54+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4653,
+      "title": "Prompt Dashboard Bolt (j101)",
+      "date": "2025-08-25T01:37:07+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4668,
+      "title": "Prompts usado no Abacus",
+      "date": "2025-08-30T02:26:22+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4691,
+      "title": "Prompt para raspar N8N Workflows",
+      "date": "2025-08-31T06:36:10+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4706,
+      "title": "Cinematic FPV – Durga Puja Market Flight",
+      "date": "2025-09-03T01:44:40+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4728,
+      "title": "Lista Simples GPTs Nei",
+      "date": "2025-09-04T01:23:07+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4739,
+      "title": "GPT do Mapa da Dor - LLMs",
+      "date": "2025-09-04T04:17:15+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4756,
+      "title": "Otimizador de Prompts da OPENAI",
+      "date": "2025-09-04T04:49:07+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4780,
+      "title": "Secure GPT - fail",
+      "date": "2025-09-04T04:56:09+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4789,
+      "title": "Prompt Tecnico Padrao GPT5",
+      "date": "2025-09-04T21:39:20+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4800,
+      "title": "LIVES",
+      "date": "2025-09-04T21:42:17+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4807,
+      "title": "Estrutura de um bom Prompt",
+      "date": "2025-09-12T04:28:53+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4819,
+      "title": "Prompt Guide 4 Iniciantes e Avancado",
+      "date": "2025-09-12T05:26:35+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4836,
+      "title": "Prompt Thumb Youtube",
+      "date": "2025-09-13T19:21:42+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4850,
+      "title": "Prompt Thumb Youtube Nano Banana",
+      "date": "2025-09-14T03:29:46+00:00",
+      "method": "GetForumTopicsRequest"
+    },
+    {
+      "id": 4867,
+      "title": "Recurso Memoria no CLAUDE",
+      "date": "2025-09-18T05:02:28+00:00",
+      "method": "GetForumTopicsRequest"
+    }
+  ]
+}

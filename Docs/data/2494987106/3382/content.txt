@@ -1,0 +1,108 @@
+TOPICO 3382
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-04-11 17:34:07+00:00
+
+Total de mensagens: 12
+Midias baixadas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-04-11T17:36:10+00:00
+Texto: [Sem texto]
+Midia: MessageMediaDocument -> lovable_app_prompts.zip
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-04-11T17:34:40+00:00
+Texto:
+Prompt
+
+"Quero criar uma série de prompts para 10 aplicativos adoráveis. Agora, normalmente em adorável, o primeiro prompt que você escreve é um problema fundamental que meio que define o tom de como a interface do usuário e o design devem ser. No entanto, você realmente não vai para a funcionalidade no primeiro problema, só porque você precisa primeiro olhar e conectar essa super base uma vez que a super base esteja conectada. É aí que começamos a adicionar e pedir funcionalidade e funções de borda. Temos que pedir uma maneira que seja muito direta e tenha uma probabilidade muito alta de sucesso na primeira vez, só porque adorável tem uma tendência a pensar demais ou sub ou projetar demais a solução, dependendo de como você a está descrevendo. Portanto, precisamos de um conjunto muito claro de instruções desde o início e, em seguida, supondo que, para o segundo prompt, já conectamos uma instância base ao aplicativo. Além disso, assumimos que temos uma super base em execução e você escreve os prompts de uma forma que possamos criar um aplicativo bastante funcional que seja realista, dada a infraestrutura de super base e o poder das funções de borda, mas algo que ainda é novo e interessante. O objetivo aqui é que você crie um conjunto de prompts para esses dez aplicativos diferentes que podem simplesmente copiar, colar e, idealmente, ser capaz de criar um aplicativo totalmente funcional depois de inserir todos esses prompts com o mínimo ou nenhum erro no lado da função de borda super base, apenas porque suas instruções serão tão claras e detalhadas que será muito difícil não executá-lo corretamente, princípios sobre como escrever prompts para adorável edição e depuração adorável, além de evitar erros comuns para criar os melhores prompts possíveis e criar um conjunto muito diversificado de aplicativos. "
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-04-11T17:34:34+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-04-11T17:34:17+00:00
+Texto:
+mm6 - Experiencia #6 - Prompts Manus Lovable
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-04-11T17:34:15+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-04-11T17:34:14+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-04-11T17:34:14+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-04-11T17:34:14+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-04-11T17:34:13+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-04-11T17:34:13+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-04-11T17:34:12+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-04-11T17:34:07+00:00
+Texto: [Sem texto]
+
+------------------------------
+

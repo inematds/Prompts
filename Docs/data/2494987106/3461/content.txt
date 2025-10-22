@@ -1,0 +1,150 @@
+TOPICO 3461
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-04-23 02:11:27+00:00
+
+Total de mensagens: 16
+Midias baixadas: 3
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-04-23T02:14:16+00:00
+Texto:
+É um repositório superpopular no GitHub (cerca de 24 mil estrelas) chamado **system-prompts-and-models-of-ai-tools**. Ele reúne, em pastas separadas, os “system prompts” e ferramentas internas de vários agentes/IDE-bots de IA — v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf, VSCode/Copilot, entre outros. O README destaca:
+
+* **Conteúdo:** mais de 6 500 linhas detalhando a estrutura e funcionamento desses agentes, com prompts completos e scripts auxiliares.  
+* **Organização:** cada agente tem sua própria pasta; há ainda uma seção só com prompts de projetos open-source.  
+* **Aviso de segurança:** alerta startups de IA sobre o risco de vazamentos de prompts e oferece o serviço “ZeroLeaks” para auditoria gratuita de possíveis exposições. citeturn2view0
+
+Resumindo: é um “pacotão” de referências para quem estuda ou desenvolve agentes LLM, com um lembrete explícito sobre proteger instruções internas contra falhas de segurança.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-04-23T02:12:35+00:00
+Texto:
+aqui caso o link acima nao tiver mais
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-04-23T02:12:24+00:00
+Texto: [Sem texto]
+Midia: MessageMediaDocument -> system-prompts-and-models-of-ai-tools-main.zip
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-04-23T02:12:12+00:00
+Texto:
+**Prompts do Sistema VAZADOS - Lovable, Manus, Vercel, Replit, & mais!**
+
+Eu estava percorrendo as franjas escuras do X ontem à noite e me deparei com um repositório onde bons ou maus atores (dependendo da sua perspectiva) foram capazes de vazar todos os problemas do sistema das principais plataformas de citação de vibração, como Cursor, Lovable e Manus.Os prompts do sistema ensinam MUITO sobre por que você encontra muitos erros que comete nessas plataformas e fornecem uma boa folha de dicas sobre como criar prompts sólidos e melhorar suas habilidades de engenharia rápida.
+Definitivamente vale a pena dar uma olhada!
+Link direto para o repositório: [Github](https://github.com/x1xhlol)
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-04-23T02:11:47+00:00
+Texto:
+Prompts Vazados dos SISTEMAS
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-04-23T02:11:35+00:00
+Texto:
+.....
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-04-23T02:11:35+00:00
+Texto:
+....
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-04-23T02:11:35+00:00
+Texto:
+...
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-04-23T02:11:34+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-04-23T02:11:34+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-04-23T02:11:34+00:00
+Texto:
+...
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-04-23T02:11:34+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-04-23T02:11:34+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-04-23T02:11:33+00:00
+Texto:
+https://chatgpt.com/c/68084b2b-2d08-8009-b4ef-b078df2db0b1
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 15
+Autor: INEMA
+Data: 2025-04-23T02:11:33+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 16
+Autor: INEMA
+Data: 2025-04-23T02:11:27+00:00
+Texto: [Sem texto]
+
+------------------------------
+

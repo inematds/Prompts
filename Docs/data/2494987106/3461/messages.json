@@ -1,0 +1,131 @@
+[
+  {
+    "id": 3476,
+    "author": "INEMA",
+    "date": "2025-04-23T02:14:16+00:00",
+    "text": "É um repositório superpopular no GitHub (cerca de 24 mil estrelas) chamado **system-prompts-and-models-of-ai-tools**. Ele reúne, em pastas separadas, os “system prompts” e ferramentas internas de vários agentes/IDE-bots de IA — v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf, VSCode/Copilot, entre outros. O README destaca:\n\n* **Conteúdo:** mais de 6 500 linhas detalhando a estrutura e funcionamento desses agentes, com prompts completos e scripts auxiliares.  \n* **Organização:** cada agente tem sua própria pasta; há ainda uma seção só com prompts de projetos open-source.  \n* **Aviso de segurança:** alerta startups de IA sobre o risco de vazamentos de prompts e oferece o serviço “ZeroLeaks” para auditoria gratuita de possíveis exposições. citeturn2view0\n\nResumindo: é um “pacotão” de referências para quem estuda ou desenvolve agentes LLM, com um lembrete explícito sobre proteger instruções internas contra falhas de segurança.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3475,
+    "author": "INEMA",
+    "date": "2025-04-23T02:12:35+00:00",
+    "text": "aqui caso o link acima nao tiver mais",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3474,
+    "author": "INEMA",
+    "date": "2025-04-23T02:12:24+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "system-prompts-and-models-of-ai-tools-main.zip"
+  },
+  {
+    "id": 3473,
+    "author": "INEMA",
+    "date": "2025-04-23T02:12:12+00:00",
+    "text": "**Prompts do Sistema VAZADOS - Lovable, Manus, Vercel, Replit, & mais!**\n\nEu estava percorrendo as franjas escuras do X ontem à noite e me deparei com um repositório onde bons ou maus atores (dependendo da sua perspectiva) foram capazes de vazar todos os problemas do sistema das principais plataformas de citação de vibração, como Cursor, Lovable e Manus.Os prompts do sistema ensinam MUITO sobre por que você encontra muitos erros que comete nessas plataformas e fornecem uma boa folha de dicas sobre como criar prompts sólidos e melhorar suas habilidades de engenharia rápida.\nDefinitivamente vale a pena dar uma olhada!\nLink direto para o repositório: [Github](https://github.com/x1xhlol)",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3472,
+    "author": "INEMA",
+    "date": "2025-04-23T02:11:47+00:00",
+    "text": "Prompts Vazados dos SISTEMAS",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3471,
+    "author": "INEMA",
+    "date": "2025-04-23T02:11:35+00:00",
+    "text": ".....",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3470,
+    "author": "INEMA",
+    "date": "2025-04-23T02:11:35+00:00",
+    "text": "....",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3469,
+    "author": "INEMA",
+    "date": "2025-04-23T02:11:35+00:00",
+    "text": "...",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3468,
+    "author": "INEMA",
+    "date": "2025-04-23T02:11:34+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3467,
+    "author": "INEMA",
+    "date": "2025-04-23T02:11:34+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3466,
+    "author": "INEMA",
+    "date": "2025-04-23T02:11:34+00:00",
+    "text": "...",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3465,
+    "author": "INEMA",
+    "date": "2025-04-23T02:11:34+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3464,
+    "author": "INEMA",
+    "date": "2025-04-23T02:11:34+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3463,
+    "author": "INEMA",
+    "date": "2025-04-23T02:11:33+00:00",
+    "text": "https://chatgpt.com/c/68084b2b-2d08-8009-b4ef-b078df2db0b1",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3462,
+    "author": "INEMA",
+    "date": "2025-04-23T02:11:33+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3461,
+    "author": "INEMA",
+    "date": "2025-04-23T02:11:27+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

@@ -1,0 +1,91 @@
+TOPICO 3450
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-04-23 02:01:45+00:00
+
+Total de mensagens: 10
+Midias baixadas: 0
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-04-23T02:02:24+00:00
+Texto:
+Prompt usado:
+"Analise esta imagem como um inspetor de construção sênior com 30+ anos de experiência em investigação forense. Identifique quaisquer problemas de construção, violações do código, riscos de segurança ou preocupações de manutenção. Examine: - Integridade estrutural (paredes, teto, pisos) - Sistemas elétricos (tomadas, acessórios visíveis) - Elementos de encanamento (se visíveis) - Janelas e portas (instalação, vedação) - Preocupações com segurança contra incêndio - Possíveis danos causados pela água ou problemas de umidade - Riscos de tropeçar/cair - Qualidade geral de fabricação Para cada problema encontrado: - Descreva exatamente o que você vê - Explique por que é problemático - Gravidade da taxa (menor, moderada, crítica) Se uma área parece construída corretamente sem problemas visíveis, Afirme isso claramente. Conclua com uma avaliação geral: este espaço passa na inspeção ou requer reparos antes da aprovação? Quais são suas 3 principais preocupações, se houver? Use uma linguagem direta e profissional que um proprietário entenderia.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-04-23T02:01:58+00:00
+Texto:
+Prompt Analise Casa GPT o3
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-04-23T02:01:56+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-04-23T02:01:55+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-04-23T02:01:55+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-04-23T02:01:55+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-04-23T02:01:54+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-04-23T02:01:54+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-04-23T02:01:53+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-04-23T02:01:45+00:00
+Texto: [Sem texto]
+
+------------------------------
+

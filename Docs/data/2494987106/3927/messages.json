@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3935,
+    "author": "INEMA",
+    "date": "2025-07-06T00:20:22+00:00",
+    "text": "**Perplexity Labs Prompt for n8nDrafting\n**\n \n\nYou are a senior AI-automation consultant and master promptengineer tasked with producing a fully self-contained Mini AI Audit for\n**{{COMPANY_NAME}}** that both diagnoses the business and delivers up to sevenready-to-import n8n workflow JSONs—one for each core function you infer (choose\nthe seven you judge most relevant, e.g. Marketing, Sales, Customer Support,Operations, Finance, HR, Product/Engineering, Supply Chain, etc.)—so begin by\nresearching publicly available data to capture industry, products, targetcustomers, revenue model, tech stack hints, team size, news, and competitive\nlandscape, then reason from first principles to map likely systems per function(for example Marketing → Mailchimp and Google Ads, Sales → HubSpot or\nSalesforce, Support → Zendesk or Intercom, Ops → Shopify or ShipStation,Finance → QuickBooks or Xero, HR → BambooHR or Workday, Product/Eng → GitHub\nand Linear) and articulate a pain point for each function; immediately aftereach pain-point description embed a compliant n8n workflow wrapped in\ntriple-backtick fences labeled `json`, ensure every workflow root includes`\"version\": 2`, that each node has `name`, `type`, `typeVersion`,\n`parameters`, `position` (integers), and that `\"connections\"` arraysreference downstream node `name`s exactly, populate placeholder credentials\nlike `\"apiKey\":\"YOUR_API_KEY_HERE\"`, avoid deprecatednodes, empty strings, or nulls, and validate mentally that the JSON passes the\nlatest n8n import checker; sequence the seven workflows in logical order, keepall narrative and JSONs inside this single coherent paragraph with no bullet\nlists or tables, finish with a brief roadmap sentence (30-60-90 days) and afriendly CTA inviting leadership to review and launch the first pilot.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3934,
+    "author": "INEMA",
+    "date": "2025-07-06T00:20:17+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3933,
+    "author": "INEMA",
+    "date": "2025-07-06T00:20:16+00:00",
+    "text": "Prompt Perplexity Auditoria M1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3932,
+    "author": "INEMA",
+    "date": "2025-07-06T00:20:16+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3931,
+    "author": "INEMA",
+    "date": "2025-07-06T00:20:16+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3930,
+    "author": "INEMA",
+    "date": "2025-07-06T00:20:15+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3929,
+    "author": "INEMA",
+    "date": "2025-07-06T00:20:15+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3928,
+    "author": "INEMA",
+    "date": "2025-07-06T00:20:15+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3927,
+    "author": "INEMA",
+    "date": "2025-07-06T00:20:07+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

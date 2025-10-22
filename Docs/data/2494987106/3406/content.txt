@@ -1,0 +1,126 @@
+TOPICO 3406
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-04-12 01:57:16+00:00
+
+Total de mensagens: 13
+Midias baixadas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-04-12T02:06:30+00:00
+Texto: [Sem texto]
+Midia: MessageMediaDocument -> Prompt Engineering Google.pdf
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-04-12T01:58:01+00:00
+Texto:
+**Guia do Google para AI Prompting
+**
+Algumas das coisas legais que ele cobre:
+
+Zero-shot vs Few-shot → Quando usar nenhum exemplo vs. alguns para obter melhores resultados
+
+Prompts do sistema → Como moldar o tom, as regras e o estilo de resposta do modelo
+
+Cadeia de pensamento → Ensine os modelos a pensar em voz alta para um melhor raciocínio
+
+Reagir → Combinar lógica com ações para tarefas de várias etapas
+
+Solicitando código → práticas recomendadas para desenvolvedores que usam LLMs
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-04-12T01:57:30+00:00
+Texto:
+Guia de Prompt Google 2025/4
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-04-12T01:57:27+00:00
+Texto:
+....
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-04-12T01:57:26+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-04-12T01:57:26+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-04-12T01:57:26+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-04-12T01:57:26+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-04-12T01:57:25+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-04-12T01:57:25+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-04-12T01:57:25+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-04-12T01:57:24+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-04-12T01:57:16+00:00
+Texto: [Sem texto]
+
+------------------------------
+

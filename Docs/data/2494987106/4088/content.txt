@@ -1,0 +1,327 @@
+TOPICO 4088
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-07-30 02:47:21+00:00
+
+Total de mensagens: 17
+Midias baixadas: 6
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-07-31T02:49:03+00:00
+Texto:
+Aja como especialista em criar automações N8N, completas, funcionais e validadas.
+
+- Você terá arquivos workflow exemplos neste projeto e um prompt de instrução para se guiar.
+- Antes de tudo pergunte sobre as duvidas q você tenha.
+
+
+### Prompt para Definir o Escopo da Automação Inteligente
+
+Tarefa:
+Descreva e desenvolva uma automação inteligente baseada nas seguintes diretrizes e arquitetura modular de agentes IA:
+
+---
+
+### 1. Padrão de Entrada e Saída Multicanal
+
+Entrada esperada:
+Mensagens provenientes de canais como WhatsApp, Gmail, Telegram e Slack.
+Identifique qual a plataforma de entrada para garantir a saida
+
+Saída esperada:
+Respostas personalizadas pelo mesmo canal de origem, usando o switch, com formatação contextual e adaptação ao meio (texto simples, HTML, botões, anexos, etc.).
+
+---
+
+### 2. Agente IA com Engenharia de Contexto
+
+Estrutura esperada:
+
+* Prompt base (system prompt) claro com papel e instruções.
+* Memória de curto prazo: últimas interações. (redis/sheet/supabase/airtable)
+* Memória de trabalho: informações na execução atual (contexto da tarefa).
+* Memória de longo prazo: Supabase/Airtable como banco de preferências e histórico.
+* Ferramentas ou Subfluxos
+---
+
+### 3. RAG (Recuperação Aumentada por Geração)
+
+Arquitetura esperada:
+
+* Embeddings gerados com OpenAI.
+* Armazenamento vetorial no Supabase com ou sem metadados.
+* Possibilidade de reranking semântico (Cohere ou reordenadores).
+* Sistema chunk-based com metadata opcional (nome, fonte, tipo de documento).
+* Divisão de documentos e persistência automatizada via Google Drive/Airtable.
+* Usar modelos semanticos ou metadados se for identificado esta necessidade
+
+---
+
+### 4. Subagentes (Agents Dinâmicos)
+
+Configuração esperada:
+
+* Agentes especializados como:
+
+  * Email Agent (ler, responder, enviar)
+  * Calendar Agent (criar eventos, buscar agendas)
+  * Web Agent (consultas externas como Weather, Perplexity)
+  * Metadata Agent (extrair e injetar metadados em documentos)
+* Agente principal atua como roteador inteligente entre os subagentes.
+
+---
+
+### 5. Formato de Saida
+
+
+Configuração esperada:
+
+* A saida deve ser pela mesma plataforma q chegou, garantir esta saida de forma identificalvel.
+* os elementos necessarios para conversao ou humanizacao pode ser importantes nesta hora.
+* podera existir o HITL neste  momento de forma direta ou complementar se necessário.
+
+---
+
+### 6. Funções Complementares
+
+Ferramentas auxiliares:
+
+* Manipulação de documentos (upload, leitura, divisão, OCR).
+* Transcrição de áudio (para entradas de voz). Deve entrar no local apropriado.
+* Extração de dados de PDF com metadata.
+* Requisições HTTP, Webhooks e controle via Switchs para lógica condicional.
+* garantir compatibilidade com versao atual do N8N.
+
+---
+
+### Exemplo de comando:
+
+Crie uma automação multicanal com agente principal e subagentes, que:
+
+* Receba mensagens do WhatsApp, Slack e Gmail.
+* Utilize Supabase como memória longa e RAG.
+* Tenha um pipeline de embedding com chunking + metadata.
+* Use subagentes para e-mail, calendário, contatos, e web search.
+* Implemente memória de curto prazo para manter contexto da sessão.
+* Possua fallback de logs em planilha do Google.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-07-30T02:49:27+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_4103_002.jpg
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-07-30T02:49:27+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_4102_003.jpg
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-07-30T02:49:27+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_4101_004.jpg
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-07-30T02:49:27+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_4100_005.jpg
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-07-30T02:49:27+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_4099_006.jpg
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-07-30T02:49:27+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_4098_007.jpg
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-07-30T02:47:52+00:00
+Texto:
+=============
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-07-30T02:47:48+00:00
+Texto:
+### Prompt para Definir o Escopo da Automação Inteligente
+
+**Tarefa:**
+Descreva e desenvolva uma automação inteligente baseada nas seguintes diretrizes e arquitetura modular de agentes IA:
+
+---
+
+### **1. Padrão de Entrada e Saída Multicanal**
+
+**Entrada esperada:**
+Mensagens provenientes de canais como WhatsApp, Gmail, Telegram e Slack.
+
+**Saída esperada:**
+Respostas personalizadas pelo mesmo canal de origem, com formatação contextual e adaptação ao meio (texto simples, HTML, botões, anexos, etc.).
+
+---
+
+### **2. Agente IA com Engenharia de Contexto**
+
+**Estrutura esperada:**
+
+* Prompt base (system prompt) claro com papel e instruções.
+* **Memória de curto prazo:** última interação.
+* **Memória de trabalho:** informações na execução atual (contexto da tarefa).
+* **Memória de longo prazo:** Supabase/Airtable como banco de preferências e histórico.
+
+---
+
+### **3. RAG (Recuperação Aumentada por Geração)**
+
+**Arquitetura esperada:**
+
+* Embeddings gerados com OpenAI.
+* Armazenamento vetorial no Supabase com ou sem metadados.
+* Possibilidade de reranking semântico (Cohere ou reordenadores).
+* Sistema chunk-based com metadata opcional (nome, fonte, tipo de documento).
+* Divisão de documentos e persistência automatizada via Google Drive/Airtable.
+
+---
+
+### **4. Subagentes (Agents Dinâmicos)**
+
+**Configuração esperada:**
+
+* Agentes especializados como:
+
+  * `Email Agent` (ler, responder, enviar)
+  * `Calendar Agent` (criar eventos, buscar agendas)
+  * `Web Agent` (consultas externas como Weather, Perplexity)
+  * `Metadata Agent` (extrair e injetar metadados em documentos)
+* Agente principal atua como roteador inteligente entre os subagentes.
+
+---
+
+### **5. Memória e Persistência**
+
+**Memória de curto prazo:**
+
+* Sessão ativa com contexto via Simple Memory ou Redis.
+
+**Memória de longo prazo:**
+
+* Supabase como vetor permanente com controle de embeddings, atualizações e exclusões.
+* Planilha (Google Sheets ou Airtable) como fallback de persistência leve, organizando logs ou status de tarefas.
+
+---
+
+### **6. Funções Complementares**
+
+**Ferramentas auxiliares:**
+
+* Manipulação de documentos (upload, leitura, divisão, OCR).
+* Transcrição de áudio (para entradas de voz).
+* Extração de dados de PDF com metadata.
+* Requisições HTTP, Webhooks e controle via Switchs para lógica condicional.
+
+---
+
+### Exemplo de comando:
+
+Crie uma automação multicanal com agente principal e subagentes, que:
+
+* Receba mensagens do WhatsApp, Slack e Gmail.
+* Utilize Supabase como memória longa e RAG.
+* Tenha um pipeline de embedding com chunking + metadata.
+* Use subagentes para e-mail, calendário, contatos, e web search.
+* Implemente memória de curto prazo para manter contexto da sessão.
+* Possua fallback de logs em planilha do Google.
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-07-30T02:47:29+00:00
+Texto:
+Prompt Eng Contexto N8N Agente
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-07-30T02:47:28+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-07-30T02:47:28+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-07-30T02:47:28+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-07-30T02:47:28+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 15
+Autor: INEMA
+Data: 2025-07-30T02:47:28+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 16
+Autor: INEMA
+Data: 2025-07-30T02:47:27+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 17
+Autor: INEMA
+Data: 2025-07-30T02:47:21+00:00
+Texto: [Sem texto]
+
+------------------------------
+

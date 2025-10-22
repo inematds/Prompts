@@ -1,0 +1,667 @@
+TOPICO 3064
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-04-07 02:17:04+00:00
+
+Total de mensagens: 38
+Midias encontradas: 9
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-04-07T04:26:48+00:00
+Texto:
+https://gamma.app/docs/k4p1ik3d48b10gi
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-04-07T04:26:28+00:00
+Texto:
+https://gamma.app/docs/gp389kr59m0uiun
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-04-07T03:40:58+00:00
+Texto: [Sem texto]
+Midia: MessageMediaDocument
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-04-07T03:40:33+00:00
+Texto: [Sem texto]
+Midia: MessageMediaDocument
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-04-07T03:40:12+00:00
+Texto: [Sem texto]
+Midia: MessageMediaDocument
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-04-07T03:39:32+00:00
+Texto: [Sem texto]
+Midia: MessageMediaDocument
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-04-07T03:38:20+00:00
+Texto: [Sem texto]
+Midia: MessageMediaDocument
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-04-07T02:49:50+00:00
+Texto:
+### **GLOSSÁRIO – Engenharia de Prompt para Gênios**
+
+**1. LLM (Large Language Model)**  
+Modelo de linguagem de grande escala treinado para prever a próxima palavra em uma sequência de texto com base em dados massivos.
+
+**2. Prompt**  
+Instrução escrita enviada ao modelo para gerar uma resposta.
+
+**3. Prompt Engineering (Engenharia de Prompt)**  
+Processo de escrever e ajustar prompts para obter melhores respostas dos modelos de IA.
+
+**4. Zero-shot prompting**  
+Prompt direto, sem fornecer exemplos.  
+*Exemplo:* “Explique por que o céu é azul.”
+
+**5. Few-shot prompting**  
+Prompt com poucos exemplos (1 a 5) para orientar o modelo sobre formato ou estilo.  
+*Exemplo:* dar exemplos de propostas para o modelo gerar uma nova.
+
+**6. Iterative prompting**  
+Conversa em etapas com o modelo, refinando a resposta com comandos como “refaça”, “corrija”, “melhore”, etc.
+
+**7. Token**  
+Unidade mínima de texto processada por LLMs. Pode ser uma palavra, parte de uma palavra ou pontuação.  
+*Exemplo:* “gato” pode ser 1 token. “inteligência” pode ser dividido em 2 ou mais tokens.
+
+**8. Tokenização**  
+Processo de dividir o texto em tokens para que o modelo consiga processá-lo.
+
+**9. Embedding**  
+Representação vetorial de um texto em forma de números. É a linguagem “numérica” que os modelos usam internamente para entender relações semânticas.
+
+**10. Vetor (Vector)**  
+Lista de números que representa um conceito ou palavra em um espaço multidimensional.  
+*Exemplo:* [0.12, -1.34, 2.87, …]
+
+**11. Transformer**  
+Arquitetura de rede neural usada em LLMs que permite processar e gerar linguagem natural com atenção ao contexto.
+
+**12. Self-Attention (Atenção própria)**  
+Mecanismo que permite ao modelo focar em partes diferentes da frase conforme a relevância de cada palavra no contexto.
+
+**13. Multi-head attention**  
+Permite ao modelo prestar atenção em múltiplas partes de uma frase simultaneamente, com diferentes pesos.
+
+**14. Context window (Janela de contexto)**  
+Quantidade de tokens que o modelo consegue analisar de uma vez só ao gerar uma resposta.  
+*Exemplo:* Claude 3 = 200 mil tokens. GPT-4 Turbo = até 128 mil tokens.
+
+**15. Hallucination (Alucinação)**  
+Quando o modelo gera respostas incorretas ou inventadas com confiança, por não ter os dados certos.
+
+**16. Safety Layer (Camada de segurança)**  
+Filtro que impede o modelo de responder perguntas sensíveis, ilegais, ou que ferem diretrizes.
+
+**17. Heurística**  
+Regra prática que orienta decisões, sem ser uma regra fixa.  
+*Exemplo:* “Coloque contexto antes do pedido” é uma heurística de prompting.
+
+**18. Re-prompting**  
+Refazer o prompt com base na resposta anterior para melhorar o resultado.
+
+**19. Reasoning model (Modelo com raciocínio)**  
+Modelos mais avançados que conseguem refletir e revisar suas próprias respostas.  
+*Exemplo:* GPT-4, Claude 3 Sonnet.
+
+**20. Embedding Model**  
+Modelo específico que transforma texto em vetores para tarefas como busca semântica, classificação e agrupamento.
+
+**21. Markdown / Hashtags em Prompt**  
+Uso de marcações como #Contexto ou #Instruções para indicar estrutura no prompt.  
+Ajuda o modelo a identificar seções distintas.
+
+**22. Chunking**  
+Processo de dividir documentos em pedaços menores para gerar embeddings e fazer buscas em bancos de dados vetoriais.
+
+**23. Output (Saída)**  
+Resposta gerada pelo modelo com base no prompt.
+
+**24. Input (Entrada)**  
+Prompt ou conteúdo fornecido ao modelo.
+
+**25. Code Interpreter (Python / Ferramenta de Códigos)**  
+Função que permite o modelo executar cálculos reais ou gerar gráficos usando código (ex: Python).
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-04-07T02:49:09+00:00
+Texto:
+=========
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-04-07T02:49:06+00:00
+Texto:
+**1. O que é Engenharia de Prompt?**  
+É a prática de criar instruções (prompts) que geram melhores respostas em modelos de linguagem como o ChatGPT. A qualidade do output depende 100% da qualidade do input.
+
+**2. Fundamentos de Modelos de Linguagem (LLMs):**  
+- São *modelos preditivos* que operam por probabilidade, não por compreensão real.  
+- Não entendem línguas ou conceitos — apenas fazem correlações com base em dados treinados.  
+- Tudo funciona por **tokens**, que são fragmentos de palavras ou palavras inteiras.
+
+**3. Transformers e Atenção:**  
+- O **Transformer** é a arquitetura base dos LLMs como GPT.  
+- Usa mecanismos como **atenção** e **multi-head attention** para prever palavras com base em contexto.  
+- **Embeddings** transformam texto em vetores numéricos que os modelos entendem.  
+- O modelo dá mais “peso” a certas partes da entrada com base em posição e contexto.
+
+**4. Janelas de Contexto:**  
+- Representam a quantidade de texto que o modelo consegue “ver” de uma vez.  
+- Modelos com janelas maiores (ex: Claude 3, Gemini 2.5 Pro) conseguem lidar com arquivos longos.  
+- Jogar muitos arquivos sem estratégia confunde o modelo e reduz a qualidade da resposta.
+
+**5. Prompting na Prática:**
+
+**a) Zero-shot prompting**  
+- Pedir algo diretamente, sem exemplos.  
+- Funciona para tarefas simples, mas não é bom para temas delicados ou formatos específicos.
+
+**b) Few-shot prompting**  
+- Dar de 1 a 5 exemplos antes de fazer o pedido.  
+- Aumenta a chance de obter respostas no formato e estilo desejados.  
+- Evite exagerar nos exemplos, pois ocupa o espaço da janela de contexto.
+
+**c) Iterative prompting**  
+- Conversar com o modelo em etapas.  
+- Refina a resposta progressivamente com feedbacks como “corrija”, “refaça”, “considere isso...”.  
+- Essencial para personalizar saídas com estilo, tom, formato ou voz de marca.
+
+**6. Alucinações e Limitações:**  
+- Modelos sempre tentam responder, mesmo sem certeza — o que causa erros (alucinações).  
+- Não existe "prompt mágico". Bons resultados exigem tentativa, refinamento e clareza.
+
+**7. Previsão do instrutor:**  
+- Google pode vencer a corrida da IA por ter os dados mais limpos e em maior quantidade.  
+- A evolução dos LLMs depende quase exclusivamente de dados novos e de qualidade.
+
+---
+
+**Exemplos práticos citados:**
+- “Escreva uma história sobre um gato voador” → modelo prevê com base no que já viu.  
+- “Multiplique 53.467 por um número” → modelo erra sem ajuda externa (ex: Python).  
+- Criação de propostas com exemplos anteriores → melhora significativamente a saída.
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-04-07T02:48:11+00:00
+Texto:
+Resumo
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-04-07T02:47:21+00:00
+Texto:
+===========
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-04-07T02:47:17+00:00
+Texto:
+Próximo tópico: **técnicas intermediárias de prompting**.
+
+Essa parte será feita em um vídeo separado, segundo o autor, para você poder respirar um pouco. Mas antes disso, ele conclui o conteúdo anterior com um exemplo prático sobre **contabilidade interativa**:
+
+Você digita:  
+**"Qual é 53.467 vezes [um número]?"**  
+O modelo responde algo — normalmente errado, especialmente com modelos não voltados para raciocínio. Por quê?
+
+Porque esses números são *sem sentido* para o modelo. Ele tenta lembrar de exemplos similares em seus dados de treino, como:  
+**53.071 × 76.009 = 4.000.935?**  
+Se nunca viu esse cálculo exato, ele não sabe o que fazer.
+
+Foi por isso que, com o GPT-4, adicionaram o **Code Interpreter** — que usa Python para realmente calcular e devolver o resultado ao modelo, que então responde corretamente.
+
+Se o modelo nunca viu essa multiplicação antes, e acerta a resposta, foi por sorte — não foi intencional.
+
+Mas, se você pedir:  
+**"Essa resposta está certa? Se não, por quê?"**,  
+o modelo pode revisar, refletir e tentar encontrar o erro com base em princípios matemáticos que conhece. Mesmo assim, só a partir do GPT-4 isso começou a funcionar de verdade.
+
+Modelos de raciocínio mais recentes (como o GPT-4 Turbo, Claude 3 Sonnet e similares) conseguem refletir com mais profundidade e têm mais treino em matemática. Eles são bem melhores para esse tipo de tarefa.
+
+**Resumo dessa parte:**  
+O prompting iterativo transforma um Q&A simples em uma sessão interativa que melhora o resultado progressivamente.
+
+Na próxima parte (técnicas intermediárias), o autor afirma que vai abordar coisas mais avançadas — então ele separa isso como uma nova etapa.
+
+---
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-04-07T02:39:51+00:00
+Texto:
+============
+
+------------------------------
+
+MENSAGEM 15
+Autor: INEMA
+Data: 2025-04-07T02:39:45+00:00
+Texto:
+isso com 3, 10, 100 e-mails. O modelo vai começa**ndo a capturar seu **tom, estilo e jeito de escrever — até gerar um prompt completo com a sua personalidade.
+
+
+Você também pode usar comandos como:
+
+“Considere XYZ e tente novamente”
+
+
+“Corrija os erros da sua resposta anterior”
+
+
+“Revise os cálculos acima passo a passo e corrija”
+
+
+Cada um desses direciona a atenção do modelo para objetivos diferentes — corrigir erros, revisar lógica, melhorar fluidez ou estilo.
+Modelos mais recentes até fazem isso sozinhos: geram uma resposta, reavaliam, ajustam, e então entregam o resultado.
+Mas se você quiser respostas mais humanas, com menos linguagem robótica, mais detalhes, mais precisão ou menos alucinação, o prompting iterativo é essencial.
+Finalizando esse trecho: não tenha medo de pedir de novo. Não existe “prompt mágico”. Existe iteração, tentativa e refinamento.
+
+------------------------------
+
+MENSAGEM 16
+Autor: INEMA
+Data: 2025-04-07T02:39:45+00:00
+Texto:
+Vamos começar com algumas técnicas diferentes.
+
+**Zero-shot prompting** (prompt sem exemplo) é literalmente pedir algo direto, sem dar nenhum exemplo ou expectativa de como aquilo deve ser.
+
+Exemplo: “Explique por que o céu é azul em um parágrafo.”
+
+Sem contexto, sem exemplo — o modelo vai se basear apenas no conhecimento interno que acumulou durante o treinamento. Isso pode funcionar bem para tarefas simples ou comuns.
+
+Mas para perguntas complexas, polêmicas ou políticas, esse tipo de prompt pode ser arriscado. Por isso algumas pessoas dizem que os modelos da OpenAI são “woke” ou que os da Anthropic recusam muitas coisas. Isso acontece porque, além dos dados enviesados do treinamento, eles adicionam uma camada extra de segurança — chamada de “safety layer” — que bloqueia algumas respostas, mesmo que o modelo tenha acesso ao conteúdo.
+
+Uma curiosidade: se você for ao site LMSys Chatbot Arena (onde modelos são testados anonimamente), verá que alguns modelos liberam respostas mais diretas, sem bloqueios. Ali você pode fazer perguntas mais delicadas e até pedir, por exemplo, as primeiras 10 páginas de um livro, e o modelo entrega — o que mostra que eles realmente “lembram” dos livros inteiros, mesmo que publicamente eles digam que não.
+
+Ou seja: mesmo com zero-shot, o modelo sabe muita coisa — ele só não pode mostrar tudo.
+
+Então, zero-shot é útil para tarefas simples, genéricas ou para testar um modelo novo e ver o que ele é capaz de fazer. Sempre que um novo modelo sai, eu gosto de testar com zero-shot algo como: “Crie um negócio de 1 milhão de dólares”. Só para ver como responde, sem ajuda.
+
+Agora, **few-shot prompting** (prompt com poucos exemplos) é diferente.
+
+A ideia aqui é: você dá de 1 a 5 exemplos ao modelo para aumentar a confiança dele no formato de saída desejado.
+
+Por exemplo:
+
+
+Você tem três propostas feitas para clientes — uma auditoria de IA, uma automação simples e uma automação completa.
+
+
+Você dá esses exemplos e depois pede: “Crie uma proposta para essa nova automação.”
+
+
+Com esses exemplos, você aumenta a chance do modelo gerar uma resposta mais próxima do que você quer, porque ele tem uma base concreta para se inspirar.
+Quantos exemplos usar? Depende. Comece com 1, teste. Depois 2, 3... Mas cuidado: tem um ponto onde muitos exemplos começam a atrapalhar — o modelo se perde e a confiança na saída diminui. Isso acontece porque ele não entende os exemplos, só tenta fazer correlações probabilísticas com o que viu.
+Few-shot é ideal para:
+
+Classificações específicas
+
+
+Transformações de texto padronizadas
+
+
+Seguir guias de estilo
+
+
+Manter tom e voz consistentes
+
+
+Exemplo: se você quer que o modelo escreva como sua marca, dê exemplos de como vocês escrevem — e não exagere, pois tudo ocupa espaço na janela de contexto. Modelos como Claude, por exemplo, podem encerrar a conversa por excesso de dados.
+Se isso acontecer, você pode usar prompting reverso (que será explicado depois) para registrar tudo que pediu e iniciar um novo chat com base nisso.
+Exemplo prático:
+Prompt: “Transforme nomes de filmes em nomes de super-heróis.”Exemplos dados:
+
+The Godfather → The Shadow Dawn
+
+
+Jurassic Park → The Prehistoric Ark
+
+
+The Matrix → The Digital Liberator
+
+
+Agora você pede: “Titanic”. Com base nos anteriores, o modelo tentará gerar um nome no mesmo estilo.
+Depois temos o **iterative prompting** (prompt iterativo).
+Isso é basicamente conversar com o modelo como você faria com um colega de trabalho. Vai ajustando o prompt com base no que ele responde.
+Por exemplo:
+Você quer criar uma proposta para uma automação. Você começa perguntando algo genérico. A resposta vem. Então você pergunta:
+
+“Qual departamento será priorizado?”
+
+
+“Vai usar hardware ou só software?”
+
+
+“Qual sistema será integrado?”
+
+
+Esse vai-e-volta gera melhores resultados, principalmente quando o assunto é complexo e exige nuances. Cada resposta do modelo vira base para a próxima pergunta — e isso é extremamente útil, por exemplo, para treinar o modelo a escrever e-mails no seu estilo.
+Você mostra:
+
+Entrada (mensagem recebida)
+
+
+Sua resposta (como respondeu)Repete
+
+------------------------------
+
+MENSAGEM 17
+Autor: INEMA
+Data: 2025-04-07T02:31:43+00:00
+Texto:
+================
+
+------------------------------
+
+MENSAGEM 18
+Autor: INEMA
+Data: 2025-04-07T02:31:39+00:00
+Texto:
+apenas associa a ideia de palhaço com o que já viu antes — e tenta prever tokens coerentes com isso.
+
+Vamos seguir agora para os fundamentos da engenharia de prompt e as técnicas básicas (como zero-shot e few-shot), que explicarei na próxima resposta.
+
+------------------------------
+
+MENSAGEM 19
+Autor: INEMA
+Data: 2025-04-07T02:31:39+00:00
+Texto:
+Quando falamos sobre "capital da França", por exemplo, o modelo responde "Paris" com 95% de certeza, porque isso está fortemente associado na base de dados. Mesmo sem entender o que essas palavras significam, ele sabe que, estatisticamente, elas estão ligadas. Provavelmente foi treinado e ajustado para memorizar que “a capital da Rússia é Moscou”, “a do Reino Unido é Londres” e assim por diante.
+
+Sob o capô, o modelo representa palavras como vetores — ou seja, séries de números, como [0.123, -1.23, 2.456…]. Esses números são significativos para o modelo, pois definem a posição semântica das palavras.
+
+Por exemplo: "gato", "cachorro" e "banana" — semanticamente, "gato" e "cachorro" estão próximos (são animais), mas "banana" está longe (é uma fruta). Você raramente verá “gato” e “banana” juntos no mesmo contexto, a não ser que seja “macaco e banana” — aí sim há proximidade semântica.
+
+Resumidamente, um LLM (Modelo de Linguagem de Grande Escala) é um mecanismo de texto preditivo turbinado — tentando prever a continuação mais provável do que você escreveu. A arquitetura é puramente probabilística.
+
+Se seus clientes acham que isso é mágica — não é. E eu não vejo um momento no futuro próximo em que isso vá mudar. A menos que a gente adicione algo novo, um suplemento aos transformers. Mesmo que alguém diga que AGI (inteligência geral artificial) chegou, tudo que sentimos ainda são melhores previsões.
+
+E a única forma dos LLMs realmente ficarem melhores é: com dados. Não são funcionalidades legais, nem bancos de conhecimento, nem bases vetoriais. É dado. Quanto mais dados bons, novos e relevantes, melhor será o modelo.
+
+É por isso que, mesmo que a OpenAI e a Anthropic sejam muito populares, eu acredito que o Google vai vencer essa corrida. Não só porque eles criaram a arquitetura Transformer, mas porque têm os dados mais limpos do mundo — mais que Amazon, Meta ou qualquer outro. Eles dominam as buscas, as consultas, os resultados, as páginas da web... acumulam isso há anos.
+
+Acredito que essa correlação entre qualidade de dados e performance no modelo é o que dará vantagem ao Google. Uma previsão ousada, talvez. O conceito de AGI, aliás, depende do ponto em que um sistema faz algo como um humano faria. Mas essa é uma discussão para outro curso.
+
+Voltando: engenharia de prompt importa — espero que isso já tenha ficado claro. Porque o modelo vai responder __de qualquer jeito__, mesmo que não saiba a resposta. Então, se você quer garantir que o que sair tenha a maior chance de estar certo, precisa dominar bem a entrada.
+
+Eu até fiz um vídeo tentando fazer um modelo dizer “não sei”. E, mesmo assim, ele tenta responder. É aí que entram as alucinações — quando o modelo inventa respostas que parecem verdade, mas não são.
+
+Esses modelos não pensam ou entendem nossos objetivos. Eles apenas seguem pistas (cues). E agora que entendemos, ao menos por alto, o que é “atenção” e o posicionamento das palavras, podemos falar sobre como a forma de escrever o prompt afeta tudo.
+
+Algumas pessoas ainda fazem prompts assim: "#contexto: você é um redator publicitário", "#informações: blá blá blá", "#diretrizes: lista de regras". Esses hashtags estão sendo interpretados como marcadores de hierarquia. Assim como numa página HTML você vê os elementos "header", “h1”, etc., o modelo vê esses sinais como indicadores de seções.
+
+Nos modelos antigos (como GPT-3.5, Claude 2), essas marcações são super úteis, pois eles só conseguem "ler" uma vez, de forma linear. Já os modelos mais novos (como GPT-4, Claude 3 Sonnet) têm habilidade de refletir, revisar e sintetizar informações ao longo do tempo — quase como se fizessem prompting iterativo sozinhos.
+
+Mas se você escreve mal ou vago, o modelo vai se confundir. E aí, a culpa parece ser dele — mas na verdade é falta de clareza sua.
+
+Um prompt bem estruturado deixa claro o objetivo, os limites, o formato e a persona (por exemplo: “aja como redator publicitário”). Isso ajuda o modelo a prever melhor o que deve gerar.
+
+E não, o modelo não “acredita que virou um palhaço” se você disser que ele deve agir como um. Ele
+
+------------------------------
+
+MENSAGEM 20
+Autor: INEMA
+Data: 2025-04-07T02:26:21+00:00
+Texto:
+==============
+
+------------------------------
+
+MENSAGEM 21
+Autor: INEMA
+Data: 2025-04-07T02:26:17+00:00
+Texto:
+sua marca ou estilo. Mas o problema é que eles só jogaram material de referência esperando que tudo funcione magicamente. Não existe mágica. Existe probabilidade e previsão.
+
+Janelas de contexto são medidas em tokens. Tokens não são iguais a palavras que lemos. “O gato foi à loja” pode ser dividido em formas diferentes, dependendo do modelo. O modelo usa embeddings — camadas que traduzem linguagem humana para algo que a máquina entende. Às vezes, três palavras viram um único token.
+
+Se o input ultrapassa a janela de contexto, o modelo simplesmente ignora o excesso. É por isso que ao usar o Claude, por exemplo, ele avisa: “Seu arquivo excede o limite em 18%”. Não tem como processar tudo. Já o GPT, por ter uma estrutura diferente, até aceita, mas faz só uma leitura superficial — por isso os resultados não são tão precisos.
+
+------------------------------
+
+MENSAGEM 22
+Autor: INEMA
+Data: 2025-04-07T02:26:17+00:00
+Texto:
+Agora, podemos aprofundar mais — ao adicionar a informação de posicionamento. Falamos de “gato voador”. É um gato que voa. “Voador” é um adjetivo desse substantivo chamado “gato”. O modelo não sabe o que significa nem “adjetivo” nem “substantivo”. Mas ele reconhece que este token se encaixa na categoria de adjetivo — algo que descreve — e outro token na de substantivo — algo que é descrito. Normalmente, adjetivos vêm antes de substantivos, ao menos no inglês.
+
+Depois, ele faz muitas camadas de correlação — com base no idioma em questão. A seguir, vem o mecanismo de atenção: “Em que devo focar?”. Vamos voltar. Isso é chamado de “atenção própria” (self-attention), que veremos mais à frente. No final do processo, temos várias camadas.
+
+Ao pedir “escreva uma história sobre um gato voador”, ele tenta prever quais são os tokens mais comuns que aparecem com algo relacionado a “gato”. Ok, e “gato voador”? O que já vimos sobre isso? É por isso que, ao lidar com modelos de linguagem, é muito difícil — apesar de toda a empolgação sobre descobertas em medicina, por exemplo — ver algo realmente novo surgindo. Porque um modelo de linguagem só é tão bom quanto os dados com os quais foi treinado.
+
+Até nos modelos de geração de imagem, é possível subir uma foto sua e pedir para recriar com uma camiseta vermelha, por exemplo. Pode até chegar perto — mas tem algo estranho. Fica com aparência de outra pessoa, como se juntasse pedaços seus com outros. A verdade triste é que ele mistura dados de pessoas vivas e mortas que viraram imagens abstraídas.
+
+Com modelos de linguagem, sempre saiba: até termos nova tecnologia para acoplar a esses modelos, dificilmente você verá algo inédito como resultado. Em 2017, saiu um artigo muito influente chamado “Attention is all you need”. Esse artigo mudou tudo.
+
+Mesmo com um diagrama super complexo, ele mostrou que transformers podem dar mais peso a certas palavras ou tokens dentro de uma sentença. Isso permitiu melhor compreensão e retenção de contexto — o que é vital em janelas de contexto. Quando damos instruções em um prompt, e você tem, por exemplo, uma conversa em etapas — “escreva um blog”, “otimize para SEO”, “agora mude isso” — ele precisa manter o fio da conversa e dar atenção ao que importa.
+
+Esse mecanismo de atenção se tornou muito importante. E existe o que chamamos de “atenção multi-cabeça” (multi-head attention). Em português direto: o modelo pode prestar atenção em múltiplas partes da sentença ao mesmo tempo, e dar pesos diferentes a cada parte. Esses pesos ajudam na previsão de quais tokens devem vir depois.
+
+Você vê isso no GPT: centenas de milhares de camadas com atenção multi-cabeça. Embeddings de entrada, embeddings de saída — os embeddings são o que permitem a comunicação com o modelo. Mas por trás disso tudo está um grande arquivo zipado de compreensão sobre linguagem e conceitos, onde ele verifica antes de dar uma resposta.
+
+Na tokenização, o modelo pega uma frase e quebra de uma forma que consiga ler. E “ler”, entre aspas. Não há entendimento real — é só uma sequência de previsões. Mesmo nos modelos mais novos de raciocínio, como o GPT-4 Turbo ou Claude 3.5 Sonnet, ainda não existe compreensão verdadeira. O que esses modelos fazem é: “Aqui está a saída. Ok, agora vou comparar com o prompt original. Agora vou tentar de novo. Melhorei minha precisão?”
+
+Ao tokenizar, algo como “LLMs são incríveis” pode ser dividido como “LL”, “Ms”, “são”, “incríveis”. Ele tenta atribuir atenção: qual parte disso é mais importante?
+
+Sobre janela de contexto: pense nisso como o quanto de texto o modelo consegue ver ao gerar uma resposta. Janelas maiores permitem subir mais arquivos. Um bom exemplo é o Gemini 2.5 Pro — ele tem uma janela de 1 milhão de tokens. Dá para subir uns 34 livros completos! Ele pode focar em partes desses documentos para melhorar a qualidade da saída. Mas uma janela pequena obriga você a não jogar tudo de uma vez, assumindo que o modelo vai entender tudo. Porque ele não vai.
+
+Muitos clientes criam GPTs personalizados com 20 ou 30 arquivos e se frustram porque o modelo não entende
+
+------------------------------
+
+MENSAGEM 23
+Autor: INEMA
+Data: 2025-04-07T02:18:30+00:00
+Texto:
+=====
+
+------------------------------
+
+MENSAGEM 24
+Autor: INEMA
+Data: 2025-04-07T02:18:18+00:00
+Texto:
+significa. Mesmo quando você fala com o ChatGPT, parece que ele entende — mas ele não entende nada da sua conversa, do seu parágrafo, das suas frases. Ele não entende nem aprecia a língua inglesa, francesa, árabe, hebraica, espanhola... não importa.
+
+Tudo são tokens. Tokens são como a moeda para os transformers. Eles foram treinados com base em quantos tokens conseguiram absorver. O modelo precisa entender esses tokens e, mais importante, gerar uma sequência de tokens que ele acredita ser a melhor resposta com base probabilística nos tokens que você forneceu.
+
+Por isso, engenharia de prompt é uma ciência. Eu costumava rir, e ainda rio, de quem acha que engenharia de prompt é uma piada. Mas no fim das contas, a única coisa que um transformer tem para se apoiar é a sua entrada. Quanto melhor seu input, melhor o output.
+
+Um exemplo: digamos que você digite um prompt — “escreva uma história sobre um gato voador”. O processo de tokenização entra em ação — o computador não lê isso como uma sentença inteira. Ele divide em micro-palavras, micro-expressões, ou micro-sentenças dependendo do modelo, algo como: “escreva”, “uma”, “história”, “sobre”, “um”, “gato”, “voador”.
+
+Depois, vem a informação de posicionamento. Ele tenta entender em qual parte da sentença prestar atenção. “Atenção”, aliás, é um mecanismo que vamos abordar nas próximas seções — é o principal motivo de todos os truques que faço com prompts. Tento manipular o modelo para que ele preste atenção em certas palavras, parágrafos ou comandos.
+
+Por exemplo, se você disser “o cachorro sentou no...”, pode ser sofá, mesa, grama — provavelmente grama. O modelo faz isso baseado em onde viu essas palavras, nessa sequência, ao longo do tempo. Ele viu “o cachorro sentou no” e, 98 vezes de 100, a próxima palavra foi “grama”.
+
+Se você desse mais contexto — tipo “o cachorro é de dentro de casa, ele odeia caminhar” — a probabilidade da próxima palavra mudaria drasticamente. Mas sem isso, é pura estatística.
+
+------------------------------
+
+MENSAGEM 25
+Autor: INEMA
+Data: 2025-04-07T02:18:18+00:00
+Texto:
+Você já ouviu falar em "engenharia de prompt para gênios"? Eu sei qual palavra você acha que vem aí, mas é para "eugenia", e o objetivo deste curso... a gente vai um pouco mais fundo. Na verdade, muito mais fundo do que a maioria das informações superficiais que você vê por aí nos youtubers e criadores que foram para a "universidade YouTube".
+
+Eu fui para uma universidade de verdade quando se trata de IA. Passamos um ano inteiro mergulhando em tudo sobre IA antes dessas coisas se tornarem moda, em 2019. Eu fiz um mestrado em uma universidade em Ontário, Canadá, chamada Queen’s University. É uma das melhores escolas de negócios do Canadá, e eles criaram esse intensivo de um ano — caro, aliás.
+
+Um currículo de 60 mil dólares, metade dele se tornando super técnico em IA, aprendendo sobre deep learning, processamento de linguagem natural — ambos muito relevantes para a conversa de hoje — mas também como aplicar tudo isso na prática.
+
+Então metade do meu diploma foi teoria, matemática, codificação de verdade, e a outra metade foi prática. A beleza deste curso é que vamos começar com teoria. E você pode pensar: "Não sou técnico" ou "Como isso vai me fazer ganhar dinheiro?" ou "Fazer meu cliente ganhar dinheiro?". Mas entender que isso aqui não é mágica já te coloca acima da maioria das pessoas. Porque o cidadão comum acha que isso é magia. E quando a engenharia de prompts não dá certo, eles culpam o modelo, culpam o provedor, mas nunca culpam a si mesmos, porque não entendem como isso funciona — e honestamente, como é simples. Mas esses modelos, em termos de funcionamento, de como são treinados...
+
+Como são avaliados? Isso sim é bem mais complexo. Quantas camadas eles têm? Definitivamente complexo. Mas, conforme avançarmos no curso, você verá diferentes estratégias de prompting e mentalidades que vão te ajudar. Às vezes a gente se apega demais a certas coisas — templates, formatos... Ok.
+
+Você conhece o contexto, põe diretrizes, filtros, várias regras que a gente mesmo inventa. No fim das contas, tudo isso são heurísticas. Não existem regras fixas. Neste curso de engenharia de prompts, vamos explorar muita metodologia.
+
+Como as coisas funcionam, passando por exemplos suficientes para você se sentir super confiante — e, mais importante, alfabetizado para ter conversas com colegas, clientes, ou quem for. Então vamos começar.
+
+O que é engenharia de prompt, afinal? Se você olhar essa imagem, o impressionante é que eu a gerei com o novo modelo de geração de imagem do ChatGPT-4.0, e ela é quase perfeita — tirando algumas falhas de texto. Em geral, isso é chamado de transformer. O transformer é um instrumento de Processamento de Linguagem Natural. É uma forma complicada de dizer que ele ajuda a processar a entrada de texto, passando por toda uma sequência onde esse input é transformado em embeddings — é isso que você vê aqui.
+
+Embeddings é o processo de pegar texto e converter em vetores. Vetores são a linguagem dos LLMs, uma série de números. Por isso, quando você ouve falar de banco de dados vetorial ou chunking, isso é o processo de pegar um arquivo, quebrar em sentenças, traduzir para números e passar por esse sistema. O que é um codificador, decodificador... não é o escopo deste curso.
+
+Se você quiser que eu vá totalmente acadêmico, posso fazer isso em outro curso. Mas por enquanto, saiba que tem muita matemática envolvida. No final do processo, algo chamado "linear" e depois "softmax" cria uma série de pesos — esses pesos são um tipo de entendimento. Imagine um arquivo zipado com todo o conhecimento do transformer sobre um texto.
+
+Por que nos importamos com transformers? Porque eles são a base do ChatGPT. Desde o GPT-2, GPT-3 e outros modelos, todos têm como alicerce esse modelo específico.
+
+Quão avançado isso fica? Bastante — imagine 100 mil camadas de transformers. Eles têm diferentes mecanismos que tornam tudo isso possível.
+
+Agora, uma frase curta: IA ou um programa precisa manter o contexto das palavras ao longo do tempo. E se você dá uma frase como “o cachorro sentou no...”, ele não entende o que nenhuma dessas palavras
+
+------------------------------
+
+MENSAGEM 26
+Autor: INEMA
+Data: 2025-04-07T02:18:04+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 27
+Autor: INEMA
+Data: 2025-04-07T02:18:04+00:00
+Texto:
+Descubra por que *engenharia de prompt* é a nova habilidade essencial na era da IA: modelos como o ChatGPT não são mágicos — eles apenas respondem com base no que você pede e *como* você pede. Entender como funciona a atenção, tokens, embeddings e janelas de contexto transforma completamente o resultado que você recebe. Quer respostas melhores? Aprenda a conversar com a IA como um mestre, usando exemplos, ajustes iterativos e comandos estratégicos. A diferença entre um texto genérico e uma solução brilhante está em uma única linha bem escrita.
+
+------------------------------
+
+MENSAGEM 28
+Autor: INEMA
+Data: 2025-04-07T02:17:38+00:00
+Texto:
+Mark Kashef
+
+------------------------------
+
+MENSAGEM 29
+Autor: INEMA
+Data: 2025-04-07T02:17:15+00:00
+Texto:
+Master Engenharia de Prompt MK 2025
+
+------------------------------
+
+MENSAGEM 30
+Autor: INEMA
+Data: 2025-04-07T02:17:12+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 31
+Autor: INEMA
+Data: 2025-04-07T02:17:11+00:00
+Texto:
+https://gamma.app/docs/dthmbpo1iqr6ksp
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 32
+Autor: INEMA
+Data: 2025-04-07T02:17:11+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 33
+Autor: INEMA
+Data: 2025-04-07T02:17:11+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 34
+Autor: INEMA
+Data: 2025-04-07T02:17:11+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 35
+Autor: INEMA
+Data: 2025-04-07T02:17:10+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 36
+Autor: INEMA
+Data: 2025-04-07T02:17:10+00:00
+Texto:
+https://chatgpt.com/c/67f332d1-c8d8-8009-be4a-7f028fff7cd9
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 37
+Autor: INEMA
+Data: 2025-04-07T02:17:09+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 38
+Autor: INEMA
+Data: 2025-04-07T02:17:04+00:00
+Texto: [Sem texto]
+
+------------------------------
+

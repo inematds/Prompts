@@ -1,0 +1,99 @@
+[
+  {
+    "id": 3393,
+    "author": "INEMA",
+    "date": "2025-04-11T17:36:10+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "lovable_app_prompts.zip"
+  },
+  {
+    "id": 3392,
+    "author": "INEMA",
+    "date": "2025-04-11T17:34:40+00:00",
+    "text": "Prompt\n\n\"Quero criar uma série de prompts para 10 aplicativos adoráveis. Agora, normalmente em adorável, o primeiro prompt que você escreve é um problema fundamental que meio que define o tom de como a interface do usuário e o design devem ser. No entanto, você realmente não vai para a funcionalidade no primeiro problema, só porque você precisa primeiro olhar e conectar essa super base uma vez que a super base esteja conectada. É aí que começamos a adicionar e pedir funcionalidade e funções de borda. Temos que pedir uma maneira que seja muito direta e tenha uma probabilidade muito alta de sucesso na primeira vez, só porque adorável tem uma tendência a pensar demais ou sub ou projetar demais a solução, dependendo de como você a está descrevendo. Portanto, precisamos de um conjunto muito claro de instruções desde o início e, em seguida, supondo que, para o segundo prompt, já conectamos uma instância base ao aplicativo. Além disso, assumimos que temos uma super base em execução e você escreve os prompts de uma forma que possamos criar um aplicativo bastante funcional que seja realista, dada a infraestrutura de super base e o poder das funções de borda, mas algo que ainda é novo e interessante. O objetivo aqui é que você crie um conjunto de prompts para esses dez aplicativos diferentes que podem simplesmente copiar, colar e, idealmente, ser capaz de criar um aplicativo totalmente funcional depois de inserir todos esses prompts com o mínimo ou nenhum erro no lado da função de borda super base, apenas porque suas instruções serão tão claras e detalhadas que será muito difícil não executá-lo corretamente, princípios sobre como escrever prompts para adorável edição e depuração adorável, além de evitar erros comuns para criar os melhores prompts possíveis e criar um conjunto muito diversificado de aplicativos. \"",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3391,
+    "author": "INEMA",
+    "date": "2025-04-11T17:34:34+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3390,
+    "author": "INEMA",
+    "date": "2025-04-11T17:34:17+00:00",
+    "text": "mm6 - Experiencia #6 - Prompts Manus Lovable",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3389,
+    "author": "INEMA",
+    "date": "2025-04-11T17:34:15+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3388,
+    "author": "INEMA",
+    "date": "2025-04-11T17:34:14+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3387,
+    "author": "INEMA",
+    "date": "2025-04-11T17:34:14+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3386,
+    "author": "INEMA",
+    "date": "2025-04-11T17:34:14+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3385,
+    "author": "INEMA",
+    "date": "2025-04-11T17:34:13+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3384,
+    "author": "INEMA",
+    "date": "2025-04-11T17:34:13+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3383,
+    "author": "INEMA",
+    "date": "2025-04-11T17:34:12+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3382,
+    "author": "INEMA",
+    "date": "2025-04-11T17:34:07+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

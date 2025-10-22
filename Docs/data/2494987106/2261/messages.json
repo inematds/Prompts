@@ -1,0 +1,66 @@
+[
+  {
+    "id": 4690,
+    "author": "Tiza",
+    "date": "2025-08-31T04:37:17+00:00",
+    "text": "Mini Guia: **Estruturas de Prompts**\n\nTransforme perguntas em resultados práticos\n\n🎯 **O Que é um Prompt?**\n\nÉ a instrução que você dá para a IA. Quanto mais claro e específico, melhor o resultado.\n\n❌ Ruim: \"Me ajude com marketing\"\n✅ Bom: \"Crie 3 títulos de email marketing para um curso de culinária vegana, focando em iniciantes e com tom acolhedor\"\n\n🏗️ **Estrutura do Prompt Perfeito**\n\nUse os 4 pilares essenciais:\n\n🎭 **Contexto** → Quem é você / sua situação\n\nEx: \"Sou fisioterapeuta especializada em reabilitação esportiva...\"\n\n🎯 **Objetivo** → O que deseja que a IA faça\n\nEx: \"...crie um roteiro para vídeo educativo...\"\n\n📋 **Especificações** → Detalhes importantes (formato, público, estilo, duração)\n\nEx: \"...60s, linguagem simples, para Instagram Reels...\"\n\n💡 **Exemplo** (opcional) → Mostre o formato que espera\n\nEx: \"Dica 1: [título] – [explicação curta]\"\n\n📐 Modelo Universal\n🎭 Contexto: \"Sou [profissão/situação]...\"  \n🎯 Objetivo: \"Preciso que você [ação específica]...\"  \n📋 Especificações: \"- Formato: ... | - Público: ... | - Tom: ...\"  \n\n⚡ Exemplos Práticos\n\n👩‍⚕️ **Saúde**\n\"Sou fisioterapeuta. Crie roteiro de vídeo (Reels, até 60s) com 3 exercícios simples para dor nas costas em home office. Linguagem acessível, incluir alertas de segurança e CTA para agendamento.\"\n\n📊 **Marketing**\n\"Sou social media de academia feminina (25-40 anos). Crie 5 legendas motivacionais para posts de segunda-feira. Tom inspirador, 2-3 parágrafos, emojis moderados, CTA sutil, hashtags no final.\"\n\n📚 **Educação**\n\"Sou iniciante em automação. Crie um plano de estudos de 30 dias para aprender Make, dividido em 4 semanas, com 1h/dia, projetos práticos e recursos gratuitos.\"\n\n🚫 Erros Comuns\n\n❌ Prompts vagos: \"Me ajude com vendas\"\n\n❌ Informação demais sem estrutura\n\n❌ Não dar contexto ou público-alvo\n\n🛠️ **Fórmulas Rápidas**\n\n**CARE**: Contexto + Ação + Requisitos + Exemplo\n**STAR**: Situação + Tarefa + Ação + Resultado\n**SMART**: Específico + Mensurável + Alcançável + Relevante + Tempo\n\n✅ **Checklist do Prompt**\n\nContexto claro?\n\nObjetivo específico?\n\nPúblico definido?\n\nTom e formato pedidos?\n\nRestrições bem indicadas?\n\n🚀 Missão Prática\n\nCrie 1 prompt real do seu trabalho usando a estrutura:\n\n🎭 Contexto: ...  \n🎯 Objetivo: ...  \n📋 Especificações: ...  \n💡 Exemplo esperado: ...  \n\n\nTeste com a IA → Documente o resultado → Compartilhe na comunidade.\n\n✨ Resumo Final:\nUm bom prompt = Contexto + Objetivo + Especificações + (Exemplo)\nQuanto mais claro você for, mais útil será a resposta.\n\n.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3733,
+    "author": "INEMA",
+    "date": "2025-06-08T20:44:04+00:00",
+    "text": "Entenda as estruturas de Prompts",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3732,
+    "author": "INEMA",
+    "date": "2025-06-08T20:43:52+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3731,
+    "author": "INEMA",
+    "date": "2025-06-08T20:43:52+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3730,
+    "author": "INEMA",
+    "date": "2025-06-08T20:43:51+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3729,
+    "author": "INEMA",
+    "date": "2025-06-08T20:43:51+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3728,
+    "author": "INEMA",
+    "date": "2025-06-08T20:43:51+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2261,
+    "author": "INEMA",
+    "date": "2025-02-14T01:47:54+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

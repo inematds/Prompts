@@ -1,0 +1,66 @@
+[
+  {
+    "id": 2077,
+    "author": "INEMA",
+    "date": "2025-01-08T23:29:55+00:00",
+    "text": "Sua tarefa é identificar se uma publicação é \"atemporal\" ou \"pessoal\".  \n  \nAs publicações atemporais tratam de conceitos gerais, ideias, fatos, movimentos, opiniões ou declarações.  \n  \nAs publicações pessoais se concentram em uma pessoa específica ou em um evento da vida do autor.  \n  \nRegra geral:  \n- Se a publicação trata de algo relevante apenas para o autor, responde \"pessoal\".  \n- Se discute um tema, conceito ou ideia mais ampla, responde \"atemporal\".  \n  \nRetorne o seu resultado no formato JSON com a seguinte estrutura:  \n  \njson  \n{  \n    \"tipo\": \"atemporal ou pessoal\"  \n}",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2076,
+    "author": "INEMA",
+    "date": "2025-01-08T23:29:52+00:00",
+    "text": "89",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2075,
+    "author": "INEMA",
+    "date": "2025-01-08T23:29:51+00:00",
+    "text": "6",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2074,
+    "author": "INEMA",
+    "date": "2025-01-08T23:29:51+00:00",
+    "text": "4",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2073,
+    "author": "INEMA",
+    "date": "2025-01-08T23:29:50+00:00",
+    "text": "23",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2072,
+    "author": "INEMA",
+    "date": "2025-01-08T23:29:50+00:00",
+    "text": "2",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2071,
+    "author": "INEMA",
+    "date": "2025-01-08T23:29:49+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2070,
+    "author": "INEMA",
+    "date": "2025-01-08T23:29:41+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

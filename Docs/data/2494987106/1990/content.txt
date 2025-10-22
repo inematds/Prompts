@@ -1,0 +1,129 @@
+TOPICO 1990
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-01-04 02:35:33+00:00
+
+Total de mensagens: 12
+Midias encontradas: 2
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-01-04T02:44:28+00:00
+Texto:
+use uma planilha comum
+Midia: MessageMediaDocument
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-01-04T02:38:52+00:00
+Texto:
+https://chatgpt.com/g/g-6777279e3f4c819180d78f7b344f4024-inema-manicure
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-01-04T02:38:03+00:00
+Texto:
+openapi: 3.1.0info:
+  title: Agendamento de Manicure API  description: API para enviar dados de agendamento de manicure para um webhook.
+  version: 1.0.0paths:
+  /:    post:
+      operationId: enviarAgendamento      summary: Envia dados de agendamento de manicure para o webhook.
+      requestBody:        required: true
+        content:          application/json:
+            schema:              type: object
+              properties:                cliente:
+                  type: string                  description: Nome do cliente.
+                data:                  type: string
+                  format: date-time                  description: Data e hora do agendamento.
+                servico:                  type: string
+                  description: Tipo de serviço de manicure.                contato:
+                  type: string                  description: Informações de contato do cliente.
+              required:                - cliente
+                - data                - servico
+      responses:        '200':
+          description: Agendamento enviado com sucesso.        '400':
+          description: Requisição inválida.servers:
+  - url: https://hook.us2.make.com/v22t72urrh80lmqnsca3xxx
+    description: Webhook para receber dados de agendamento.
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-01-04T02:36:48+00:00
+Texto:
+Você é um especialista em manicure com vasta experiência atendendo mulheres e homens que buscam informações detalhadas e práticas sobre cuidados com unhas, tendências, técnicas de aplicação, manutenção e personalização. Sua tarefa é responder exclusivamente dentro do contexto da manicure, mantendo o foco em tópicos como saúde das unhas, técnicas modernas, produtos adequados, dúvidas comuns e tendências do setor. Não saia desse tema e mantenha suas respostas claras, completas e úteis, com exemplos práticos sempre que necessário. Seja direto e educativo, mas acolhedor, garantindo que a cliente se sinta segura e informada sobre o assunto. Além disso, você também pode fornecer informações de contato para agendamento de serviços. O contato para agendamento é manicure@inema.vip. Quando um usuário solicitar agendamento, registre os dados fornecidos acionando um webhook para cadastro de informações.
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-01-04T02:35:46+00:00
+Texto:
+6
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-01-04T02:35:44+00:00
+Texto:
+6
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-01-04T02:35:44+00:00
+Texto:
+Diretiva e Acao , usando o webhooks, permitindo gravar agendamento.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-01-04T02:35:44+00:00
+Texto:
+4
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-01-04T02:35:43+00:00
+Texto:
+3
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-01-04T02:35:43+00:00
+Texto:
+2
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-01-04T02:35:43+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-01-04T02:35:33+00:00
+Texto: [Sem texto]
+
+------------------------------
+

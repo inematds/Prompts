@@ -1,0 +1,257 @@
+TOPICO 3856
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-06-22 06:35:05+00:00
+
+Total de mensagens: 10
+Midias baixadas: 2
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-06-22T06:36:57+00:00
+Texto:
+Aqui estão os **principais hacks (atalhos e estratégias práticas)** extraídos da *Prompt Engineering Masterclass*, com foco direto na aplicação e impacto imediato nas automações e geração de conteúdo:
+
+---
+
+**HACKS DE PROMPT ENGINEERING**
+
+1. **Use "Compound Prompts" para automações complexas**
+
+   * Estruture o prompt com: Identidade + Pedido + Regras + Formato de Saída + Exemplos.
+   * Exemplo: transformar uma descrição vaga em pesquisa avançada no LinkedIn Sales Navigator.
+
+2. **Separar o prompt em partes (Deconstruction Method)**
+
+   * Crie prompts diferentes para cada etapa: ex: gancho → resumo → estrutura → conteúdo final.
+   * Vantagem: aumenta a qualidade e a consistência da automação.
+
+3. **Use exemplos reais no prompt (Tell and Show Method)**
+
+   * Diga o que quer e mostre como deve ser.
+   * Isso reduz o erro do modelo e melhora a previsibilidade da saída.
+
+4. **Injete conhecimento específico (Import Method)**
+
+   * Pegue insights de cursos ou especialistas e insira no prompt.
+   * Exemplo: “Use os princípios do curso X sobre viralização de vídeos curtos”.
+
+5. **Formatação molda a saída**
+
+   * Bullet points → resposta em tópicos
+   * Parágrafos → resposta fluida
+   * Tags (ex: `<title>`, `<hook>`) ajudam na consistência
+
+6. **Adapte o prompt ao modelo**
+
+   * Modelos menores (ex: GPT-3.5, LLaMA) precisam de mais passo a passo.
+   * Modelos maiores (ex: GPT-4o, Claude 3) entendem melhor estruturas complexas.
+
+7. **Stacking: empilhe instruções com lógica**
+
+   * Crie prompts em blocos organizados como "tijolos", cada um com uma função clara.
+   * Exemplo: `[estilo]`, `[formato]`, `[tom]`, `[exemplos bons]`.
+
+8. **Evite palavras genéricas que “mancham” o prompt (Anti-Keyword Staining)**
+
+   * Não diga: “escreva uma headline”.
+   * Diga: “escreva uma frase curta e impactante com no máximo 12 palavras”.
+
+9. **Chaining: use a saída de um prompt como entrada para o próximo**
+
+   * Ideal para automações. Exemplo: input → gancho → resumo → post → CTA.
+
+10. **Faça muitos testes e repita**
+
+* Deon chegou a fazer **54 versões de um único prompt** até alcançar o ideal.
+* Repetição = refinamento = qualidade = impacto.
+
+---
+
+**Exemplo de estrutura de compound prompt (modelo base):**
+
+```[IDENTIDADE]: Você é um redator especialista em conteúdo viral no Twitter.
+[OBJETIVO]: Gerar uma thread com base em um vídeo de 5 min.
+[ESTILO]: Leve, provocativo, com curiosidade no início.
+[EXEMPLO DE BOM HOOK]: “Este vídeo me deixou 10 anos mais inteligente em 5 minutos.”
+[FORMATO DE SAÍDA]: 1 gancho, 1 resumo, 5 bullets com insights.
+[INPUT]: Link ou transcrição do vídeo.```
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-06-22T06:36:20+00:00
+Texto:
+https://www.youtube.com/watch?v=ODl4olu1L7U
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-06-22T06:35:49+00:00
+Texto:
+Aqui está o resumo completo e estruturado da *Prompt Engineering Masterclass* de Deon, com os principais tópicos, insights e exemplos aplicados:
+
+---
+
+**Resumo Geral:**
+
+A masterclass foca em como aumentar em até 100 vezes a eficácia das automações com IA usando engenharia de prompts avançada. O palestrante compartilha frameworks, exemplos reais e boas práticas para construir prompts robustos e confiáveis, especialmente em contextos automatizados, como geração de conteúdo, análise de dados e fluxos em ferramentas como n8n, Make.com e outras.
+
+---
+
+**Tópicos principais com explicações e exemplos:**
+
+1. **Importância da Engenharia de Prompt para Automações**
+
+   * Automação só funciona bem se o output for **consistente, previsível e formatado corretamente.**
+   * Exemplo: automatizar análise de transcrições do YouTube exige estrutura idêntica em cada execução.
+
+2. **Dois Estilos de Prompting**
+
+   * **Conversacional**: comum no ChatGPT, bom para testes ou aprendizado.
+   * **One-shot Prompting** (recomendado para automações): prompt único, bem estruturado, que evita retrabalho.
+
+3. **Tipos de Prompts**
+
+   * **Atomic Prompt**: simples e direto, útil para pequenas tarefas (ex: adicionar quebra de linha, classificar sentimento).
+   * **Compound Prompt**: robusto, com identidade, pedido, critérios, exemplos e formatação. Ex: traduzir mensagem de ICP em pesquisa no LinkedIn Sales Navigator.
+
+4. **Exemplo real de automação com Compound Prompt**
+
+   * Input: link de vídeo ou artigo de notícias.
+   * Etapas:
+
+     1. **Análise psicológica** do conteúdo.
+     2. Geração de **3 ganchos virais**.
+     3. Extração de **briefing emocional e narrativo**.
+     4. Criação de **roteiro estruturado de thread** no Twitter.
+   * Resultado: conteúdo viral com alto impacto e custo baixo (US\$ 1 por execução, feito por VA).
+
+5. **Boas práticas para criar bons prompts**
+
+   * **Assuma responsabilidade**: não culpe o modelo, revise sua estrutura.
+   * **Seja específico**: detalhe estilo, formatação e exemplos reais.
+   * **Use estrutura clara**: use rótulos, blocos, tags (ex: XML), listas numeradas.
+   * **Estrutura influencia o output**: usar parágrafos ou bullets molda a forma final.
+
+6. **Adaptação por modelo**
+
+   * Modelos menores (GPT-3.5, LLaMA): exigem mais etapas e chain-of-thought.
+   * Modelos maiores (Claude 3 Opus, GPT-4o): entendem estruturas mais complexas, mas ainda se beneficiam da clareza.
+
+---
+
+**Frameworks Avançados de Prompt Engineering:**
+
+1. **Deconstruction Method**
+
+   * Dividir tarefas complexas em várias partes: hook → brief → outline → corpo do texto.
+
+2. **Stacking Method**
+
+   * Empilhar blocos de instruções como “tijolos” que formam um prompt robusto.
+
+3. **Tell and Show Method**
+
+   * Conte o que quer + mostre um exemplo.
+   * Ex: “Escreva uma thread com base nesse estilo” + exemplo real de thread.
+
+4. **Import Method**
+
+   * Injete conhecimento especializado no prompt (ex: regras de um curso sobre conteúdo viral).
+
+5. **Train of Thought Method**
+
+   * Forçar o modelo a pensar passo a passo para melhorar precisão.
+
+6. **Anti-keyword Staining**
+
+   * Evite palavras genéricas (ex: “escreva uma headline”) e use descrições mais específicas (ex: “escreva uma frase de impacto com até 12 palavras”).
+
+7. **Chaining Method**
+
+   * Encadeamento: saída de um prompt serve de entrada para outro.
+
+---
+
+**Como Monetizar com Prompts:**
+
+* Comece aplicando prompts em atividades já remuneradas (ex: copywriting, automações).
+* Preste serviços para empresas SaaS ou startups.
+* Cobrança possível: de US\$ 500 até US\$ 10 mil/mês, ou % da receita recorrente.
+* Diferencial: saber criar prompts personalizados que geram ROI direto.
+
+---
+
+**Mensagem Final:**
+
+* Não existe prompt perfeito de primeira. Testar, iterar e praticar **diariamente** é o único caminho.
+* Deon criou mais de **2.000 prompts manualmente** para se tornar referência na área.
+* A engenharia de prompt é hoje uma das habilidades de maior **leverage** e menor custo.
+
+---
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-06-22T06:35:15+00:00
+Texto:
+__M1 - Prompt Engineering Masterclass__ de Devin
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-06-22T06:35:13+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-06-22T06:35:12+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-06-22T06:35:12+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-06-22T06:35:12+00:00
+Texto:
+https://chatgpt.com/c/6857a3ee-3bf0-8009-9c54-fe43ff29359d
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-06-22T06:35:11+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-06-22T06:35:05+00:00
+Texto: [Sem texto]
+
+------------------------------
+

@@ -1,0 +1,592 @@
+TOPICO 2670
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-03-28 23:37:27+00:00
+
+Total de mensagens: 28
+Midias encontradas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-03-29T00:00:47+00:00
+Texto:
+[LOGO]
+Desenhe um logotipo elegante e minimalista para uma startup de alta tecnologia chamada "NeonFlux". O logotipo deve apresentar um ícone futurista que combine pixels digitais com um raio, utilizando uma fonte moderna sem serifa.
+Use uma paleta de cores com azul elétrico vibrante (#00FFFF) e cinza carvão (#333333), com fundo transparente.
+[MASCOTE / PERSONAGEM]
+Crie um mascote dinâmico para um serviço de entrega de comida moderno chamado "UrbanBite". O mascote deve ser um esquilo carismático em estilo cartoon, usando moletom com capuz e tênis, transmitindo energia e charme urbano.
+Incorpore cores ousadas e vibrantes — especialmente vermelho (#FF0000) e branco — e desenhe de forma que seja facilmente animável para promoções nas redes sociais.
+[INFOGRÁFICOS E DIAGRAMAS]
+Gere um infográfico limpo e moderno para a empresa "EcoTrack", que monitora métricas de impacto ambiental. O infográfico deve apresentar uma linha do tempo com marcos de sustentabilidade e ícones distintos para energia renovável, redução de resíduos e dados sobre pegada de carbono.
+Use uma paleta de cores com verde (#28A745), azul (#007BFF) e cinza (#6C757D), incluindo rótulos claros e dados numéricos em cada marco.
+[CARTAZES E PANFLETOS]
+Desenhe um cartaz chamativo para o "Rooftop Rave", um festival de música de verão. O cartaz deve combinar uma estética neon vibrante com tipografia retrô, apresentando silhuetas de pessoas dançando, trilhas de luz abstratas e os detalhes principais do evento ("Rooftop Rave - Festival de Verão, 15 de julho, Centro da Cidade").
+O objetivo é transmitir uma sensação de celebração energética e estilo urbano.
+[GRÁFICOS PARA REDES SOCIAIS]
+Crie um gráfico marcante para post no Instagram de uma marca de cuidados com a pele de luxo chamada "LunaGlow". O design deve apresentar um layout minimalista e elegante com gradientes suaves em tons pastel e ilustrações florais delicadas.
+Inclua a mensagem central "Radie sua luz interior" em uma fonte serifada moderna e elegante, usando o dourado característico da marca (#FFD700) para destacar elementos-chave.
+[MODELOS DE SITE]
+Produza um mock-up de alta fidelidade para a página inicial do site da "VistaTech", uma empresa de tecnologia de ponta. O design deve incluir um cabeçalho limpo com o logotipo no canto superior esquerdo, uma seção principal com uma imagem futurista, uma seção de serviços com ícones personalizados e um botão de chamada para ação com o texto "Descubra mais".
+Utilize uma paleta de cores elegante e profissional com azul marinho (#001F3F) e branco, com detalhes em verde-limão (#01FF70).
+[PRODUTO E EMBALAGEM]
+Crie um mock-up fotorrealista da embalagem para a "FreshFizz", uma nova linha de água com gás artesanal. O design deve destacar uma garrafa minimalista com o nome da marca em uma fonte moderna e elegante, com toques sutis de turquesa (#40E0D0) e prata.
+Apresente o produto em um ambiente de estúdio limpo, enfatizando sua qualidade premium.
+[ILUSTRAÇÕES E ARTE]
+Gere uma ilustração vibrante e desenhada à mão para a "BookNook", uma livraria independente. A arte deve retratar um canto de leitura aconchegante e encantador, com pilhas de livros, iluminação ambiente quente e um gato amigável enrolado em uma cadeira.
+Use uma paleta de cores rica e acolhedora com marrons quentes, vermelhos profundos e amarelos suaves, realçados com uma textura aquarelada sutil para evocar nostalgia.
+[DESIGNS GRÁFICOS COMPLEXOS]
+Desenhe uma capa sofisticada e com várias camadas para a revista "FutureWave", uma publicação trimestral de negócios e tecnologia. A capa deve integrar uma paisagem urbana futurista, formas geométricas sobrepostas e um título principal chamativo com o texto "Inove Hoje", junto com subtítulos para artigos de destaque.
+Utilize uma paleta moderna e vibrante com azul elétrico, verde neon e cinza escuro para criar profundidade e impacto visual.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-03-29T00:00:23+00:00
+Texto:
+================
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-03-29T00:00:19+00:00
+Texto:
+Você é um assistente inteligente de geração de imagens, projetado para ajudar os usuários a criar visuais de alta qualidade utilizando técnicas avançadas de prompts e o conhecimento abrangente fornecido na folha de referência (cheat sheet). Quando um usuário solicitar uma imagem (por exemplo, “crie uma imagem de um pinguim”), siga estes passos, sempre se referindo às diretrizes da folha de referência para melhores práticas:
+
+**1. Forneça Exemplos de Prompts Personalizados:**  
+- Ofereça imediatamente três prompts criativos e adaptados com base no pedido do usuário. Por exemplo, se o usuário disser “crie uma imagem de um pinguim”, forneça:
+
+  - Exemplo de Prompt 1:  
+    "Crie uma imagem de um pinguim estiloso usando óculos escuros e jaqueta de couro, posando com confiança sobre uma geleira. O fundo deve apresentar uma aurora boreal deslumbrante, em estilo fotorrealista, com detalhes nítidos e cores vibrantes."
+
+  - Exemplo de Prompt 2:  
+    "Gere uma ilustração artística de um pinguim futurista ambientado em uma cidade cyberpunk. O pinguim deve ter detalhes metálicos e elementos em neon, com um estilo de arte digital que combine cores ousadas e efeitos de iluminação dinâmicos."
+
+  - Exemplo de Prompt 3:  
+    "Produza uma imagem divertida, estilo cartoon, de um pinguim em um smoking segurando um sorvete, com um fundo retrô inspirado na pop art, apresentando formas dinâmicas e cores vivas e contrastantes."
+
+---
+
+**2. Faça Perguntas de Esclarecimento para Personalizar:**  
+- Convide o usuário a refinar ainda mais o pedido, fazendo perguntas direcionadas. Ao formular essas perguntas, siga os princípios da folha de referência:
+
+  - "Qual estilo de imagem você deseja? (ex: fotorrealista, ilustração digital, cartoon etc.)"  
+  - "Qual é o objetivo principal da imagem? (ex: post para redes sociais, material de marketing, identidade visual etc.)"  
+  - "Você tem alguma paleta de cores ou diretrizes de marca a seguir? (Inclua os códigos hexadecimais, se possível)"  
+  - "Gostaria de incluir algum texto na imagem? Se sim, qual o texto e onde ele deve ser inserido?"  
+  - "Há alguma dimensão ou proporção específica que você precisa? (ex: 1080x1080 para Instagram, 1200x628 para banner de site etc.)"  
+  - "Tem alguma preferência de layout ou composição? (ex: ‘pinguim centralizado com fundo dinâmico’ ou ‘ícone à esquerda e texto à direita’)"  
+  - "Você gostaria de ver várias variações ou ter a opção de refinar o design após os primeiros resultados?"
+
+---
+
+**3. Confirme e Finalize o Prompt:**  
+- Resuma todos os detalhes coletados em um formato estruturado e peça confirmação:
+
+  - "Com base nas suas respostas e nas diretrizes da nossa folha de referência, aqui está o rascunho do prompt. Deseja fazer alguma alteração antes de gerar a imagem final?"
+
+- Uma vez confirmado, gere o prompt final de forma clara e estruturada, incluindo:  
+  - Assunto: (ex: “Ilustração de Pinguim Estiloso”)  
+  - Propósito/Utilização: (ex: “Post para campanha divertida nas redes sociais”)  
+  - Estilo: (ex: “Fotorrealista”, “Cyberpunk”, “Cartoon”)  
+  - Texto: (Texto exato, estilo da fonte, posição na imagem, se aplicável)  
+  - Paleta de Cores: (Cores específicas / códigos hexadecimais)  
+  - Dimensões/Formato: (ex: “1080x1080 pixels, PNG com fundo transparente”)  
+  - Layout/Composição: (ex: “Pinguim centralizado com elementos de fundo dinâmicos”)  
+  - Elementos Adicionais: (ícones, símbolos ou detalhes ilustrativos extras)  
+  - Nota sobre Iteração: (Indique se serão feitas refinamentos ou múltiplas versões)
+
+---
+
+Durante todo o processo, garanta que sua orientação e construção de prompts sigam as melhores práticas descritas na folha de referência: ser específico, usar estrutura clara e refinar iterativamente os detalhes da imagem para produzir visuais profissionais, prontos para uso em negócios.
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-03-28T23:59:42+00:00
+Texto:
+===================
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-03-28T23:59:37+00:00
+Texto:
+empresa de tecnologia "VistaTech". O design deve ter um cabeçalho limpo com logotipo no canto superior esquerdo, seção principal com imagem futurista, seção de serviços com ícones personalizados e botão de chamada para ação: "Descubra mais". Paleta profissional com azul marinho (#001F3F), branco e verde-limão (#01FF70).
+
+7. [PRODUTO & EMBALAGEM]  
+   Crie um mock-up fotorrealista de embalagem para a linha de água com gás artesanal "FreshFizz". Mostre uma garrafa minimalista com o nome da marca em fonte moderna e elegante, com detalhes em turquesa (#40E0D0) e prata. Apresente o produto em cenário de estúdio limpo, enfatizando qualidade premium.
+
+8. [ILUSTRAÇÕES & ARTE]  
+   Gere uma ilustração vibrante e desenhada à mão para a livraria independente "BookNook". Mostre um canto de leitura acolhedor com pilhas de livros, iluminação ambiente quente e um gato amigável enrolado na cadeira. Use uma paleta convidativa com marrons quentes, vermelhos profundos e amarelos suaves, com textura aquarelada para evocar nostalgia.
+
+9. [DESIGNS GRÁFICOS COMPLEXOS]  
+   Crie uma capa de revista sofisticada e em várias camadas para a publicação trimestral "FutureWave", focada em negócios e tecnologia. A capa deve integrar uma paisagem urbana futurista, formas geométricas sobrepostas e título principal "Inove Hoje", com subtítulos para artigos. Use paleta vibrante com azul elétrico, verde neon e cinza escuro, criando profundidade e impacto visual.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-03-28T23:59:37+00:00
+Texto:
+Use estas diretrizes e exemplos para criar prompts eficazes que podem substituir ferramentas tradicionais de design para logotipos, mascotes, infográficos, cartazes, gráficos para redes sociais, modelos de sites, embalagens de produtos, ilustrações e muito mais.
+
+**Principais recursos da geração de imagem com o GPT‑4o**
+- Renderização precisa de texto: gera com exatidão textos especificados (ex: manchetes, slogans)
+- Controle de layout e composição: gerencia múltiplos objetos e arranjos complexos
+- Dimensões personalizadas: permite definir proporções e tamanhos (ex: 1080x1080, 1200x628)
+- Opções de fundo: gera fundo transparente, cor sólida ou imagem personalizada
+- Refinamento iterativo: edições interativas e em várias etapas para ajuste fino do design
+- Versatilidade de estilo: produz imagens fotorrealistas, cartunizadas, digitais, abstratas ou desenhadas à mão
+- Integração de conhecimento: utiliza conhecimento de domínio para criar visuais coerentes e contextualizados
+
+**Boas práticas para criar prompts**
+
+1. Seja específico e detalhado  
+   - Defina o assunto, estilo, propósito e elementos-chave  
+   - Inclua texto exato, códigos hexadecimais de cor e diretrizes da marca, se necessário
+
+2. Estruture o seu prompt  
+   - Divida designs complexos em seções (ex: título, ícones, blocos de texto)  
+   - Use listas com marcadores ou etapas numeradas para clareza
+
+3. Use perguntas de esclarecimento  
+   - Faça perguntas direcionadas para captar a visão completa antes de finalizar o prompt  
+   - Exemplos:  
+     • Que tipo de imagem você está criando? (logotipo, infográfico, cartaz etc.)  
+     • Qual é o principal uso? (marca, marketing, redes sociais etc.)  
+     • Que estilo você imagina? (moderno, vintage, minimalista etc.)  
+     • Precisa de texto específico? Qual seria?  
+     • Quais cores ou dimensões são exigidas? (inclua os hexadecimais se possível)  
+     • Alguma preferência de layout ou composição?
+
+4. Itere e refine  
+   - Comece com um prompt-base e ajuste com instruções subsequentes (cor, layout, texto...)  
+   - Documente variações que funcionam bem para uso futuro
+
+---
+
+**Casos de uso e exemplos de prompts personalizados**
+
+1. [LOGOTIPO]  
+   Crie um logotipo elegante e minimalista para uma startup de alta tecnologia chamada "NeonFlux". O logotipo deve conter um ícone futurista que combine pixels digitais com um raio, usando uma fonte sem serifa moderna. Utilize as cores azul elétrico vibrante (#00FFFF) e cinza carvão (#333333), com fundo transparente.
+
+2. [MASCOTE / PERSONAGEM]  
+   Crie um mascote dinâmico para um serviço de entrega de comida chamado "UrbanBite". Deve ser um esquilo carismático, em estilo cartoon, usando moletom com capuz e tênis, transmitindo energia e estilo urbano. Use cores vibrantes, principalmente vermelho (#FF0000) e branco, com design adequado para animação nas redes sociais.
+
+3. [INFOGRÁFICOS & DIAGRAMAS]  
+   Gere um infográfico moderno e limpo para a empresa "EcoTrack", que monitora métricas de impacto ambiental. O infográfico deve mostrar uma linha do tempo com marcos de sustentabilidade e ícones distintos para energia renovável, redução de resíduos e pegada de carbono. Paleta de cores: verde (#28A745), azul (#007BFF) e cinza (#6C757D), com rótulos e dados numéricos claros.
+
+4. [CARTAZES & PANFLETOS]  
+   Crie um cartaz chamativo para o festival de música de verão "Rooftop Rave". Combine uma estética neon vibrante com tipografia retrô, silhuetas de pessoas dançando, trilhas de luz abstratas e os detalhes principais do evento ("Rooftop Rave - Festival de Verão, 15 de julho, Centro da Cidade"). Estilo energético e urbano.
+
+5. [GRÁFICOS PARA REDES SOCIAIS]  
+   Crie uma imagem impactante para post no Instagram de uma marca de skincare de luxo chamada "LunaGlow". Layout minimalista e elegante com gradientes suaves em tons pastel e ilustrações florais delicadas. Texto central: "Radie sua luz interior", com fonte serifada moderna e elegante. Use o dourado da marca (#FFD700) para realçar detalhes.
+
+6. [MODELOS DE SITE]  
+   Produza um mock-up de página inicial de site para a
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-03-28T23:59:23+00:00
+Texto:
+===============
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-03-28T23:54:43+00:00
+Texto:
+**Objetivo geral:**  
+Criar imagens de alta qualidade usando técnicas avançadas de prompts com base em boas práticas e exemplos específicos para diferentes tipos de projetos visuais.
+
+---
+
+**Diretrizes Gerais (Cheat Sheet):**
+- Seja **específico**: defina estilo, propósito, elementos, textos, cores (com hex) e dimensões.
+- Estruture o prompt: divida por seções e use listas ou etapas numeradas.
+- Faça perguntas de refinamento: pergunte sobre estilo, uso, texto, layout, variações, etc.
+- Refine iterativamente: comece com um prompt-base e ajuste com feedback.
+- Confirme tudo antes da geração final.
+
+---
+
+**Modelo de assistência para geração de imagens:**
+1. **Fornecer 3 prompts criativos e personalizados** com base no pedido do usuário.
+2. **Fazer perguntas de refinamento**, como:
+   - Estilo desejado (fotorrealista, cartoon etc.)
+   - Objetivo (post, marketing, embalagem, etc.)
+   - Cores, texto, dimensões, layout...
+3. **Confirmar e finalizar o prompt** com estrutura:
+   - Assunto, uso, estilo, texto, cores, dimensões, layout, extras, nota sobre iteração
+
+---
+
+**Exemplos de Prompts para Diferentes Tipos de Imagens:**
+
+1. **[LOGO]**  
+   Logotipo minimalista para startup "NeonFlux", com ícone futurista (pixels + raio), em azul elétrico e cinza sobre fundo transparente.
+
+2. **[MASCOTE / PERSONAGEM]**  
+   Esquilo cartoon para "UrbanBite", com moletom e tênis, energético e urbano, em vermelho e branco.
+
+3. **[INFOGRÁFICOS / DIAGRAMAS]**  
+   Infográfico para "EcoTrack", mostrando marcos sustentáveis (energia renovável, redução de resíduos etc.) com cores verde, azul e cinza.
+
+4. **[CARTAZES / PANFLETOS]**  
+   Cartaz para o festival "Rooftop Rave" com estética neon, tipografia retrô, silhuetas dançantes e trilhas de luz.
+
+5. **[GRÁFICOS PARA REDES SOCIAIS]**  
+   Post para Instagram da marca "LunaGlow" com layout minimalista, gradientes pastel, flores e detalhe em dourado com frase “Radie sua luz interior”.
+
+6. **[MODELOS DE SITE]**  
+   Mock-up do site da "VistaTech" com design futurista e limpo, logo no topo, seção de serviços e botão "Descubra mais", cores azul, branco e verde-limão.
+
+7. **[EMBALAGEM DE PRODUTO]**  
+   Mock-up fotorrealista da garrafa da "FreshFizz", água com gás artesanal, em ambiente de estúdio, com toques de turquesa e prata.
+
+8. **[ILUSTRAÇÕES / ARTE]**  
+   Ilustração desenhada à mão para "BookNook", mostrando canto de leitura aconchegante, gato na cadeira, iluminação quente e paleta nostálgica com aquarela.
+
+9. **[DESIGN GRÁFICO COMPLEXO]**  
+   Capa de revista "FutureWave" com cidade futurista, formas geométricas sobrepostas e manchete "Inove Hoje", usando azul elétrico, verde neon e cinza escuro.
+
+---
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-03-28T23:54:00+00:00
+Texto:
+====================
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-03-28T23:53:53+00:00
+Texto:
+Aqui estão as **principais dicas extraídas**:
+
+---
+
+### 1. **Seja extremamente específico**
+- **Evite termos genéricos.** Detalhe o máximo possível o que você quer ver na imagem.
+- Inclua:
+  - Nome do projeto
+  - Estilo desejado (ex: cartoon, fotorrealista, aquarela)
+  - Elementos visuais (ícones, personagens, cenário)
+  - Emoções ou sensações (aconchegante, energético, elegante)
+  - Texto exato (se necessário)
+
+**Exemplo:**  
+Errado: "Faz um mascote legal"  
+Certo: "Crie um esquilo em estilo cartoon com moletom e tênis, posando com energia, ideal para redes sociais"
+
+---
+
+### 2. **Use paletas de cores e códigos HEX**
+- Indicar as cores específicas evita resultados genéricos ou sem identidade.
+- Utilize **cores da marca** sempre que possível.
+
+**Exemplo:**  
+"Use azul elétrico (#00FFFF) e cinza carvão (#333333) para destacar modernidade e tecnologia"
+
+---
+
+### 3. **Descreva o layout e a composição**
+- Defina onde cada elemento vai:  
+  - Texto centralizado?  
+  - Ícone à esquerda?  
+  - Personagem sobre fundo dinâmico?
+
+**Exemplo:**  
+“Pinguim centralizado, fundo com aurora boreal e gelo, texto no topo em fonte futurista”
+
+---
+
+### 4. **Defina o estilo visual com clareza**
+- Indique o estilo com palavras como:
+  - Fotorrealista
+  - Cartoon
+  - Cyberpunk
+  - Pop Art
+  - Aquarelado
+  - Minimalista
+
+**Exemplo:**  
+“Estilo cartoon com traços grossos e cores vibrantes, lembrando quadrinhos retrô”
+
+---
+
+### 5. **Diga qual será o uso da imagem**
+- A IA pode adaptar o design com base no contexto:
+  - Post para redes sociais
+  - Embalagem de produto
+  - Capa de revista
+  - Site ou app
+  - Ilustração artística
+  - Infográfico educativo
+
+---
+
+### 6. **Peça três variações e refine depois**
+- Sempre que possível, peça **3 variações iniciais**.
+- Escolha a melhor e depois refine (ajuste cores, posição, estilo, etc.)
+
+---
+
+### 7. **Pergunte antes de gerar**
+- Fazer perguntas ao usuário ou a si mesmo antes de escrever o prompt ajuda a evitar retrabalho:
+  - Qual o objetivo final da imagem?
+  - Como ela será usada?
+  - Que mensagem deve passar?
+
+---
+
+### 8. **Use estrutura clara no prompt**
+Organize assim:
+- **Assunto:** o que vai aparecer  
+- **Objetivo:** onde será usado  
+- **Estilo:** como deve parecer  
+- **Texto:** se houver, o que deve dizer e onde  
+- **Cores:** com hex, se possível  
+- **Tamanho/Formato:** exemplo: 1080x1080, PNG, fundo transparente  
+- **Layout:** organização dos elementos  
+- **Extras:** ícones, símbolos, detalhes  
+
+---
+
+### 9. **Diferencie por categoria**
+Adapte o prompt ao tipo de projeto. Por exemplo:
+
+| Categoria        | Dica de Prompt                            |
+|------------------|-------------------------------------------|
+| Logo             | Simples, memorável, com ícone simbólico   |
+| Mascote          | Estilo cartoon ou animável, expressivo    |
+| Infográfico      | Dados visuais, ícones, cores por categoria|
+| Social Media     | Impactante, moderno, com CTA visível      |
+| Embalagem        | Foco em premium, cenário limpo, tipografia|
+| Ilustração       | Estilo artístico, emoções e cenário ricos |
+| Website Mockup   | Layout limpo, seção por seção              |
+| Capa de Revista  | Elementos sobrepostos, manchetes e estilo |
+
+---
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-03-28T23:53:26+00:00
+Texto:
+====================
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-03-28T23:48:38+00:00
+Texto:
+### SUPER PROMPT VISUAL ✨  
+> Crie uma imagem impactante e visualmente inesquecível de **[tema/assunto principal]**, pensada para **[finalidade ou plataforma de uso]**, com os seguintes elementos:  
+> 
+> - **Estilo visual:** [Descreva aqui: fotorrealista, cartoon vibrante, digital artístico, minimalista moderno, cyberpunk, retrô neon, aquarela nostálgica…]  
+> - **Composição:** [Ex: personagem centralizado com fundo dinâmico; cena panorâmica com profundidade; elementos flutuando ao redor…]  
+> - **Paleta de cores dominante:** [Descreva ou use hex, como: tons quentes, dourado (#FFD700), azul elétrico (#00FFFF), preto e branco com toques de vermelho…]  
+> - **Atmosfera ou emoção desejada:** [Ex: mágico, épico, acolhedor, futurista, selvagem, misterioso, divertido…]  
+> - **Detalhes marcantes:** [Ex: luzes suaves, sombras dramáticas, efeitos de brilho, textura de pincel, reflexos metálicos…]  
+> - **Texto (se houver):** [Conteúdo exato, estilo da fonte, onde deve aparecer…]  
+> - **Tamanho e formato:** [Ex: 1080x1080 px, 16:9, fundo transparente, formato vertical para story…]
+
+---
+
+### EXEMPLO PRONTO COM ESSE SUPER PROMPT:
+
+> Crie uma imagem impactante e visualmente inesquecível de **uma menina com cabelo vermelho encaracolado e sardas, lendo um livro flutuante em uma floresta mágica**, pensada para **capa de um canal infantil no YouTube**.  
+> 
+> - Estilo visual: cartoon realista ao estilo Pixar com iluminação cinematográfica  
+> - Composição: menina centralizada sentada em uma raiz de árvore gigante, o livro brilhando no ar diante dela  
+> - Paleta de cores dominante: tons quentes de outono com destaque em dourado (#FFD700) e verde esmeralda (#50C878)  
+> - Atmosfera: encantadora, mágica, inspiradora  
+> - Detalhes: folhas flutuando em câmera lenta, brilho saindo do livro, partículas no ar, sombras suaves e olhos brilhantes  
+> - Texto: nenhum  
+> - Tamanho e formato: 1920x1080 px, horizontal, fundo natural e integrado à cena  
+
+---
+
+Esse prompt pode ser adaptado para **qualquer área**: marketing, redes sociais, embalagens, livros, NFTs, produtos, sites e mais.
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-03-28T23:47:39+00:00
+Texto:
+================
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-03-28T23:42:51+00:00
+Texto:
+Abaixo está um **prompt padrão universal** para gerar qualquer tipo de conteúdo visual com IA, especialmente com base no que aprendemos com o *4o Image Generation Suite* e as boas práticas de construção de prompts.
+
+---
+
+### **PROMPT UNIVERSAL PARA GERAÇÃO DE IMAGEM COM IA**
+
+> Crie uma imagem de **[tipo de conteúdo]** com o seguinte briefing:  
+> 
+> - **Tema / Assunto principal:** [Descreva claramente o que deve aparecer]  
+> - **Objetivo / Finalidade da imagem:** [Ex: post para Instagram, embalagem, logo, site, etc.]  
+> - **Estilo visual desejado:** [Ex: fotorrealista, cartoon, minimalista, retrô, aquarela, cyberpunk...]  
+> - **Elementos obrigatórios:** [Descreva todos os itens que devem aparecer, com posições se necessário]  
+> - **Texto incluído:** [Texto exato + localização + tipo de fonte, se houver]  
+> - **Paleta de cores:** [Inclua os códigos hexadecimais, se possível]  
+> - **Tamanho / Proporção da imagem:** [Ex: 1080x1080, 16:9, PNG com fundo transparente]  
+> - **Layout / Composição desejada:** [Centralizado, alinhado à esquerda, com fundo dinâmico, etc.]  
+> - **Detalhes adicionais:** [Ex: fundo com luz suave, textura, sombra, estilo de pincel, etc.]  
+> - **Iteração esperada:** [Quero ver 3 variações ou posso ajustar após o primeiro resultado]
+
+---
+
+### **Exemplo preenchido:**
+
+> Crie uma imagem de **mascote ilustrado** com o seguinte briefing:  
+> 
+> - Tema: um tamanduá estilizado como mascote para uma ONG de proteção ambiental  
+> - Objetivo: imagem para redes sociais e identidade visual  
+> - Estilo: cartoon vibrante, com traços suaves e simpáticos  
+> - Elementos: o tamanduá usando boné verde e segurando uma plaquinha com símbolo de reciclagem  
+> - Texto: “Proteja a natureza!” no topo, em fonte arredondada, cor branca  
+> - Paleta de cores: verde (#28A745), amarelo claro (#FFF200), marrom (#6B4226)  
+> - Tamanho: 1080x1350 pixels, fundo transparente  
+> - Layout: tamanduá centralizado, texto acima, com folhas no fundo sutil  
+> - Detalhes adicionais: sombra suave e brilho ao redor da plaquinha  
+> - Iteração: quero 3 variações para escolher o estilo final
+
+------------------------------
+
+MENSAGEM 15
+Autor: INEMA
+Data: 2025-03-28T23:42:36+00:00
+Texto:
+Exemplo de Prompt ou Assistentes
+
+------------------------------
+
+MENSAGEM 16
+Autor: INEMA
+Data: 2025-03-28T23:42:18+00:00
+Texto:
+==============
+
+------------------------------
+
+MENSAGEM 17
+Autor: INEMA
+Data: 2025-03-28T23:38:27+00:00
+Texto:
+O INEMA 4IMG é um assistente especializado na geração de imagens com IA, com base em informações detalhadas fornecidas pelo usuário. Seu papel é transformar briefings criativos em imagens de alta qualidade usando as melhores práticas de prompt design do 4º Image Generation Suite. O assistente segue um modelo estruturado de coleta de informações que inclui tema, objetivo, estilo visual, elementos obrigatórios, texto, paleta de cores, tamanho, layout e detalhes adicionais. Caso o briefing esteja incompleto, o INEMA 4IMG deve ajudar o usuário a completar as informações de forma criativa e colaborativa, sugerindo opções e exemplos. Ele também pode gerar variações e refinamentos conforme solicitado. O INEMA 4IMG sempre busca clareza, eficiência e excelência estética. Deve manter uma linguagem profissional, mas acessível, estimulando a criatividade do usuário e respeitando suas preferências.
+
+------------------------------
+
+MENSAGEM 18
+Autor: INEMA
+Data: 2025-03-28T23:38:02+00:00
+Texto:
+https://chatgpt.com/g/g-67e72077e430819180bcceb79b420f19-inema-4img
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 19
+Autor: INEMA
+Data: 2025-03-28T23:37:39+00:00
+Texto:
+.Prompt INEMA 4 IMG
+
+------------------------------
+
+MENSAGEM 20
+Autor: INEMA
+Data: 2025-03-28T23:37:37+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 21
+Autor: INEMA
+Data: 2025-03-28T23:37:36+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 22
+Autor: INEMA
+Data: 2025-03-28T23:37:36+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 23
+Autor: INEMA
+Data: 2025-03-28T23:37:36+00:00
+Texto:
+...
+
+------------------------------
+
+MENSAGEM 24
+Autor: INEMA
+Data: 2025-03-28T23:37:36+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 25
+Autor: INEMA
+Data: 2025-03-28T23:37:35+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 26
+Autor: INEMA
+Data: 2025-03-28T23:37:35+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 27
+Autor: INEMA
+Data: 2025-03-28T23:37:34+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 28
+Autor: INEMA
+Data: 2025-03-28T23:37:27+00:00
+Texto: [Sem texto]
+
+------------------------------
+

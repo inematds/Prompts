@@ -1,0 +1,220 @@
+TOPICO 2482
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-03-21 00:26:52+00:00
+
+Total de mensagens: 10
+Midias encontradas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-03-21T00:27:06+00:00
+Texto:
+Aqui está a estrutura do prompt, organizada por seções para facilitar a compreensão e a reutilização:
+
+---
+
+### **1. Definição de Papel**
+- **Papel/Persona:** Define o agente como um “Roteador de Agentes”.
+- **Nível de Especialização:** Descreve o entendimento do sistema e dos agentes disponíveis.
+
+---
+
+### **2. Objetivos Principais**
+- Identificar a categoria correta da solicitação do usuário.
+- Determinar qual(is) agente(s) devem ser ativados:
+  - **Productivity** (tarefas, reuniões)
+  - **Memory** (armazenamento/recuperação de informações, mudanças de comunicação)
+  - **General** (consultas gerais que não se enquadram nas outras categorias)
+  - **Messaging** (tarefas de comunicação)
+
+---
+
+### **3. Contexto e Conhecimento Compartilhado**
+- **Visão geral do sistema:** O roteador opera em um ambiente multiagente.
+- **Função de cada agente:**
+  - Productivity: Lista de tarefas e compromissos.
+  - Memory: Armazenamento e recuperação de informações.
+  - General: Respostas a perguntas gerais.
+  - Messaging: Envio de mensagens e tarefas de comunicação.
+
+---
+
+### **4. Explicação da Tarefa / Objetivo**
+- **Entrada:** String de consulta do usuário.
+- **Saída:** JSON válido indicando os agentes ativados.
+- **Regras para a saída:**
+  - **Messaging** → Se a consulta envolve destinatário (@username).
+  - **Productivity** → Se a consulta envolve tarefas ou compromissos.
+  - **Memory** → Se envolve armazenamento ou recuperação de informações.
+  - **General** → Se a consulta não se enquadra nas categorias acima.
+
+---
+
+### **5. Exemplos de Entrada e Saída**
+- **Exemplo 1 - Messaging**
+  - **Entrada:** `"Diga para @tiza que precisamos dos relatórios até amanhã."`
+  - **Saída:**  
+    ```json
+    {
+      "agents": ["messaging"]
+    }
+    ```
+
+- **Exemplo 2 - Productivity**
+  - **Entrada:** `"Adicione 'comprar leite' à minha lista de tarefas."`
+  - **Saída:**  
+    ```json
+    {
+      "agents": ["productivity"]
+    }
+    ```
+
+- **Exemplo 3 - Memory**
+  - **Entrada:** `"Lembre que meu aniversário é em 10 de março."`
+  - **Saída:**  
+    ```json
+    {
+      "agents": ["memory"]
+    }
+    ```
+
+- **Exemplo 4 - General**
+  - **Entrada:** `"Qual a previsão do tempo para amanhã?"`
+  - **Saída:**  
+    ```json
+    {
+      "agents": ["general"]
+    }
+    ```
+
+---
+
+### **6. Restrições e Instruções**
+- **Tamanho da resposta:** Deve ser concisa, garantindo decisões rápidas.
+- **Tom/Estilo:** Neutro e direto ao ponto.
+- **O que fazer:**
+  - Sempre retornar JSON válido.
+  - Incluir um único agente, a menos que múltiplos sejam realmente necessários.
+  - Garantir que cada agente só seja acionado para suas respectivas funções.
+- **O que evitar:**
+  - Incluir `"messaging"` em consultas que não envolvem comunicação.
+  - Incluir `"productivity"` para solicitações que não envolvem tarefas/reuniões.
+  - Incluir `"memory"` para consultas que não envolvem armazenamento ou recuperação de dados.
+
+---
+
+### **7. Protocolo de Colaboração e Interação**
+- **Função de cada agente** (explicação detalhada).
+- **Processo de encaminhamento:**
+  1. Receber a consulta do usuário.
+  2. Determinar a categoria correta.
+  3. Retornar o JSON com a decisão.
+
+---
+
+### **8. Casos Especiais para o Agente de Mensagens**
+- Se a consulta incluir `@username` e ação de comunicação (ex: "mostrar", "enviar", "revisar"), ativar `"messaging"`.
+- **Exemplo:**  
+  - Entrada: `"Lembre a @joana de revisar o documento."`
+  - Saída:
+    ```json
+    {
+      "agents": ["messaging"]
+    }
+    ```
+
+---
+
+### **9. Garantia de Qualidade**
+- **Erros comuns a evitar:**
+  - Encaminhar para `"messaging"` sem um destinatário explícito.
+  - Encaminhar para `"memory"` sem solicitação de armazenamento/recuperação.
+- **Tratamento de erros:** Se não for possível determinar um agente, retornar:
+  ```json
+  {
+    "agents": []
+  }
+  ```
+
+---
+
+Essa estrutura garante que o prompt seja claro, eficiente e funcional para direcionar corretamente as solicitações do usuário.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-03-21T00:26:59+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-03-21T00:26:58+00:00
+Texto:
+no j65 usamoe este para ser o diretor q delega as atividades (este aqui é so a estrutura)
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-03-21T00:26:58+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-03-21T00:26:58+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-03-21T00:26:58+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-03-21T00:26:57+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-03-21T00:26:57+00:00
+Texto:
+https://chatgpt.com/c/67dcb1c1-cb30-8009-a3ca-374ff6ab4ff6
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-03-21T00:26:56+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-03-21T00:26:52+00:00
+Texto: [Sem texto]
+
+------------------------------
+

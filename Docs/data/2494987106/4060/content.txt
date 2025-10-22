@@ -1,0 +1,190 @@
+TOPICO 4060
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-07-22 19:37:01+00:00
+
+Total de mensagens: 11
+Midias baixadas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-07-22T19:37:31+00:00
+Texto:
+--
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-07-22T19:37:31+00:00
+Texto:
+### Estrutura Padrão de Prompt para Aplicação de Atendimento Jurídico
+
+## 🎯 Objetivo do Projeto
+
+Estou desenvolvendo um aplicativo para **atendimento jurídico automatizado**, focado em esclarecer dúvidas de clientes, fornecer respostas baseadas apenas nos dados internos (base local ou via RAG) e permitir o agendamento de reuniões com advogados quando necessário.
+
+## 🧠 Contexto
+
+O app será usado por **clientes de um escritório de advocacia** que buscam:
+
+* Consultas rápidas sobre direitos trabalhistas, previdenciários, cíveis, etc.
+* Informações claras sobre processos em andamento.
+* Agendamento com advogados especialistas caso o chatbot não consiga responder.
+
+Deve ter foco em:
+
+* **Confidencialidade e segurança de dados.**
+* **Clareza nas respostas, sem extrapolar o que existe no banco de dados ou RAG.**
+* **Experiência amigável e acessível, mesmo para pessoas com pouca familiaridade com tecnologia.**
+
+## ⚙️ Funcionalidades Requeridas
+
+1. Autenticação com e-mail, senha e autenticação em dois fatores (2FA).
+2. CRUD completo para:
+
+   * **Clientes** (nome, e-mail, telefone, CPF/CNPJ, casos associados).
+   * **Casos jurídicos** (tipo, status, detalhes).
+   * **Agendamentos** (data, hora, advogado responsável).
+3. Chatbot com:
+
+   * Acesso apenas à base de dados local e RAG.
+   * Restrições para **não inventar respostas**.
+   * Capacidade de transferir para humano se necessário.
+4. Sistema de agendamento com integração a Google Calendar/Outlook.
+5. Notificações por e-mail e SMS para lembretes de agendamento.
+6. Área do cliente para acompanhar status dos casos e histórico de atendimentos.
+7. Logs de atendimento para auditoria e conformidade com LGPD.
+
+## 🎨 Design e UI
+
+* Estilo profissional e confiável, com cores sóbrias (azul, cinza, branco).
+* Tailwind CSS para layout responsivo (mobile-first).
+* Chat com interface amigável (balões de conversa, avatar do advogado virtual).
+* Botão flutuante de **“Agendar com Advogado”** visível em todas as telas.
+
+## 🧪 Dados
+
+* Estrutura do banco inicial:
+
+  * **Clientes:** id, nome, e-mail, telefone, CPF/CNPJ, data de cadastro.
+  * **Casos:** id, cliente\_id, tipo, status, descrição, advogado\_responsável.
+  * **Agendamentos:** id, cliente\_id, advogado\_id, data, hora, status.
+* Dados fictícios para testes: 10 clientes, 5 casos por cliente.
+
+## 📦 Tecnologias
+
+* Supabase para autenticação e banco de dados.
+* Claude 4 ou GPT-4 com integração RAG para o chatbot.
+* Tailwind CSS para interface.
+* Stripe (opcional) para pagamentos de consultas ou planos premium.
+
+## 💬 Observações Importantes
+
+* O chatbot **não deve extrapolar informações** além da base local ou RAG.
+* Se a pergunta não for respondida com base nos dados, sugerir agendamento com advogado.
+* Garantir compliance com LGPD para armazenamento e tratamento de dados pessoais.
+* Confirmar com o cliente antes de registrar qualquer informação sensível.
+
+## 🧩 Etapas de Execução (para orientação interna do AI)
+
+1. Criar esboço da arquitetura do app.
+2. Configurar autenticação e banco de dados no Supabase.
+3. Desenvolver chatbot com restrição ao RAG/local.
+4. Criar sistema de agendamento integrado com calendários externos.
+5. Refinar UI/UX com foco em acessibilidade.
+6. Testar com dados mock e implementar políticas de segurança.
+
+---
+
+### ❓ Perguntas para completar o modelo:
+
+1. **Quais áreas jurídicas o chatbot deve atender?** (trabalhista, previdenciário, cível, todas?)
+2. **O agendamento será gratuito ou pago?** (Se pago, Stripe entra no fluxo)
+3. **O cliente pode ver o andamento de processos no app?** (Sim/Não)
+4. **Qual o nível de detalhamento das respostas?** (respostas curtas, médias, ou documentos completos?)
+5. **Vai precisar de integração com sistemas de gestão jurídica (ex.: Projuris, SAJ)?**
+6. **O RAG já estará configurado ou quer que o app inclua a configuração do RAG?**
+7. **Preferência por login social (Google/Facebook) além do e-mail?**
+8. **Quer que o chatbot reconheça a área de atuação do cliente (ex.: empregador ou empregado)?**
+9. **Haverá área administrativa para advogados gerenciarem atendimentos e casos?**
+
+-
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-07-22T19:37:19+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-07-22T19:37:19+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-07-22T19:37:18+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-07-22T19:37:18+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-07-22T19:37:18+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-07-22T19:37:18+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-07-22T19:37:17+00:00
+Texto:
+https://chatgpt.com/c/687fe751-793c-8009-890f-931af755876e
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-07-22T19:37:17+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-07-22T19:37:01+00:00
+Texto: [Sem texto]
+
+------------------------------
+

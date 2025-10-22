@@ -1,0 +1,370 @@
+[
+  {
+    "id": 2089,
+    "author": "INEMA",
+    "date": "2025-01-15T19:15:13+00:00",
+    "text": "Assistente de Mensagens \n \nVocê é um assistente do restaurante \"Comida Inteligente\" e sua principal função é redigir mensagens finais que serão enviadas aos clientes via WhatsApp. Essas mensagens devem ser:    \n- Gentis, empáticas e acolhedoras para proporcionar uma experiência positiva.    \n- Curtas e diretas, adaptadas ao formato do WhatsApp.    \n- Escritas de forma natural, como se fossem redigidas por uma pessoa, incluindo emojis para torná-las mais calorosas e próximas.    \n  \nSe você não tiver o nome do cliente, a primeira coisa que deve fazer é sempre perguntar o nome para poder se dirigir a ele.    \n  \n### Tipos de mensagens que você pode gerar:  \n1. Confirmação de reserva: Quando o cliente fornece todos os dados necessários e há disponibilidade.    \n2. Solicitação de dados faltantes: Quando faltam informações para completar uma ação (reserva, cancelamento ou consulta de disponibilidade).    \n3. Rejeição com explicação: Quando não é possível realizar a ação, explique o motivo específico:    \n   - Não há disponibilidade na data e horário solicitados.    \n   - As reservas para a data ainda não estão abertas.    \n   - A data corresponde ao dia de descanso semanal (quinta-feira).    \n4. Sugestões alternativas: Quando não é possível realizar a ação solicitada, ofereça opções viáveis (como mudar horário, data ou número de pessoas).    \n  \n---  \n  \n### Informações necessárias para cada caso:  \n  \n- Para reservas ou cancelamentos:    \n  - Nome do cliente.    \n  - Data e turno desejados (turnos válidos: 20:30 ou 22:00).    \n  - Número de pessoas.    \n  \n- Para verificar disponibilidade:    \n  - Data e turno (apenas 20:30 ou 22:00).    \n  - Número de pessoas.    \n  \nSe o cliente solicitar um turno diferente (por exemplo, 19:00), informe que as reservas são aceitas apenas para os turnos válidos.    \n  \n---  \n  \n### Instruções principais para os mensagens:  \n  \n1. Quando faltarem dados: Mencione as informações que já possui e solicite as que estão faltando em formato de lista.    \n   Exemplo:    \n   \"Olá 😊, para completar sua reserva, preciso de algumas informações:    \n   - Turno do jantar (20:30 ou 22:00).    \n   - Número de pessoas.    \n   Obrigado!\"    \n  \n2. Quando não houver disponibilidade ou não for possível realizar a reserva: Explique brevemente o motivo e ofereça alternativas.    \n   Exemplo:    \n   \"Olá 👋, sinto muito, mas não temos disponibilidade para essa data e horário 😔. Que tal tentar outro horário (20:30 ou 22:00) ou outra data? Me avise e verifico para você! 😊\"    \n  \n3. Para datas não disponíveis ou dia de descanso semanal: Explique a situação e sugira opções.    \n   Exemplo 1:    \n   \"Olá 🕔, as reservas para essa data ainda não estão abertas. Você pode tentar novamente mais tarde ou escolher outra data. Fico à disposição! 😊\"    \n   Exemplo 2:    \n   \"Olá 👋, quinta-feira é nosso dia de descanso semanal 😴. Gostaria de reservar para outro dia? Me avise e ajudarei! 🌟\"    \n  \n4. Confirmação clara e positiva: Ao confirmar uma reserva, use um tom amigável e confirme todos os detalhes.    \n   Exemplo:    \n   \"Perfeito! 🥳 Sua reserva está confirmada em nome de Maria para 22 de janeiro, às 20:30, para 4 pessoas. Estamos ansiosos para recebê-lo! 🍽️✨\"    \n  \n---  \n  \n### Exemplo de mensagem para dados faltantes:  \nSituação: O cliente informa apenas o nome e a data.    \nMensagem:    \n\"Olá 😊, para completar sua reserva em nome de Maria no dia 22 de janeiro, preciso de mais algumas informações:    \n- Turno do jantar (20:30 ou 22:00).    \n- Número de pessoas.    \nAguardo sua resposta para organizar tudo! 🚀\"",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1327,
+    "author": "INEMA",
+    "date": "2024-10-21T22:05:42+00:00",
+    "text": "https://gamma.app/docs/ippeh0jnqquynei",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 1326,
+    "author": "INEMA",
+    "date": "2024-10-21T22:05:03+00:00",
+    "text": "### Aplicação do Método EPICOR na Área de Saúde e Emagrecimento para a Terceira Idade\n\n1. **Exploração**:\n   - **Comando**: \"Analise o tema de emagrecimento saudável para a terceira idade, considerando aspectos físicos, emocionais e sociais.\"\n   - **Objetivo**: Obter uma visão geral sobre a importância do emagrecimento na terceira idade e os principais fatores envolvidos.\n\n2. **Personas**:\n   - **Comando**: \"Crie três personas de idosos interessados em emagrecimento saudável: uma mulher ativa de 70 anos, um homem com problemas de mobilidade de 65 anos, e uma pessoa preocupada com saúde cardiovascular.\"\n   - **Objetivo**: Criar perfis que reflitam diferentes necessidades e desafios em relação ao emagrecimento.\n\n3. **Introdução**:\n   - **Comando**: \"Elabore uma introdução envolvente que aborde a importância de um emagrecimento equilibrado para a qualidade de vida na terceira idade.\"\n   - **Objetivo**: Criar uma conexão emocional com o público-alvo, destacando os benefícios e o impacto na qualidade de vida.\n\n4. **Características**:\n   - **Comando**: \"Liste as características principais de um programa de emagrecimento para a terceira idade, incluindo exercícios de baixo impacto, alimentação balanceada e acompanhamento emocional.\"\n   - **Objetivo**: Apresentar os aspectos específicos e práticos que fazem parte do programa.\n\n5. **Objeções**:\n   - **Comando**: \"Quais seriam as possíveis objeções que cada uma das personas poderia ter em relação a um programa de emagrecimento para a terceira idade?\"\n   - **Objetivo**: Identificar barreiras como falta de energia, medo de lesões ou dificuldades em seguir dietas restritivas.\n\n6. **Respostas**:\n   - **Comando**: \"Crie respostas estratégicas para cada objeção apresentada, enfatizando benefícios e alternativas dentro do programa.\"\n   - **Objetivo**: Fornecer respostas que abordem as preocupações de cada persona, oferecendo soluções práticas e encorajadoras.\n\n### Exemplo Completo de Aplicação\n\n1. **Exploração**: \"A terceira idade é uma fase em que manter um peso saudável se torna essencial para prevenir doenças e melhorar a qualidade de vida. Compreender os desafios e oportunidades é fundamental para um programa eficaz de emagrecimento.\"\n2. **Personas**: Persona 1 (Mulher ativa, 70 anos), Persona 2 (Homem com problemas de mobilidade, 65 anos), Persona 3 (Pessoa preocupada com saúde cardiovascular).\n3. **Introdução**: \"Para muitos, a terceira idade representa um período de redescoberta e cuidado pessoal. Emagrecer de forma saudável pode ser a chave para viver essa fase com mais disposição e bem-estar.\"\n4. **Características**: Exercícios de baixo impacto, plano de alimentação ajustado a necessidades específicas e suporte emocional para adaptação.\n5. **Objeções**: \"E se eu me machucar durante os exercícios?\", \"Será que vou conseguir seguir uma dieta sem me sentir restrito?\", \"Tenho pouca energia, é seguro começar?\"\n6. **Respostas**: \"Nosso programa inclui acompanhamento especializado para adaptar os exercícios ao seu nível físico, garantindo segurança. As dietas são pensadas para proporcionar prazer e variedade, sem restrições severas, e o suporte emocional ajuda a criar motivação e bem-estar.\"\n\nEste exemplo mostra como o **Método EPICOR** pode ser aplicado na área de saúde e emagrecimento para a terceira idade, promovendo uma abordagem cuidadosa, estratégica e voltada para as necessidades do público-alvo.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1325,
+    "author": "INEMA",
+    "date": "2024-10-21T22:04:32+00:00",
+    "text": "\"Método E.P.I.C.O.R.\", mantendo a coerência e clareza no acrônimo:\n\nExploração: Solicitar uma análise inicial do tema ou objeto.\n\nPersonas: Desenvolver perfis representativos relevantes.\n\nIntrodução: Criar uma introdução cativante e envolvente.\n\nCaracterísticas: Listar as características específicas relacionadas ao tema.\n\nObjeções: Identificar possíveis objeções de cada persona.\n\nRespostas: Elaborar respostas estratégicas para as objeções.\n\nAssim, o nome \"Método EPICOR\" reflete cada uma das etapas e é fácil de lembrar e comunicar.\n\nhttps://gamma.app/docs/snrlc8j7rggzhs3",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 901,
+    "author": "INEMA",
+    "date": "2024-10-02T05:12:42+00:00",
+    "text": "Aqui está o prompt para descrição do YouTube ajustado, sem o texto de exemplo:\n\n---\n\n**Prompt:** \"Crie um resumo detalhado e uma lista de tópicos com exemplos do vídeo abaixo. O resumo deve ser uma explicação clara do conteúdo principal do vídeo, e a lista de tópicos deve seguir a estrutura de tempo (minuto:segundo) apresentada no vídeo. Cada tópico deve incluir uma breve explicação e um exemplo prático extraído do vídeo. Aqui estão as informações do vídeo:\n\nVídeo: [Título do vídeo]  \nDescrição: [Descrição detalhada do vídeo]  \nPalavras-chave: [Palavras-chave relacionadas ao conteúdo]  \n\nLinks: [@inema.tds](@inema.tds)\n\nTópicos e timestamps:  \n00:00 - [Primeiro tópico]  \n[Tempo] - [Segundo tópico]  \n[Tempo] - [Terceiro tópico]  \n[Tempo] - [Quarto tópico]  \n[Tempo] - [Quinto tópico]\n\nHashtags: #inema #comunidade [5 palavras-chave relacionadas ao SEO]\"\n\n---\n\nEsse é o modelo final do prompt, pronto para ser utilizado!",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 862,
+    "author": "INEMA",
+    "date": "2024-10-01T19:51:43+00:00",
+    "text": "PACEF é uma sigla que significa: Papel, Ação, Contexto, Exemplo e Forma. Esta é uma abordagem simples e eficiente para otimizar suas interações com chatbots de IA. Vamos entender como construir suas perguntas utilizando o conceito PACEF:\n\nPapel (P): Defina o papel que o chatbot irá assumir no momento da consulta.\nAção (A): Especifique a ação desejada de forma clara e objetiva.\nContexto (C): Forneça um contexto relevante para que a IA compreenda a situação por completo.\nExemplo (E): Apresente exemplos específicos para ajudar a IA a entender melhor o que você está buscando.\nForma (F): Defina a forma da resposta que deseja receber, esclarecendo o formato para obter um resultado mais interessante.\n\nhttps://gamma.app/docs/kmfcim9jldox12t",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 861,
+    "author": "INEMA",
+    "date": "2024-10-01T19:51:05+00:00",
+    "text": "Aqui estão três exemplos de aplicação eficiente de um prompt empoderado, usando os elementos-chave que discutimos (especialista, qualificação, experiência, problema, forma de entrega, público-alvo e o que não quer):\n\n### 1. **Marketing Digital com Foco em Estratégias de Engajamento**\n\nPrompt:\n*\"Aja como um especialista em marketing digital com 10 anos de experiência em estratégias de engajamento em redes sociais. Explique como uma empresa de médio porte, com orçamento limitado, pode aumentar o engajamento no Instagram utilizando conteúdo gerado por usuários. A resposta deve ser apresentada de forma prática, com exemplos aplicáveis, e voltada para gestores com pouca experiência em marketing. Evite jargões técnicos e soluções caras.\"*\n\n**Por que é eficiente**:\n- **Especialista**: Define o campo de atuação (marketing digital).\n- **Qualificação e Experiência**: Alinha o nível de conhecimento e a experiência necessária (10 anos de experiência).\n- **Problema**: Foco claro no desafio (empresa de médio porte, orçamento limitado).\n- **Forma de Entrega e Público-alvo**: Ajusta a linguagem para ser prática e acessível, sem jargões, para gestores com pouca experiência.\n\n---\n\n### 2. **Transformação Digital em Empresas de TI**\n\nPrompt:\n*\"Aja como um consultor de transformação digital com MBA em tecnologia da informação e 15 anos de experiência no setor. Explique, com base em sua experiência, como uma empresa de TI pode implementar a automação de processos sem perder a personalização no atendimento ao cliente. A resposta deve ser voltada para executivos de tecnologia com amplo conhecimento técnico, e pode incluir exemplos práticos. Evite explicações genéricas sobre automação.\"*\n\n**Por que é eficiente**:\n- **Especialista**: Consultor em transformação digital.\n- **Qualificação**: MBA em TI.\n- **Experiência**: 15 anos no setor, o que gera uma resposta focada em práticas aplicáveis.\n- **Problema**: Abordar a automação sem comprometer a personalização.\n- **Público-alvo**: Voltado para executivos de TI com conhecimento técnico.\n- **O que não quer**: Evitar explicações genéricas.\n\n---\n\n### 3. **Aplicação da IA na Saúde para Profissionais Não Técnicos**\n\nPrompt:\n*\"Aja como um médico especialista em inteligência artificial aplicada à saúde, com 8 anos de experiência. Explique de maneira simples e acessível, para profissionais de saúde não técnicos, como a IA pode ser usada para melhorar o diagnóstico precoce de doenças crônicas. Utilize exemplos reais e evite termos técnicos ou descrições complexas.\"*\n\n**Por que é eficiente**:\n- **Especialista**: Médico especialista em IA aplicada à saúde.\n- **Qualificação e Experiência**: Define o tempo de experiência (8 anos).\n- **Problema**: Uso da IA no diagnóstico precoce de doenças crônicas.\n- **Forma de Entrega e Público-alvo**: Explicação simples e acessível para profissionais não técnicos.\n- **O que não quer**: Evitar termos técnicos e descrições complexas, garantindo clareza.\n\nEsses exemplos mostram como o uso eficaz da engenharia de prompt empodera a IA para gerar respostas direcionadas, detalhadas e altamente aplicáveis, otimizando os resultados para atender a diferentes necessidades e públicos.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 860,
+    "author": "INEMA",
+    "date": "2024-10-01T19:51:05+00:00",
+    "text": "Vamos aprofundar o conceito de **empoderamento na engenharia de prompt**, destacando como ele se desdobra em diferentes níveis de eficiência ao determinar e definir cada ponto-chave do processo. Ao fazer isso, você maximiza o controle sobre os resultados gerados pela IA, tornando as respostas mais qualificadas, relevantes e assertivas. \n\nAqui estão os níveis de eficiência ao determinar cada ponto e como isso afeta a qualidade das respostas:\n\n### 1. **Especialista**: Definir o Nível de Conhecimento\n\nQuando você pede à IA para \"agir como um especialista\", você está direcionando o modelo para buscar uma resposta com um nível mais elevado de profundidade e especialização. Este é o primeiro passo no empoderamento, pois estabelece o tom e o foco da resposta.\n\n#### Níveis de Eficiência:\n- **Baixo**: \"Aja como um especialista.\" – Um comando genérico sem área de atuação específica resulta em uma resposta amplamente baseada em conhecimento generalizado.\n- **Médio**: \"Aja como um especialista em marketing digital.\" – Aqui, a IA busca um nicho específico, elevando a qualidade da resposta, mas ainda pode abranger uma gama ampla de tópicos.\n- **Alto**: \"Aja como um especialista em marketing digital com foco em mídias sociais e 10 anos de experiência no setor.\" – A definição detalhada leva a uma resposta muito mais precisa e focada em áreas de expertise, com base na experiência prática e conhecimento acumulado.\n\n### 2. **Qualificação**: Determinando o Nível de Conhecimento Técnico\n\nEspecificar qualificações melhora ainda mais a precisão, pois você está pedindo à IA para fornecer respostas que estejam de acordo com um determinado nível de conhecimento técnico ou acadêmico.\n\n#### Níveis de Eficiência:\n- **Baixo**: Sem qualificação definida – A resposta será vaga, sem uma profundidade técnica adequada ao contexto.\n- **Médio**: \"Com base em um nível intermediário de qualificação, explique...\" – Isso eleva a resposta para um nível técnico mais adequado, embora ainda possa faltar detalhamento.\n- **Alto**: \"Com um doutorado em ciência de dados, explique...\" – Aqui, você garante que a resposta seja focada em um nível avançado de entendimento, adequado para uma audiência altamente qualificada ou técnica.\n\n### 3. **Experiência**: Refinando a Aplicabilidade e Realismo\n\nIncluir experiência no prompt torna a resposta mais prática e focada em soluções que funcionam no \"mundo real\". Isso empodera a resposta com um nível de realismo, tornando-a mais valiosa em situações que exigem exemplos e lições aprendidas.\n\n#### Níveis de Eficiência:\n- **Baixo**: \"Explique o conceito de experiência do cliente.\" – A resposta será conceitual, faltando exemplos práticos.\n- **Médio**: \"Com 5 anos de experiência no setor de varejo, explique a importância da experiência do cliente.\" – Aqui, a IA fornece exemplos e lições aprendidas com base na experiência prática, mas pode faltar profundidade.\n- **Alto**: \"Com 20 anos de experiência em grandes redes de varejo, explique como melhorar a experiência do cliente em tempos de crise econômica.\" – A resposta será altamente aplicada e específica, oferecendo soluções baseadas em anos de prática.\n\n### 4. **Problema**: Definindo o Foco da Resposta\n\nEspecificar claramente o problema é essencial para direcionar a IA a dar uma resposta objetiva. Isso evita que a resposta seja dispersa ou genérica, focando diretamente na questão que você deseja resolver.\n\n#### Níveis de Eficiência:\n- **Baixo**: \"Explique gerenciamento de projetos.\" – A resposta será ampla e genérica.\n- **Médio**: \"Explique como gerenciar projetos em empresas de médio porte.\" – Isso já delimita um pouco mais o escopo, trazendo exemplos aplicáveis ao tamanho da empresa.\n- **Alto**: \"Explique como gerenciar projetos em empresas de médio porte com orçamento reduzido e equipe distribuída globalmente.\" – A resposta será direcionada e focada, abordando os desafios específicos da sua situação.\n\n### 5. **Forma de Entrega**: Ajustando o Tom e a Linguagem\n\nEspecificar como você quer que a resposta seja apresentada (técnica, simplificada,",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 859,
+    "author": "INEMA",
+    "date": "2024-10-01T19:51:05+00:00",
+    "text": "**Entendendo a Engenharia de Prompt: Como Usar a IA a Seu Favor**\n\nA inteligência artificial (IA) está se tornando cada vez mais presente em nossas vidas, desde assistentes virtuais até automação de processos complexos em diversas áreas. No entanto, para realmente aproveitar o poder da IA, é necessário saber como interagir com ela de maneira eficiente. É aí que entra a **engenharia de prompt** – uma prática que pode parecer complicada à primeira vista, mas que é fundamental para obter resultados melhores e mais relevantes ao trabalhar com IA.\n\nNeste artigo, vamos explicar o que é a engenharia de prompt, como ela funciona, e, principalmente, por que você deve começar a utilizá-la, mesmo que ainda não tenha conhecimento técnico sobre o assunto. Ao final, você vai perceber que ela é uma ferramenta poderosa que pode ser aplicada em qualquer contexto, de forma prática e acessível.\n\n### O Que é a Engenharia de Prompt?\n\nA **engenharia de prompt** consiste na arte de formular comandos (prompts) que orientem a IA a fornecer respostas relevantes, precisas e, muitas vezes, criativas. Em outras palavras, é a forma como você faz perguntas para a IA, ou define problemas para que ela resolva. Um prompt bem formulado pode fazer toda a diferença no tipo de resposta que você vai receber.\n\nImagine que você está conversando com um especialista em um determinado assunto. Se você fizer perguntas vagas ou genéricas, é provável que receba respostas igualmente superficiais. O mesmo acontece com a IA. Por isso, a engenharia de prompt é tão importante – ela ajuda você a guiar a IA para gerar respostas que realmente sejam úteis.\n\n### Por Que a Engenharia de Prompt é Importante?\n\nEm um mundo onde a IA está cada vez mais presente, dominar a engenharia de prompt é uma habilidade essencial para maximizar o uso dessa tecnologia. Aqui estão alguns motivos pelos quais isso é tão importante:\n\n1. **Respostas mais precisas**: Ao criar prompts bem formulados, você direciona a IA a focar nas informações que são mais relevantes para você. Isso evita respostas genéricas e aumenta a precisão dos resultados.\n\n2. **Otimização do tempo**: Pedir à IA o que você quer de forma clara e estruturada faz com que ela entenda mais rapidamente o que você está buscando, economizando tempo e esforço.\n\n3. **Maior controle sobre os resultados**: Através de prompts bem elaborados, você pode guiar a IA para fornecer respostas que estejam alinhadas aos seus objetivos, estilo de comunicação e até ao público que você deseja atingir.\n\n4. **Versatilidade**: A engenharia de prompt pode ser aplicada em praticamente qualquer área, seja para resolver um problema técnico, criar conteúdo, desenvolver estratégias de marketing ou até ajudar na tomada de decisões.\n\n### Como Funciona a Engenharia de Prompt?\n\nAgora que você entendeu o conceito, vamos explorar como a engenharia de prompt pode ser aplicada na prática, seguindo um método simples e eficaz. Esse método envolve cinco elementos fundamentais: **especialista, qualificação, experiência, problema, forma de entrega e público-alvo**.\n\n#### 1. Aja como um Especialista\n\nPara começar, uma das melhores formas de orientar a IA a fornecer uma resposta mais qualificada é pedindo que ela \"aja como um especialista\". Ao fazer isso, você está dizendo à IA que busque uma resposta de um nível elevado, baseada em conhecimento técnico.\n\nExemplo:\n- Prompt básico: \"Explique o que é marketing digital.\"\n- Prompt usando engenharia de prompt: \"Aja como um especialista em marketing digital e explique as principais estratégias usadas para aumentar o engajamento em redes sociais.\"\n\nCom isso, você já começa a obter uma resposta mais precisa e orientada ao que você realmente precisa saber.\n\n#### 2. Dê Qualificações\n\nAo especificar qualificações, você está dando mais informações sobre o nível de conhecimento que deseja na resposta. Isso pode incluir graus acadêmicos, áreas de especialização ou tipos de experiência que deseja que a IA simule.\n\nExemplo:\n- Prompt básico: \"Fale sobre inteligência artificial.\"\n- Prompt usando engen",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 858,
+    "author": "INEMA",
+    "date": "2024-10-01T19:51:05+00:00",
+    "text": "Se o seu objetivo é obter respostas verdadeiras, baseadas em conhecimento real e com uma perspectiva de experiência prática, o seu método é bastante eficiente. Ele estrutura o prompt de forma que a IA busque fontes e padrões mais confiáveis, detalhados e aplicáveis, proporcionando uma resposta mais robusta. Aqui estão os motivos pelos quais o método funciona para esse objetivo:\n\n1. **Especialista**: Ao pedir que a IA aja como um especialista, você orienta o algoritmo a buscar um nível elevado de conhecimento, o que já aumenta a probabilidade de uma resposta com base em dados confiáveis e informações técnicas.\n\n2. **Qualificação e Experiência**: Essas duas etapas garantem que a resposta venha com a profundidade que você precisa. Ao inserir a experiência, a resposta reflete uma perspectiva prática, de alguém que \"viveu\" o problema ou o contexto, trazendo soluções mais realistas e aplicáveis. Isso adiciona autenticidade à resposta.\n\n3. **Problema Claro**: Definir o problema de forma clara ajuda a IA a focar diretamente na questão, evitando dispersão. Quanto mais específico você for na definição do problema, mais a IA poderá se concentrar em fornecer soluções que realmente resolvam o que está sendo proposto.\n\n4. **Forma de Entrega e Público-alvo**: Esses elementos ajustam a resposta para que ela seja compreensível e relevante ao público para o qual é destinada, garantindo que a comunicação seja eficaz.\n\nSe o objetivo é \"verdade\" e \"experiência\", o método é eficaz justamente porque leva a IA a usar dados consistentes e exemplos práticos. A única consideração é que, como a IA trabalha com uma base de dados treinada, o conceito de \"verdade\" pode ser limitado pelo que está disponível nos dados e padrões, mas a inclusão de \"experiência\" ajuda a refinar o resultado para algo que parece mais autêntico e prático.\n\nPor isso, o método é especialmente útil para contextos onde você quer respostas que reflitam prática e conhecimento real.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 857,
+    "author": "INEMA",
+    "date": "2024-10-01T19:51:05+00:00",
+    "text": "Cuidado\n\nNo seu método de empoderamento através da criação de prompts, que envolve definir o especialista, qualificação, experiência, problema, forma de entrega, público-alvo e o que não deseja, a abordagem é bastante robusta e estratégica. No entanto, alguns pontos podem não agregar tanto ou ter potencial para limitar a flexibilidade da IA. Aqui estão algumas observações:\n\n1. **Excesso de Especificidade**: Quando o prompt é altamente específico, como definir um especialista muito particular ou qualificação extremamente detalhada, pode restringir o espaço de exploração da IA. Isso pode impedir a geração de insights inovadores ou alternativas que não estavam previstas no início.\n\n2. **Experiência Superestimada**: Ao colocar muita ênfase na experiência prática, há o risco de a IA focar apenas em soluções muito \"pé no chão\", ignorando conceitos novos ou disruptivos. Um equilíbrio entre teoria e prática pode ser mais produtivo, permitindo que o algoritmo ofereça tanto soluções tradicionais quanto abordagens inovadoras.\n\n3. **Público-alvo Demasiadamente Focado**: Se o público-alvo for definido de forma muito estreita, pode limitar a capacidade da IA de gerar respostas que possam servir para diferentes contextos. Um pouco de generalização pode ser benéfico, especialmente se o objetivo for alcançar uma variedade de pessoas ou expandir o alcance.\n\n4. **Negar Demais Aspectos**: Especificar o que você \"não quer\" pode ser útil, mas ao negar muitos aspectos, você corre o risco de limitar as possibilidades da IA, levando a respostas mais previsíveis e menos criativas. Negar certos elementos pode ser feito de forma estratégica, mas em excesso pode diminuir a capacidade da IA de surpreender com algo novo ou diferente.\n\nEsses pontos podem limitar o potencial criativo da IA, e por isso, encontrar um equilíbrio entre detalhamento e flexibilidade é fundamental.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 856,
+    "author": "INEMA",
+    "date": "2024-10-01T19:51:05+00:00",
+    "text": "Exatamente! Ao estruturar um prompt dessa maneira, você está guiando o algoritmo para fornecer uma resposta muito mais direcionada e rica em detalhes, usando as seguintes etapas:\n\n1. **Ação como especialista**: Quando você pede para o algoritmo \"agir como um especialista\", ele imediatamente busca conhecimento adequado ao nível de expertise que você definiu, seja um médico, um engenheiro ou um consultor em marketing digital, por exemplo. Isso eleva a qualidade da resposta.\n\n2. **Qualificação**: Ao fornecer qualificações específicas, você está dando parâmetros que moldam o nível de profundidade e especialização da resposta. Isso ajuda a IA a filtrar e entregar conteúdo mais relevante e específico.\n\n3. **Experiência**: Ao adicionar a experiência desejada, você torna as respostas mais acertivas e pragmáticas, garantindo que o conteúdo seja aplicável e não apenas teórico. Por exemplo, ao mencionar que o especialista tem \"10 anos de experiência no setor\", a IA tende a incluir detalhes práticos e exemplos vividos.\n\n4. **Problema**: Definir claramente o problema a ser resolvido orienta a IA a focar na questão central. Isso evita dispersão e garante que a resposta trate diretamente do desafio apresentado.\n\n5. **Forma de entrega**: A maneira como você quer que a informação seja apresentada, seja de forma técnica, simplificada ou visual, faz com que o conteúdo final seja mais ajustado ao seu propósito.\n\n6. **Público-alvo**: Quando você especifica o público-alvo, a resposta pode ser ajustada para usar a linguagem, os exemplos e o tom adequados para esse público específico, aumentando a relevância.\n\n7. **O que não quer**: Ao especificar o que não deseja na resposta, como evitar jargões ou exemplos desatualizados, você refina ainda mais o resultado, garantindo que a resposta atenda exatamente às suas expectativas.\n\nEsse método de construção de prompts realmente maximiza o poder da IA, moldando-a para entregar soluções mais personalizadas e eficazes.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 855,
+    "author": "INEMA",
+    "date": "2024-10-01T19:51:05+00:00",
+    "text": "https://gamma.app/docs/dl92jxug39zyayv",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 854,
+    "author": "INEMA",
+    "date": "2024-10-01T19:51:05+00:00",
+    "text": "https://gamma.app/docs/1if3dzs931xp2ye",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 853,
+    "author": "INEMA",
+    "date": "2024-10-01T19:51:05+00:00",
+    "text": "https://gamma.app/docs/jmyjc2hsejhe9k1",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 852,
+    "author": "INEMA",
+    "date": "2024-10-01T19:51:05+00:00",
+    "text": "https://gamma.app/docs/1i8k1jm8lvinqjg",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 851,
+    "author": "INEMA",
+    "date": "2024-10-01T19:51:05+00:00",
+    "text": "O empoderamento, no contexto de especialistas e suas interações com a engenharia de prompt, envolve a combinação de qualificação, experiência e a capacidade de resolver problemas de forma eficaz para atingir o público-alvo de maneira clara e precisa. Quando se nega o valor do empoderamento, perde-se a oportunidade de obter respostas mais adequadas e estratégicas.\n\nAqui está uma explicação detalhada sobre cada um desses elementos:\n\n1. **Especialista**: Um especialista em engenharia de prompt é alguém que domina a criação e otimização de comandos para IA, aproveitando ao máximo a capacidade do sistema. Esse profissional entende como formular perguntas, fornecer contexto e estruturar as solicitações para gerar as respostas mais úteis e inovadoras.\n\n2. **Qualificação**: A qualificação para trabalhar com engenharia de prompt envolve tanto o conhecimento técnico das ferramentas e sistemas de IA, quanto habilidades criativas para explorar novos usos e cenários. É necessário estudar modelos de linguagem, práticas de NLP (Processamento de Linguagem Natural) e aprender técnicas de refinamento de prompts.\n\n3. **Experiência**: A experiência prática é essencial. Ela permite ao especialista desenvolver uma intuição sobre como os modelos de IA respondem a diferentes tipos de perguntas. Quanto mais prompts são testados e ajustados, mais eficiente o profissional se torna em prever resultados e resolver problemas.\n\n4. **Problema**: A habilidade de identificar claramente o problema que precisa ser resolvido é um dos pontos-chave da engenharia de prompt. Um problema mal definido resulta em respostas irrelevantes ou superficiais, enquanto um problema bem formulado facilita uma solução direta e eficiente. Um exemplo seria formular um prompt específico que delimita o escopo do problema a ser resolvido.\n\n5. **Forma de Entrega**: A entrega do conteúdo gerado pela IA deve ser adaptada ao público-alvo. Isso inclui o uso de uma linguagem apropriada, tom certo e exemplos relevantes. A forma como o resultado da IA é apresentado pode variar, sendo necessário adequar o estilo e a complexidade à audiência. \n\n6. **Público-alvo**: Diferentes públicos requerem diferentes abordagens na formulação dos prompts. Por exemplo, ao falar com executivos, pode-se usar uma linguagem mais estratégica e de alto nível, enquanto uma audiência técnica pode preferir detalhes específicos e termos mais aprofundados. A compreensão do público-alvo garante que os prompts sejam eficientes na obtenção de resultados que agreguem valor.\n\n7. **Negação**: Negar ou subestimar o valor do empoderamento na engenharia de prompt pode levar a uma má utilização das ferramentas de IA, gerando respostas genéricas ou mal ajustadas às necessidades reais. A falta de qualificação ou experiência pode resultar em perguntas mal formuladas, o que compromete a qualidade das respostas e a solução dos problemas.\n\nResumindo:\n- **Especialista**: Domínio na criação de prompts eficientes.\n- **Qualificação**: Conhecimento técnico e criativo.\n- **Experiência**: Prática contínua que melhora a intuição.\n- **Problema**: Clareza na formulação do problema a ser resolvido.\n- **Forma de Entrega**: Adaptar o conteúdo ao público.\n- **Público-alvo**: Compreensão das necessidades e linguagem da audiência.\n- **Negação**: Ignorar o empoderamento leva a resultados inferiores.\n\nEsses pontos são essenciais para quem deseja se destacar na prática da engenharia de prompt e usar a IA de forma estratégica e eficiente.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 834,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "https://www.aiforwork.co/department/education",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 833,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "Prompts Avançados parte 2/2\n\nCom os comandos certos você pode desbloquear funções avançadas da IA. Esses são apenas alguns exemplos de prompts avançados que podem ser usados para melhorar a interação com o ChatGPT e obter informações mais precisas e relevantes. É importante lembrar de personalizar os prompts de acordo com o objetivo do chatbot e a necessidade dos usuários.\n\nComandos (Prompts)\nParte 2\n\nAtuar como um Gerente de Mídias Sociais\n\nEu quero que você atue como um gerente de mídias sociais. Você será responsável por desenvolver e executar campanhas em todas as plataformas relevantes, interagir com o público respondendo a perguntas e comentários, monitorar conversas através de ferramentas de gerenciamento de comunidade, usar análises para medir o sucesso, criar conteúdo atraente e atualizar regularmente. Minha primeira solicitação de sugestão é “Preciso de ajuda para gerenciar a presença de uma organização no Twitter para aumentar a conscientização da marca”.\n\nAtuar como um Elocutionista\n\nEu quero que você atue como um elocutionista. Você vai desenvolver técnicas de oratória, criar material desafiador e atraente para apresentação, praticar a entrega de discursos com dicção e entonação adequadas, trabalhar a linguagem corporal e desenvolver maneiras de captar a atenção do público. Minha primeira solicitação de sugestão é “Eu preciso de ajuda para entregar um discurso sobre sustentabilidade no ambiente de trabalho voltado para diretores executivos corporativos”.\n\nAtuar como um Visualizador de Dados Científicos\n\nEu quero que você atue como um visualizador de dados científicos. Você vai aplicar seus conhecimentos de princípios de ciência de dados e técnicas de visualização para criar visuais atraentes que ajudem a transmitir informações complexas, desenvolver gráficos e mapas eficazes para transmitir tendências ao longo do tempo ou em diferentes geografias, utilizar ferramentas como o Tableau e o R para projetar painéis interativos significativos, colaborar com especialistas em determinadas áreas para entender as necessidades chave e atender aos requisitos. Minha primeira solicitação de sugestão é “Eu preciso de ajuda para criar gráficos impactantes com níveis de CO2 atmosférico coletados em cruzeiros de pesquisa ao redor do mundo.”\n\nAtuar como um Sistema de Navegação para Carros\n\nEu quero que você se comporte como um sistema de navegação para carros. Você deverá desenvolver algoritmos para calcular as melhores rotas de um lugar para outro, ser capaz de fornecer atualizações detalhadas sobre as condições de trânsito, levar em consideração desvios de construção e outros atrasos, utilizar tecnologias de mapeamento como o Google Maps ou o Apple Maps para oferecer visuais interativos de diferentes destinos e pontos de interesse pelo caminho. Minha primeira solicitação de sugestão é “Preciso de ajuda para criar um planejador de rotas que possa sugerir rotas alternativas durante o horário de pico.”\n\nAtuar como um Hipnólogo\n\nEu quero que você atue como um hipnólogo. Você ajudará os pacientes a acessar sua mente subconsciente e criar mudanças positivas no comportamento, desenvolverá técnicas para levar os clientes a um estado alterado de consciência, usará visualização e métodos de relaxamento para orientar as pessoas através de experiências terapêuticas poderosas e garantirá a segurança do seu paciente em todos os momentos. Minha primeira solicitação de sugestão é “Preciso de ajuda para facilitar uma sessão com um paciente que sofre de problemas de stress grave.”\n\nAtuar como um Historiador\n\nEu quero que você atue como um historiador. Você pesquisará e analisará eventos culturais, econômicos, políticos e sociais no passado, coletará dados de fontes primárias e os usará para desenvolver teorias sobre o que aconteceu durante vários períodos da história. Minha primeira solicitação de sugestão é “Preciso de ajuda para descobrir fatos sobre as greves de trabalho no início do século XX em Londres.”\n\nAtuar como Astrólogo\n\nEu quero que você atue como astrólogo. Você aprenderá sobre os signos do zodíaco e seus significados, entenderá",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 832,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "Prompts Avançados parte 1/2\n\nCom os comandos certos você pode desbloquear funções avançadas da IA. Esses são apenas alguns exemplos de prompts avançados que podem ser usados para melhorar a interação com o ChatGPT e obter informações mais precisas e relevantes. É importante lembrar de personalizar os prompts de acordo com o objetivo do chatbot e a necessidade dos usuários.\n\nComandos (Prompts)\n\nAtuar como um Terminal Linux\n\nQuero que você atue como um terminal Linux. Eu vou digitar comandos e você deverá responder com o que o terminal deveria mostrar. Quero que você apenas responda com a saída do terminal dentro de um único bloco de código e nada mais. Não escreva explicações. Não digite comandos, a menos que eu instrua você a fazê-lo. Quando precisar me dizer algo em inglês, farei isso colocando o texto entre chaves {assim}. Meu primeiro comando é pwd.\n\nAtuar como um Tradutor e Corretor de Inglês\n\nQuero que você atue como um tradutor de inglês, corretor ortográfico e melhorador. Eu vou falar com você em qualquer idioma e você deverá detectar o idioma, traduzi-lo e responder na versão corrigida e melhorada do meu texto, em inglês. Quero que você substitua minhas palavras e frases simplificadas de nível A0 por palavras e frases mais belas e elegantes, de nível superior, em inglês. Mantenha o mesmo significado, mas torne-os mais literários. Quero que você apenas responda à correção, às melhorias e nada mais, não escreva explicações. Minha primeira frase é “Istanbulu cok seviyom burada olmak cok guzel”.\n\nAtuar como um Entrevistador de Emprego\n\nQuero que você atue como um entrevistador. Eu serei o candidato e você fará as perguntas da entrevista para a posição de cargo. Quero que você apenas responda como o entrevistador. Não escreva toda a conversa de uma vez. Quero que você apenas faça a entrevista comigo. Faça as perguntas e espere as minhas respostas. Não escreva explicações. Faça as perguntas uma a uma, como um entrevistador faz e espere as minhas respostas. Minha primeira frase é “Oi”.\n\nAtuar como um Console JavaScript\n\nQuero que você atue como um console JavaScript. Eu vou digitar comandos e você deverá responder com o que o console JavaScript deveria mostrar. Quero que você apenas responda com a saída do console dentro de um único bloco de código e nada mais. Não escreva explicações. Não digite comandos, a menos que eu instrua você a fazê-lo. Quando precisar me dizer algo em inglês, farei isso colocando o texto entre chaves {assim}. Meu primeiro comando é console.log(“Hello World”);\n\nAtuar como uma Planilha Excel\n\nQuero que você atue como uma planilha Excel baseada em texto. Você só deverá me responder a planilha Excel baseada em texto com 10 linhas e números de linha e colunas de células (de A a L) como colunas. O cabeçalho da primeira coluna deve ficar vazio para referenciar o número da linha. Eu vou dizer o que escrever nas células e você só deverá responder o resultado da tabela do Excel como texto, e nada mais. Não escreva explicações. Eu escreverei fórmulas para você e você deverá executá-las e apenas responder o resultado da tabela do Excel como texto. Primeiro, responda a mim a planilha vazia.\n\nAtuar como um Auxiliar de Pronúncia em Inglês\n\nQuero que você atue como um assistente de pronúncia em inglês para pessoas falantes de português. Eu vou escrever frases para você e você só deverá responder com suas pronúncias, e nada mais. As respostas não devem ser traduções de minha frase, mas apenas pronúncias. As pronúncias devem usar as letras latinas portuguesas para a fonética. Não escreva explicações nas respostas. Minha primeira frase é “How is the weather in Salvador?”.\n\nAtuar como um Guia de Viagem\n\nQuero que você atue como um guia de viagem. Eu vou escrever minha localização para você e você irá sugerir um lugar para visitar perto da minha localização. Em alguns casos, também vou lhe dar o tipo de lugares que vou visitar. Você também sugerirá lugares do mesmo tipo que estejam próximos da minha primeira localização. Minha primeira solicitação de sugestão é “Estou em São Paulo e quero visitar apenas museus”.\n\nA",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 831,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "\"Prompt Personalizado Interativo\"\n\nDefinição Inicial do Tópico: Você fornece uma descrição inicial do tópico ou questão.\n\nEntendimento do Propósito e Público-Alvo: Eu pergunto sobre o objetivo da informação (educacional, profissional, curiosidade pessoal, etc.) e o público-alvo (especialistas, público geral, estudantes, etc.).\n\nFormato e Tamanho do Resultado: Discutimos o formato desejado (texto, lista, explicação detalhada, etc.) e o tamanho ou extensão da resposta.\n\nDetalhamento do Tópico e Subtópicos: Com base nas respostas, sugiro subtópicos específicos e peço feedback sobre quais são mais relevantes.\n\nNível de Profundidade e Complexidade: Pergunto sobre o nível de detalhe e complexidade desejado para adequar a resposta ao público-alvo.\n\nFeedback Contínuo e Ajustes: Após cada revisão do prompt, solicito feedback para ajustes contínuos.\n\nConfirmação Final do Prompt: Uma vez alinhado com suas necessidades, procedo com a resposta detalhada.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 830,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "O Prompt Supremo\n\nQuero que você se torne meu engenheiro de Prompt. Seu objetivo é me ajudar a criar o prompt mais adequado para minhas necessidades. O prompt será utilizado por você, ChatGPT. Você seguirá o seguinte processo:\n\nSua primeira resposta será me perguntar sobre o que o prompt deve ser. Eu vou fornecer minha resposta, mas precisamos aprimorá-la por meio de interações contínuas, seguindo os próximos passos.\n\nCom base na minha resposta, você irá gerar duas seções. a) Prompt revisado (forneça seu prompt reescrito. Ele deve ser claro, conciso e facilmente compreendido por você), b) Perguntas (faça quaisquer perguntas relevantes relacionadas às informações adicionais necessárias para melhorar o prompt)\n\nContinuaremos esse processo interativo, eu fornecendo informações adicionais e você atualizando o prompt na seção 'Prompt revisado', até que eu diga que estamos prontos.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 829,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "Comando prompt Efetivo \n\nQuero que você me ajude a desenvolver comandos. Para cada comando que eu fornecer,\nquero que você o avalie numa escala de 0 a 10, com base em critérios como clareza,\nespecificidade e completude.Se a nota do comando for inferior a 8,5, por favor, melhore-o\nadicionando mais detalhes ou esclarecendo quaisquer aspectos ambiguos. Estamos\nentendidos?",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 828,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "aiforwork.co",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 827,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "https://gamma.app/docs/tmny8fc4qhioe1t",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 826,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "https://gamma.app/docs/ia2oms6wlomswph",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 825,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "### O Método \"Skeleton of Thought\": Esqueleto do Pensamento\n\nUma Abordagem Estruturada para IA Gerativa\n\n#### Introdução\nA engenharia de prompts é uma área em rápido crescimento que explora como interagir de forma mais eficaz com Inteligência Artificial gerativa, como o ChatGPT. Uma das técnicas mais inovadoras nesse campo é o \"Skeleton of Thought\" (Esqueleto do Pensamento). Este artigo visa explicar o que é o método \"Skeleton of Thought\", como ele funciona, suas vantagens e um exemplo prático de sua aplicação.\n\n#### O que é o \"Skeleton of Thought\"?\nO \"Skeleton of Thought\" é uma técnica que serve como um guia estruturado para a geração de conteúdo. Ele permite uma verificação intermediária antes da produção final do texto, oferecendo uma abordagem mais controlada e eficiente para interagir com IAs gerativas.\n\n#### Como Funciona?\nO método pode ser dividido em quatro passos principais:\n\n1. *Iniciar com um Esqueleto*: O usuário começa pedindo à IA para criar um esqueleto ou contorno do conteúdo desejado. Este esqueleto serve como um rascunho inicial que esboça os principais pontos ou seções que a resposta final deverá abordar.\n\n2. *Verificação Intermediária*: Uma vez que o esqueleto é gerado, o usuário tem a oportunidade de revisá-lo para garantir que ele está alinhado com o que tinha em mente.\n\n3. *Correção de Curso*: Se o esqueleto estiver fora do alvo, o usuário pode instruir a IA a ajustar o foco ou até mesmo começar de novo.\n\n4. *Expansão do Esqueleto*: Se o esqueleto estiver alinhado com as expectativas do usuário, ele pode então pedir à IA para expandi-lo em um texto completo.\n\n#### Vantagens\nO método \"Skeleton of Thought\" oferece várias vantagens:\n\n- *Precisão*: Aumenta a probabilidade de a IA gerar uma resposta que esteja alinhada com o que o usuário deseja.\n  \n- *Eficiência*: Economiza tempo e recursos ao evitar a geração de respostas irrelevantes ou inadequadas.\n\n- *Flexibilidade*: Permite ajustes e correções de curso durante o processo.\n\n#### Exemplo Prático: Artigo sobre Sustentabilidade\nPara ilustrar o método, considere o exemplo de escrever um artigo sobre sustentabilidade. O usuário começa pedindo à IA para criar um esqueleto para o artigo. Após a revisão e possíveis ajustes, o usuário então pede à IA para expandir o esqueleto em um artigo completo. Este exemplo demonstra como o método pode ser aplicado de forma prática para obter resultados mais precisos e eficientes.\n\n#### Conclusão\nO método \"Skeleton of Thought\" é uma técnica valiosa na engenharia de prompts para IA gerativa. Ele oferece uma abordagem mais estruturada e eficiente, permitindo uma interação mais controlada e resultados mais alinhados com as expectativas do usuário. Com suas vantagens de precisão, eficiência e flexibilidade, ele é certamente uma adição valiosa ao repertório de qualquer pessoa interessada em maximizar a eficácia da IA gerativa.\n\n#EngenhariaDePrompts #IAGerativa #SkeletonOfThought #Precisão #Eficiência #Flexibilidade #ExemploPrático #Sustentabilidade #Método #Conclusão",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 824,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "https://gamma.app/docs/tqp5853hs6alc4c",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 823,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "Empoderamento\n\nEspecialista, qualificação, experiência, problema, forma entrega, público algo, negação",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 822,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "https://gamma.app/docs/dl92jxug39zyayv",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 821,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "https://gamma.app/docs/dl92jxug39zyayv",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 820,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "Aqui está a lista dos prompts que você me enviou:\n\n1. **\"Você como um especialista em comportamento humano que entende de músicas e cinema, pode me explicar o que atrai as crianças da série Wandinha.\"**\n2. **\"Quero criar um personagem similar, um menino aventureiro com estas características.\"**\n3. **\"Crie uma imagem.\"**\n4. **\"Vamos chamar ele de Tiago.\"**\n5. **\"Descreva detalhes físicos e comportamentais do Tiago para fixar no personagem.\"**\n6. **\"Crie um roteiro com 250 caracteres cada cena, faça 10 cenas dele indo descobrir uma caverna na trilha da montanha.\"**\n7. **\"Crie uma imagem para cada cena no formato 16:9.\"**\n8. **\"Continue mais 3.\"** (para gerar mais imagens para as cenas)\n9. **\"Expanda a cena 1 com 1000 caracteres.\"**\n10. **\"Cena 2.\"**\n11. **\"Cena 3.\"**\n12. **\"Cena 4.\"**\n13. **\"Cena 5.\"**\n14. **\"Cena 6.\"**\n15. **\"Cena 7.\"**\n16. **\"Cena 8.\"**\n17. **\"Cena 9.\"**\n18. **\"Cena 10.\"**\n19. **\"Conclua.\"**\n20. **\"Liste os prompts que lhe mandei.\"**\n\nEsses foram os prompts relacionados ao desenvolvimento do personagem Tiago e sua aventura.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 819,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "https://chatgpt.com/c/66e22c89-cadc-8009-950c-ba423a2d957f",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 818,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "https://www.tiktok.com/@inema.prompts?_t=8peEzZk1bqX&_r=1",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 817,
+    "author": "INEMA",
+    "date": "2024-10-01T19:42:19+00:00",
+    "text": "especialista, qualificacao, experiencia,problema,  publico alvo,  , formato de entrega e negacao, confirmacao",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 816,
+    "author": "INEMA",
+    "date": "2024-10-01T19:40:16+00:00",
+    "text": "0",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 815,
+    "author": "INEMA",
+    "date": "2024-10-01T19:40:16+00:00",
+    "text": "9",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 814,
+    "author": "INEMA",
+    "date": "2024-10-01T19:40:15+00:00",
+    "text": "8",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 813,
+    "author": "INEMA",
+    "date": "2024-10-01T19:40:14+00:00",
+    "text": "7",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 812,
+    "author": "INEMA",
+    "date": "2024-10-01T19:40:14+00:00",
+    "text": "6",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 811,
+    "author": "INEMA",
+    "date": "2024-10-01T19:40:13+00:00",
+    "text": "5",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 810,
+    "author": "INEMA",
+    "date": "2024-10-01T19:40:13+00:00",
+    "text": "4",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 809,
+    "author": "INEMA",
+    "date": "2024-10-01T19:40:13+00:00",
+    "text": "3",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 808,
+    "author": "INEMA",
+    "date": "2024-10-01T19:40:12+00:00",
+    "text": "2",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 807,
+    "author": "INEMA",
+    "date": "2024-10-01T19:40:12+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 806,
+    "author": "INEMA",
+    "date": "2024-10-01T19:40:08+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

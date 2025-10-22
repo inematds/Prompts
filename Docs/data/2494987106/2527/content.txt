@@ -1,0 +1,143 @@
+TOPICO 2527
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-03-23 21:06:36+00:00
+
+Total de mensagens: 9
+Midias encontradas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-03-23T21:07:38+00:00
+Texto:
+Abaixo está um **prompt padrão reutilizável** que você pode usar tanto no **Loveable** quanto no **Bolt** (ou qualquer outra ferramenta no-code com IA), para criar aplicações web com upload de imagem, IA, automações, login, banco de dados e pagamento.
+
+Esse prompt cobre **todos os pontos do vídeo**, de forma organizada e adaptável para qualquer projeto de SaaS com IA.
+
+---
+
+### Prompt Padrão para Criar Aplicações com IA no Loveable ou Bolt
+
+```Crie uma aplicação web com as seguintes especificações:
+
+1. **Identidade do Projeto**
+   - Nome: [INSIRA O NOME DO APP]
+   - Tema visual moderno e responsivo, com opção de modo escuro (dark theme).
+   - Estilo visual épico, com animações suaves e aparência profissional.
+
+2. **Funcionalidade Principal**
+   - O usuário deve poder fazer upload de uma imagem.
+   - A imagem deve ser enviada para o webhook:
+     [INSIRA AQUI O LINK DO WEBHOOK DO MAKE.COM OU N8N]
+   - Mostrar uma animação de carregamento durante o processamento (ex: "Analisando imagem...").
+   - Após até 60 segundos, a imagem transformada deve ser retornada e exibida na interface.
+   - Exibir a imagem original à esquerda e a transformada à direita.
+
+3. **Autenticação e Banco de Dados**
+   - Implementar sistema de login e cadastro de usuários com e-mail e senha.
+   - Integrar com Supabase para armazenamento de dados dos usuários.
+   - Campos necessários: nome, e-mail, senha.
+   - Manter os usuários autenticados entre sessões.
+   - Exibir erro amigável caso haja falha no login ou cadastro.
+
+4. **Monetização com Stripe**
+   - Integrar o Stripe como gateway de pagamento.
+   - Permitir que o usuário use a funcionalidade uma vez gratuitamente.
+   - Após isso, oferecer um plano de assinatura mensal de R$ [VALOR] (ex: R$ 49,00/mês).
+   - Adicionar botão “Assinar Plano Premium” com redirecionamento ao checkout do Stripe.
+   - Após a confirmação do pagamento, registrar no banco de dados que o usuário é premium.
+
+5. **Experiência do Usuário (UX)**
+   - Exibir mensagens de status: "Enviando imagem...", "Imagem transformada!", "Erro ao processar imagem".
+   - Manter esquema de cores e layout visual atual, sem mudanças automáticas.
+   - Adicionar exemplos de transformação com imagens demonstrativas.
+   - Layout mobile-first, totalmente funcional em smartphones e tablets.
+
+6. **Extras (opcionais para refinar ainda mais)**
+   - Integração com login via Google.
+   - Galeria de transformações do usuário com histórico.
+   - Limite de 20 transformações por mês para usuários premium.
+   - Página de termos de uso e política de privacidade.
+
+Instruções:
+- Mantenha tudo modular para facilitar atualizações futuras.
+- Permitir fácil substituição do webhook, chave da API ou valores do Stripe.```
+
+---
+
+### Como Usar
+
+- N**o Loveable:** Cole esse prompt na criação de um novo projeto.
+- N**o Bolt:** Use esse prompt como instrução principal para montar o fluxo visual (você pode dividir em blocos por funcionalidade).
+- N**o Claude/ChatGPT:** Peça para ele gerar os códigos HTML/CSS/JS a partir disso.
+- N**o ****Make.com**** / n8n:** Use os webhooks e automações referenciadas nesse prompt para conectar tudo.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-03-23T21:07:10+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-03-23T21:07:02+00:00
+Texto:
+Prompt de SaaS com N8N e Lovable
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-03-23T21:06:59+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-03-23T21:06:58+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-03-23T21:06:58+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-03-23T21:06:57+00:00
+Texto:
+https://chatgpt.com/c/67e05b49-3ea8-8009-96ae-52348e305cde
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-03-23T21:06:57+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-03-23T21:06:36+00:00
+Texto: [Sem texto]
+
+------------------------------
+

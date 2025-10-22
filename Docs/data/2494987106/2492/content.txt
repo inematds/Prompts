@@ -1,0 +1,155 @@
+TOPICO 2492
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-03-22 02:48:21+00:00
+
+Total de mensagens: 11
+Midias encontradas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-03-24T23:01:20+00:00
+Texto:
+IMG_3458.CR2, ultra realistic portrait of a smiling man in a dark suit, cinematic lighting, shallow depth of field, studio background, captured with Canon EOS R5, 85mm lens, f/1.4, ISO 100, skin details, RAW style, 8k
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-03-24T23:00:01+00:00
+Texto:
+photo of a confident man sitting and smiling, cinematic lighting, shallow depth of field, realistic skin texture, visible pores, natural expression, wearing elegant dark suit, studio background, captured with a Canon EOS R5 + 85mm lens f/1.4, ISO 100, ultra-realistic color grading, 8k, RAW style, soft shadows, high detail
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-03-22T02:48:35+00:00
+Texto:
+Para deixar uma imagem mais realista usando recursos de fotografia (seja na captura real ou na geração por IA), você pode aplicar os seguintes **recursos técnicos e visuais**. Abaixo estão as dicas em forma de **lista direta**, com exemplos simples:
+
+---
+
+### **1. Iluminação Natural Direcionada**
+- Use luz lateral suave (janela, softbox).
+- Evite iluminação frontal chapada.
+- Exemplo: luz vindo de uma janela à esquerda, criando sombras leves no rosto.
+
+### **2. Profundidade de Campo (Desfoque do Fundo)**
+- Use lente com abertura grande (ex: f/1.8, f/2.8).
+- Foco no rosto, fundo suavemente desfocado (bokeh).
+- Exemplo: rosto nítido, estante atrás desfocada.
+
+### **3. Textura da Pele e Detalhes Reais**
+- Não aplique filtros de suavização exagerados.
+- Mantenha poros, linhas de expressão e pequenas imperfeições.
+- Exemplo: destacar rugas suaves, brilho natural na pele.
+
+### **4. Contraste e Nitidez Local**
+- Realce detalhes com nitidez apenas em áreas-chave (olhos, boca).
+- Use contraste leve para destacar formas sem perder suavidade.
+- Exemplo: olhos bem definidos, mas sem exagero nas sombras.
+
+### **5. Cores Realistas e Tons de Pele Naturais**
+- Evite saturação artificial.
+- Corrija o balanço de branco para manter o tom de pele fiel.
+- Exemplo: evitar pele muito amarelada ou avermelhada.
+
+### **6. Expressão Espontânea e Natural**
+- Capture momentos reais ou simule sorrisos leves, olhares vivos.
+- Evite poses forçadas ou artificialmente simétricas.
+- Exemplo: sorriso leve, olhar que conecta com quem vê.
+
+### **7. Fundo com Profundidade e Textura**
+- Use fundos reais com elementos desfocados (livros, plantas, texturas).
+- Evite fundos completamente chapados ou digitais simples.
+- Exemplo: estante ao fundo com livros coloridos fora de foco.
+
+### **8. Lentes e Enquadramento**
+- Use lente 50mm ou 85mm para retratos (ou simule isso).
+- Enquadre de forma natural: regra dos terços, olhar para a câmera ou levemente para o lado.
+- Exemplo: retrato até o peito com olhos alinhados na linha superior.
+
+---
+
+Se for aplicar isso **em geração de IA (como Midjourney, DALL·E ou Leonardo)**, use instruções como:
+
+> “ultra realistic lighting, soft shadows, bokeh background, 85mm lens style, natural skin texture, expressive eyes, cinematic portrait, realistic color grading”
+
+Se estiver **fotografando**, use:
+- Luz natural lateral + rebatedor.
+- Lente fixa com abertura grande.
+- Foco manual nos olhos.
+- Evite pós-processamento pesado.
+
+Quer que eu adapte isso para um prompt específico de IA com tudo isso incluso?
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-03-22T02:48:32+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-03-22T02:48:31+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-03-22T02:48:31+00:00
+Texto:
+...
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-03-22T02:48:31+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-03-22T02:48:31+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-03-22T02:48:30+00:00
+Texto:
+https://chatgpt.com/c/67ddbfa9-0dec-8009-97dd-d7c57424ec11
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-03-22T02:48:30+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-03-22T02:48:21+00:00
+Texto: [Sem texto]
+
+------------------------------
+

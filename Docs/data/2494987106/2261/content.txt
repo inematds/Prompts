@@ -1,0 +1,163 @@
+TOPICO 2261
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-02-14 01:47:54+00:00
+
+Total de mensagens: 8
+Midias baixadas: 0
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: Tiza
+Data: 2025-08-31T04:37:17+00:00
+Texto:
+Mini Guia: **Estruturas de Prompts**
+
+Transforme perguntas em resultados práticos
+
+🎯 **O Que é um Prompt?**
+
+É a instrução que você dá para a IA. Quanto mais claro e específico, melhor o resultado.
+
+❌ Ruim: "Me ajude com marketing"
+✅ Bom: "Crie 3 títulos de email marketing para um curso de culinária vegana, focando em iniciantes e com tom acolhedor"
+
+🏗️ **Estrutura do Prompt Perfeito**
+
+Use os 4 pilares essenciais:
+
+🎭 **Contexto** → Quem é você / sua situação
+
+Ex: "Sou fisioterapeuta especializada em reabilitação esportiva..."
+
+🎯 **Objetivo** → O que deseja que a IA faça
+
+Ex: "...crie um roteiro para vídeo educativo..."
+
+📋 **Especificações** → Detalhes importantes (formato, público, estilo, duração)
+
+Ex: "...60s, linguagem simples, para Instagram Reels..."
+
+💡 **Exemplo** (opcional) → Mostre o formato que espera
+
+Ex: "Dica 1: [título] – [explicação curta]"
+
+📐 Modelo Universal
+🎭 Contexto: "Sou [profissão/situação]..."  
+🎯 Objetivo: "Preciso que você [ação específica]..."  
+📋 Especificações: "- Formato: ... | - Público: ... | - Tom: ..."  
+
+⚡ Exemplos Práticos
+
+👩‍⚕️ **Saúde**
+"Sou fisioterapeuta. Crie roteiro de vídeo (Reels, até 60s) com 3 exercícios simples para dor nas costas em home office. Linguagem acessível, incluir alertas de segurança e CTA para agendamento."
+
+📊 **Marketing**
+"Sou social media de academia feminina (25-40 anos). Crie 5 legendas motivacionais para posts de segunda-feira. Tom inspirador, 2-3 parágrafos, emojis moderados, CTA sutil, hashtags no final."
+
+📚 **Educação**
+"Sou iniciante em automação. Crie um plano de estudos de 30 dias para aprender Make, dividido em 4 semanas, com 1h/dia, projetos práticos e recursos gratuitos."
+
+🚫 Erros Comuns
+
+❌ Prompts vagos: "Me ajude com vendas"
+
+❌ Informação demais sem estrutura
+
+❌ Não dar contexto ou público-alvo
+
+🛠️ **Fórmulas Rápidas**
+
+**CARE**: Contexto + Ação + Requisitos + Exemplo
+**STAR**: Situação + Tarefa + Ação + Resultado
+**SMART**: Específico + Mensurável + Alcançável + Relevante + Tempo
+
+✅ **Checklist do Prompt**
+
+Contexto claro?
+
+Objetivo específico?
+
+Público definido?
+
+Tom e formato pedidos?
+
+Restrições bem indicadas?
+
+🚀 Missão Prática
+
+Crie 1 prompt real do seu trabalho usando a estrutura:
+
+🎭 Contexto: ...  
+🎯 Objetivo: ...  
+📋 Especificações: ...  
+💡 Exemplo esperado: ...  
+
+
+Teste com a IA → Documente o resultado → Compartilhe na comunidade.
+
+✨ Resumo Final:
+Um bom prompt = Contexto + Objetivo + Especificações + (Exemplo)
+Quanto mais claro você for, mais útil será a resposta.
+
+.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-06-08T20:44:04+00:00
+Texto:
+Entenda as estruturas de Prompts
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-06-08T20:43:52+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-06-08T20:43:52+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-06-08T20:43:51+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-06-08T20:43:51+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-06-08T20:43:51+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-02-14T01:47:54+00:00
+Texto: [Sem texto]
+
+------------------------------
+

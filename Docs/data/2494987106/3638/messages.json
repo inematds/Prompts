@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3646,
+    "author": "INEMA",
+    "date": "2025-05-25T18:45:02+00:00",
+    "text": "Prompt de Caveperson usado:\n\"Ok, então estou participando de um hackathon onde estou tentando criar um aplicativo. Os critérios para os produtos vencedores e como eles serão avaliados estão na imagem que anexei também.\nQuero que você acompanhe o vídeo. Procure todos os possíveis pontos problemáticos ou as possíveis melhorias que posso fazer do ponto de vista da interface do usuário, e não quero que você apenas compare com a rubrica. Mas quero que você crie uma série de prompts otimizados para bolt.apps.\nUm exemplo de prompt poderia ser: \"Quero que você melhore a interface do usuário para que, sempre que eu passar o mouse sobre um bloco específico, ele seja exibido, preenchido ou aberto automaticamente, em vez de eu ter que clicar em tudo. Imagine um prompt como esse, mas com 3 a 5 prompts, dependendo do feedback que você tiver para mim, para que eu possa aprimorar este produto da melhor forma possível.\"",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3645,
+    "author": "INEMA",
+    "date": "2025-05-25T18:44:59+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3644,
+    "author": "INEMA",
+    "date": "2025-05-25T18:44:59+00:00",
+    "text": "Prompt Vibe Code - Criando app de Videos",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3643,
+    "author": "INEMA",
+    "date": "2025-05-25T18:44:58+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3642,
+    "author": "INEMA",
+    "date": "2025-05-25T18:44:58+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3641,
+    "author": "INEMA",
+    "date": "2025-05-25T18:44:58+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3640,
+    "author": "INEMA",
+    "date": "2025-05-25T18:44:58+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3639,
+    "author": "INEMA",
+    "date": "2025-05-25T18:44:57+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3638,
+    "author": "INEMA",
+    "date": "2025-05-25T18:44:54+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

@@ -1,0 +1,156 @@
+TOPICO 3628
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-05-24 02:54:51+00:00
+
+Total de mensagens: 9
+Midias baixadas: 2
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-05-24T02:56:49+00:00
+Texto:
+**Resumo em tópicos – Prompt Engineering Masterclass**
+
+1. **Impacto de Prompts Bem Estruturados**
+
+   * Prompts certos podem multiplicar por 10 ou até 100 vezes a eficiência de automações com IA.
+   * Reduzem meses de trabalho para dias.
+   * Melhoram consistência, previsibilidade e confiabilidade dos sistemas automatizados.
+
+2. **Experiência do Instrutor**
+
+   * Criador de prompts para empresas como ClickUp AI, Lavender, Seamless.AI.
+   * Mais de 3.000 engenheiros treinados e 2.000 prompts criados manualmente.
+   * Gerenciou cerca de \$350 mil em uso de tokens de IA.
+
+3. **Estilos de Engenharia de Prompts**
+
+   * Conversacional: útil para exploração, mas ineficiente em automações.
+   * One-shot prompts: preferido para automações.
+   * Atomic prompts: curtos, para tarefas simples como formatação ou classificação.
+   * Compound prompts: longos e complexos, encadeiam várias instruções e exemplos para tarefas como gerar threads virais no Twitter.
+
+4. **Exemplos Práticos**
+
+   * Prompt para converter perfis ideais em buscas no LinkedIn Sales Navigator.
+   * Prompt para gerar threads virais a partir de vídeos ou notícias: inclui hooks, briefings, estrutura, corpo do conteúdo e edição.
+
+5. **Boas Práticas**
+
+   * Assumir responsabilidade: se o resultado é ruim, o prompt provavelmente está mal estruturado.
+   * Ser extremamente específico e detalhado.
+   * Usar estrutura visual (títulos, blocos, listas, brackets) melhora compreensão do modelo.
+   * O formato do input influencia o formato do output (parágrafos geram textos mais contínuos; listas, outputs mais objetivos).
+   * Fazer muitas iterações (ex.: 54 versões de um mesmo prompt).
+
+6. **Diferença entre System, User e Assistant**
+
+   * System: diretrizes e regras fixas.
+   * User: dados dinâmicos e variáveis do contexto.
+   * Assistant: resposta do modelo.
+   * Modelos têm limites de tokens; usar muitos tokens no input reduz o espaço para o output.
+
+7. **Adaptação por Modelo**
+
+   * Modelos mais fracos (como GPT-3.5) precisam de mais instruções passo a passo.
+   * Modelos mais avançados (como Claude 3 Opus) entendem melhor com menos detalhamento, mas ainda se beneficiam de estrutura e exemplos.
+
+8. **Frameworks Avançados**
+
+   * **Deconstruction Method**: dividir tarefas complexas em prompts separados (ex.: hook, estrutura, corpo do texto).
+   * **Stacking Method**: empilhar diretrizes em blocos lógicos.
+   * **Tell and Show**: dizer o que quer e mostrar exemplos reais.
+   * **Import Method**: injetar conhecimento técnico ou de especialistas dentro do prompt.
+   * **Chain of Thought**: forçar IA a pensar passo a passo antes de responder.
+   * **Anti-keyword Staining**: evitar termos treinados com baixa qualidade (ex.: "SEO") e substituí-los por instruções claras.
+   * **Prompt Chaining**: usar o output de um prompt como input do próximo, criando um fluxo encadeado.
+
+9. **Importância da Prática**
+
+   * O domínio da engenharia de prompts vem com prática diária.
+   * Não há fórmula mágica: aprender exige tentativa e erro.
+   * Profissionais são pagos entre \$5.000 e \$10.000/mês ou percentuais de receita recorrente por criar prompts para empresas.
+
+10. **Como Ganhar Dinheiro com Prompts**
+
+    * Oferecer prompts como serviço para empresas de SaaS ou automação.
+    * Começar com projetos menores, ganhar portfólio, depois escalar.
+    * Cada prompt deve gerar economia ou aumentar receita para ser valorizado.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-05-24T02:55:04+00:00
+Texto:
+https://www.youtube.com/watch?v=ODl4olu1L7U
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-05-24T02:55:02+00:00
+Texto:
+**Visão Geral 🧠**
+
+Devin discute engenharia avançada de prompts para automações com IA, destacando o uso de prompts compostos, diretrizes contextuais e exemplos práticos. Ele aborda métodos como desconstrução, encadeamento (chaining) e linha de raciocínio (train of thought). Enfatiza a importância da prática diária para aprimorar a proficiência.
+
+**Quem é Devin? 🤔**
+
+Devin McPaul é um especialista em criação de prompts para IA. Ele lidera uma agência de prompting que atende as maiores empresas de SaaS do mundo, incluindo ClickUp, Lavender.ai e Seamless.ai. Já gerenciou mais de US\$ 400.000 em uso de tokens de IA e ensinou mais de 3.000 pessoas em engenharia avançada de prompts.
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-05-24T02:55:01+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-05-24T02:55:01+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-05-24T02:55:01+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-05-24T02:55:01+00:00
+Texto:
+https://chatgpt.com/c/68313532-ba10-8009-affc-57412186d3ab
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-05-24T02:55:00+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-05-24T02:54:51+00:00
+Texto: [Sem texto]
+
+------------------------------
+

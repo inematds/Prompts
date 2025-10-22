@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3878,
+    "author": "INEMA",
+    "date": "2025-06-22T06:40:17+00:00",
+    "text": "Aqui estão os **principais hacks (atalhos práticos e estratégicos)** apresentados na masterclass para turbinar sua habilidade em prompt engineering:\n\n---\n\n**1. Hack da Deconstrução**\nEvite tentar resolver tudo em um único prompt.\n**Faça assim:**\n\n* Divida seu objetivo em etapas lógicas\n* Crie um prompt para cada parte (análise, hook, corpo, CTA, etc.)\n  **Exemplo:** Criar post viral →\n\n  1. Analisar post viral existente\n  2. Gerar gancho\n  3. Criar corpo do texto\n  4. Escrever CTA\n\n---\n\n**2. Hack do Stacking (Empilhamento)**\nQuando dominar prompts individuais, combine vários em um só para economizar tempo e tokens.\n**Use quando:**\n\n* O mesmo contexto é repetido em todos os prompts\n* Você precisa reduzir custos em automações em escala\n  **Cuidado:** se a qualidade cair, volte à deconstrução.\n\n---\n\n**3. Hack “Tell and Show” (Diga e Mostre)**\n**Não só diga o que quer, mostre exemplos.**\n**Como fazer:**\n\n* Diga: \"Crie uma legenda com tom inspirador\"\n* Mostre: exemplo real de legenda inspiradora\n  **Por quê?** A IA entende melhor com exemplos claros do que é \"bom\".\n\n---\n\n**4. Hack da Importação (Import Method)**\n**Traga seu próprio conhecimento para dentro do prompt.**\n**O que importar:**\n\n* Slides, resumos de cursos, livros, podcasts, scripts\n* Dados de mercado específicos que a IA não conhece\n  **Como usar:**\n\n> “Considere esse material como base de conhecimento para responder com precisão…”\n\n---\n\n**5. Hack do Pensamento em Cadeia (Chain of Thought)**\n**Faça a IA pensar antes de responder.**\n**Como fazer:**\n\n* Adicione perguntas antes da tarefa principal:\n\n> “1. Qual o problema principal?\n> 2\\. Qual a solução mais rápida?\n> 3\\. Agora escreva o conteúdo.”\n\n---\n\n**6. Hack Anti-Vieses de Palavras (Anti-Keyword Staining)**\n**Evite palavras que distorcem a resposta.**\n**Exemplos a evitar:** \"tweet\", \"post\", \"headline\", \"viral\"\n**Em vez de:**\n\n> \"Escreva um tweet motivacional\"\n> **Use:**\n> \"Escreva um texto curto e impactante sobre superação\"\n\n---\n\n**7. Hack do Encadeamento de Prompts (Prompt Chaining)**\n**Encadeie prompts em sequência automática.**\n**Exemplo:**\n\n* Prompt 1: analisa post viral\n* Prompt 2: sugere estrutura\n* Prompt 3: escreve conteúdo\n* Prompt 4: gera a versão persuasiva com CTA\n\n---\n\n**8. Hack da Qualidade com Exemplos**\n**Mais importante que o número de exemplos é a qualidade deles.**\n\n* 1 exemplo excelente > 10 medianos\n* Teste até onde vale a pena adicionar sem aumentar custo excessivo\n\n---\n\n**9. Hack da Escolha de Modelo**\n**Nem sempre o mais novo é o melhor.**\n\n* Teste GPT-4o, GPT-3.5, Claude, Mistral, LLaMA\n* Às vezes modelos antigos são mais estáveis para tarefas simples ou classificações\n\n---\n\n**10. Hack da Automação com Análise de Conteúdo Viral**\n**Crie sua automação para identificar o que funciona.**\n**Como fazer:**\n\n* Scrape de posts virais (YouTube, IG, LinkedIn)\n* IA analisa: tema, tom, estrutura, CTA\n* Gere templates com base nesses dados reais\n\n---",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3877,
+    "author": "INEMA",
+    "date": "2025-06-22T06:39:59+00:00",
+    "text": "===========",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3876,
+    "author": "INEMA",
+    "date": "2025-06-22T06:39:55+00:00",
+    "text": "**Resumo da Masterclass de Prompt Engineering Avançado com Devon**\n\n**Objetivo da aula**\nMostrar como aplicar frameworks avançados de *prompt engineering* para multiplicar por 2x, 10x ou 100x a qualidade e impacto das automações com IA, especialmente em criação de conteúdo.\n\n---\n\n**1. Métodos Avançados de Prompt Engineering**\n\n* **Método da Deconstrução**\n  Em vez de usar um único prompt para fazer tudo, divida o problema em partes menores e mais controláveis.\n  *Exemplo:* Para criar um conteúdo, separe prompts para:\n\n  * Analisar conteúdo viral\n  * Criar o gancho (hook)\n  * Escrever o corpo (body)\n  * Gerar CTA e legenda\n    Resultado: mais controle, clareza e qualidade.\n\n* **Método do Empilhamento (Stacking)**\n  O oposto da deconstrução. Quando já domina os prompts separados, combine-os em um único prompt.\n  *Vantagem:* Economia de tokens e tempo.\n  *Atenção:* Se a qualidade cair, volte à deconstrução.\n\n* **Método “Diga e Mostre” (Talent Show)**\n  Não apenas diga o que quer – *mostre exemplos claros*.\n  *Analogia:* Dizer “quero um flamingo” não é suficiente. Mostre a imagem do flamingo.\n  *Aplicação:* Use exemplos reais de conteúdo que performa bem.\n\n* **Método da Importação (Import Method)**\n  Quando o conhecimento geral do modelo não é suficiente, insira *dados reais e confiáveis* (cursos, livros, podcasts).\n  *Exemplo:* importar todas as opções do LinkedIn Sales Navigator.\n\n* **Método do “Pensamento em Cadeia” (Train of Thought)**\n  Força a IA a *pensar antes de responder*.\n  *Exemplo:* peça para planejar um lead magnet antes de gerar o texto.\n  Tipos:\n\n  * Continue o raciocínio\n  * Planeje a lógica antes da execução\n\n* **Método Anti-Vieses de Palavras-chave (Anti-Keyword Staining)**\n  Certas palavras (“tweet”, “post”, “headline”) forçam a IA a resultados clichês.\n  *Solução:* Troque palavras enviesadas por sinônimos ou descrições indiretas.\n\n* **Método do Encadeamento (Chaining)**\n  Encadeia os prompts de forma sequencial, passando a saída de um como entrada do outro.\n  *Exemplo:*\n\n  * Prompt 1: analisa post viral\n  * Prompt 2: sugere tópicos\n  * Prompt 3: escreve conteúdo\n  * Prompt 4: gera CTA\n    Permite gerar conteúdos complexos com lógica contínua.\n\n---\n\n**2. Dicas práticas e respostas relevantes**\n\n* **Sobre usar exemplos nos prompts:**\n  Use *de 1 a 5 exemplos* de alta qualidade. Mais que isso pode ter efeito inverso (custo alto e confusão).\n\n* **Criar conteúdo viral:**\n\n  * Comece analisando conteúdo que já performa bem\n  * Extraia estrutura, psicologia, gatilhos\n  * Crie templates com base nisso\n  * Use IA para adaptar o template à sua marca\n\n* **Dica de automação para análise de conteúdo:**\n\n  * Use scraping (ex: PhantomBuster) para capturar posts\n  * Analise com IA: tópicos, estrutura, tom, crenças, falhas, psicologia\n  * Crie planilhas para gerenciar isso\n\n* **Sobre idiomas:**\n\n  * Ideal: escrever os prompts no idioma final desejado\n  * Evite traduzir prompts via Google Translate\n  * Se não souber o idioma, envolva nativos para garantir qualidade\n\n* **Modelos antigos x novos:**\n\n  * GPT-4o é superior em contexto e instruções\n  * Mas modelos mais antigos (ex: GPT-3.5) podem ser mais consistentes em tarefas simples\n  * *Teste sempre vários modelos* para ver qual serve melhor ao seu caso\n\n---\n\n**3. Frases-chave que resumem a filosofia de Devon**\n\n* \"Prompts são ferramentas para resolver problemas, não soluções prontas.\"\n* \"Construa seu próprio conhecimento. Copiar prompts da internet quase nunca funciona.\"\n* \"Exercício diário de prompt engineering é o que te torna mestre.\"\n* \"Resolva o problema manualmente primeiro, depois transforme isso em prompt.\"\n\n---\n\n**4. Aplicações sugeridas**\n\n* Criar lead magnets diários com IA\n* Construir CTAs persuasivos com contexto real\n* Analisar e adaptar vídeos do YouTube, posts do Instagram e carrosséis\n* Desenvolver conteúdos específicos para cada etapa do funil",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3875,
+    "author": "INEMA",
+    "date": "2025-06-22T06:38:00+00:00",
+    "text": "__M2 - Prompt Engineering Masterclass__ de Devin",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3874,
+    "author": "INEMA",
+    "date": "2025-06-22T06:37:55+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3873,
+    "author": "INEMA",
+    "date": "2025-06-22T06:37:55+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3872,
+    "author": "INEMA",
+    "date": "2025-06-22T06:37:54+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3871,
+    "author": "INEMA",
+    "date": "2025-06-22T06:37:54+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3870,
+    "author": "INEMA",
+    "date": "2025-06-22T06:37:54+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3869,
+    "author": "INEMA",
+    "date": "2025-06-22T06:37:54+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3868,
+    "author": "INEMA",
+    "date": "2025-06-22T06:37:53+00:00",
+    "text": "https://chatgpt.com/c/6857a50b-b1ac-8009-922a-b54d5afc1abf",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3867,
+    "author": "INEMA",
+    "date": "2025-06-22T06:37:52+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3866,
+    "author": "INEMA",
+    "date": "2025-06-22T06:37:46+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

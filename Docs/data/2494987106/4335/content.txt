@@ -1,0 +1,322 @@
+TOPICO 4335
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-08-07 20:46:10+00:00
+
+Total de mensagens: 16
+Midias baixadas: 3
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-08-07T21:02:02+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_4368_001.jpg
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-08-07T20:59:09+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_4366_002.jpg
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-08-07T20:48:30+00:00
+Texto:
+===============
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-08-07T20:48:25+00:00
+Texto:
+### Exemplos práticos
+
+**Prompt aplicado a Clarice Lispector:**
+
+* Lexical Choices: alma, silêncio, instante
+* Syntactic Patterns: frases curtas misturadas com fluxos longos de consciência
+* Structure: fragmentada
+* Idiosyncrasies: perguntas retóricas, quebras abruptas
+* Tone: introspectivo e existencial
+* Word Choice: “delicado”, “vasto”, “nada”
+* Fórmula: “Escreva como se estivesse sussurrando verdades do inconsciente + tom contemplativo + estrutura fragmentada + rupturas súbitas no pensamento”
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-08-07T20:48:25+00:00
+Texto:
+Esse prompt é uma **ferramenta de engenharia de estilo textual** chamada *Writeprint* (impressão de escrita), usada para **analisar e replicar o estilo único de um autor** com base em traços linguísticos, estruturais e emocionais. Ele é especialmente útil para:
+
+* Imitar o estilo de alguém (ex: para IA escrever como um autor específico)
+* Identificar padrões em textos de um mesmo autor
+* Treinar modelos de IA para manter consistência de voz
+* Criar avatares com estilos distintos de escrita
+
+A seguir, explico cada seção do prompt:
+
+---
+
+### 1. **Writeprint: \[Nome do Autor]**
+
+É o cabeçalho que identifica de quem é o estilo que será analisado ou replicado (ex: Machado de Assis, Clarice Lispector, Nei Maldaner).
+
+---
+
+### 2**. **`Lexical Choices`
+
+Lista as palavras ou campos semânticos mais recorrentes (ex: “tempo”, “solidão”, “tecnologia”, “corpo”).
+
+---
+
+### 3. `Syntactic Patterns`
+
+Aponta como o autor constrói suas frases: frases curtas e diretas? Longas e subordinadas? Usa interrogações frequentes?
+
+---
+
+### 4. `Structure`
+
+Refere-se à forma como o texto é organizado:
+
+* Linear: início, meio e fim previsíveis.
+* Circular: volta ao ponto de partida.
+* Fragmentada: ideias soltas que se conectam indiretamente.
+
+---
+
+### 5. `Idiosyncrasies`
+
+Traços únicos do autor: expressões próprias, bordões, quebras de expectativa, repetições estilizadas, etc.
+
+---
+
+### 6. `Tone`
+
+Identifica o tom predominante (ex: melancólico, provocador, leve) e possíveis variações conforme o contexto.
+
+---
+
+### 7. `Register`
+
+Define o nível de formalidade da linguagem (formal, informal ou misto), e quando essa variação ocorre (ex: informal com o leitor, formal com o tema).
+
+---
+
+### 8. `Pacing`
+
+Analisa o ritmo do texto:
+
+* Acelerado: frases curtas, ação rápida.
+* Pausado: contemplativo.
+* Variável: alterna os dois.
+
+---
+
+### 9. `Style`
+
+Define o gênero predominante:
+
+* Narrativo: conta uma história
+* Expositivo: explica algo
+* Argumentativo: defende um ponto de vista
+  E também a perspectiva: 1ª pessoa, 3ª pessoa, etc.
+
+---
+
+### 10. `Word Choice`
+
+Exemplos de vocabulário marcante, com palavras que o autor usa com frequência ou de forma original.
+
+---
+
+### 11. `Attitude`
+
+Mostra a postura emocional do autor diante do conteúdo ou do leitor (ex: empática, crítica, neutra, desafiadora).
+
+---
+
+### 12. `Sentence Length`
+
+Média de comprimento das frases e a proporção entre frases curtas, médias e longas.
+
+---
+
+### 13. `Grade-Level`
+
+Complexidade linguística do texto:
+
+* Básico (ensino fundamental)
+* Intermediário (ensino médio)
+* Avançado (nível universitário)
+
+---
+
+### 14. `Punctuation Usage`
+
+Pontuação marcante no estilo do autor (ex: uso frequente de reticências, travessões, exclamações, etc.)
+
+---
+
+## Exemplos de Escrita
+
+Trechos que ilustram o estilo descrito, cada um focado em um aspecto:
+
+1. Mostra o padrão principal
+2. Traz um maneirismo característico
+3. Demonstra como o autor faz transições entre ideias
+4. Destaca vocabulário próprio
+5. Expressa o tom ou atitude
+
+---
+
+## Fórmula de Replicação
+
+É uma receita resumida para recriar o estilo:
+"Escreva como \[intenção/contexto] + \[tom] + \[estrutura] + \[maneirismo único]"
+
+Exemplo:
+"Escreva como um professor cansado explicando o óbvio + tom sarcástico + estrutura fragmentada + repetições dramáticas."
+
+---
+
+## Teste de Validação
+
+Um parágrafo curto, escrito com base em todos os elementos acima, mas sobre um tema neutro, apenas para verificar se o estilo foi fielmente replicado.
+
+---
+
+### Resumo em Lista
+
+* Identifica e descreve elementos do estilo de um autor
+* Foca em aspectos linguísticos, emocionais e estruturais
+* Gera exemplos e fornece uma fórmula para replicar esse estilo
+* Usa um parágrafo final para testar se a imitação está convincente
+
+---
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-08-07T20:47:55+00:00
+Texto:
+=======
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-08-07T20:47:49+00:00
+Texto:
+# Writeprint: [Nome do Autor] 
+- **`Lexical Choices`**: [3-5 palavras-chave dominantes, campo semântico]
+- **`Syntactic Patterns`**: [estrutura de frases típica, variações]
+- **`Structure`**: [como organiza ideias: linear, circular, fragmentada]
+- **`Idiosyncrasies`**: [vícios únicos, expressões-assinatura, maneirismos]
+- **`Tone`**: [tom dominante + variações contextuais]
+- **`Register`**: [formal/informal/misto, quando muda]
+- **`Pacing`**: [ritmo: acelerado/pausado/variável]
+- **`Style`**: [narrativo/expositivo/argumentativo + perspectiva]
+- **`Word Choice`**: [vocabulário característico com exemplos entre aspas]
+- **`Attitude`**: [postura emocional dominante]
+- **`Sentence Length`**: [padrão + proporção curtas/médias/longas]
+- **`Grade-Level`**: [complexidade: básico/intermediário/avançado]
+- **`Punctuation Usage`**: [pontuação característica: "...", —, !?, etc.]
+
+## Exemplos de Escrita (5-8 frases mais representativas)
+1. `"[frase exemplo mostrando padrão principal]"`
+2. `"[frase com idiossincrasia característica]"`
+3. `"[frase mostrando transição típica]"`
+4. `"[frase com vocabulário distintivo]"`
+5. `"[frase revelando tom/atitude]"`
+
+## Fórmula de Replicação
+[Receita em 1-2 linhas: "Escreva como [contexto] + [tom] + [estrutura] + [maneirismo único]"]
+
+## Teste de Validação
+[Parágrafo de 3-4 linhas usando o estilo extraído sobre tema neutro]
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-08-07T20:47:36+00:00
+Texto:
+Prompt de Analise de Tom de Texto
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-08-07T20:46:18+00:00
+Texto:
+...
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-08-07T20:46:18+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-08-07T20:46:18+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-08-07T20:46:17+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-08-07T20:46:17+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-08-07T20:46:16+00:00
+Texto:
+https://chatgpt.com/c/6894299c-f610-8332-b239-a49ee4dd5dc5
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 15
+Autor: INEMA
+Data: 2025-08-07T20:46:15+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 16
+Autor: INEMA
+Data: 2025-08-07T20:46:10+00:00
+Texto: [Sem texto]
+
+------------------------------
+

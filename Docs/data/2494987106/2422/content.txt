@@ -1,0 +1,113 @@
+TOPICO 2422
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-03-14 23:57:10+00:00
+
+Total de mensagens: 8
+Midias encontradas: 0
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-03-14T23:57:22+00:00
+Texto:
+.Você é um especialista em citações. Por favor, revise esta transcrição do podcast: {{3.result}}
+
+Você deve criar 10 citações perspicazes e concisas a partir do conteúdo. Você pode reformular ligeiramente para melhorar a legibilidade, mas apenas se necessário. Não altere o significado da citação. Cada citação deve ter no máximo 200 caracteres. Formate a saída da seguinte forma:
+
+- Use frases curtas e impactantes para cada citação.
+- Se houver mais de uma frase em uma citação, certifique-se de que há uma única quebra de linha após cada ponto final.
+- Adicione uma quebra de linha após cada frase dentro de uma citação para melhorar a legibilidade.
+- Evite incluir palavras de preenchimento, repetições ou contexto desnecessário.
+- Mantenha o significado e a intenção original do palestrante.
+- Não inclua citações que sejam incompletas ou que percam clareza quando retiradas do contexto.
+- Busque um equilíbrio entre citações que capturem ideias-chave, conselhos práticos e frases memoráveis.
+
+O foco é capturar a essência das principais ideias compartilhadas no podcast, garantindo brevidade e precisão. O resultado final deve ser uma coleção de citações poderosas e curtas que sintetizam os principais insights do episódio.
+
+Bons exemplos:
+"Quando eu tinha 20 anos, queria ser milionário…
+Agora que sou milionário, queria ter 20 anos." 
+
+"Resolva os problemas dos ricos.
+Eles pagam melhor." 
+
+"O dinheiro ama velocidade.
+A riqueza ama o tempo.
+A pobreza ama a indecisão." 
+
+"Antes de conhecer minha esposa, nunca ganhei mais de $3.000.000 por ano.
+24 meses depois, levei para casa $17.000.000 em renda pessoal.
+Lições de negócios que aprendi com ela:" 
+
+"Se você pode ficar de mau humor sem motivo, também pode ficar de bom humor sem motivo." 
+
+"O mundo pertence a quem continua fazendo sem precisar ver o resultado imediato." 
+
+"Você pode superar 99% das pessoas apenas continuando a trabalhar sem esperar uma recompensa imediata." 
+
+"Se quiser ver quem tem mais controle sobre sua vida… apenas olhe para quem você culpa." 
+
+"Aceite que tudo é sua responsabilidade e, então, você poderá fazer algo a respeito." 
+
+"O empreendedorismo é um teste de vontade, não de intelecto."
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-03-14T23:57:18+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-03-14T23:57:18+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-03-14T23:57:18+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-03-14T23:57:17+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-03-14T23:57:17+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-03-14T23:57:16+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-03-14T23:57:10+00:00
+Texto: [Sem texto]
+
+------------------------------
+

@@ -1,0 +1,238 @@
+TOPICO 3750
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-06-12 02:50:03+00:00
+
+Total de mensagens: 14
+Midias baixadas: 3
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-06-12T03:06:21+00:00
+Texto:
+Além da demonstração prática com o Genspark, o apresentador compartilha diversas **dicas estratégicas e visões de futuro** importantes para quem trabalha com automações e soluções com IA.
+
+Segue o resumo completo com todas as **dicas e orientações práticas** que ele menciona:
+
+### 1. **Use prompts personalizados para browser agents**
+
+* **Dica:** Os prompts para navegadores com IA (como Genspark ou Openai Operator) **devem ser diferentes dos prompts tradicionais** usados em ferramentas como o ChatGPT.
+* **Exemplo:** Dê instruções passo a passo, como clicar em campos, digitar, esperar tempo e verificar elementos.
+
+### 2. **Aposte em automações sem teclado**
+
+* **Insight:** Estamos entrando numa fase onde será possível **criar automações inteiras sem usar o teclado**, apenas com comandos via IA.
+* **Dica:** Comece a testar isso agora para se adaptar antes que se torne padrão.
+
+### 3. **Foque em soluções vendáveis, não só em automações**
+
+* **Dica:** Não foque só em vender automações genéricas. Foque em **vender soluções de IA aplicadas a problemas reais**.
+* **Exemplo:** Em vez de vender “um zapierzinho”, venda um sistema que resolve todo um fluxo de negócio.
+
+### 4. **Oportunidade atual: mercado ainda está cru**
+
+* **Insight:** Ainda existe muita **ignorância sobre IA** no mercado, o que cria **oportunidade de venda de soluções simples**.
+* **Dica:** Aproveite enquanto o mercado ainda não está saturado.
+
+### 5. **Prepare-se para o que virá em 7 a 12 meses**
+
+* **Alerta:** Em breve, os sistemas serão capazes de **criar, testar, publicar e monitorar automações sozinhos**, com apenas um comando.
+* **Dica:** Se prepare para esse cenário dominando agora as ferramentas iniciais e construindo autoridade.
+
+### 6. **Comece com ferramentas simples, mas com visão de escala**
+
+* **Dica:** Mesmo que você comece com ferramentas como Genspark, já pense na transição para soluções com **modelos mais robustos**, como reasoning models (ex: openai Operator).
+
+---
+
+### Resumo com tópicos e exemplos:
+
+1. **Use prompts passo a passo com browser agents**
+
+   * Exemplo: "Clique aqui, digite isso, aguarde 60s"
+
+2. **Automatize sem usar o teclado**
+
+   * Objetivo: IA criar tudo sozinha no navegador
+
+3. **Venda soluções, não só automações**
+
+   * Exemplo: fluxo completo de atendimento com IA
+
+4. **Explore a ignorância atual do mercado**
+
+   * Oportunidade de vender o básico antes que vire comum
+
+5. **Antecipe o futuro das automações autônomas**
+
+   * IA que cria, testa e monitora sem ajuda humana
+
+6. **Escolha ferramentas com escalabilidade**
+
+   * Genspark para testes, Operator para grandes fluxos
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-06-12T03:04:25+00:00
+Texto:
+Resumo do teste
+
+O apresentador mostra um teste que vem desenvolvendo há alguns dias usando o **Genspark**, um navegador com agente de IA integrado. Ele demonstra como usar o Genspark para automatizar tarefas no **Make.com**, sem digitar nada manualmente.
+
+**Principais pontos:**
+
+* Ele usou o Genspark no desktop para criar um fluxo de automação no Make.com, apenas com comandos por texto.
+* O agente de IA navegou até o site, identificou elementos na tela, inseriu o prompt, esperou 60 segundos e criou o fluxo com três módulos: **Calendly → OpenAI → Gmail**.
+* O navegador também tentou melhorar o fluxo sugerindo complementos, mas respeitou as instruções originais.
+* A ideia é **automatizar sem tocar no teclado**, prevendo o futuro da automação.
+* Ele compara o Genspark com o **openAI Operator**, dizendo que o Operator é melhor em escala por usar modelos de raciocínio (reasoning models).
+* Ressalta que, embora hoje ainda seja possível vender automações simples, em poucos meses o mercado exigirá **soluções completas de IA**, com automações que criam, testam e monitoram por conta própria.
+
+**Conclusão:**
+O vídeo é um alerta sobre a rápida evolução das ferramentas de automação com IA. Ele reforça que é o momento de se posicionar para o futuro, criando **soluções vendáveis**, antes que o mercado se torne saturado com ferramentas mais poderosas.
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-06-12T02:54:35+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_3761_003.jpg
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-06-12T02:52:50+00:00
+Texto:
+**Tradução para o português:**
+
+Prompt usado:
+"Você está no construtor de cenários do Make.com com o painel do Assistente de IA aberto no lado direito. Use o Assistente de IA para criar o fluxo de trabalho.
+
+**INSTRUÇÕES:**
+
+1. Procure a caixa de texto no painel do Assistente de IA (lado direito da tela)
+2. Clique na caixa de texto vazia no painel do Assistente de IA
+3. Digite exatamente:
+   “Quando um novo evento do Calendly for criado, analise os detalhes do evento usando o OpenAI para gerar um resumo perspicaz, depois envie esse resumo para mim via Gmail”
+4. Pressione Enter ou clique no botão de enviar
+5. Aguarde 60 segundos para que a IA gere o cenário
+6. Tire uma captura de tela para mostrar o fluxo de trabalho gerado
+7. Verifique se o fluxo de trabalho mostra três módulos conectados nesta ordem:
+
+   * Calendly → OpenAI → Gmail
+8. Se estiver correto, renomeie o cenário para “Fluxo de Análise de Evento do Calendly” clicando em “Novo cenário” no topo
+9. Salve o cenário
+
+**SOLUÇÃO DE PROBLEMAS:**
+
+* O painel do Assistente de IA já deve estar visível no lado direito
+* Se não encontrar a caixa de texto, procure qualquer campo de entrada no painel do Assistente de IA
+* Após digitar, certifique-se de pressionar Enter ou encontrar o botão de envio
+* Dê um tempo para a IA gerar – pode levar de 30 a 60 segundos"
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-06-12T02:52:43+00:00
+Texto:
+==================
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-06-12T02:50:27+00:00
+Texto:
+Prompt Used:
+"You are in [Make.com](http://make.com/)’s scenario builder with the AI Assistant panel open on the right side. Use the AI Assistant to create the workflow.
+INSTRUCTIONS:
+Look for the text input box in the AI Assistant panel (right side of screen)
+Click on the empty text box in the AI Assistant panel
+Type exactly:“When a new Calendly event is created, analyze the event details using OpenAI to generate an insightful summary, then send that summary to me via Gmail”
+Press Enter or click the submit/send button
+Wait 60 seconds for the AI to generate the scenario
+Take a screenshot to show the generated workflow
+Verify the workflow shows three connected modules in this order:
+If successful, rename the scenario to “Calendly Event Analysis Workflow” by clicking on “New scenario” at the top
+Save the scenario
+TROUBLESHOOTING:
+The AI Assistant panel should already be visible on the right
+If you can’t find the text box, look for any input field in the AI Assistant panel
+After typing, make sure to press Enter or find a submit button
+Give the AI time to generate – it may take 30–60 seconds"
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-06-12T02:50:22+00:00
+Texto:
+GenSpark #1 Prompt
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-06-12T02:50:10+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-06-12T02:50:10+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-06-12T02:50:09+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-06-12T02:50:09+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-06-12T02:50:09+00:00
+Texto:
+https://chatgpt.com/c/684a4097-4188-8009-a88f-d9b1e9cef771
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-06-12T02:50:08+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-06-12T02:50:03+00:00
+Texto: [Sem texto]
+
+------------------------------
+

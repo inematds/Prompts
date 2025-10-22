@@ -1,0 +1,181 @@
+TOPICO 3321
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-04-11 03:31:07+00:00
+
+Total de mensagens: 14
+Midias baixadas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-04-11T17:32:49+00:00
+Texto: [Sem texto]
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-04-11T03:57:04+00:00
+Texto: [Sem texto]
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-04-11T03:31:20+00:00
+Texto:
+Prompt usado:
+"Você pode me fazer um site moderno e visualmente impressionante para uma agência de automação de IA chamada CortexFlow, que ajuda os proprietários de empresas a otimizar as operações, aumentar a receita e reduzir o esforço manual por meio da automação inteligente? Esta agência deve exalar uma mistura de profissionalismo elegante e inovação acessível - pense em layouts limpos com visuais dinâmicos, um toque de design futurista e acenos sutis para a transformação digital. Use estas informações para criar o site:
+Sobre a Agência
+Na CortexFlow, nos especializamos em simplificar e dimensionar negócios por meio de soluções avançadas de IA, sistemas de automação e otimização de processos. Seja você um fundador usando muitos chapéus ou uma equipe crescente se afogando em tarefas administrativas, intervimos para automatizar seu back office, acelerar o envolvimento do cliente e desbloquear novos fluxos de receita.
+Nossa missão é simples: liberar o potencial humano permitindo que as máquinas façam o trabalho pesado.
+Serviços oferecidos
+Automação de vendas
+Bots de qualificação de leads que funcionam 24 horas por dia, 7 dias por semana
+Sequências de e-mail automatizadas e atualizações de CRM
+Acompanhamentos de IA e agendamento inteligente de reuniões
+Agentes de voz para reativação e divulgação fria
+A partir de € 350/mês
+Automação de operações
+Automação de tarefas baseada em SOP entre departamentos
+Fluxos de trabalho GPT personalizados (por exemplo, para contratação, integração de clientes)
+Integrações do Slack/Teams para gatilhos internos
+Configurações de fluxo N8N e [Make.com](http://make.com/)
+Configuração personalizada: € 1500 a € 3000
+Experiência do cliente
+Chatbots de suporte com inteligência artificial
+Sistemas dinâmicos de perguntas frequentes
+Jornadas personalizadas do cliente por meio de agentes GPT
+Suporte multilíngue habilitado para voz
+Pacotes a partir de 450€/mês
+Auditoria e Estratégia de IA
+Revisão do processo departamento por departamento
+Identificação de automação de alto ROI
+Planos de treinamento e qualificação
+Relatório de prontidão de IA e roteiro de implementação
+Taxa única: € 950
+Ferramentas de produtividade
+GPTs internos personalizados para perguntas recorrentes
+Assistentes de pesquisa e resumo
+Notas de reunião geradas automaticamente + itens de ação
+Integrações Zapier/Make/n8n
+Construções sob medida começam em € 1200
+Projetos personalizados
+Painéis com tecnologia de IA
+Assistentes de IA de fluxo de trabalho para produtos, RH ou finanças
+Configurações de agente de IA de pilha completa (gatilho → raciocínio → saída)
+Preços baseados no escopo - a partir de € 2000
+Seção de Estudos de Caso
+Mostre como ajudamos:
+Uma empresa de logística reduz o agendamento manual em 92%
+Um escritório de advocacia automatiza 70% de seus formulários de admissão
+Uma empresa de comércio eletrônico reengaja 15 mil clientes por meio de IA de voz
+(Inclua cartões de depoimentos curtos + KPIs visuais)
+Recursos gratuitos
+Kit de ferramentas de IA para fundadores (para download)
+Lista de verificação de automação de processos de negócios
+Modelos de prompt GPT para produtividade
+Seções CTA
+Agende uma auditoria de automação gratuita de 30 minutos
+"Não sabe o que automatizar?" → Experimente nossa ferramenta de auditoria de IA
+Inscreva-se para receber hacks semanais de automação
+Tema Visual
+Esquema de cores: Marinho escuro, acentos neon, azuis e roxos gradientes
+Fontes: Elegantes e modernas, com subtítulos expressivos
+Imagens: IA, redes neurais, painéis, proprietários de negócios com clareza
+Adicione animações suaves na rolagem e microinterações nos botões
+Inclua um plano de fundo de vídeo ou animação mostrando a automação do fluxo de trabalho em movimento"
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-04-11T03:31:16+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-04-11T03:31:15+00:00
+Texto:
+mm5 - Experiencia #5 - Prompt Manus Criar Site
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-04-11T03:31:15+00:00
+Texto:
+...
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-04-11T03:31:15+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-04-11T03:31:15+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-04-11T03:31:15+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-04-11T03:31:15+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-04-11T03:31:14+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-04-11T03:31:14+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-04-11T03:31:13+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-04-11T03:31:07+00:00
+Texto: [Sem texto]
+
+------------------------------
+

@@ -1,0 +1,186 @@
+[
+  {
+    "id": 3060,
+    "author": "INEMA",
+    "date": "2025-04-05T20:23:43+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto"
+  },
+  {
+    "id": 3059,
+    "author": "INEMA",
+    "date": "2025-04-05T20:23:43+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto"
+  },
+  {
+    "id": 3058,
+    "author": "INEMA",
+    "date": "2025-04-05T20:23:43+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto"
+  },
+  {
+    "id": 3057,
+    "author": "INEMA",
+    "date": "2025-04-05T20:23:43+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto"
+  },
+  {
+    "id": 3056,
+    "author": "INEMA",
+    "date": "2025-04-05T20:23:43+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto"
+  },
+  {
+    "id": 3054,
+    "author": "INEMA",
+    "date": "2025-04-05T19:42:31+00:00",
+    "text": "Dicas para deixar o boneco mais parecido com o rosto real da pessoa**. Abaixo te explico **como resolver isso**, com um passo a passo que complementa os prompts e melhora a semelhança facial.\n\n---\n\n### **Passo a passo: Como deixar o rosto do boneco mais parecido com o seu**\n\n#### **1. Gere uma imagem realista do seu rosto**\nAntes de criar a versão \"action figure\", é importante gerar ou usar uma imagem base que represente bem o seu rosto. Existem 3 opções:\n\n- **Foto real sua (frontal, bem iluminada)**  \n  Use essa imagem como referência para treinar ou aplicar o estilo.\n  \n- **Selfie + IA**  \n  Use ferramentas como **Remini**, **Photopea**, **Face Swap Live** ou **Playground AI** para melhorar a qualidade e detalhar traços do rosto.\n\n- **Retrato estilizado**  \n  Gere uma imagem no estilo Pixar, 3D ou cartoon que represente você (com olhos, sobrancelha, cabelo e barba semelhantes).\n\n---\n\n#### **2. Use ferramentas com controle de rosto (Face Swap ou Reference Image)**\n\nPara garantir a fidelidade do rosto no boneco, use uma das opções abaixo:\n\n- **Pika Labs (se estiver disponível):**\n  - Use a opção de \"Face Reference Image\"\n  - Faça upload de uma imagem frontal do seu rosto\n  - Adicione o comando: `--style_reference` ou `--face_reference`\n\n- **Runway ML (com Gen-2):**\n  - Suba o vídeo base e vá na aba \"face training\"\n  - Use “Custom Character” com seu rosto.\n\n- **Leonardo AI / Playground AI / Artbreeder:**\n  - Faça *Face Reference* usando uma imagem sua com a opção de gerar variações mantendo o rosto semelhante.\n\n---\n\n#### **3. Incremente o prompt com detalhes específicos do seu rosto**\n\nQuando for escrever o prompt para o boneco, **adicionar detalhes visuais ajuda muito**. Veja este exemplo:\n\n```A realistic 3D action figure of a man named INEMA TDS – Transformador digital, short well-trimmed beard, expressive eyebrows, olive skin, green eyes, slight smile. The action figure is inside a transparent box with labeled accessories: smartphone, microphone, notebook, book.```\n\nIsso já melhora muito a fidelidade facial. Se quiser ainda mais precisão:\n\n```Use reference image of INEMA TDS (uploaded), make the face stylized but clearly recognizable, resembling the uploaded photo. Maintain hair texture, beard density, skin tone and eye color.```\n\n---\n\n#### **4. Teste com diferentes estilos**\n\nAlguns estilos são mais “generosos” para parecer com você:\n\n- **Estilo Pixar ou DreamWorks**: ótimo para bonecos expressivos\n- **Estilo Realista 3D (tipo Fortnite ou GTA)**: ideal para detalhes do rosto\n- **Estilo Low Poly ou Toy Art**: bom se o foco for brinquedo e não fidelidade\n\n---\n\n### **Resumo prático (checklist)**\n\n- [ ] Tem uma boa imagem do rosto?\n- [ ] Usa uma IA que aceita *Face Reference*?\n- [ ] Descreveu os traços do rosto no prompt?\n- [ ] Escolheu um estilo visual que favorece fidelidade?\n\n---",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3053,
+    "author": "INEMA",
+    "date": "2025-04-05T19:39:05+00:00",
+    "text": "==========",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3052,
+    "author": "INEMA",
+    "date": "2025-04-05T19:39:02+00:00",
+    "text": "Usar Ferramentas de FaceSwap",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3051,
+    "author": "INEMA",
+    "date": "2025-04-05T19:38:50+00:00",
+    "text": "===============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3050,
+    "author": "INEMA",
+    "date": "2025-04-05T19:38:47+00:00",
+    "text": "Melhorando a Qualidade",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3049,
+    "author": "INEMA",
+    "date": "2025-04-05T19:38:25+00:00",
+    "text": "================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3048,
+    "author": "INEMA",
+    "date": "2025-04-05T19:38:13+00:00",
+    "text": "Aqui está um **passo a passo completo e explicativo** para criar um vídeo no estilo \"action figure\" utilizando os prompts das imagens:\n\n---\n\n### **Tutorial: Criando vídeo estilo boneco colecionável (action figure)**\n\n#### **Objetivo final:**\nGerar um vídeo animado que mostra sua versão em boneco de ação dentro de uma embalagem, destacando profissão e acessórios, e depois abrindo a embalagem para exibir o boneco fora da caixa.\n\n---\n\n### **Etapa 1 – Criação da embalagem do boneco**\n\n**Prompt 1 (parte 2):**\nDescreva seu boneco como um item colecionável em uma caixa personalizada:\n\n1. No topo da embalagem, deve aparecer o nome:\n   - Exemplo: *INEMA TDS – Tranformador Digitall*\n\n2. Em uma das laterais, adicione uma seção chamada **“Acessórios”**, com 4 itens:\n   - item 1 – *Smartphone de última geração*\n   - item 2 – *Microfone profissional*\n   - item 3 – *Notebook com adesivos de IA*\n   - item 4 – *Livro com dicas de criação de conteúdo*\n\n3. Cada item deve aparecer em seu próprio espaço moldado (como em bonecos tipo Marvel, Star Wars etc).\n\n4. O visual geral da embalagem deve lembrar figuras de ação ou bonecos colecionáveis — com design moderno, brilhante e com toque divertido.\n\n---\n\n### **Etapa 2 – Simular a abertura da embalagem**\n\n**Prompt 2:**\nAgora você cria a imagem ou cena como se alguém tivesse aberto o pacote:\n\n- Imagine que o **plástico protetor foi arrancado** e aparece jogado ao lado esquerdo da caixa.\n- Uma **mão está segurando apenas o boneco**, tirado da embalagem e **próximo da câmera**, como se fosse mostrar os detalhes do action figure.\n\n---\n\n### **Etapa 3 – Animações em sequência (3 partes)**\n\nVocê pode gerar um vídeo curto com 3 animações, usando os seguintes prompts:\n\n#### **Prompt animação 1 (primeira imagem):**\n*\"Two hands grab the package and turn it a little as if to see it better\"*  \n(Duas mãos seguram a embalagem e a giram levemente, como se estivessem observando melhor)\n\n#### **Prompt animação 2 (primeira imagem):**\n*\"A hand rips off the protective plastic of the action figure.\"*  \n(Uma mão arranca o plástico protetor do boneco)\n\n#### **Prompt animação 3 (segunda imagem):**\n*\"A hand holds the action figure and brings it closer to the camera for a closer look\"*  \n(Uma mão segura o boneco e o aproxima da câmera para mostrar os detalhes)\n\n---\n\n### **Etapa 4 – Gerar o vídeo**\n\n1. Acesse uma ferramenta de geração de vídeo com IA (como klingai,Pika Labs, Runway, Kaiber, etc.).\n2. Clique em **Generate Video**.\n3. Faça upload da imagem da embalagem (caso tenha).\n4. Insira os prompts **um por vez** para gerar os trechos de animação.\n5. Combine as animações em sequência (giro da caixa, abertura do plástico, aproximação do boneco).\n6. Ajuste o tempo para **5 segundos** por animação, totalizando cerca de **15 segundos de vídeo.**\n\n---\n\n### **Resultado esperado:**\nUm vídeo imersivo e criativo, com sua miniatura em forma de boneco dentro da embalagem, sendo desembrulhado e mostrado em detalhes — ideal para Reels, Shorts ou TikTok com potencial viral.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3047,
+    "author": "INEMA",
+    "date": "2025-04-05T19:37:26+00:00",
+    "text": "===================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3046,
+    "author": "INEMA",
+    "date": "2025-04-05T19:37:21+00:00",
+    "text": "Dica Direta\n\n**Prompt  Imagem 1 **  \n\nNa parte superior da embalagem, o nome “[Nome] - [Profissão / especialidade]” deve estar claramente exibido.  \nEm um dos lados, deve haver uma seção rotulada como “Acessórios”, contendo:  \nitem 1 – [descreva item 1]  \nitem 2 – [descreva item 2]  \nitem 3 – [descreva item 3]  \nitem 4 – [descreva item 4]  \nCada um deve estar em seu próprio compartimento moldado.  \nO design geral deve transmitir um visual bem semelhante a bonecos colecionáveis e figuras de ação.\n\n**Prompt Imagem 2**  \nFaça a imagem agora como se o plástico protetor tivesse sido arrancado e está ao lado esquerdo da caixa e uma mão está segurando apenas o action figure próximo da câmera.\n\nNos Videos 5s cada uma das imagens\n\n**Prompt animação 1 (primeira imagem)**  \nTwo hands grab the package and turn it a little as if to see it better\n\n**Prompt animação 2 (primeira imagem)**  \nA hand rips off the protective plastic of the action figure.\n\n**Prompt animação 3 (segunda imagem)**  \nA hand holds the action figure and brings it closer to the camera for a closer look\n\nJunte no CapCut",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3045,
+    "author": "INEMA",
+    "date": "2025-04-05T19:34:17+00:00",
+    "text": "pegue uma boa foto tua de Rosto",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3044,
+    "author": "INEMA",
+    "date": "2025-04-05T19:33:58+00:00",
+    "text": "Prompt Boneco na Caixa",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3043,
+    "author": "INEMA",
+    "date": "2025-04-05T19:33:44+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3042,
+    "author": "INEMA",
+    "date": "2025-04-05T19:33:44+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3041,
+    "author": "INEMA",
+    "date": "2025-04-05T19:33:44+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3040,
+    "author": "INEMA",
+    "date": "2025-04-05T19:33:44+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3039,
+    "author": "INEMA",
+    "date": "2025-04-05T19:33:43+00:00",
+    "text": "https://chatgpt.com/c/67f18310-e0cc-8009-9b94-002e77dc290c",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3038,
+    "author": "INEMA",
+    "date": "2025-04-05T19:33:42+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3037,
+    "author": "INEMA",
+    "date": "2025-04-05T19:33:38+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

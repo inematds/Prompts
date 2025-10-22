@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4220,
+    "author": "INEMA",
+    "date": "2025-08-04T05:12:30+00:00",
+    "text": "estou vendo outra abordagem do ec8 para talves ser o ec9",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4216,
+    "author": "INEMA",
+    "date": "2025-08-04T05:01:22+00:00",
+    "text": "O objetivo da fase 1 continua sendo “descoberta”, mas devemos deixá-lo mais claro e restrito a entender o problema antes de planejar soluções. Em vez de “mapear cronograma, recursos e KPIs” (que são atividades de planejamento), a fase 1 deve focar só em:\n\n• contexto e objetivos de negócio\n• dores e oportunidades atuais\n• personas e suas jornadas\n• premissas e hipóteses a validar\n• critérios simples para sabermos que descobrimos o suficiente\n\nTópicos com exemplos e respostas\n\n1. contexto e objetivos de negócio\n   pergunta\n   o que a ONG espera resolver com esta automação?\n   resposta ideal\n   reduzir tempo de resposta a pedidos, centralizar atendimento e evitar esquecimento de mensagens\n\n2. dores e oportunidades\n   pergunta\n   quais os principais gargalos hoje?\n   resposta ideal\n   demora na triagem de pedidos, falta de histórico unificado, repetição de perguntas\n\n3. personas e jornadas\n   pergunta\n   quem interage com o sistema e como?\n   resposta ideal\n   voluntário abre chat, envia foto do pet, sistema sugere datas, voluntário confirma\n\n4. premissas e hipóteses\n   pergunta\n   o que supomos sobre volumes e tipos de consulta?\n   resposta ideal\n   70 % dos contatos virão por WhatsApp; dúvidas técnicas = 30 %\n\n5. critérios de “descoberta completa”\n   pergunta\n   quando consideramos que temos informações suficientes?\n   resposta ideal\n   cada persona tem pelo menos um cenário descrito; principais dores listadas; canais definidos\n\nassim mantemos a fase 1 estritamente em modo “descoberta” e deixamos planejamento e priorização para as próximas fases.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4215,
+    "author": "INEMA",
+    "date": "2025-08-04T05:01:17+00:00",
+    "text": "Prompt para Descoberta Aberta",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4214,
+    "author": "INEMA",
+    "date": "2025-08-04T05:01:14+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4213,
+    "author": "INEMA",
+    "date": "2025-08-04T05:01:12+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4212,
+    "author": "INEMA",
+    "date": "2025-08-04T05:01:12+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4211,
+    "author": "INEMA",
+    "date": "2025-08-04T05:01:11+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4210,
+    "author": "INEMA",
+    "date": "2025-08-04T05:01:10+00:00",
+    "text": "https://chatgpt.com/c/68903b22-a038-8326-b00a-c5de5d6f51ce",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4209,
+    "author": "INEMA",
+    "date": "2025-08-04T05:01:10+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4208,
+    "author": "INEMA",
+    "date": "2025-08-04T05:01:04+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

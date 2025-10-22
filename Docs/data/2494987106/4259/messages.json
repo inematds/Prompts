@@ -1,0 +1,181 @@
+[
+  {
+    "id": 4295,
+    "author": "INEMA",
+    "date": "2025-08-07T19:52:04+00:00",
+    "text": "voce usa este prompt para facilitar e criar o prompt harmony format e ai roda ele depois",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4294,
+    "author": "INEMA",
+    "date": "2025-08-07T19:51:34+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "GPT-OSS-120B Harmony Format Optimizer (1).txt"
+  },
+  {
+    "id": 4292,
+    "author": "INEMA",
+    "date": "2025-08-07T19:48:54+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4292_003.jpg"
+  },
+  {
+    "id": 4291,
+    "author": "INEMA",
+    "date": "2025-08-07T19:48:44+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4291_004.jpg"
+  },
+  {
+    "id": 4276,
+    "author": "INEMA",
+    "date": "2025-08-07T01:01:30+00:00",
+    "text": "<|start|>system<|message|>\n\nUse os canais: analysis (raciocínio), commentary (notas), final (resposta).\n\n<|end|>\n<|start|>developer<|message|>\n\nInclua exemplos e boas práticas. Explique erros comuns.\n\n<|end|>\n<|start|>user<|message|>\n\nExplique o formato Harmony e como usá-lo.\n\n<|end|>",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4275,
+    "author": "INEMA",
+    "date": "2025-08-07T01:01:23+00:00",
+    "text": "============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4274,
+    "author": "INEMA",
+    "date": "2025-08-07T01:00:52+00:00",
+    "text": "<|start|>system<|message|>You are ChatGPT, a large language model trained by OpenAI.\nKnowledge cutoff: 2024-06\nCurrent date: 2025-08-06 \n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.\n\nUse the analysis channel para explicar os fundamentos técnicos e conceituais do RAG (Retrieval-Augmented Generation), incluindo como funciona, arquitetura e vantagens.\nUse the commentary channel para comparar RAG com abordagens tradicionais, indicar contextos de uso e observações práticas de implementação.\nUse the final channel para fornecer uma explicação clara e acessível ao público geral sobre o que é RAG, como funciona e por que é útil.<|end|>\n\n<|start|>developer<|message|>Inclua explicação do fluxo RAG (retrieval + generation), mencione tecnologias comuns (ex: vectordb, embeddings, LLM), exemplos de aplicação prática e diferenças entre RAG e sistemas puramente generativos. Evite jargões excessivos no canal final.<|end|>\n\n<|start|>user<|message|>Explique de forma detalhada o que é RAG e como ele funciona na prática.<|end|>",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4273,
+    "author": "INEMA",
+    "date": "2025-08-07T00:58:12+00:00",
+    "text": "=====",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4272,
+    "author": "INEMA",
+    "date": "2025-08-07T00:58:00+00:00",
+    "text": "Como seria fazer um prompt Harmony  usando este formato\n\no assunto seria \n\no que é RAG",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4271,
+    "author": "INEMA",
+    "date": "2025-08-07T00:57:12+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4270,
+    "author": "INEMA",
+    "date": "2025-08-07T00:57:09+00:00",
+    "text": "....",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4269,
+    "author": "INEMA",
+    "date": "2025-08-07T00:57:09+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4268,
+    "author": "INEMA",
+    "date": "2025-08-07T00:57:08+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4267,
+    "author": "INEMA",
+    "date": "2025-08-07T00:57:08+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4266,
+    "author": "INEMA",
+    "date": "2025-08-07T00:57:05+00:00",
+    "text": "Prompt Basico Harmony",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4265,
+    "author": "INEMA",
+    "date": "2025-08-07T00:56:55+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4264,
+    "author": "INEMA",
+    "date": "2025-08-07T00:56:55+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4263,
+    "author": "INEMA",
+    "date": "2025-08-07T00:56:55+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4262,
+    "author": "INEMA",
+    "date": "2025-08-07T00:56:54+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4261,
+    "author": "INEMA",
+    "date": "2025-08-07T00:56:54+00:00",
+    "text": "https://chatgpt.com/c/6893f03f-26f4-832b-8ab7-1ade0160c142",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4260,
+    "author": "INEMA",
+    "date": "2025-08-07T00:56:53+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4259,
+    "author": "INEMA",
+    "date": "2025-08-07T00:56:47+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

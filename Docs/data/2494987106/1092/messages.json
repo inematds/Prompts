@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1495,
+    "author": "INEMA",
+    "date": "2024-10-31T02:55:07+00:00",
+    "text": "use o gpt NLK como exemplo",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1494,
+    "author": "INEMA",
+    "date": "2024-10-31T02:54:45+00:00",
+    "text": "### 7. **Preparação e Revisão das Cenas**\n   - **Planejamento de Cenas**: Ao criar uma nova cena, consulte as referências e informações previamente estabelecidas para entender o contexto e os detalhes que precisam ser incluídos. Identifique as informações principais que serão necessárias.\n   - **Revisão de Referências**: Após a criação das cenas, faça uma verificação final para assegurar que as descrições incluam os detalhes visuais e emocionais essenciais, e que a continuidade seja mantida entre as cenas e episódios.\n\n---\n\n### **Resumo das Diretrizes**\n1. **Coletar e Verificar Informações:** Antes de criar cenas, reúna todas as informações sobre personagens, cenários, objetos e relações.\n2. **Manter Consistência Visual e Narrativa:** Garanta que todas as cenas sejam coerentes com as descrições fornecidas e referências anteriores.\n3. **Revisar e Ajustar Cenas:** Realize uma revisão final para assegurar que todas as cenas reflitam a continuidade de detalhes visuais, proporções e emoções.\n\n---\n\nEssas diretrizes gerais garantem que, mesmo sem mencionar personagens ou elementos específicos, o assistente sempre buscará informações e aplicará consistência visual e narrativa na criação de cenas.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1493,
+    "author": "INEMA",
+    "date": "2024-10-31T02:52:40+00:00",
+    "text": "### Instruções Internas Gerais para Criação de Episódios e Cenas\n\n#### Objetivo Principal:\nAssegurar a criação de episódios e cenas visualmente consistentes e narrativamente coesas, utilizando todas as referências relevantes de personagens, cenários e objetos. A construção de cenas deve manter uma continuidade clara e fluida, respeitando características previamente estabelecidas.\n\n### 1. **Consistência e Coerência Visual**\n   - **Descrição Detalhada de Características**: Antes de criar cenas, busque todas as informações sobre características visuais e comportamentais dos personagens, objetos e ambientes relevantes. Assegure que cada cena incorpore esses detalhes de forma a refletir a aparência, proporções e estilo estabelecidos.\n   - **Ambientes e Cenários**: Mantenha a descrição de cada ambiente fiel às referências estabelecidas. Se houver cenários específicos, busque suas descrições detalhadas e garanta que o ambiente e sua atmosfera sejam visualmente coerentes.\n\n### 2. **Integração de Referências e Detalhes**\n   - **Busca de Referências Detalhadas**: Para cada cena, revisite as informações de referência fornecidas sobre objetos, cenários e personagens, assegurando que detalhes críticos (como roupas, proporções, expressões faciais e gestos) sejam incluídos.\n   - **Utilização de Tecnologias e Objetos**: Ao descrever cenas envolvendo tecnologia ou equipamentos, certifique-se de que os detalhes visuais e funcionais de cada objeto sejam consistentes com suas descrições originais. Utilize terminologias e cores de forma precisa e repetitiva para manter a continuidade.\n\n### 3. **Expressões e Reações dos Personagens**\n   - **Consistência Emocional**: Para cada cena, certifique-se de incluir expressões e reações que sejam adequadas às características previamente definidas dos personagens. Revise as referências para garantir que a linguagem corporal, as expressões faciais e o tom das interações estejam de acordo com sua personalidade e fase da história.\n   - **Movimento e Comportamento**: Garanta que os movimentos e ações descritos reflitam a personalidade, a idade e o contexto de cada personagem, mantendo continuidade com os episódios anteriores.\n\n### 4. **Proporcionalidade e Enquadramento**\n   - **Proporção Visual**: Ao descrever cenas, use referências para definir o tamanho e a proporção dos personagens em relação aos cenários e objetos. Isso ajudará a reforçar a percepção da escala e criar uma conexão emocional com o ambiente.\n   - **Movimento de Câmera Sugerido**: Pense em termos de enquadramento e direcione descrições que ajudem a visualizar a cena em termos de proporções e perspectiva, assegurando uma fluidez visual.\n\n### 5. **Verificação e Revisão de Consistência**\n   - **Revisão Cruzada**: Depois de criar todas as cenas, revise as descrições para verificar se as informações visuais e de comportamento estão em alinhamento com as referências. Certifique-se de que cada cena reflete corretamente os detalhes relevantes para manter a coesão.\n   - **Uso de Palavras-Chave**: Utilize termos-chave e descritivos baseados nas informações principais, assegurando que a descrição de elementos centrais (como cores, luzes, texturas, sons) seja consistente em todos os episódios.\n\n### 6. **Fluidez e Otimização das Descrições**\n   - **Descrições Otimizadas**: Cada cena deve incluir todos os detalhes visuais e contextuais relevantes de forma clara e direta, sem dependência de outras cenas. Evite redundância, garantindo que a cena seja coesa e bem definida para facilitar a construção do vídeo.\n   - **Duração Planejada das Cenas**: Construa descrições visando cenas de aproximadamente **5 segundos**, priorizando a clareza e a eficiência narrativa sem perder detalhes importantes.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1360,
+    "author": "INEMA",
+    "date": "2024-10-22T23:39:58+00:00",
+    "text": "https://klingai.com?skitId=676111721593577516",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 1359,
+    "author": "INEMA",
+    "date": "2024-10-22T23:36:23+00:00",
+    "text": "Aqui está um modelo de prompt ajustado para garantir a fofura e a qualidade do gatinho, além de permitir flexibilidade com placeholders:\n\n**Prompt Geral:**\n\n\"Create a realistic, cute female kitten named Mizui, standing on her hind legs, performing a joyful and playful dance. Mizui has soft, fluffy fur in shades of gray and white, with large, expressive green eyes that reflect her energy and curiosity. Her fluffy tail sways gracefully with her dance moves. Mizui is dressed in a {{costume}}, wearing {{costume_details}}, which fits snugly around her small, fluffy frame. The dance consists of 5 simple steps that repeat in a loop, fitting the rhythm of upbeat {{music_theme}}. The steps include {{step1}}, {{step2}}, {{step3}}, {{step4}}, and {{step5}}. The entire sequence lasts about 10 seconds and should smoothly repeat. Make sure her soft, fluffy fur is visible beneath the costume, and her eyes express joy and energy. The background should be simple, keeping the focus on Mizui's full-body dance.\"\n\n**Placeholders:**\n- **costume**: The type of outfit (e.g., pirate, princess, astronaut, etc.)\n- **costume_details**: Description of the specific costume details (e.g., pirate hat with skull emblem, red vest, tiny sword, etc.)\n- **music_theme**: The style of music that matches the costume or dance theme (e.g., pirate-themed music, cheerful party music)\n- **step1 - step5**: Description of the 5 dance steps (e.g., clapping paws, stomping feet, spinning, etc.)\n\nEste modelo garante que você possa aplicar o padrão para qualquer fantasia ou tema, mantendo a fofura e a qualidade de Mizui em destaque.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1106,
+    "author": "INEMA",
+    "date": "2024-10-10T03:18:26+00:00",
+    "text": "Para adicionar o tipo de animal como um placeholder, você pode atualizar o prompt para permitir a personalização do animal, deixando o padrão como \"kitten\" (gatinha), mas permitindo a substituição caso o usuário queira outro tipo de animal. A estrutura ficaria assim:\n\n**Prompt Geral com tipo de animal**:\n\n\"Create a realistic, cute **{{animal}}** named Mizui, standing on {{animal_pronoun}} hind legs, performing a joyful and playful dance. **{{animal_pronoun_cap}}** has soft, fluffy fur in shades of gray and white, with large, expressive green eyes that reflect **{{animal_pronoun_poss}}** energy and curiosity. **{{animal_pronoun_cap}}** fluffy tail sways gracefully with the dance moves. **{{animal_pronoun_cap}}** is dressed in a {{costume}}, wearing {{costume_details | default_costume_based_on_theme}}, which fits snugly around **{{animal_pronoun_poss}}** small, fluffy frame. The dance consists of 5 simple steps that repeat in a loop, fitting the rhythm of {{music_theme | default_music_based_on_theme}}. The steps include {{step1 | default_step1_based_on_theme}}, {{step2 | default_step2_based_on_theme}}, {{step3 | default_step3_based_on_theme}}, {{step4 | default_step4_based_on_theme}}, and {{step5 | default_step5_based_on_theme}}. The entire sequence lasts about 10 seconds and should smoothly repeat. Make sure **{{animal_pronoun_poss}}** soft, fluffy fur is visible beneath the costume, and **{{animal_pronoun_poss}}** eyes express joy and energy. The background should be simple, keeping the focus on **{{animal}}'s** full-body dance.\"\n\n**Explicação dos placeholders com animal**:\n\n1. **animal**: Este placeholder define o tipo de animal. Se não especificado, pode-se preencher com \"kitten\" (gatinha). Exemplos:\n   - \"kitten\" (gatinha)\n   - \"puppy\" (cachorrinho)\n   - \"bunny\" (coelhinho)\n   \n2. **animal_pronoun**: Esse placeholder ajusta o pronome do animal para \"her\" ou \"his\", dependendo do gênero. Para Mizui, o padrão seria \"her\".\n   - Exemplo: Se for uma gatinha, usaremos \"her\". Se for um cachorrinho, usaremos \"his\".\n\n3. **animal_pronoun_cap**: O mesmo pronome, mas com a primeira letra em maiúscula, para quando for necessário começar uma frase. Por exemplo: \"Her\".\n\n4. **animal_pronoun_poss**: Este placeholder lida com pronomes possessivos (\"her\" ou \"his\"). Para Mizui, seria \"her\". \n   - Exemplo: \"her fluffy tail\" (a cauda fofa dela), \"his fluffy tail\" (a cauda fofa dele).\n\n**Exemplo completo** com **kitten**:\n\n\"Create a realistic, cute **kitten** named Mizui, standing on **her** hind legs, performing a joyful and playful dance. **Her** soft, fluffy fur in shades of gray and white, with large, expressive green eyes that reflect **her** energy and curiosity. **Her** fluffy tail sways gracefully with the dance moves. **She** is dressed in a pirate costume, wearing a pirate hat with a skull emblem, a red vest, and a tiny sword hanging from **her** side, which fits snugly around **her** small, fluffy frame. The dance consists of 5 simple steps that repeat in a loop, fitting the rhythm of upbeat pirate-themed music. The steps include clapping **her** paws, stomping **her** feet like a pirate, spinning in place, raising **her** paw like a pirate captain, and striking a playful pose with **her** sword. The entire sequence lasts about 10 seconds and should smoothly repeat. Make sure **her** soft, fluffy fur is visible beneath the costume, and **her** eyes express joy and energy. The background should be simple, keeping the focus on the **kitten's** full-body dance.\"\n\n**Exemplo completo** com **puppy**:\n\n\"Create a realistic, cute **puppy** named Mizui, standing on **his** hind legs, performing a joyful and playful dance. **His** soft, fluffy fur in shades of brown and white, with large, expressive brown eyes that reflect **his** energy and curiosity. **His** fluffy tail sways gracefully with the dance moves. **He** is dressed in a pirate costume, wearing a pirate hat with a skull emblem, a red vest, and a tiny sword hanging from **his** side, which fits snugly around **his** small, fluffy frame. The dance consis",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1105,
+    "author": "INEMA",
+    "date": "2024-10-10T02:55:36+00:00",
+    "text": "e se eu quiser tambem deixar o tipo de animal como placeholder",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1104,
+    "author": "INEMA",
+    "date": "2024-10-10T02:54:21+00:00",
+    "text": "Você pode definir uma opção que preenche automaticamente valores padrão com base no **costume** se não houver informações fornecidas para outros placeholders. Aqui está uma maneira de fazer isso no prompt, onde, caso não sejam especificados os detalhes da fantasia, música ou passos de dança, valores padrão adequados ao tema serão atribuídos automaticamente.\n\n**Estrutura com opções de preenchimento automático**:\n\n**Prompt Geral**:\n\"Create a realistic, cute female kitten named Mizui, standing on her hind legs, performing a joyful and playful dance. Mizui has soft, fluffy fur in shades of gray and white, with large, expressive green eyes that reflect her energy and curiosity. Her fluffy tail sways gracefully with her dance moves. Mizui is dressed in a {{costume}}, wearing {{costume_details | default_costume_based_on_theme}}, which fits snugly around her small, fluffy frame. The dance consists of 5 simple steps that repeat in a loop, fitting the rhythm of {{music_theme | default_music_based_on_theme}}. The steps include {{step1 | default_step1_based_on_theme}}, {{step2 | default_step2_based_on_theme}}, {{step3 | default_step3_based_on_theme}}, {{step4 | default_step4_based_on_theme}}, and {{step5 | default_step5_based_on_theme}}. The entire sequence lasts about 10 seconds and should smoothly repeat. Make sure her soft, fluffy fur is visible beneath the costume, and her eyes express joy and energy. The background should be simple, keeping the focus on Mizui's full-body dance.\"\n\n**Explicação das opções de preenchimento automático**:\n\n1. **costume**: O usuário sempre define o traje. Este é obrigatório.\n   \n2. **costume_details | default_costume_based_on_theme**: Se nenhum detalhe for fornecido, um padrão baseado no traje será preenchido automaticamente. Por exemplo:\n   - Para o **pirate costume**, o padrão poderia ser: \"a pirate hat with a skull emblem, a red vest, and a tiny sword hanging from her side.\"\n   - Para o **princess costume**, o padrão poderia ser: \"a beautiful gown, tiara, and royal accessories.\"\n\n3. **music_theme | default_music_based_on_theme**: Se o tema da música não for definido, uma música padrão será atribuída com base no traje. Exemplos:\n   - Para **pirate**, a música seria \"upbeat pirate-themed music.\"\n   - Para **ballet dancer**, a música seria \"soft and graceful ballet music.\"\n\n4. **step1 - step5 | default_step_based_on_theme**: Se os movimentos da dança não forem especificados, passos de dança padrão serão atribuídos automaticamente com base no traje:\n   - Para **pirate**, os passos padrão poderiam ser:\n     - **step1**: clapping her paws (batendo palmas com as patas)\n     - **step2**: stomping her feet like a pirate (batendo os pés como um pirata)\n     - **step3**: spinning in place (girando no lugar)\n     - **step4**: raising her paw like a pirate captain (levantando a pata como um capitão pirata)\n     - **step5**: striking a playful pose with her sword (fazendo uma pose divertida com sua espada).\n   - Para **ballerina**, os passos padrão seriam:\n     - **step1**: spinning gracefully (girando graciosamente)\n     - **step2**: lifting her paw elegantly (levantando sua pata com elegância)\n     - **step3**: twirling lightly (dando uma volta suave)\n     - **step4**: hopping delicately (saltando delicadamente)\n     - **step5**: holding a ballet pose (mantendo uma pose de balé).\n\nEsses valores padrão garantem que, se algumas informações forem omitidas, o sistema ainda criará algo apropriado para o tema da fantasia, proporcionando uma dança e visual consistentes com o costume escolhido.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1103,
+    "author": "INEMA",
+    "date": "2024-10-10T02:50:58+00:00",
+    "text": "gatinha Mizui\n\n\nAqui está um modelo de prompt ajustado para garantir a fofura e a qualidade do gatinho, além de permitir flexibilidade com placeholders:\n\n**Prompt Geral:**\n\n\"Create a realistic, cute female kitten named Mizui, standing on her hind legs, performing a joyful and playful dance. Mizui has soft, fluffy fur in shades of gray and white, with large, expressive green eyes that reflect her energy and curiosity. Her fluffy tail sways gracefully with her dance moves. Mizui is dressed in a {{costume}}, wearing {{costume_details}}, which fits snugly around her small, fluffy frame. The dance consists of 5 simple steps that repeat in a loop, fitting the rhythm of upbeat {{music_theme}}. The steps include {{step1}}, {{step2}}, {{step3}}, {{step4}}, and {{step5}}. The entire sequence lasts about 10 seconds and should smoothly repeat. Make sure her soft, fluffy fur is visible beneath the costume, and her eyes express joy and energy. The background should be simple, keeping the focus on Mizui's full-body dance.\"\n\n**Placeholders:**\n- **costume**: The type of outfit (e.g., pirate, princess, astronaut, etc.)\n- **costume_details**: Description of the specific costume details (e.g., pirate hat with skull emblem, red vest, tiny sword, etc.)\n- **music_theme**: The style of music that matches the costume or dance theme (e.g., pirate-themed music, cheerful party music)\n- **step1 - step5**: Description of the 5 dance steps (e.g., clapping paws, stomping feet, spinning, etc.)\n\nEste modelo garante que você possa aplicar o padrão para qualquer fantasia ou tema, mantendo a fofura e a qualidade de Mizui em destaque.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1102,
+    "author": "INEMA",
+    "date": "2024-10-10T02:50:15+00:00",
+    "text": "0",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1101,
+    "author": "INEMA",
+    "date": "2024-10-10T02:50:14+00:00",
+    "text": "9",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1100,
+    "author": "INEMA",
+    "date": "2024-10-10T02:50:13+00:00",
+    "text": "8",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1099,
+    "author": "INEMA",
+    "date": "2024-10-10T02:50:13+00:00",
+    "text": "7",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1098,
+    "author": "INEMA",
+    "date": "2024-10-10T02:50:13+00:00",
+    "text": "6",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1097,
+    "author": "INEMA",
+    "date": "2024-10-10T02:50:12+00:00",
+    "text": "5",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1096,
+    "author": "INEMA",
+    "date": "2024-10-10T02:50:12+00:00",
+    "text": "4",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1095,
+    "author": "INEMA",
+    "date": "2024-10-10T02:50:12+00:00",
+    "text": "3",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1094,
+    "author": "INEMA",
+    "date": "2024-10-10T02:50:11+00:00",
+    "text": "2",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1093,
+    "author": "INEMA",
+    "date": "2024-10-10T02:50:11+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1092,
+    "author": "INEMA",
+    "date": "2024-10-10T02:50:05+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

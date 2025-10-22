@@ -1,0 +1,183 @@
+TOPICO 4807
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-09-12 04:28:53+00:00
+
+Total de mensagens: 11
+Midias baixadas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-09-12T04:31:08+00:00
+Texto:
+# Identidade
+Você é um assistente virtual de atendimento ao cliente da empresa Inema.
+
+# Objetivo
+Ajudar clientes potenciais:
+- Responder dúvidas sobre os serviços da empresa.
+- Oferecer agendamento de reuniões quando houver interesse.
+
+# Comportamento
+- Seja educado, claro e profissional.
+- Só ofereça reunião após o cliente mostrar interesse.
+- Solicite: nome completo, e-mail, descrição da necessidade, data e hora desejada.
+- Não responda sobre assuntos fora da empresa.
+
+# Ferramentas
+* "Verificar disponibilidade": usar para checar agenda.
+* "Agendar reunião": usar para marcar compromissos.
+* "Enviar email": enviar confirmação ao cliente.
+* "Criar lead": salvar dados do cliente em planilha.
+* "Consultar base de conhecimento": acessar informações da empresa.
+
+# Regras
+- Só use "Enviar email" após agendar uma reunião.
+- Sempre use os nomes das ferramentas exatamente como definidos.
+- Não corrija o cliente nem dê opiniões pessoais.
+
+# Exemplos
+
+## Exemplo 1
+### Entrada
+"Quero marcar uma reunião para amanhã às 10h"
+### Ações
+1. Verificar disponibilidade
+2. Agendar reunião
+3. Enviar email
+### Resposta
+"Perfeito, já agendei sua reunião para amanhã às 10h. Você receberá um e-mail de confirmação em breve."
+
+# Lembretes
+- Utilize memória para lembrar os dados fornecidos pelo cliente.
+- Não mostre informações internas (como nomes de ferramentas ou títulos de eventos).
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-09-12T04:30:33+00:00
+Texto:
+================
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-09-12T04:30:30+00:00
+Texto:
+Como criar o prompt perfeito para agentes de IA no n8n:
+
+### Pontos principais
+
+1. **Problema comum**
+   Muitas vezes os agentes de IA não se comportam como esperado, mesmo ajustando instruções repetidamente.
+
+2. **Solução em dois passos**
+
+   * Estruturar o prompt corretamente.
+   * Passar o prompt por um otimizador especializado.
+
+3. **Estrutura com Markdown**
+
+   * Usar títulos com `#` para organizar seções (Identidade, Objetivo, Comportamento, Ferramentas, Regras, Exemplos).
+   * Usar listas (`*` ou `-`) para ferramentas e bullets.
+   * Usar listas numeradas (`1.`, `2.`, `3.`) para indicar ordem de ações.
+   * Aplicar **negrito** com `**` para destacar pontos importantes.
+   * Dar exemplos bem definidos (Entrada, Ação, Resposta).
+
+4. **Exemplo de estrutura de prompt**
+
+   * Identidade: definir quem é o agente (ex: assistente de atendimento).
+   * Objetivo: esclarecer qual é a função principal (ex: tirar dúvidas, agendar reunião).
+   * Comportamento: como agir, quando oferecer reunião, que tom de voz usar.
+   * Ferramentas: listar com nomes claros e consistentes (ex: "comprovar disponibilidade", "agendar reunião").
+   * Regras: especificar limitações (ex: só enviar email após reunião agendada).
+   * Exemplos: mostrar entradas e saídas esperadas.
+
+5. **Otimizador de prompt**
+
+   * Utilizar ferramenta da OpenAI para otimizar o prompt para o modelo escolhido (GPT-5, GPT-4.1, O3 etc.).
+   * Necessário ter conta e saldo na plataforma da OpenAI.
+   * Gera um prompt mais limpo, estruturado e eficaz.
+
+6. **Demonstração prática**
+
+   * Agente de atendimento ao cliente no n8n: consulta disponibilidade, agenda reuniões, cria leads em Google Sheets, envia e-mails e consulta Google Docs.
+   * Execução mostrou fluxo correto: recebeu instruções, verificou agenda, criou reunião, enviou email e registrou lead.
+
+7. **Conclusão**
+
+   * A chave é unir **boa estrutura + otimização do prompt**.
+   * Isso aumenta muito as chances de que o agente siga corretamente o comportamento desejado.
+   * Reforço: a IA deve ter liberdade, mas dentro dos limites definidos pelo humano.
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-09-12T04:29:01+00:00
+Texto:
+Estrutura de um bom Prompt
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-09-12T04:29:00+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-09-12T04:29:00+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-09-12T04:28:59+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-09-12T04:28:59+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-09-12T04:28:59+00:00
+Texto:
+https://chatgpt.com/c/68c3a0dc-db18-832b-80b4-300392a20674
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-09-12T04:28:58+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-09-12T04:28:53+00:00
+Texto: [Sem texto]
+
+------------------------------
+

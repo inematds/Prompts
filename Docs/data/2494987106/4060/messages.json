@@ -1,0 +1,90 @@
+[
+  {
+    "id": 4070,
+    "author": "INEMA",
+    "date": "2025-07-22T19:37:31+00:00",
+    "text": "--",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4069,
+    "author": "INEMA",
+    "date": "2025-07-22T19:37:31+00:00",
+    "text": "### Estrutura Padrão de Prompt para Aplicação de Atendimento Jurídico\n\n## 🎯 Objetivo do Projeto\n\nEstou desenvolvendo um aplicativo para **atendimento jurídico automatizado**, focado em esclarecer dúvidas de clientes, fornecer respostas baseadas apenas nos dados internos (base local ou via RAG) e permitir o agendamento de reuniões com advogados quando necessário.\n\n## 🧠 Contexto\n\nO app será usado por **clientes de um escritório de advocacia** que buscam:\n\n* Consultas rápidas sobre direitos trabalhistas, previdenciários, cíveis, etc.\n* Informações claras sobre processos em andamento.\n* Agendamento com advogados especialistas caso o chatbot não consiga responder.\n\nDeve ter foco em:\n\n* **Confidencialidade e segurança de dados.**\n* **Clareza nas respostas, sem extrapolar o que existe no banco de dados ou RAG.**\n* **Experiência amigável e acessível, mesmo para pessoas com pouca familiaridade com tecnologia.**\n\n## ⚙️ Funcionalidades Requeridas\n\n1. Autenticação com e-mail, senha e autenticação em dois fatores (2FA).\n2. CRUD completo para:\n\n   * **Clientes** (nome, e-mail, telefone, CPF/CNPJ, casos associados).\n   * **Casos jurídicos** (tipo, status, detalhes).\n   * **Agendamentos** (data, hora, advogado responsável).\n3. Chatbot com:\n\n   * Acesso apenas à base de dados local e RAG.\n   * Restrições para **não inventar respostas**.\n   * Capacidade de transferir para humano se necessário.\n4. Sistema de agendamento com integração a Google Calendar/Outlook.\n5. Notificações por e-mail e SMS para lembretes de agendamento.\n6. Área do cliente para acompanhar status dos casos e histórico de atendimentos.\n7. Logs de atendimento para auditoria e conformidade com LGPD.\n\n## 🎨 Design e UI\n\n* Estilo profissional e confiável, com cores sóbrias (azul, cinza, branco).\n* Tailwind CSS para layout responsivo (mobile-first).\n* Chat com interface amigável (balões de conversa, avatar do advogado virtual).\n* Botão flutuante de **“Agendar com Advogado”** visível em todas as telas.\n\n## 🧪 Dados\n\n* Estrutura do banco inicial:\n\n  * **Clientes:** id, nome, e-mail, telefone, CPF/CNPJ, data de cadastro.\n  * **Casos:** id, cliente\\_id, tipo, status, descrição, advogado\\_responsável.\n  * **Agendamentos:** id, cliente\\_id, advogado\\_id, data, hora, status.\n* Dados fictícios para testes: 10 clientes, 5 casos por cliente.\n\n## 📦 Tecnologias\n\n* Supabase para autenticação e banco de dados.\n* Claude 4 ou GPT-4 com integração RAG para o chatbot.\n* Tailwind CSS para interface.\n* Stripe (opcional) para pagamentos de consultas ou planos premium.\n\n## 💬 Observações Importantes\n\n* O chatbot **não deve extrapolar informações** além da base local ou RAG.\n* Se a pergunta não for respondida com base nos dados, sugerir agendamento com advogado.\n* Garantir compliance com LGPD para armazenamento e tratamento de dados pessoais.\n* Confirmar com o cliente antes de registrar qualquer informação sensível.\n\n## 🧩 Etapas de Execução (para orientação interna do AI)\n\n1. Criar esboço da arquitetura do app.\n2. Configurar autenticação e banco de dados no Supabase.\n3. Desenvolver chatbot com restrição ao RAG/local.\n4. Criar sistema de agendamento integrado com calendários externos.\n5. Refinar UI/UX com foco em acessibilidade.\n6. Testar com dados mock e implementar políticas de segurança.\n\n---\n\n### ❓ Perguntas para completar o modelo:\n\n1. **Quais áreas jurídicas o chatbot deve atender?** (trabalhista, previdenciário, cível, todas?)\n2. **O agendamento será gratuito ou pago?** (Se pago, Stripe entra no fluxo)\n3. **O cliente pode ver o andamento de processos no app?** (Sim/Não)\n4. **Qual o nível de detalhamento das respostas?** (respostas curtas, médias, ou documentos completos?)\n5. **Vai precisar de integração com sistemas de gestão jurídica (ex.: Projuris, SAJ)?**\n6. **O RAG já estará configurado ou quer que o app inclua a configuração do RAG?**\n7. **Preferência por login social (Google/Facebook) além do e-mail?**\n8. **Quer que o chatbot reconheça a área de atuação do cliente (ex.: empregador ou empregado)?**\n9. **Haverá área administrativa para advogados gerenciarem atendimentos e casos?**\n\n-",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4068,
+    "author": "INEMA",
+    "date": "2025-07-22T19:37:19+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4067,
+    "author": "INEMA",
+    "date": "2025-07-22T19:37:19+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4066,
+    "author": "INEMA",
+    "date": "2025-07-22T19:37:18+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4065,
+    "author": "INEMA",
+    "date": "2025-07-22T19:37:18+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4064,
+    "author": "INEMA",
+    "date": "2025-07-22T19:37:18+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4063,
+    "author": "INEMA",
+    "date": "2025-07-22T19:37:18+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4062,
+    "author": "INEMA",
+    "date": "2025-07-22T19:37:17+00:00",
+    "text": "https://chatgpt.com/c/687fe751-793c-8009-890f-931af755876e",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4061,
+    "author": "INEMA",
+    "date": "2025-07-22T19:37:17+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4060,
+    "author": "INEMA",
+    "date": "2025-07-22T19:37:01+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

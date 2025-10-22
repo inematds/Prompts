@@ -1,0 +1,149 @@
+[
+  {
+    "id": 4616,
+    "author": "INEMA",
+    "date": "2025-08-23T07:25:19+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4616_001.jpg"
+  },
+  {
+    "id": 4615,
+    "author": "INEMA",
+    "date": "2025-08-23T07:20:30+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4615_002.jpg"
+  },
+  {
+    "id": 4614,
+    "author": "INEMA",
+    "date": "2025-08-23T07:17:30+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4614_003.jpg"
+  },
+  {
+    "id": 4612,
+    "author": "INEMA",
+    "date": "2025-08-23T07:08:26+00:00",
+    "text": "O **Prompt ID** é criado e gerenciado através da interface web da OpenAI, especificamente no **Playground**, e não diretamente via chamadas da API. Abaixo, explico passo a passo como você faz isso:\n\n---\n\n## Onde você cadastra um Prompt ID na OpenAI?\n\n### 1. Acesse o Playground da OpenAI\n\n* Vá ao site da OpenAI e entre na seção **Playground** (também pode ser chamado de “Chat Playground”).\n* No menu lateral, clique em **Prompts** e depois em **Create New** para começar a escrever seu prompt.\n\n### 2. Crie e refine seu prompt\n\n* Escreva seu prompt, incluindo placeholders, exemplos, instruções, etc.\n* Use a função **Optimize** (quando disponível) para melhorar o prompt — ela sugere ajustes de clareza, formato de saída, correções, e você pode aplicar com um clique. ([OpenAI Help Center][1])\n\n### 3. Publique para gerar o Prompt ID\n\n* Quando estiver satisfeito com o prompt, clique em **Publish**.\n* Isso “tranca” o texto e gera um **Prompt ID**. Você pode usar esse ID nas chamadas à API, em vez de enviar o texto completo. ([OpenAI Help Center][1])\n\n### 4. Versionamento e edição futura\n\n* Após publicar, você pode continuar editando em um novo draft.\n* Sempre que quiser que uma nova versão seja usada, clique em **Update** — isso gera uma nova versão com novo Prompt ID (ou atualiza a versão associada). ([OpenAI Platform][2])\n* Você pode voltar a versões anteriores facilmente, bem como comparar saídas side-by-side.\n\n### 5. Usando o Prompt ID na API\n\nDepois de publicar, você usa o Prompt ID assim:\n\n```POST /v1/responses\n{\n  \"model\": \"gpt-5\",\n  \"prompt_id\": \"seu_prompt_id_aqui\",\n  \"input\": \"Alguma pergunta...\"\n}```\n\nA API vai buscar o conteúdo do prompt salvo e aplicá-lo junto com o seu input.\n\n---\n\n### Resumo visual\n\n| Etapa            | Ação no Playground                          |\n| ---------------- | ------------------------------------------- |\n| Criar prompt     | `Prompts → Create New`                      |\n| Refinar prompt   | Escrever, testá-lo, usar Optimize           |\n| Publicar prompt  | Clicar em **Publish** → gera o Prompt ID    |\n| Atualizar prompt | Fazer edição → clicerar **Update**          |\n| Usar na API      | Usar `prompt_id` no lugar do texto completo |\n\n---",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4611,
+    "author": "INEMA",
+    "date": "2025-08-23T07:07:38+00:00",
+    "text": "======",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4610,
+    "author": "INEMA",
+    "date": "2025-08-23T07:07:32+00:00",
+    "text": "======================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4609,
+    "author": "INEMA",
+    "date": "2025-08-23T07:07:23+00:00",
+    "text": "## 1. O que é o **Prompt ID**\n\nO **Prompt ID** é como se fosse um **“rótulo/versão oficial” de um prompt** que você publicou na OpenAI (ou outro sistema de hospedagem de prompts).\n\n* Em vez de colar o texto inteiro do seu prompt toda vez, você pode **salvar esse prompt** e dar a ele um ID.\n* Depois, quando precisar usá-lo, você só chama o **ID**, e a API puxa o texto completo que você cadastrou.\n* Se você atualizar o prompt no servidor, **o ID continua o mesmo**, mas a versão do conteúdo muda.\n\n---\n\n## 2. Por que isso existe?\n\nImagine que você tem um app que depende de prompts longos e complicados.\n\n* Se você mudar o prompt, teria que atualizar o **código do app**.\n* Com Prompt ID, você só altera o prompt no **servidor**, e todos os apps que usam esse ID passam a rodar com a versão nova automaticamente.\n\nÉ um **controle de versão para prompts**, parecido com como usamos IDs de modelos (“gpt-5”, “gpt-4o”, etc.).\n\n---\n\n## 3. Como funciona na prática\n\nExemplo (hipotético em JSON):\n\n### Criando/registrando um prompt\n\n```{\n  \"prompt_id\": \"protein-checker-v1\",\n  \"content\": \"Você é um agente especializado em análise de rótulos de proteína...\"\n}```\n\n### Usando esse prompt no app\n\n```POST /v1/responses\n{\n  \"model\": \"gpt-5\",\n  \"prompt_id\": \"protein-checker-v1\",\n  \"input\": \"Analise este rótulo (imagem anexa).\"\n}```\n\n→ A API vai buscar o conteúdo do prompt **“protein-checker-v1”** automaticamente e aplicá-lo.\n\n---\n\n## 4. Vantagens\n\n* **Centralização**: você atualiza o prompt em um só lugar.\n* **Escalabilidade**: apps diferentes usam o mesmo prompt sem copiar/colar.\n* **Versionamento**: você pode manter “v1”, “v2”, etc., e trocar qual é a versão default.\n* **Segurança**: evita expor prompts muito grandes ou sensíveis no código.\n\n---\n\n## 5. Exemplo prático real (do caso do vídeo que você estudou)\n\n* O criador testou um prompt gigante para análise de proteínas (PDCAAS).\n* Publicou como um Prompt ID (ex.: `\"prompt_id\": \"protein-analysis-v2\"`).\n* No app, em vez de mandar aquele texto enorme, só chama o Prompt ID.\n* Se amanhã ele quiser ajustar o critério de QA, basta alterar o prompt no servidor → o app já usa a versão nova.\n\n---\n\nResumindo:\nO **Prompt ID é como um “atalho” oficial para prompts complexos**, permitindo versionar e atualizar sem mexer no código ou redeploy do app.\n\n---",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4608,
+    "author": "INEMA",
+    "date": "2025-08-23T07:06:38+00:00",
+    "text": "Prompt ID - Playground OPENAI",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4607,
+    "author": "INEMA",
+    "date": "2025-08-23T07:06:31+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4606,
+    "author": "INEMA",
+    "date": "2025-08-23T07:06:29+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4605,
+    "author": "INEMA",
+    "date": "2025-08-23T07:06:26+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4604,
+    "author": "INEMA",
+    "date": "2025-08-23T07:06:23+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4603,
+    "author": "INEMA",
+    "date": "2025-08-23T07:06:21+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4601,
+    "author": "INEMA",
+    "date": "2025-08-23T07:06:15+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4600,
+    "author": "INEMA",
+    "date": "2025-08-23T07:06:14+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4595,
+    "author": "INEMA",
+    "date": "2025-08-23T07:06:04+00:00",
+    "text": "https://chatgpt.com/c/68a9429a-3a48-8333-b0e7-15a6f98ce66f",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4594,
+    "author": "INEMA",
+    "date": "2025-08-23T07:06:00+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4593,
+    "author": "INEMA",
+    "date": "2025-08-23T07:05:44+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

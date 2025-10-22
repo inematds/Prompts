@@ -1,0 +1,1210 @@
+﻿{
+    "grupo_id":  "2494987106",
+    "titulo":  "INEMA.Prompts",
+    "total_topicos":  100,
+    "generated":  "2025-10-22T12:05:58.9890259-03:00",
+    "topics":  [
+                   {
+                       "id":  678,
+                       "title":  "Prompts Empoderamento",
+                       "slug":  "prompts-empoderamento",
+                       "date":  "2024-10-01T19:26:43+00:00",
+                       "total_messages":  27,
+                       "content_path":  "data/2494987106/678/content.txt",
+                       "attachments":  [
+                                           "photo_4704_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  2191,
+                       "title":  "VisÃ£o Geral de Prompts",
+                       "slug":  "visa-o-geral-de-prompts",
+                       "date":  "2025-02-06T08:04:17+00:00",
+                       "total_messages":  28,
+                       "content_path":  "data/2494987106/2191/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  2261,
+                       "title":  "Duvidas de Prompts",
+                       "slug":  "duvidas-de-prompts",
+                       "date":  "2025-02-14T01:47:54+00:00",
+                       "total_messages":  8,
+                       "content_path":  "data/2494987106/2261/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  2927,
+                       "title":  "MENU Links PROMPTS",
+                       "slug":  "menu-links-prompts",
+                       "date":  "2025-03-29T04:00:02+00:00",
+                       "total_messages":  76,
+                       "content_path":  "data/2494987106/2927/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3268,
+                       "title":  "mp29 - Modelo de divulgaÃ§Ã£o de e-mail frio",
+                       "slug":  "mp29-modelo-de-divulgaa-a-o-de-e-mail-frio",
+                       "date":  "2025-04-07T08:30:54+00:00",
+                       "total_messages":  13,
+                       "content_path":  "data/2494987106/3268/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3281,
+                       "title":  "mp30 - Script de saudaÃ§Ã£o de chatbot",
+                       "slug":  "mp30-script-de-saudaa-a-o-de-chatbot",
+                       "date":  "2025-04-07T08:32:21+00:00",
+                       "total_messages":  11,
+                       "content_path":  "data/2494987106/3281/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3292,
+                       "title":  "Prompt Agente N8N",
+                       "slug":  "prompt-agente-n8n",
+                       "date":  "2025-04-08T06:37:52+00:00",
+                       "total_messages":  15,
+                       "content_path":  "data/2494987106/3292/content.txt",
+                       "attachments":  [
+                                           "photo_3305_002.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  3321,
+                       "title":  "mm5 - Experiencia #5 - Prompt Manus Criar Site",
+                       "slug":  "mm5-experiencia-5-prompt-manus-criar-site",
+                       "date":  "2025-04-11T03:31:07+00:00",
+                       "total_messages":  14,
+                       "content_path":  "data/2494987106/3321/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3333,
+                       "title":  "mm4 - ExperiÃªncia Manus #4: AgÃªncias RIP SEO/GEO",
+                       "slug":  "mm4-experia-ncia-manus-4-aga-ncias-rip-seo-geo",
+                       "date":  "2025-04-11T03:36:12+00:00",
+                       "total_messages":  18,
+                       "content_path":  "data/2494987106/3333/content.txt",
+                       "attachments":  [
+                                           "ai_automation_agency_content_package.zip"
+                                       ]
+                   },
+                   {
+                       "id":  3350,
+                       "title":  "mm1 - ExperiÃªncia Manus #1: Auto Projeto Claude \u0026 GPTs Person",
+                       "slug":  "mm1-experia-ncia-manus-1-auto-projeto-claude-gpts-person",
+                       "date":  "2025-04-11T03:40:41+00:00",
+                       "total_messages":  13,
+                       "content_path":  "data/2494987106/3350/content.txt",
+                       "attachments":  [
+                                           "ai_business_solutions.zip"
+                                       ]
+                   },
+                   {
+                       "id":  3363,
+                       "title":  "mm2 - ExperiÃªncia Manus #2: RIP AI Consultants...",
+                       "slug":  "mm2-experia-ncia-manus-2-rip-ai-consultants",
+                       "date":  "2025-04-11T03:42:28+00:00",
+                       "total_messages":  15,
+                       "content_path":  "data/2494987106/3363/content.txt",
+                       "attachments":  [
+                                           "FULL AI AUDIT REPORT (1).pdf"
+                                       ]
+                   },
+                   {
+                       "id":  3382,
+                       "title":  "mm6 - Experiencia #6 - Prompts Manus Lovable",
+                       "slug":  "mm6-experiencia-6-prompts-manus-lovable",
+                       "date":  "2025-04-11T17:34:07+00:00",
+                       "total_messages":  12,
+                       "content_path":  "data/2494987106/3382/content.txt",
+                       "attachments":  [
+                                           "lovable_app_prompts.zip"
+                                       ]
+                   },
+                   {
+                       "id":  3394,
+                       "title":  "xx-Prompt GPT Foto Realista",
+                       "slug":  "xx-prompt-gpt-foto-realista",
+                       "date":  "2025-04-12T00:15:23+00:00",
+                       "total_messages":  12,
+                       "content_path":  "data/2494987106/3394/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3406,
+                       "title":  "Guia de Prompt Google 2025/4",
+                       "slug":  "guia-de-prompt-google-2025-4",
+                       "date":  "2025-04-12T01:57:16+00:00",
+                       "total_messages":  13,
+                       "content_path":  "data/2494987106/3406/content.txt",
+                       "attachments":  [
+                                           "Prompt Engineering Google.pdf"
+                                       ]
+                   },
+                   {
+                       "id":  3420,
+                       "title":  "mm7 - Experiencia #7 - Prompts Manus Vozes",
+                       "slug":  "mm7-experiencia-7-prompts-manus-vozes",
+                       "date":  "2025-04-12T21:49:47+00:00",
+                       "total_messages":  17,
+                       "content_path":  "data/2494987106/3420/content.txt",
+                       "attachments":  [
+                                           "photo_3430_007.jpg",
+                                           "photo_3431_006.jpg",
+                                           "photo_3432_005.jpg",
+                                           "photo_3433_004.jpg",
+                                           "photo_3434_003.jpg",
+                                           "photo_3435_002.jpg",
+                                           "voice_ai_resource_kit.zip"
+                                       ]
+                   },
+                   {
+                       "id":  3438,
+                       "title":  "mm9 - Experimento Manus #9: Manus me ensina tudo sobre o OpenAI 4.1",
+                       "slug":  "mm9-experimento-manus-9-manus-me-ensina-tudo-sobre-o-openai-4-1",
+                       "date":  "2025-04-18T04:50:30+00:00",
+                       "total_messages":  12,
+                       "content_path":  "data/2494987106/3438/content.txt",
+                       "attachments":  [
+                                           "4.1 prompt eng.zip"
+                                       ]
+                   },
+                   {
+                       "id":  3450,
+                       "title":  "Prompt Analise Casa GPT o3",
+                       "slug":  "prompt-analise-casa-gpt-o3",
+                       "date":  "2025-04-23T02:01:45+00:00",
+                       "total_messages":  10,
+                       "content_path":  "data/2494987106/3450/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3461,
+                       "title":  "Prompts Vazados dos SISTEMAS",
+                       "slug":  "prompts-vazados-dos-sistemas",
+                       "date":  "2025-04-23T02:11:27+00:00",
+                       "total_messages":  16,
+                       "content_path":  "data/2494987106/3461/content.txt",
+                       "attachments":  [
+                                           "system-prompts-and-models-of-ai-tools-main.zip"
+                                       ]
+                   },
+                   {
+                       "id":  3478,
+                       "title":  "mm10 - Experimento #10 Manus - Ensine Vibe Codigo",
+                       "slug":  "mm10-experimento-10-manus-ensine-vibe-codigo",
+                       "date":  "2025-04-23T03:09:27+00:00",
+                       "total_messages":  15,
+                       "content_path":  "data/2494987106/3478/content.txt",
+                       "attachments":  [
+                                           "all_files.zip"
+                                       ]
+                   },
+                   {
+                       "id":  3493,
+                       "title":  "PROMPT IMGEM PET",
+                       "slug":  "prompt-imgem-pet",
+                       "date":  "2025-04-29T00:58:08+00:00",
+                       "total_messages":  19,
+                       "content_path":  "data/2494987106/3493/content.txt",
+                       "attachments":  [
+                                           "photo_3506_006.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  3512,
+                       "title":  "Prompt ESTOICO",
+                       "slug":  "prompt-estoico",
+                       "date":  "2025-04-29T01:28:33+00:00",
+                       "total_messages":  12,
+                       "content_path":  "data/2494987106/3512/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3524,
+                       "title":  "AcÃ£o do GPT no CchatGPT - Aula 30/4/25",
+                       "slug":  "aca-o-do-gpt-no-cchatgpt-aula-30-4-25",
+                       "date":  "2025-04-30T23:41:33+00:00",
+                       "total_messages":  12,
+                       "content_path":  "data/2494987106/3524/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3532,
+                       "title":  "mm11 - Manus + n8n + Lovable",
+                       "slug":  "mm11-manus-n8n-lovable",
+                       "date":  "2025-05-01T02:45:21+00:00",
+                       "total_messages":  11,
+                       "content_path":  "data/2494987106/3532/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3549,
+                       "title":  "010525 - Mente BilionÃ¡ria em AÃ§Ã£o",
+                       "slug":  "010525-mente-biliona-ria-em-aa-a-o",
+                       "date":  "2025-05-04T21:36:21+00:00",
+                       "total_messages":  16,
+                       "content_path":  "data/2494987106/3549/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3566,
+                       "title":  "Prompt IMAGEM de Produtos QUENTES",
+                       "slug":  "prompt-imagem-de-produtos-quentes",
+                       "date":  "2025-05-11T00:47:49+00:00",
+                       "total_messages":  17,
+                       "content_path":  "data/2494987106/3566/content.txt",
+                       "attachments":  [
+                                           "photo_3576_007.jpg",
+                                           "photo_3577_006.jpg",
+                                           "photo_3578_005.jpg",
+                                           "photo_3579_004.jpg",
+                                           "photo_3581_003.jpg",
+                                           "photo_3582_002.jpg",
+                                           "photo_3583_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  3584,
+                       "title":  "Prompt de um Artista",
+                       "slug":  "prompt-de-um-artista",
+                       "date":  "2025-05-12T19:02:30+00:00",
+                       "total_messages":  11,
+                       "content_path":  "data/2494987106/3584/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3595,
+                       "title":  "Prompt Tipo GURU no Claude",
+                       "slug":  "prompt-tipo-guru-no-claude",
+                       "date":  "2025-05-15T15:35:32+00:00",
+                       "total_messages":  21,
+                       "content_path":  "data/2494987106/3595/content.txt",
+                       "attachments":  [
+                                           "Claude System Prompt.txt",
+                                           "photo_3610_006.jpg",
+                                           "photo_3611_005.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  3617,
+                       "title":  "Prompt Guide GPT 4.1",
+                       "slug":  "prompt-guide-gpt-4-1",
+                       "date":  "2025-05-15T19:50:44+00:00",
+                       "total_messages":  11,
+                       "content_path":  "data/2494987106/3617/content.txt",
+                       "attachments":  [
+                                           "OpenAI Prompting Guide.pdf"
+                                       ]
+                   },
+                   {
+                       "id":  3628,
+                       "title":  "Master Prompt from jack",
+                       "slug":  "master-prompt-from-jack",
+                       "date":  "2025-05-24T02:54:51+00:00",
+                       "total_messages":  9,
+                       "content_path":  "data/2494987106/3628/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3637,
+                       "title":  "INEMA",
+                       "slug":  "inema",
+                       "date":  "2025-05-24T07:46:07+00:00",
+                       "total_messages":  1,
+                       "content_path":  "data/2494987106/3637/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3638,
+                       "title":  "Prompt Vibe Code - Criando app de Videos",
+                       "slug":  "prompt-vibe-code-criando-app-de-videos",
+                       "date":  "2025-05-25T18:44:54+00:00",
+                       "total_messages":  9,
+                       "content_path":  "data/2494987106/3638/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3649,
+                       "title":  "Prompt Perfeito VOE3",
+                       "slug":  "prompt-perfeito-voe3",
+                       "date":  "2025-05-31T00:30:39+00:00",
+                       "total_messages":  13,
+                       "content_path":  "data/2494987106/3649/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3662,
+                       "title":  "m17 - (n8n) Prompt para VEO3",
+                       "slug":  "m17-n8n-prompt-para-veo3",
+                       "date":  "2025-06-07T16:39:17+00:00",
+                       "total_messages":  11,
+                       "content_path":  "data/2494987106/3662/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3671,
+                       "title":  "Perplexity Labs Prompts",
+                       "slug":  "perplexity-labs-prompts",
+                       "date":  "2025-06-07T17:34:24+00:00",
+                       "total_messages":  30,
+                       "content_path":  "data/2494987106/3671/content.txt",
+                       "attachments":  [
+                                           "Perplexity Labs Prompts.docx"
+                                       ]
+                   },
+                   {
+                       "id":  3706,
+                       "title":  "Estado da Arte sobre PROMPTS",
+                       "slug":  "estado-da-arte-sobre-prompts",
+                       "date":  "2025-06-08T02:28:28+00:00",
+                       "total_messages":  22,
+                       "content_path":  "data/2494987106/3706/content.txt",
+                       "attachments":  [
+                                           "document_5055611377125688524 (1).mp4"
+                                       ]
+                   },
+                   {
+                       "id":  3735,
+                       "title":  "Gpt personalizado",
+                       "slug":  "gpt-personalizado",
+                       "date":  "2025-06-09T21:17:34+00:00",
+                       "total_messages":  1,
+                       "content_path":  "data/2494987106/3735/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3736,
+                       "title":  "Prompt para Agente de X (outro outra API)",
+                       "slug":  "prompt-para-agente-de-x-outro-outra-api",
+                       "date":  "2025-06-10T00:50:11+00:00",
+                       "total_messages":  14,
+                       "content_path":  "data/2494987106/3736/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3750,
+                       "title":  "GenSpark #1 Prompt",
+                       "slug":  "genspark-1-prompt",
+                       "date":  "2025-06-12T02:50:03+00:00",
+                       "total_messages":  14,
+                       "content_path":  "data/2494987106/3750/content.txt",
+                       "attachments":  [
+                                           "photo_3761_003.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  3765,
+                       "title":  "Prompt Video VEO3 - para Propostas Vendas",
+                       "slug":  "prompt-video-veo3-para-propostas-vendas",
+                       "date":  "2025-06-12T04:20:45+00:00",
+                       "total_messages":  8,
+                       "content_path":  "data/2494987106/3765/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3774,
+                       "title":  "np01 - Prompt Master VEO3",
+                       "slug":  "np01-prompt-master-veo3",
+                       "date":  "2025-06-17T23:22:57+00:00",
+                       "total_messages":  13,
+                       "content_path":  "data/2494987106/3774/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3789,
+                       "title":  "Prompt IMAGEM e Video X1",
+                       "slug":  "prompt-imagem-e-video-x1",
+                       "date":  "2025-06-17T23:57:57+00:00",
+                       "total_messages":  13,
+                       "content_path":  "data/2494987106/3789/content.txt",
+                       "attachments":  [
+                                           "photo_3799_003.jpg",
+                                           "photo_3800_002.jpg",
+                                           "photo_3801_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  3802,
+                       "title":  "Metodo META de Prompt Visuais",
+                       "slug":  "metodo-meta-de-prompt-visuais",
+                       "date":  "2025-06-18T03:20:16+00:00",
+                       "total_messages":  18,
+                       "content_path":  "data/2494987106/3802/content.txt",
+                       "attachments":  [
+                                           "photo_3822_004.jpg",
+                                           "photo_3823_003.jpg",
+                                           "photo_3824_002.jpg",
+                                           "photo_3825_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  3826,
+                       "title":  "Prompts Camera Participante",
+                       "slug":  "prompts-camera-participante",
+                       "date":  "2025-06-19T09:03:49+00:00",
+                       "total_messages":  15,
+                       "content_path":  "data/2494987106/3826/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3842,
+                       "title":  "Super Prompt VEO3",
+                       "slug":  "super-prompt-veo3",
+                       "date":  "2025-06-19T10:01:20+00:00",
+                       "total_messages":  13,
+                       "content_path":  "data/2494987106/3842/content.txt",
+                       "attachments":  [
+                                           "photo_3851_004.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  3856,
+                       "title":  "M1 - Prompt Engineering Masterclass de Devin",
+                       "slug":  "m1-prompt-engineering-masterclass-de-devin",
+                       "date":  "2025-06-22T06:35:05+00:00",
+                       "total_messages":  10,
+                       "content_path":  "data/2494987106/3856/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3866,
+                       "title":  "M2 - Prompt Engineering Masterclass de Devin",
+                       "slug":  "m2-prompt-engineering-masterclass-de-devin",
+                       "date":  "2025-06-22T06:37:46+00:00",
+                       "total_messages":  13,
+                       "content_path":  "data/2494987106/3866/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3882,
+                       "title":  "Prompt Estrutural BOLT (Vibe Code)",
+                       "slug":  "prompt-estrutural-bolt-vibe-code",
+                       "date":  "2025-06-26T04:34:23+00:00",
+                       "total_messages":  12,
+                       "content_path":  "data/2494987106/3882/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3898,
+                       "title":  "Prompts Assistente Total GPT",
+                       "slug":  "prompts-assistente-total-gpt",
+                       "date":  "2025-07-02T02:02:28+00:00",
+                       "total_messages":  18,
+                       "content_path":  "data/2494987106/3898/content.txt",
+                       "attachments":  [
+                                           "photo_3907_009.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  3917,
+                       "title":  "Prompt para Lovable - (j95)",
+                       "slug":  "prompt-para-lovable-j95",
+                       "date":  "2025-07-05T00:24:40+00:00",
+                       "total_messages":  10,
+                       "content_path":  "data/2494987106/3917/content.txt",
+                       "attachments":  [
+                                           "🩵 Loveable Social Agent Prompt..pdf"
+                                       ]
+                   },
+                   {
+                       "id":  3927,
+                       "title":  "Prompt Perplexity Auditoria M1",
+                       "slug":  "prompt-perplexity-auditoria-m1",
+                       "date":  "2025-07-06T00:20:07+00:00",
+                       "total_messages":  9,
+                       "content_path":  "data/2494987106/3927/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3937,
+                       "title":  "Prompts para Espirtualidade Interior",
+                       "slug":  "prompts-para-espirtualidade-interior",
+                       "date":  "2025-07-09T17:53:05+00:00",
+                       "total_messages":  22,
+                       "content_path":  "data/2494987106/3937/content.txt",
+                       "attachments":  [
+                                           "photo_3956_004.jpg",
+                                           "photo_3957_003.jpg",
+                                           "photo_3960_002.jpg",
+                                           "photo_3961_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  3962,
+                       "title":  "Prompt Consultor EstratÃ©gico Pessoal",
+                       "slug":  "prompt-consultor-estrata-gico-pessoal",
+                       "date":  "2025-07-11T00:50:31+00:00",
+                       "total_messages":  17,
+                       "content_path":  "data/2494987106/3962/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  3980,
+                       "title":  "Prompt AYRA Magico",
+                       "slug":  "prompt-ayra-magico",
+                       "date":  "2025-07-13T07:54:26+00:00",
+                       "total_messages":  20,
+                       "content_path":  "data/2494987106/3980/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4012,
+                       "title":  "Para criar Artigo de Blog",
+                       "slug":  "para-criar-artigo-de-blog",
+                       "date":  "2025-07-13T20:15:56+00:00",
+                       "total_messages":  1,
+                       "content_path":  "data/2494987106/4012/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4013,
+                       "title":  "Prompt GPT - Assistente de Codigo",
+                       "slug":  "prompt-gpt-assistente-de-codigo",
+                       "date":  "2025-07-14T23:00:05+00:00",
+                       "total_messages":  13,
+                       "content_path":  "data/2494987106/4013/content.txt",
+                       "attachments":  [
+                                           "GPT, Assistente de Codigo.docx"
+                                       ]
+                   },
+                   {
+                       "id":  4026,
+                       "title":  "Prompt INUY OrÃ¡clo Profundo",
+                       "slug":  "prompt-inuy-ora-clo-profundo",
+                       "date":  "2025-07-16T02:44:59+00:00",
+                       "total_messages":  12,
+                       "content_path":  "data/2494987106/4026/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4050,
+                       "title":  "Prompt Cria Fluxos N8n (e30)",
+                       "slug":  "prompt-cria-fluxos-n8n-e30",
+                       "date":  "2025-07-17T18:39:07+00:00",
+                       "total_messages":  9,
+                       "content_path":  "data/2494987106/4050/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4060,
+                       "title":  "Exemplo Prompt Advogado Vibe Code",
+                       "slug":  "exemplo-prompt-advogado-vibe-code",
+                       "date":  "2025-07-22T19:37:01+00:00",
+                       "total_messages":  11,
+                       "content_path":  "data/2494987106/4060/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4073,
+                       "title":  "Prompt Caixa Explosiva",
+                       "slug":  "prompt-caixa-explosiva",
+                       "date":  "2025-07-28T04:25:55+00:00",
+                       "total_messages":  14,
+                       "content_path":  "data/2494987106/4073/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4088,
+                       "title":  "Prompt EC6 -Eng Contexto N8N Agente",
+                       "slug":  "prompt-ec6-eng-contexto-n8n-agente",
+                       "date":  "2025-07-30T02:47:22+00:00",
+                       "total_messages":  17,
+                       "content_path":  "data/2494987106/4088/content.txt",
+                       "attachments":  [
+                                           "photo_4098_007.jpg",
+                                           "photo_4099_006.jpg",
+                                           "photo_4100_005.jpg",
+                                           "photo_4101_004.jpg",
+                                           "photo_4102_003.jpg",
+                                           "photo_4103_002.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4107,
+                       "title":  "Prompt EC7 - Eng Contexto N8N Agente",
+                       "slug":  "prompt-ec7-eng-contexto-n8n-agente",
+                       "date":  "2025-07-31T02:56:10+00:00",
+                       "total_messages":  17,
+                       "content_path":  "data/2494987106/4107/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4125,
+                       "title":  "Prompt EC7 v2h - AutomaÃ§Ã£o",
+                       "slug":  "prompt-ec7-v2h-automaa-a-o",
+                       "date":  "2025-07-31T17:50:09+00:00",
+                       "total_messages":  9,
+                       "content_path":  "data/2494987106/4125/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4134,
+                       "title":  "Prompt EC8 - AutomaÃ§Ã£o",
+                       "slug":  "prompt-ec8-automaa-a-o",
+                       "date":  "2025-07-31T19:08:42+00:00",
+                       "total_messages":  86,
+                       "content_path":  "data/2494987106/4134/content.txt",
+                       "attachments":  [
+                                           "ChatGPT Image 2 de ago. de 2025, 18_57_05.png",
+                                           "ChatGPT Image 2 de ago. de 2025, 18_58_01.png",
+                                           "ChatGPT Image 2 de ago. de 2025, 19_01_28.png",
+                                           "ChatGPT Image 2 de ago. de 2025, 19_01_49.png",
+                                           "exemplos-tecnicos.md",
+                                           "fase2_wireframe.md",
+                                           "fase2_wireframe_atualizado.md",
+                                           "fase3_prompt_tecnico (1) (4).md",
+                                           "fase3_prompt_tecnico (1).md",
+                                           "fase3_prompt_tecnico.md",
+                                           "FASE_1_DESCOBERTA (1) (2).md",
+                                           "FASE_1_DESCOBERTA (1).md",
+                                           "FASE_1_DESCOBERTA.md",
+                                           "FASE_2_ESTRUTURA_TECNICA.md",
+                                           "fase_3_comparativo_alteracoes.md",
+                                           "FASE_3_PROMPT_FINAL.md",
+                                           "Gpt Automacoes Inteligentes.docx",
+                                           "GPT_Automation_Instructions_EN_Revised.md",
+                                           "GPT_Instrucao_Unificada_Revisada_PT.md",
+                                           "GPT_Prompt_Mestre_Final_n8n_Completo_V20250804_0356.md",
+                                           "GPT_Prompt_Mestre_Final_n8n_Completo_V20250804_0356_EN.md",
+                                           "GPT_Unified_Instruction_n8n_Complete_EN.docx",
+                                           "GPT_Unified_Instruction_n8n_Complete_EN.md",
+                                           "Instrucao Automacoes Unificada.docx",
+                                           "Instrucao Automacoes Unificada.pdf",
+                                           "Instrucao Automacoes.pdf",
+                                           "instrucao_automacoes_unificada.md",
+                                           "Instrução_Unificada_GPT_n8n_Completa.docx",
+                                           "Instrução_Unificada_GPT_n8n_Completa.pdf",
+                                           "modelos-json (1).zip",
+                                           "modelos-json.zip",
+                                           "modelos_json_resumo (3).md",
+                                           "modelos_json_resumo.md",
+                                           "photo_4149_071.jpg",
+                                           "photo_4168_055.jpg",
+                                           "photo_4169_054.jpg",
+                                           "photo_4170_053.jpg",
+                                           "photo_4171_052.jpg",
+                                           "photo_4176_047.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4177,
+                       "title":  "Prompt Educador - Tutor Bot x1",
+                       "slug":  "prompt-educador-tutor-bot-x1",
+                       "date":  "2025-08-02T23:19:32+00:00",
+                       "total_messages":  17,
+                       "content_path":  "data/2494987106/4177/content.txt",
+                       "attachments":  [
+                                           "photo_4192_003.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4208,
+                       "title":  "Prompt para Descoberta Aberta",
+                       "slug":  "prompt-para-descoberta-aberta",
+                       "date":  "2025-08-04T05:01:04+00:00",
+                       "total_messages":  10,
+                       "content_path":  "data/2494987106/4208/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4259,
+                       "title":  "Prompt Basico Harmony",
+                       "slug":  "prompt-basico-harmony",
+                       "date":  "2025-08-07T00:56:47+00:00",
+                       "total_messages":  22,
+                       "content_path":  "data/2494987106/4259/content.txt",
+                       "attachments":  [
+                                           "GPT-OSS-120B Harmony Format Optimizer (1).txt",
+                                           "photo_4291_004.jpg",
+                                           "photo_4292_003.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4277,
+                       "title":  "Prompt Extraia Tom de Voice",
+                       "slug":  "prompt-extraia-tom-de-voice",
+                       "date":  "2025-08-07T04:29:25+00:00",
+                       "total_messages":  13,
+                       "content_path":  "data/2494987106/4277/content.txt",
+                       "attachments":  [
+                                           "Style Extractor.docx"
+                                       ]
+                   },
+                   {
+                       "id":  4296,
+                       "title":  "Prompts COPY para Mulheres",
+                       "slug":  "prompts-copy-para-mulheres",
+                       "date":  "2025-08-07T19:53:37+00:00",
+                       "total_messages":  24,
+                       "content_path":  "data/2494987106/4296/content.txt",
+                       "attachments":  [
+                                           "photo_4309_012.jpg",
+                                           "photo_4312_009.jpg",
+                                           "photo_4314_007.jpg",
+                                           "photo_4319_003.jpg",
+                                           "photo_4334_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4320,
+                       "title":  "Prompt COPY para o Homem H1",
+                       "slug":  "prompt-copy-para-o-homem-h1",
+                       "date":  "2025-08-07T20:09:29+00:00",
+                       "total_messages":  19,
+                       "content_path":  "data/2494987106/4320/content.txt",
+                       "attachments":  [
+                                           "photo_4332_007.jpg",
+                                           "photo_4370_006.jpg",
+                                           "photo_4371_005.jpg",
+                                           "photo_4374_002.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4335,
+                       "title":  "Prompt de Analise de Tom de TEXTO",
+                       "slug":  "prompt-de-analise-de-tom-de-texto",
+                       "date":  "2025-08-07T20:46:10+00:00",
+                       "total_messages":  16,
+                       "content_path":  "data/2494987106/4335/content.txt",
+                       "attachments":  [
+                                           "photo_4366_002.jpg",
+                                           "photo_4368_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4349,
+                       "title":  "Prompt Escrevento Artigos",
+                       "slug":  "prompt-escrevento-artigos",
+                       "date":  "2025-08-07T20:52:59+00:00",
+                       "total_messages":  15,
+                       "content_path":  "data/2494987106/4349/content.txt",
+                       "attachments":  [
+                                           "photo_4358_006.jpg",
+                                           "photo_4359_005.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4376,
+                       "title":  "Prompt Criar Workflow N8N",
+                       "slug":  "prompt-criar-workflow-n8n",
+                       "date":  "2025-08-09T02:11:14+00:00",
+                       "total_messages":  17,
+                       "content_path":  "data/2494987106/4376/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4394,
+                       "title":  "Prompt GPT Acessa qq LLM via OpenRouter",
+                       "slug":  "prompt-gpt-acessa-qq-llm-via-openrouter",
+                       "date":  "2025-08-09T17:12:42+00:00",
+                       "total_messages":  17,
+                       "content_path":  "data/2494987106/4394/content.txt",
+                       "attachments":  [
+                                           "GPT Assets.pdf",
+                                           "photo_4409_002.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4412,
+                       "title":  "Prompt AIH - Escreva com Humano",
+                       "slug":  "prompt-aih-escreva-com-humano",
+                       "date":  "2025-08-11T22:27:20+00:00",
+                       "total_messages":  15,
+                       "content_path":  "data/2494987106/4412/content.txt",
+                       "attachments":  [
+                                           "photo_4427_003.jpg",
+                                           "photo_4444_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4428,
+                       "title":  "Prompt ThumbFut GPT",
+                       "slug":  "prompt-thumbfut-gpt",
+                       "date":  "2025-08-12T04:26:59+00:00",
+                       "total_messages":  14,
+                       "content_path":  "data/2494987106/4428/content.txt",
+                       "attachments":  [
+                                           "photo_4441_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4445,
+                       "title":  "Prompt JSON IMAGEM",
+                       "slug":  "prompt-json-imagem",
+                       "date":  "2025-08-13T18:12:30+00:00",
+                       "total_messages":  9,
+                       "content_path":  "data/2494987106/4445/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4454,
+                       "title":  "Prompt V3 JSON Cinematica",
+                       "slug":  "prompt-v3-json-cinematica",
+                       "date":  "2025-08-13T18:43:54+00:00",
+                       "total_messages":  10,
+                       "content_path":  "data/2494987106/4454/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4462,
+                       "title":  "Prompt J3 - JSON Estruturado",
+                       "slug":  "prompt-j3-json-estruturado",
+                       "date":  "2025-08-13T18:54:15+00:00",
+                       "total_messages":  10,
+                       "content_path":  "data/2494987106/4462/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4476,
+                       "title":  "Prompt da Verdade",
+                       "slug":  "prompt-da-verdade",
+                       "date":  "2025-08-14T00:38:30+00:00",
+                       "total_messages":  8,
+                       "content_path":  "data/2494987106/4476/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4486,
+                       "title":  "Curso Engenharia de Prompt",
+                       "slug":  "curso-engenharia-de-prompt",
+                       "date":  "2025-08-15T02:36:16+00:00",
+                       "total_messages":  36,
+                       "content_path":  "data/2494987106/4486/content.txt",
+                       "attachments":  [
+                                           "photo_4496_027.jpg",
+                                           "photo_4506_017.jpg",
+                                           "photo_4507_016.jpg",
+                                           "photo_4508_015.jpg",
+                                           "photo_4515_008.jpg",
+                                           "photo_4522_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4525,
+                       "title":  "Prompt ap55 - Guia do Agente de Midia",
+                       "slug":  "prompt-ap55-guia-do-agente-de-midia",
+                       "date":  "2025-08-16T02:44:02+00:00",
+                       "total_messages":  11,
+                       "content_path":  "data/2494987106/4525/content.txt",
+                       "attachments":  [
+                                           "photo_4538_002.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4541,
+                       "title":  "Hack de um GPT",
+                       "slug":  "hack-de-um-gpt",
+                       "date":  "2025-08-17T02:13:38+00:00",
+                       "total_messages":  18,
+                       "content_path":  "data/2494987106/4541/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4559,
+                       "title":  "Prompts para GPT5",
+                       "slug":  "prompts-para-gpt5",
+                       "date":  "2025-08-23T04:30:28+00:00",
+                       "total_messages":  29,
+                       "content_path":  "data/2494987106/4559/content.txt",
+                       "attachments":  [
+                                           "Guia_Prompting_GPT5.pdf",
+                                           "Novo_Guia_Prompting_GPT5_v2.pdf",
+                                           "photo_4578_010.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4593,
+                       "title":  "Prompt ID - Playground OPENAI",
+                       "slug":  "prompt-id-playground-openai",
+                       "date":  "2025-08-23T07:05:44+00:00",
+                       "total_messages":  18,
+                       "content_path":  "data/2494987106/4593/content.txt",
+                       "attachments":  [
+                                           "photo_4614_003.jpg",
+                                           "photo_4615_002.jpg",
+                                           "photo_4616_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4617,
+                       "title":  "Hacker do Alex Hormozi",
+                       "slug":  "hacker-do-alex-hormozi",
+                       "date":  "2025-08-23T10:03:54+00:00",
+                       "total_messages":  32,
+                       "content_path":  "data/2494987106/4617/content.txt",
+                       "attachments":  [
+                                           "photo_4629_021.jpg",
+                                           "photo_4631_019.jpg",
+                                           "System Prompt Hormozi AI.docx"
+                                       ]
+                   },
+                   {
+                       "id":  4653,
+                       "title":  "Prompt Dashboard Bolt (j101)",
+                       "slug":  "prompt-dashboard-bolt-j101",
+                       "date":  "2025-08-25T01:37:07+00:00",
+                       "total_messages":  13,
+                       "content_path":  "data/2494987106/4653/content.txt",
+                       "attachments":  [
+                                           "Bolt Super-Prompt.pdf"
+                                       ]
+                   },
+                   {
+                       "id":  4668,
+                       "title":  "Prompts usado no Abacus",
+                       "slug":  "prompts-usado-no-abacus",
+                       "date":  "2025-08-30T02:26:22+00:00",
+                       "total_messages":  21,
+                       "content_path":  "data/2494987106/4668/content.txt",
+                       "attachments":  [
+                                           "AI Workflow_ (1).pdf",
+                                           "AI-fying a business (1).pdf",
+                                           "Chatbot_ (1).pdf",
+                                           "Custom CRM (1).pdf",
+                                           "GTM Strategist (1).pdf",
+                                           "Meeting Recap_ (1).pdf",
+                                           "Project Management Dashboard (1).pdf",
+                                           "unified_prompts.md"
+                                       ]
+                   },
+                   {
+                       "id":  4691,
+                       "title":  "Prompt para raspar N8N Workflows",
+                       "slug":  "prompt-para-raspar-n8n-workflows",
+                       "date":  "2025-08-31T06:36:10+00:00",
+                       "total_messages":  12,
+                       "content_path":  "data/2494987106/4691/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4706,
+                       "title":  "Cinematic FPV â€“ Durga Puja Market Flight",
+                       "slug":  "cinematic-fpv-a-durga-puja-market-flight",
+                       "date":  "2025-09-03T01:44:40+00:00",
+                       "total_messages":  21,
+                       "content_path":  "data/2494987106/4706/content.txt",
+                       "attachments":  [
+                                           "photo_4724_004.jpg",
+                                           "photo_4726_002.jpg",
+                                           "photo_4727_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4728,
+                       "title":  "Lista Simples GPTs Nei",
+                       "slug":  "lista-simples-gpts-nei",
+                       "date":  "2025-09-04T01:23:07+00:00",
+                       "total_messages":  11,
+                       "content_path":  "data/2494987106/4728/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4739,
+                       "title":  "GPT do Mapa da Dor - LLMs",
+                       "slug":  "gpt-do-mapa-da-dor-llms",
+                       "date":  "2025-09-04T04:17:15+00:00",
+                       "total_messages":  16,
+                       "content_path":  "data/2494987106/4739/content.txt",
+                       "attachments":  [
+                                           "photo_4752_003.jpg",
+                                           "photo_4753_002.jpg",
+                                           "photo_4755_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4756,
+                       "title":  "Otimizador de Prompts da OPENAI",
+                       "slug":  "otimizador-de-prompts-da-openai",
+                       "date":  "2025-09-04T04:49:07+00:00",
+                       "total_messages":  23,
+                       "content_path":  "data/2494987106/4756/content.txt",
+                       "attachments":  [
+                                           "photo_4766_013.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4780,
+                       "title":  "Secure GPT - fail",
+                       "slug":  "secure-gpt-fail",
+                       "date":  "2025-09-04T04:56:09+00:00",
+                       "total_messages":  8,
+                       "content_path":  "data/2494987106/4780/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4789,
+                       "title":  "Prompt Tecnico Padrao GPT5",
+                       "slug":  "prompt-tecnico-padrao-gpt5",
+                       "date":  "2025-09-04T21:39:20+00:00",
+                       "total_messages":  9,
+                       "content_path":  "data/2494987106/4789/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4800,
+                       "title":  "LIVES",
+                       "slug":  "lives",
+                       "date":  "2025-09-04T21:42:17+00:00",
+                       "total_messages":  7,
+                       "content_path":  "data/2494987106/4800/content.txt",
+                       "attachments":  [
+                                           "PROMPTS - guia live 02.09.2025.pdf"
+                                       ]
+                   },
+                   {
+                       "id":  4807,
+                       "title":  "Estrutura de um bom Prompt",
+                       "slug":  "estrutura-de-um-bom-prompt",
+                       "date":  "2025-09-12T04:28:53+00:00",
+                       "total_messages":  11,
+                       "content_path":  "data/2494987106/4807/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   },
+                   {
+                       "id":  4819,
+                       "title":  "Prompt Guide 4 Iniciantes e Avancado",
+                       "slug":  "prompt-guide-4-iniciantes-e-avancado",
+                       "date":  "2025-09-12T05:26:35+00:00",
+                       "total_messages":  15,
+                       "content_path":  "data/2494987106/4819/content.txt",
+                       "attachments":  [
+                                           "photo_4828_006.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4836,
+                       "title":  "Prompt Thumb Youtube",
+                       "slug":  "prompt-thumb-youtube",
+                       "date":  "2025-09-13T19:21:42+00:00",
+                       "total_messages":  13,
+                       "content_path":  "data/2494987106/4836/content.txt",
+                       "attachments":  [
+                                           "photo_4847_003.jpg",
+                                           "photo_4848_002.jpg",
+                                           "photo_4849_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4850,
+                       "title":  "Prompt Thumb Youtube Nano Banana",
+                       "slug":  "prompt-thumb-youtube-nano-banana",
+                       "date":  "2025-09-14T03:29:46+00:00",
+                       "total_messages":  15,
+                       "content_path":  "data/2494987106/4850/content.txt",
+                       "attachments":  [
+                                           "photo_4865_001.jpg"
+                                       ]
+                   },
+                   {
+                       "id":  4867,
+                       "title":  "Recurso Memoria no CLAUDE",
+                       "slug":  "recurso-memoria-no-claude",
+                       "date":  "2025-09-18T05:02:28+00:00",
+                       "total_messages":  9,
+                       "content_path":  "data/2494987106/4867/content.txt",
+                       "attachments":  [
+
+                                       ]
+                   }
+               ]
+}

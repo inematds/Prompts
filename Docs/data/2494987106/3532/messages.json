@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3542,
+    "author": "INEMA",
+    "date": "2025-05-01T02:46:35+00:00",
+    "text": "Prompt usado:  \n\"Aja como um engenheiro de prompts de nível mundial com especialização em Vibe Coding para Lovable.  \nCrie estes **3 prompts** para o Lovable.dev construir:\n\n**Contexto do App**  \nEstamos criando o \"AI Offer Optimizer\" – uma ferramenta onde donos de negócios:  \n1. Descrevem seus negócios e ofertas atuais para clientes  \n2. Recebem estratégias geradas por IA para aprimorar essas ofertas com automação/IA  \n3. Visualizam sugestões refinadas que podem ser implementadas imediatamente  \n\n**Prompt 1: Estrutura Base (Foundational Shell)**  \n- Defina o fluxo do usuário: Formulário de entrada → Carregando → Resultados  \n- Especifique os campos obrigatórios: Nome do negócio, setor, detalhes da oferta  \n- Funcionalidades obrigatórias: Processamento assíncrono, validação de entrada  \n\n**Prompt 2: Integração com Supabase + Webhook**  \n- Suponha que o Supabase esteja conectado  \n- Instruções:  \n  - Crie uma função edge que envie os dados para WEBHOOK_URL_PLACEHOLDER  \n  - Valide a estrutura dos dados: `{ businessName: string, industry: string, offer: string }`  \n  - Armazene as respostas da IA na tabela `user_offers`  \n\n**Prompt 3: Aperfeiçoamento da Interface (UI Polish)**  \n- Requisitos visuais:  \n  - Estética profissional de negócios (Tailwind)  \n  - Indicador de progresso animado durante o processamento da IA  \n  - Layout em cartões para os resultados com botões de copiar para a área de transferência  \n\nCrie também o fluxo de trabalho no n8n que complementará este app do Lovable  \n\n**Requisitos do JSON do Fluxo n8n**  \n- 3 nós do GPT-4o:  \n  1. \"Sugira melhorias com IA para {{$json.businessName}}'s {{$json.offer}} no setor {{$json.industry}}\"  \n  2. \"Converta {{$json.AI_Analysis}} em etapas acionáveis\"  \n  3. \"Formate {{$json.AI_Review}} como marcadores em markdown\"  \n- Nós de gatilho/resposta via webhook  \n- Sintaxe compatível com n8n v1.91.0+",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3541,
+    "author": "INEMA",
+    "date": "2025-05-01T02:46:20+00:00",
+    "text": "Como usar o Manus para criar prompts, basicamente poupando o trabalho de escrever seu primeiro prompt base, assim como os próximos prompts depois que você já integrou o Supabase — tudo isso sendo refinado de uma vez só, junto com um JSON do n8n que você pode simplesmente conectar a essa automação.\n\nUm fluxo de trabalho bem interessante aqui, que vai funcionar para todos, seja usando Bolt, Lovable ou Replit.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3540,
+    "author": "INEMA",
+    "date": "2025-05-01T02:45:31+00:00",
+    "text": "mm11 - Manus + n8n + Lovable",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3539,
+    "author": "INEMA",
+    "date": "2025-05-01T02:45:29+00:00",
+    "text": "...",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3538,
+    "author": "INEMA",
+    "date": "2025-05-01T02:45:29+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3537,
+    "author": "INEMA",
+    "date": "2025-05-01T02:45:29+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3536,
+    "author": "INEMA",
+    "date": "2025-05-01T02:45:28+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3535,
+    "author": "INEMA",
+    "date": "2025-05-01T02:45:28+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3534,
+    "author": "INEMA",
+    "date": "2025-05-01T02:45:28+00:00",
+    "text": "https://chatgpt.com/c/6812d786-1928-8009-8026-b75a0b063d41",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3533,
+    "author": "INEMA",
+    "date": "2025-05-01T02:45:27+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3532,
+    "author": "INEMA",
+    "date": "2025-05-01T02:45:21+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

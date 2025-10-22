@@ -1,0 +1,243 @@
+TOPICO 3649
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-05-31 00:30:39+00:00
+
+Total de mensagens: 13
+Midias baixadas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-05-31T00:34:52+00:00
+Texto:
+Aqui estão **10 estilos visuais** que você pode usar para enriquecer seus prompts no **Veo 3**, com uma pequena explicação e exemplos:
+
+1. **Cinematográfico**
+   Estilo de filme realista, com iluminação e composição profissionais.
+   Exemplo: "estilo cinematográfico com cores frias e foco dramático"
+
+2. **Cartoon**
+   Visual mais simples e colorido, como desenhos animados.
+   Exemplo: "estilo cartoon com contornos grossos e expressões exageradas"
+
+3. **Noir**
+   Estilo sombrio e elegante, típico de filmes policiais antigos.
+   Exemplo: "estilo noir com sombras fortes e luzes de postes iluminando a cena"
+
+4. **Cyberpunk**
+   Futurista e caótico, com tecnologia avançada e estética urbana decadente.
+   Exemplo: "estilo cyberpunk com neon, fumaça e poluição visual intensa"
+
+5. **Steampunk**
+   Mistura de tecnologia retrô com visual vitoriano e engrenagens.
+   Exemplo: "estilo steampunk com máquinas a vapor, bronze e roupas de época"
+
+6. **Surrealista**
+   Imagens que desafiam a lógica, com elementos de sonho ou fantasia abstrata.
+   Exemplo: "estilo surrealista com céu líquido e árvores flutuantes"
+
+7. **Stop Motion**
+   Imita animações quadro a quadro com visual tátil (massinha, bonecos).
+   Exemplo: "estilo stop motion com textura de feltro e movimento travado"
+
+8. **Realismo Mágico**
+   Combina o cotidiano real com elementos mágicos tratados como normais.
+   Exemplo: "estilo realismo mágico com chuva de flores em uma cidade comum"
+
+9. **Minimalista**
+   Simples, com poucos elementos e foco na composição limpa.
+   Exemplo: "estilo minimalista com fundo branco e apenas dois objetos na cena"
+
+10. **Vintage / Retrô**
+    Aparência envelhecida ou com estética de épocas passadas.
+    Exemplo: "estilo retrô dos anos 80 com granulação e tons desbotados"
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-05-31T00:34:47+00:00
+Texto:
+========
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-05-31T00:33:47+00:00
+Texto:
+Aqui estão **10 tipos de movimento de câmera** com exemplos simples para cada um, muito usados em produções cinematográficas, vídeos criativos e prompts de vídeo:
+
+---
+
+1. **Pan (Panorâmica lateral)**
+   Movimento horizontal da câmera, da esquerda para a direita (ou vice-versa).
+   *Exemplo:* mostrando uma cidade futurista ao entardecer.
+
+2. **Tilt (Inclinação vertical)**
+   Movimento vertical da câmera, de cima para baixo (ou de baixo para cima).
+   *Exemplo:* revelando um prédio alto do chão até o topo.
+
+3. **Dolly (Aproximação física)**
+   A câmera se move para frente ou para trás em trilhos (ou simulando isso).
+   *Exemplo:* dolly-in para se aproximar de um personagem assustado.
+
+4. **Zoom (Aproximação óptica)**
+   A lente aproxima ou afasta a imagem sem mover fisicamente a câmera.
+   *Exemplo:* zoom-in em um objeto misterioso ao longe.
+
+5. **Crane (Movimento de guindaste)**
+   A câmera sobe ou desce suavemente, como se estivesse em um guindaste.
+   *Exemplo:* subindo do chão até o céu revelando uma multidão.
+
+6. **Tracking/Follow (Acompanhamento)**
+   A câmera segue um personagem em movimento.
+   *Exemplo:* correndo atrás de alguém em uma floresta escura.
+
+7. **Handheld (Câmera na mão)**
+   Movimento tremido e natural, como se alguém estivesse segurando a câmera.
+   *Exemplo:* cenas de ação intensas ou documentários.
+
+8. **Steadicam (Estabilizada)**
+   Movimento fluido mesmo com a câmera em movimento, sem tremores.
+   *Exemplo:* seguindo alguém andando por um corredor.
+
+9. **360° (Rotação completa)**
+   A câmera gira ao redor do personagem ou objeto.
+   *Exemplo:* mostrando um herói no centro de uma explosão épica.
+
+10. **Whip Pan (Panorâmica rápida)**
+    Movimento rápido lateral que cria um efeito de transição ou surpresa.
+    *Exemplo:* mudando bruscamente de um personagem para outro.
+
+---
+
+Se quiser, posso transformar esses movimentos em **descrições prontas para usar em prompts Veo 3**. Deseja isso?
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-05-31T00:33:44+00:00
+Texto:
+========
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-05-31T00:31:08+00:00
+Texto:
+Aqui está a **fórmula ideal de prompt para o Veo 3** organizada de forma prática, com explicações e exemplos para cada elemento:
+
+### Fórmula do Prompt Perfeito – Veo 3
+
+1. **Subject (Sujeito)**
+   *Quem ou o quê está na cena?*
+   Exemplo: "um menino de 12 anos com cabelo azul e óculos holográficos"
+
+2. **Action (Ação)**
+   *O que ele/ela está fazendo?*
+   Exemplo: "correndo por entre destroços enquanto foge de um robô gigante"
+
+3. **Setting/Context (Cenário/Contexto)**
+   *Onde e quando está acontecendo?*
+   Exemplo: "em uma cidade futurista à noite, com letreiros de neon e céu carregado"
+
+4. **Style (Estilo visual)**
+   *Qual o estilo da cena?*
+   Exemplo: "estilo cyberpunk cinematográfico, com cores vibrantes e atmosfera densa"
+
+5. **Camera Direction (Direção de câmera)**
+   *Tipo de plano, movimento, ângulo da câmera*
+   Exemplo: "plano aberto com travelling lateral e ângulo baixo para aumentar a tensão"
+
+6. **Audio (Áudio)**
+   *O que está sendo ouvido? Música? Som ambiente? Diálogo?*
+   Exemplo: "música eletrônica intensa, sons metálicos dos escombros, sirenes ao fundo"
+
+7. **Emotion/Tone (Emoção/Tom)**
+   *Qual o tom emocional ou sentimento da cena?*
+   Exemplo: "clima de urgência, adrenalina e tensão com toques de esperança"
+
+---
+
+### Template completo para montar seus prompts:
+
+```[Shot type] of [subject] [action] in [setting/context], [style]. [Camera movement/angle]. [Audio cues]. [Dialogue with emotion].```
+
+---
+
+### Exemplo final usando todos os elementos:
+
+```Plano aberto de um menino de 12 anos com cabelo azul e óculos holográficos correndo por entre destroços enquanto foge de um robô gigante em uma cidade futurista à noite, com letreiros de neon e céu carregado, estilo cyberpunk cinematográfico. Travelling lateral com ângulo baixo. Música eletrônica intensa, sons metálicos dos escombros e sirenes ao fundo. O menino grita “Nova, me ajude agora!” com voz ofegante e desesperada.```
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-05-31T00:30:54+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-05-31T00:30:54+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-05-31T00:30:54+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-05-31T00:30:53+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-05-31T00:30:53+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-05-31T00:30:53+00:00
+Texto:
+https://chatgpt.com/c/6839e161-faac-8009-a20e-534dbd1aaa39
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-05-31T00:30:52+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-05-31T00:30:39+00:00
+Texto: [Sem texto]
+
+------------------------------
+

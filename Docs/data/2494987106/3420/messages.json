@@ -1,0 +1,145 @@
+[
+  {
+    "id": 3436,
+    "author": "INEMA",
+    "date": "2025-04-12T21:54:46+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "voice_ai_resource_kit.zip"
+  },
+  {
+    "id": 3435,
+    "author": "INEMA",
+    "date": "2025-04-12T21:54:11+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_3435_002.jpg"
+  },
+  {
+    "id": 3434,
+    "author": "INEMA",
+    "date": "2025-04-12T21:54:11+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_3434_003.jpg"
+  },
+  {
+    "id": 3433,
+    "author": "INEMA",
+    "date": "2025-04-12T21:54:11+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_3433_004.jpg"
+  },
+  {
+    "id": 3432,
+    "author": "INEMA",
+    "date": "2025-04-12T21:54:11+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_3432_005.jpg"
+  },
+  {
+    "id": 3431,
+    "author": "INEMA",
+    "date": "2025-04-12T21:54:11+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_3431_006.jpg"
+  },
+  {
+    "id": 3430,
+    "author": "INEMA",
+    "date": "2025-04-12T21:54:11+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_3430_007.jpg"
+  },
+  {
+    "id": 3429,
+    "author": "INEMA",
+    "date": "2025-04-12T21:52:34+00:00",
+    "text": "**Prompt Utilizado:**\n\n\"Você é um agente autônomo atuando em nome de uma agência de IA de voz. Seu objetivo é criar um kit de recursos acionáveis e de nível especialista para construir agentes de voz de classe mundial, usando Retell ou Vapi como infraestrutura de backend.\n\n## FASE 1: PESQUISA APROFUNDADA  \n1. Pesquise Retell e Vapi de forma abrangente:\n- Explore a documentação oficial, visões gerais dos produtos, guias para desenvolvedores, repositórios no GitHub, demonstrações em vídeo, estudos de caso e discussões da comunidade.  \n- Identifique seus principais diferenciais, capacidades, modelos de precificação e pontos fortes de arquitetura.  \n- Analise o desempenho (latência, concorrência, confiabilidade) e as integrações disponíveis (OpenAI, Claude, Anthropic, Twilio, Zapier, etc.)  \n- Destaque quaisquer modelos recomendados ou padrões que eles suportem (por exemplo, GPT-4-turbo, Claude 3, etc.)  \n- Resuma os insights em um relatório comparativo estruturado.\n\n## FASE 2: DESIGN DE PROMPTS PARA AGENTES DE VOZ (5 CASOS DE USO)  \nCrie templates de prompt modulares e reutilizáveis para agentes de voz nos seguintes casos de uso:  \n1. Agente de suporte receptivo  \n2. Agente de acompanhamento ativo  \n3. Agente de prospecção (cold call)  \n4. Agente de agendamento de compromissos  \n5. Agente de vendas para chamadas gerais  \n\nPara cada prompt:  \n- Inclua **espaços reservados claros** para nome da empresa, descrição do produto/serviço, lista de objeções, vocabulário do setor e tom de voz.  \n- Garanta que cada prompt esteja otimizado para **diálogo com múltiplas interações**, **interrupções** e **consciência de latência**.  \n- Use linguagem com base em persona, com inteligência emocional.  \n- Incorpore ciclos de esclarecimento e desambiguação de intenção, quando necessário.\n\n## FASE 3: BLUEPRINTS DE DESIGN DE CONVERSA  \nPara cada um dos cinco casos de uso:  \n- Crie um **fluxo de design de conversa**, em um dos formatos:  \n  - **Diagrama Mermaid.js** (preferido se houver muita lógica), OU  \n  - **Diagrama em Python** (por exemplo, usando bibliotecas `graphviz` ou `diagrams`)  \n- Mostre claramente os ramos para sim/não, confirmações, tratamento de falhas, recuperação de erros e lógica de transferência (por exemplo, escalar para humano ou fallback para correio de voz).  \n- Anote todos os nós lógicos com resumos do propósito e gatilhos.\n\n## FASE 4: README + GUIA DE FERRAMENTAS  \nCrie um documento estilo README que inclua:  \n- Boas práticas para design de prompts com Retell e Vapi  \n- Quais modelos têm melhor desempenho (por exemplo, GPT-4-turbo para raciocínio, Claude para empatia)  \n- Se há suporte a streaming (para feedback em tempo real)  \n- Como gerenciar latência e concorrência  \n- Quaisquer recursos de ajuste de voz ou incorporação de persona (por exemplo, estilo, tom, modulação de voz)  \n- Considerações de conformidade (por exemplo, SOC 2, HIPAA)\n\nEntregue todos os resultados em uma pasta estruturada com:  \n- `/prompts/*.txt` para cada caso de uso  \n- `/flows/*.md` ou `/flows/*.png` para diagramas  \n- `README.md` resumindo o kit de construção e como integrá-lo com Retell ou Vapi  \n\nAssuma que o usuário está construindo para pequenas e médias empresas e provavelmente irá personalizar esses agentes via interfaces low-code ou APIs. Seja completo, prático e com foco em produção.\"",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3428,
+    "author": "INEMA",
+    "date": "2025-04-12T21:51:32+00:00",
+    "text": "Experimento Manus #7: Oh My Voice Agent; \n\nPrompts de Voz e Designs 🤯\n\nSobre o Manus, estou EMPOLGADO para compartilhar meu próximo experimento — tentei gravar um Loom no aeroporto, mas o barulho estava insano, então vocês vão ter que se contentar com capturas de tela haha.\n\nBasicamente, pedi para ele criar prompts para agentes de voz otimizados tanto para o Retell quanto para o VAPI, usando os melhores princípios que pudesse encontrar em técnicas de engenharia de prompts para agentes de voz.\n\nPedi 5 tipos de agentes: receptivo, ativo, cold calling (ligação fria), agendamento de compromissos e vendas.\n\nTAMBÉM pedi os PLANOS (blueprints) dos possíveis fluxos de conversa com esses agentes.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3427,
+    "author": "INEMA",
+    "date": "2025-04-12T21:49:57+00:00",
+    "text": "mm7 - Experiencia #7 - Prompts Manus Vozes",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3426,
+    "author": "INEMA",
+    "date": "2025-04-12T21:49:54+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3425,
+    "author": "INEMA",
+    "date": "2025-04-12T21:49:53+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3424,
+    "author": "INEMA",
+    "date": "2025-04-12T21:49:53+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3423,
+    "author": "INEMA",
+    "date": "2025-04-12T21:49:53+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3422,
+    "author": "INEMA",
+    "date": "2025-04-12T21:49:53+00:00",
+    "text": "https://chatgpt.com/c/67fae033-ebd4-8009-bc85-d2fb8a2c2c7e",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3421,
+    "author": "INEMA",
+    "date": "2025-04-12T21:49:52+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3420,
+    "author": "INEMA",
+    "date": "2025-04-12T21:49:47+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

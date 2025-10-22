@@ -1,0 +1,236 @@
+TOPICO 3917
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-07-05 00:24:40+00:00
+
+Total de mensagens: 10
+Midias baixadas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-07-05T00:26:54+00:00
+Texto:
+Aqui vai uma explicação simples e direta de como você deve criar uma instrução (prompt) para pedir uma aplicação desse tipo no Lovable:
+
+---
+
+**Como pedir para o Lovable criar uma aplicação de geração e publicação de posts para redes sociais**
+
+1. **Explique o objetivo da aplicação:**
+
+   * Diga que você quer uma página web para criar e agendar posts em redes sociais (Instagram, TikTok, YouTube, LinkedIn, X/Twitter).
+   * Diga que quer que o usuário possa escolher o tom de voz, o público-alvo, a ideia do post e as redes onde vai publicar.
+
+2. **Peça uma interface simples e intuitiva:**
+
+   * Peça para ser uma página única, responsiva (funciona no celular), com fundo escuro bonito e formulário central bem destacado.
+   * Peça que os campos de tom de voz e público-alvo fiquem salvos no navegador.
+
+3. **Liste os campos que a aplicação deve ter:**
+
+   * Campo para digitar/colar ideias de conteúdo.
+   * Botões para selecionar redes sociais (com os ícones reais das redes).
+   * Opções para cada tipo de conteúdo (ex: post, story, reel, vídeo, texto com imagem).
+   * Campo para adicionar imagem (se for post com imagem).
+   * Escolha entre publicar agora ou agendar para data/hora.
+
+4. **Explique como deve funcionar o envio dos dados:**
+
+   * Peça para, ao clicar no botão principal (“Release the Magic”), enviar os dados para um webhook do Make.com, no formato JSON.
+   * Inclua um campo para chave de API (segurança).
+   * Peça uma animação de confete para mostrar que deu certo.
+
+5. **Peça exemplos visuais e boa experiência de usuário:**
+
+   * Interface bonita, moderna, animada, com microinterações (exemplo: botão com efeito de confete).
+   * Tudo deve ser simples, sem telas extras ou login.
+
+---
+
+**Exemplo de instrução para usar no Lovable:**
+
+Quero uma aplicação web de página única para criar e agendar posts para redes sociais (Instagram, TikTok, YouTube, LinkedIn, X).
+O usuário pode:
+
+* Salvar seu tom de voz e público-alvo,
+* Escrever ou colar uma ideia de conteúdo,
+* Escolher em quais redes vai publicar (com ícones reais),
+* Selecionar o tipo de post (ex: post, story, vídeo, texto com imagem),
+* Adicionar imagem se necessário,
+* Escolher entre publicar agora ou agendar para uma data e hora.
+
+A interface deve ser moderna, escura, com formulário central destacado e animação de confete no botão “Release the Magic”.
+Quando clicar no botão, envie os dados em JSON para um webhook do Make.com, incluindo a chave de API para segurança.
+Todos os dados de tom de voz e público-alvo devem ficar salvos no navegador.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-07-05T00:25:04+00:00
+Texto: [Sem texto]
+Midia: MessageMediaDocument -> 🩵 Loveable Social Agent Prompt..pdf
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-07-05T00:25:02+00:00
+Texto:
+O prompt “Loveable Social Agent Prompt” é uma descrição extremamente detalhada para criação de uma aplicação web de IA para geração e publicação de conteúdo em redes sociais. Ele serve tanto como orientação para desenvolvedores (UI/UX, frontend e integração) quanto para guiar a IA na criação do produto final.
+
+Veja a descrição completa e resumida do prompt:
+
+---
+
+### Função principal do prompt
+
+* Criar uma aplicação web de página única (single page), moderna, atraente e intuitiva, focada na criação e agendamento de conteúdo para redes sociais, com uso intensivo de IA e automação.
+
+### Estrutura da aplicação definida pelo prompt
+
+1. **Interface Visual**
+
+   * Fundo animado com efeito visual “flutuante”, gradiente ou partículas.
+   * Formulário central contrastante, cor carvão/dark destacada, inputs brancos, foco total na usabilidade e estética premium.
+   * Design responsivo e mobile-first.
+
+2. **Título e Explicação**
+
+   * Título principal: “\$10,000 Social Agent”.
+   * Explicação curta: “Drop any text you want, and create viral social media posts for any platform you choose”.
+
+3. **Seção de Configurações (Settings)**
+
+   * Inputs salvos no navegador (localStorage) para:
+
+     * Tom de voz (exemplo: inspirador, profissional, divertido)
+     * Público-alvo (descrição de quem deseja atingir)
+   * Interface expansível/retrátil, bem destacada.
+
+4. **Campo principal de conteúdo**
+
+   * Área de texto ampla, para colar ideias, artigos, links, transcrições ou qualquer inspiração.
+   * Placeholder: “Paste an article, type a thought, share an example URL, or whatever inspires your next viral post!”
+
+5. **Seleção de Plataformas**
+
+   * Botões para Instagram, TikTok, YouTube, LinkedIn, X (Twitter), exibindo logos reais em uma grade de 5 colunas.
+   * Após selecionar a plataforma, aparecem opções específicas (ex: Instagram Post, Reel, Story; LinkedIn Text ou Text + Image).
+   * Se necessário, campo de URL de imagem para postagens com imagem.
+
+6. **Agendamento**
+
+   * Duas opções: “Post now” (publicar agora) e “Schedule” (agendar).
+   * Agendamento exibe um widget para data/hora.
+
+7. **Botão principal**
+
+   * “Release the Magic” — botão grande e chamativo, com animação de confete ao clicar.
+   * Responsável por enviar os dados via webhook para Make.com.
+
+### Integração e envio de dados
+
+* Todos os dados do formulário são enviados por POST para o webhook do Make.com, junto com a chave de API.
+* O formato dos dados segue um JSON padronizado, indicando tipo de conteúdo, plataformas, horários, URLs de imagem/vídeo, título, descrição etc.
+
+### Outras exigências do prompt
+
+* Não usar múltiplas páginas, navegação lateral ou autenticação de usuário.
+* Persistência só com localStorage (sem backend).
+* Componentes modulares em React, estilizados com Tailwind e ShadCN UI.
+* Tipografia global: Pop-ins.
+* Cores escuras com detalhes vibrantes, visual futurista e sofisticado.
+* Microinterações animadas e design pensado para convidar o usuário a interagir.
+
+---
+
+### Resumo dos campos enviados pelo prompt no webhook (exemplo de JSON)
+
+```{
+  "instagram_post": true/false,
+  "instagram_reel": true/false,
+  "instagram_story": true/false,
+  "tiktok_video": true/false,
+  "youtube_short": true/false,
+  "linkedin_text": true/false,
+  "linkedin_image": true/false,
+  "twitter_text": true/false,
+  "twitter_image": true/false,
+  "content_idea": "conteúdo principal",
+  "tone_of_voice": "tom de voz salvo",
+  "target_audience_description": "descrição do público",
+  "schedule_time": "data/hora agendada ou null",
+  "post_now": true/false,
+  "video_url": "url do vídeo se houver",
+  "video_description": "descrição do vídeo se houver",
+  "youtube_title": "título para o YouTube se houver",
+  "image_url": "url da imagem se houver"
+}```
+
+---
+
+### Resumindo:
+
+* O prompt é um guia completo para montar uma interface e um fluxo de automação para gerar e agendar publicações em redes sociais usando IA, com experiência premium, integração via webhook e foco em personalização (tom de voz, persona, múltiplas redes, agendamento).
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-07-05T00:24:46+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-07-05T00:24:45+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-07-05T00:24:45+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-07-05T00:24:45+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-07-05T00:24:45+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-07-05T00:24:44+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-07-05T00:24:40+00:00
+Texto: [Sem texto]
+
+------------------------------
+

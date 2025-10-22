@@ -1,0 +1,74 @@
+[
+  {
+    "id": 4875,
+    "author": "INEMA",
+    "date": "2025-09-18T05:03:31+00:00",
+    "text": "**Recurso de recuperação de bate-papo HIDDEN Claude \n\n- Continue qualquer conversa 🔁\n**\nClaude acabou de receber um recurso que permite que você relembre e continue bate-papos anteriores - algo que a maioria das pessoas ainda não sabe que existe\n\nEm vez de perder todo o seu contexto quando você atinge o limite de Claude ou começa de novo todas as vezes, agora você pode dizer a Claude para encontrar e fazer referência a qualquer conversa anterior\n\nAqui está o truque: nomeie seus bate-papos como algo memorável\n→ em um novo bate-papo, peça a Claude para \"lembrar o que conversamos em [nome do bate-papo]\"\n\n→ ele pesquisa seu histórico e se atualiza instantaneamente\nEu testei isso com um bate-papo chamado \"dominando o estilo de redação\" e Claude puxou o prompt exato e o contexto dessa conversa em segundos\n\nSUPER CHEAT CODE: Crie um chat chamado \"Tudo sobre mim\"\n→ preenchê-lo com suas preferências, objetivos e contexto\n→ referenciá-lo em qualquer novo bate-papo para dar a Claude uma memória instantânea sobre quem você é\n\nIsso substitui extensões de memória externa desajeitadas e copiar e colar entre bate-papos\n\nFunciona especialmente bem quando você atinge os limites de contexto e precisa continuar projetos complexos sem perder o ímpeto",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4874,
+    "author": "INEMA",
+    "date": "2025-09-18T05:02:46+00:00",
+    "text": "Recurso Memoria no Claude",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4873,
+    "author": "INEMA",
+    "date": "2025-09-18T05:02:34+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4872,
+    "author": "INEMA",
+    "date": "2025-09-18T05:02:34+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4871,
+    "author": "INEMA",
+    "date": "2025-09-18T05:02:34+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4870,
+    "author": "INEMA",
+    "date": "2025-09-18T05:02:33+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4869,
+    "author": "INEMA",
+    "date": "2025-09-18T05:02:33+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4868,
+    "author": "INEMA",
+    "date": "2025-09-18T05:02:32+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4867,
+    "author": "INEMA",
+    "date": "2025-09-18T05:02:28+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": 4368,
+    "author": "INEMA",
+    "date": "2025-08-07T21:02:02+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4368_001.jpg"
+  },
+  {
+    "id": 4366,
+    "author": "INEMA",
+    "date": "2025-08-07T20:59:09+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4366_002.jpg"
+  },
+  {
+    "id": 4348,
+    "author": "INEMA",
+    "date": "2025-08-07T20:48:30+00:00",
+    "text": "===============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4347,
+    "author": "INEMA",
+    "date": "2025-08-07T20:48:25+00:00",
+    "text": "### Exemplos práticos\n\n**Prompt aplicado a Clarice Lispector:**\n\n* Lexical Choices: alma, silêncio, instante\n* Syntactic Patterns: frases curtas misturadas com fluxos longos de consciência\n* Structure: fragmentada\n* Idiosyncrasies: perguntas retóricas, quebras abruptas\n* Tone: introspectivo e existencial\n* Word Choice: “delicado”, “vasto”, “nada”\n* Fórmula: “Escreva como se estivesse sussurrando verdades do inconsciente + tom contemplativo + estrutura fragmentada + rupturas súbitas no pensamento”",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4346,
+    "author": "INEMA",
+    "date": "2025-08-07T20:48:25+00:00",
+    "text": "Esse prompt é uma **ferramenta de engenharia de estilo textual** chamada *Writeprint* (impressão de escrita), usada para **analisar e replicar o estilo único de um autor** com base em traços linguísticos, estruturais e emocionais. Ele é especialmente útil para:\n\n* Imitar o estilo de alguém (ex: para IA escrever como um autor específico)\n* Identificar padrões em textos de um mesmo autor\n* Treinar modelos de IA para manter consistência de voz\n* Criar avatares com estilos distintos de escrita\n\nA seguir, explico cada seção do prompt:\n\n---\n\n### 1. **Writeprint: \\[Nome do Autor]**\n\nÉ o cabeçalho que identifica de quem é o estilo que será analisado ou replicado (ex: Machado de Assis, Clarice Lispector, Nei Maldaner).\n\n---\n\n### 2**. **`Lexical Choices`\n\nLista as palavras ou campos semânticos mais recorrentes (ex: “tempo”, “solidão”, “tecnologia”, “corpo”).\n\n---\n\n### 3. `Syntactic Patterns`\n\nAponta como o autor constrói suas frases: frases curtas e diretas? Longas e subordinadas? Usa interrogações frequentes?\n\n---\n\n### 4. `Structure`\n\nRefere-se à forma como o texto é organizado:\n\n* Linear: início, meio e fim previsíveis.\n* Circular: volta ao ponto de partida.\n* Fragmentada: ideias soltas que se conectam indiretamente.\n\n---\n\n### 5. `Idiosyncrasies`\n\nTraços únicos do autor: expressões próprias, bordões, quebras de expectativa, repetições estilizadas, etc.\n\n---\n\n### 6. `Tone`\n\nIdentifica o tom predominante (ex: melancólico, provocador, leve) e possíveis variações conforme o contexto.\n\n---\n\n### 7. `Register`\n\nDefine o nível de formalidade da linguagem (formal, informal ou misto), e quando essa variação ocorre (ex: informal com o leitor, formal com o tema).\n\n---\n\n### 8. `Pacing`\n\nAnalisa o ritmo do texto:\n\n* Acelerado: frases curtas, ação rápida.\n* Pausado: contemplativo.\n* Variável: alterna os dois.\n\n---\n\n### 9. `Style`\n\nDefine o gênero predominante:\n\n* Narrativo: conta uma história\n* Expositivo: explica algo\n* Argumentativo: defende um ponto de vista\n  E também a perspectiva: 1ª pessoa, 3ª pessoa, etc.\n\n---\n\n### 10. `Word Choice`\n\nExemplos de vocabulário marcante, com palavras que o autor usa com frequência ou de forma original.\n\n---\n\n### 11. `Attitude`\n\nMostra a postura emocional do autor diante do conteúdo ou do leitor (ex: empática, crítica, neutra, desafiadora).\n\n---\n\n### 12. `Sentence Length`\n\nMédia de comprimento das frases e a proporção entre frases curtas, médias e longas.\n\n---\n\n### 13. `Grade-Level`\n\nComplexidade linguística do texto:\n\n* Básico (ensino fundamental)\n* Intermediário (ensino médio)\n* Avançado (nível universitário)\n\n---\n\n### 14. `Punctuation Usage`\n\nPontuação marcante no estilo do autor (ex: uso frequente de reticências, travessões, exclamações, etc.)\n\n---\n\n## Exemplos de Escrita\n\nTrechos que ilustram o estilo descrito, cada um focado em um aspecto:\n\n1. Mostra o padrão principal\n2. Traz um maneirismo característico\n3. Demonstra como o autor faz transições entre ideias\n4. Destaca vocabulário próprio\n5. Expressa o tom ou atitude\n\n---\n\n## Fórmula de Replicação\n\nÉ uma receita resumida para recriar o estilo:\n\"Escreva como \\[intenção/contexto] + \\[tom] + \\[estrutura] + \\[maneirismo único]\"\n\nExemplo:\n\"Escreva como um professor cansado explicando o óbvio + tom sarcástico + estrutura fragmentada + repetições dramáticas.\"\n\n---\n\n## Teste de Validação\n\nUm parágrafo curto, escrito com base em todos os elementos acima, mas sobre um tema neutro, apenas para verificar se o estilo foi fielmente replicado.\n\n---\n\n### Resumo em Lista\n\n* Identifica e descreve elementos do estilo de um autor\n* Foca em aspectos linguísticos, emocionais e estruturais\n* Gera exemplos e fornece uma fórmula para replicar esse estilo\n* Usa um parágrafo final para testar se a imitação está convincente\n\n---",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4345,
+    "author": "INEMA",
+    "date": "2025-08-07T20:47:55+00:00",
+    "text": "=======",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4344,
+    "author": "INEMA",
+    "date": "2025-08-07T20:47:49+00:00",
+    "text": "# Writeprint: [Nome do Autor] \n- **`Lexical Choices`**: [3-5 palavras-chave dominantes, campo semântico]\n- **`Syntactic Patterns`**: [estrutura de frases típica, variações]\n- **`Structure`**: [como organiza ideias: linear, circular, fragmentada]\n- **`Idiosyncrasies`**: [vícios únicos, expressões-assinatura, maneirismos]\n- **`Tone`**: [tom dominante + variações contextuais]\n- **`Register`**: [formal/informal/misto, quando muda]\n- **`Pacing`**: [ritmo: acelerado/pausado/variável]\n- **`Style`**: [narrativo/expositivo/argumentativo + perspectiva]\n- **`Word Choice`**: [vocabulário característico com exemplos entre aspas]\n- **`Attitude`**: [postura emocional dominante]\n- **`Sentence Length`**: [padrão + proporção curtas/médias/longas]\n- **`Grade-Level`**: [complexidade: básico/intermediário/avançado]\n- **`Punctuation Usage`**: [pontuação característica: \"...\", —, !?, etc.]\n\n## Exemplos de Escrita (5-8 frases mais representativas)\n1. `\"[frase exemplo mostrando padrão principal]\"`\n2. `\"[frase com idiossincrasia característica]\"`\n3. `\"[frase mostrando transição típica]\"`\n4. `\"[frase com vocabulário distintivo]\"`\n5. `\"[frase revelando tom/atitude]\"`\n\n## Fórmula de Replicação\n[Receita em 1-2 linhas: \"Escreva como [contexto] + [tom] + [estrutura] + [maneirismo único]\"]\n\n## Teste de Validação\n[Parágrafo de 3-4 linhas usando o estilo extraído sobre tema neutro]",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4343,
+    "author": "INEMA",
+    "date": "2025-08-07T20:47:36+00:00",
+    "text": "Prompt de Analise de Tom de Texto",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4342,
+    "author": "INEMA",
+    "date": "2025-08-07T20:46:18+00:00",
+    "text": "...",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4341,
+    "author": "INEMA",
+    "date": "2025-08-07T20:46:18+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4340,
+    "author": "INEMA",
+    "date": "2025-08-07T20:46:18+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4339,
+    "author": "INEMA",
+    "date": "2025-08-07T20:46:17+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4338,
+    "author": "INEMA",
+    "date": "2025-08-07T20:46:17+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4337,
+    "author": "INEMA",
+    "date": "2025-08-07T20:46:16+00:00",
+    "text": "https://chatgpt.com/c/6894299c-f610-8332-b239-a49ee4dd5dc5",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4336,
+    "author": "INEMA",
+    "date": "2025-08-07T20:46:15+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4335,
+    "author": "INEMA",
+    "date": "2025-08-07T20:46:10+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

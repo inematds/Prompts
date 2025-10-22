@@ -1,0 +1,162 @@
+TOPICO 3268
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-04-07 08:30:54+00:00
+
+Total de mensagens: 13
+Midias baixadas: 0
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-04-07T08:31:50+00:00
+Texto:
+Claro! Para gerar o **modelo de e-mail frio (cold email)** personalizado e pronto para envio, por favor preencha os seguintes campos:
+
+- **[Topic]**: Assunto do e-mail  
+- **[ProspectName]**: Nome do prospect  
+- **[CompanyName]**: Nome da empresa do prospect  
+- **[Industry/Field]**: Setor de atuação da empresa  
+- **[ProductServiceBenefits]**: Benefícios principais do seu produto ou serviço  
+- **[CallToAction]**: Próximo passo sugerido (ex: marcar uma call, responder o e-mail, testar a ferramenta)  
+- **[YourName]**: Seu nome (quem está enviando)
+
+Assim que você me passar essas informações, eu gero o e-mail completo com tom profissional, envolvente e objetivo, dentro do limite de 150–200 palavras.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-04-07T08:31:37+00:00
+Texto:
+```Instructions:
+1. Using the provided variables, generate a tailored cold outreach email addressing the prospect.
+2. Begin with a friendly greeting and personalized introduction using [ProspectName] and [CompanyName].
+3. Clearly explain the [ProductServiceBenefits] and how it addresses specific pain points or needs of the prospect.
+4. Conclude with a strong and concise [CallToAction] that guides the prospect on the next step.
+5. Ensure the email tone is professional, engaging, and concise.
+6. Output the final email in plain text.
+
+Constraints:
+- Use the variables exactly as provided. Do not modify the placeholders.
+- Keep the email concise (around 150-200 words maximum).
+- Maintain a clear structure: Greeting, introduction, main content, call-to-action, and a friendly sign-off.
+- Ensure any background context related to the prospect or service is naturally integrated into the email.
+
+Example Structure:
+---
+Subject: [Topic]
+
+Hi [ProspectName],
+
+I hope you're well. I came across [CompanyName], and I was impressed by your work within [Industry/Field]. I wanted to introduce you to our solution that offers [ProductServiceBenefits]. I believe our approach can significantly enhance your current process, helping you achieve better results.
+
+Could we schedule a brief call to discuss how our service aligns with your objectives? [CallToAction]
+
+Looking forward to your thoughts.
+
+Best regards,
+[YourName]
+---
+
+Variables (configure as needed):
+[Topic] = ''
+[ProspectName] = ''
+[CompanyName] = ''
+[Industry/Field] = ''
+[ProductServiceBenefits] = ''
+[CallToAction] = ''
+[YourName] = ''
+------------------------------```
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-04-07T08:31:02+00:00
+Texto:
+mp29 - Modelo de divulgação de e-mail frio
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-04-07T08:31:01+00:00
+Texto:
+...
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-04-07T08:31:00+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-04-07T08:31:00+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-04-07T08:31:00+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-04-07T08:30:59+00:00
+Texto:
+...
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-04-07T08:30:58+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-04-07T08:30:58+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-04-07T08:30:58+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-04-07T08:30:57+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-04-07T08:30:54+00:00
+Texto: [Sem texto]
+
+------------------------------
+

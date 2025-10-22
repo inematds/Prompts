@@ -1,0 +1,114 @@
+[
+  {
+    "id": 4086,
+    "author": "INEMA",
+    "date": "2025-07-28T04:34:36+00:00",
+    "text": "https://chatgpt.com/g/g-6886fd417e5481919cda239db6a8d033-inema-caixa-explosiva",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4085,
+    "author": "INEMA",
+    "date": "2025-07-28T04:31:28+00:00",
+    "text": "https://chatgpt.com/g/g-6886fc57a80c819191e06cc982c6c269-inema-explodindo-caixa",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4084,
+    "author": "INEMA",
+    "date": "2025-07-28T04:27:17+00:00",
+    "text": "==========",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4083,
+    "author": "INEMA",
+    "date": "2025-07-28T04:27:13+00:00",
+    "text": "Aqui está a tradução do prompt para português, mantendo as instruções entre colchetes para fácil personalização:\n\nAce, acesse: [https://gemini.google.com/app](https://gemini.google.com/app) e insira o prompt abaixo:\n\n{\n\"description\": \"Foto realista em estilo cinematográfico de um(a) \\[TIPO\\_DE\\_AMBIENTE] vazio(a) *ex: quarto moderno* com \\[TIPO\\_DE\\_PISO] *ex: piso de madeira escura* e \\[CONDIÇÃO\\_DE\\_LUZ] *ex: luz suave do dia entrando*. Uma caixa lacrada da \\[MARCA] *ex: caixa de tênis Nike* está no centro. Ela \\[AÇÃO\\_DA\\_CAIXA] *ex: treme e se abre de repente*, e \\[OBJETOS\\_TEMÁTICOS] *ex: tênis, bonés, pôsteres* voam para fora e se montam rapidamente em um(a) \\[AMBIENTE\\_FINAL\\_TEMÁTICO] *ex: cofre de tênis Nike*. Sem texto.\",\n\n\"style\": \"foto realista, cinematográfico\",\n\"camera\": \"lente grande angular fixa, de frente para uma revelação simétrica\",\n\"lighting\": \"\\[ESTILO\\_DE\\_LUZ] *ex: luz ambiente fria com pontos de luz*\",\n\"room\": \"\\[DESCRIÇÃO\\_AMBIENTE\\_VAZIO] *ex: sala escura vazia com paredes lisas* transforma-se em \\[ESTILO\\_FINAL\\_DO\\_AMBIENTE] *ex: sala de exposição Nike de alto contraste*\",\n\n\"elements\": \\[\n\"\\[CAIXA\\_DA\\_MARCA\\_COM\\_LOGO] *ex: caixa Nike preta fosca com o símbolo branco*\",\n\"\\[OBJETO\\_1] *ex: prateleiras de exibição com Air Jordans*\",\n\"\\[OBJETO\\_2] *ex: luminária de parede em neon Nike*\",\n\"\\[OBJETO\\_3] *ex: banco com bolsa de academia*\",\n\"...adicione mais...\"\n],\n\n\"motion\": \"\\[DESCRIÇÃO\\_DO\\_MOVIMENTO] *ex: caixa se abre e os itens voam para o lugar instantaneamente*\",\n\"ending\": \"\\[DESCRIÇÃO\\_DO\\_CLIMA] *ex: showroom vibrante, com iluminação fria e enérgica*\",\n\"text\": \"nenhum\",\n\"keywords\": \\[\n\"16:9\",\n\"\\[MARCA] *ex: Nike*\",\n\"\\[TEMA] *ex: cofre de tênis*\",\n\"montagem rápida\",\n\"sem texto\",\n\"\\[ETIQUETAS\\_DE\\_LUZ] *ex: luz fria, ponto de luz*\"\n]\n}",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4082,
+    "author": "INEMA",
+    "date": "2025-07-28T04:26:54+00:00",
+    "text": "==============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4081,
+    "author": "INEMA",
+    "date": "2025-07-28T04:26:51+00:00",
+    "text": "Ace, head over to: https://gemini.google.com/app and enter the below prompt:\n\n{\n  \"description\": \"Photorealistic cinematic shot of an empty [ROOM_TYPE] *i.e. modern bedroom* with [FLOOR_TYPE] *i.e. dark wood floors* and [LIGHT_CONDITION] *i.e. soft daylight filtering in*. A sealed [BRAND] box *i.e. Nike shoebox* sits in the center. It [BOX_ACTION] *i.e. shakes and bursts open*, and [THEMED_OBJECTS] *i.e. sneakers, hats, posters* fly out and assemble rapidly into a complete [THEMED_ROOM] *i.e. sneaker vault*. No text.\",\n  \n  \"style\": \"photorealistic cinematic\",\n  \"camera\": \"fixed wide angle, front-facing for symmetrical reveal\",\n  \"lighting\": \"[LIGHT_STYLE] *i.e. ambient cool light with spotlight accents*\",\n  \"room\": \"[EMPTY_ROOM_DESCRIPTION] *i.e. empty dark room with plain walls* transforms into [FINAL_ROOM_STYLE] *i.e. high-contrast Nike sneaker display room*\",\n\n  \"elements\": [\n    \"[BRAND BOX WITH LOGO] *i.e. matte black Nike box with white swoosh*\",\n    \"[OBJECT 1] *i.e. display shelves with Air Jordans*\",\n    \"[OBJECT 2] *i.e. neon Nike wall light*\",\n    \"[OBJECT 3] *i.e. bench with gym bag*\",\n    \"...add more...\"\n  ],\n\n  \"motion\": \"[MOTION_DESCRIPTION] *i.e. box bursts open and items fly into place instantly*\",\n  \"ending\": \"[MOOD_DESCRIPTION] *i.e. bold, high-energy showroom glowing with cool lighting*\",\n  \"text\": \"none\",\n  \"keywords\": [\n    \"16:9\",\n    \"[BRAND] *i.e. Nike*\",\n    \"[THEME] *i.e. sneaker vault*\",\n    \"fast assembly\",\n    \"no text\",\n    \"[LIGHTING TAGS] *i.e. cool lighting, spotlight*\"\n  ]\n}",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4080,
+    "author": "INEMA",
+    "date": "2025-07-28T04:26:05+00:00",
+    "text": "Prompt Caixa Explosiva",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4079,
+    "author": "INEMA",
+    "date": "2025-07-28T04:26:03+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4078,
+    "author": "INEMA",
+    "date": "2025-07-28T04:26:02+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4077,
+    "author": "INEMA",
+    "date": "2025-07-28T04:26:02+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4076,
+    "author": "INEMA",
+    "date": "2025-07-28T04:26:02+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4075,
+    "author": "INEMA",
+    "date": "2025-07-28T04:26:02+00:00",
+    "text": "https://chatgpt.com/c/6886fb70-ed18-832b-8ca0-10acf8f17ffe",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4074,
+    "author": "INEMA",
+    "date": "2025-07-28T04:26:01+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4073,
+    "author": "INEMA",
+    "date": "2025-07-28T04:25:55+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

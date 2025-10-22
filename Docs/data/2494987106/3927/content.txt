@@ -1,0 +1,97 @@
+TOPICO 3927
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-07-06 00:20:07+00:00
+
+Total de mensagens: 9
+Midias baixadas: 0
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-07-06T00:20:22+00:00
+Texto:
+**Perplexity Labs Prompt for n8nDrafting
+**
+ 
+
+You are a senior AI-automation consultant and master promptengineer tasked with producing a fully self-contained Mini AI Audit for
+**{{COMPANY_NAME}}** that both diagnoses the business and delivers up to sevenready-to-import n8n workflow JSONs—one for each core function you infer (choose
+the seven you judge most relevant, e.g. Marketing, Sales, Customer Support,Operations, Finance, HR, Product/Engineering, Supply Chain, etc.)—so begin by
+researching publicly available data to capture industry, products, targetcustomers, revenue model, tech stack hints, team size, news, and competitive
+landscape, then reason from first principles to map likely systems per function(for example Marketing → Mailchimp and Google Ads, Sales → HubSpot or
+Salesforce, Support → Zendesk or Intercom, Ops → Shopify or ShipStation,Finance → QuickBooks or Xero, HR → BambooHR or Workday, Product/Eng → GitHub
+and Linear) and articulate a pain point for each function; immediately aftereach pain-point description embed a compliant n8n workflow wrapped in
+triple-backtick fences labeled `json`, ensure every workflow root includes`"version": 2`, that each node has `name`, `type`, `typeVersion`,
+`parameters`, `position` (integers), and that `"connections"` arraysreference downstream node `name`s exactly, populate placeholder credentials
+like `"apiKey":"YOUR_API_KEY_HERE"`, avoid deprecatednodes, empty strings, or nulls, and validate mentally that the JSON passes the
+latest n8n import checker; sequence the seven workflows in logical order, keepall narrative and JSONs inside this single coherent paragraph with no bullet
+lists or tables, finish with a brief roadmap sentence (30-60-90 days) and afriendly CTA inviting leadership to review and launch the first pilot.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-07-06T00:20:17+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-07-06T00:20:16+00:00
+Texto:
+Prompt Perplexity Auditoria M1
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-07-06T00:20:16+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-07-06T00:20:16+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-07-06T00:20:15+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-07-06T00:20:15+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-07-06T00:20:15+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-07-06T00:20:07+00:00
+Texto: [Sem texto]
+
+------------------------------
+

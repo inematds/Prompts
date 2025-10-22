@@ -1,0 +1,346 @@
+[
+  {
+    "id": 2421,
+    "author": "INEMA",
+    "date": "2025-03-11T23:38:10+00:00",
+    "text": "https://arxiv.org/",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2420,
+    "author": "INEMA",
+    "date": "2025-03-11T23:37:07+00:00",
+    "text": "https://juuzt.ai/knowledge-base/prompt-frameworks/the-crispe-framework/",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 1175,
+    "author": "INEMA",
+    "date": "2024-10-15T01:37:25+00:00",
+    "text": "https://gamma.app/docs/miilqa89iryzrhf",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 658,
+    "author": "INEMA",
+    "date": "2024-10-01T19:20:41+00:00",
+    "text": "https://promptmetheus.com/",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 657,
+    "author": "INEMA",
+    "date": "2024-10-01T19:20:41+00:00",
+    "text": "https://chatgpt.com/c/66ef829b-eae8-8009-99f2-5a9365b1eb87",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 656,
+    "author": "INEMA",
+    "date": "2024-10-01T19:20:41+00:00",
+    "text": "# Papel: Nome do Papel\n\n## Perfil:\n- Autor: PapaiNoel\n- Versão: 0.1\n- Idioma: Portugues\n- Descrição: Descreva seu papel. Dê uma visão geral das características e habilidades do personagem.\n\n### Habilidade:\n1. Descrição da habilidade 1\n2. Descrição da habilidade 2\n3. Descrição da habilidade 3\n4. Descrição da habilidade 4\n5. Descrição da habilidade 5\n\n## Objetivos:\n1. Objetivo 1\n2. Objetivo 2\n3. Objetivo 3\n4. Objetivo 4\n5. Objetivo 5\n\n## Restrições:\n1. Restrição 1\n2. Restrição 2\n3. Restrição 3\n4. Restrição 4\n5. Restrição 5\n\n## Formato de Saída:\n1. Requisito de saída 1\n2. Requisito de saída 2\n3. Requisito de saída 3\n4. Requisito de saída 4\n5. Requisito de saída 5\n\n## Fluxo de Trabalho:\n1. Primeiro, xxx\n2. Em seguida, xxx\n3. Finalmente, xxx\n\n## Inicialização:\nComo um <Papel>, você deve seguir as <Regras>, você deve falar com o usuário no <Idioma> padrão, você deve cumprimentar o usuário. Em seguida, apresente-se e apresente o <Fluxo de Trabalho>.\n\nEm seguida, apresentarei meu problema (Prompt), e com base no meu Prompt:\n1. Com base no [CRISPE Prompt Framework], prossiga passo a passo até a saída final de um [Prompt otimizado];\n2. Após a saída ser concluída, consulte-me para qualquer sugestão de melhoria, e se houver sugestões, reemita a saída com base no [CRISPE Prompt Framework], incorporando essas sugestões.\nRequisito: Por favor, evite discutir o conteúdo do [CRISPE Prompt Framework];\nNão há necessidade de repetir o conteúdo, se você estiver pronto, me avise.\n\n---- Fim do Prompt ----\n\n---- ⬇️ Exemplo ⬇️ ---- \n\n\n---- User Prompt Prompt ----\n\nEu gostaria que você criasse um prompt para um assistente de escrita de blog, o papel desse assistente é fornecer blogs bem escritos e abrangentes com base em um artigo e título fornecidos. Cada post deve manter os fatos do artigo fornecido. Cada artigo deve ser escrito em um tom amigável e informal, e deve ser envolvente para o usuário. A linguagem usada também deve imitar padrões de fala humana com maior perplexidade e imprevisibilidade e não deve seguir padrões convencionais de modelos de linguagem. O artigo também deve usar as melhores práticas de SEO para garantir sua visibilidade nos mecanismos de busca.\n\n---- Saída do Prompt ----",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 655,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:53+00:00",
+    "text": "Exemplo CRISPE para Loja de Roupas Local: Potencialize Suas Vendas com IA\n\nContexto: \"Eu tenho uma loja de roupas femininas em um bairro movimentado.\"\nPapel: \"Você é um especialista em varejo de moda e marketing local.\"\nIntenção: \"Quero aumentar o fluxo de clientes e vender mais peças da nova coleção de primavera.\"\nEstrutura: \"Forneça 3 estratégias de marketing, com foco em vitrines atraentes, promoções especiais e divulgação nas redes sociais.\"\nPrecisão: \"Inclua ideias de parcerias com influenciadores locais, eventos de lançamento da coleção e campanhas de desconto por tempo limitado.\"\nEsse CRISPE vai direto no alvo: você atrai mais clientes, vende mais e se destaca no seu bairro. Se quer resultado rápido, comece agora a aplicar essas estratégias!",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 654,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:53+00:00",
+    "text": "https://gamma.app/docs/cak5sk9m7euh1tu",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 653,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:53+00:00",
+    "text": "Exemplo CRISPE para Padaria: Aumente Suas Vendas com IA\n\nContexto: \"Sou dono de uma padaria artesanal em um bairro residencial.\"\nPapel: \"Você é um especialista em marketing local para pequenos negócios.\"\nIntenção: \"Quero estratégias para aumentar o fluxo de clientes durante a semana, especialmente no café da manhã.\"\nEstrutura: \"Forneça 3 ideias de promoções ou ações de marketing, com foco em fidelização de clientes e divulgação nas redes sociais.\"\nPrecisão: \"Inclua exemplos de combos de café da manhã, descontos progressivos e uso de anúncios segmentados no Instagram.\"\nCom esse prompt CRISPE, a IA vai te entregar estratégias práticas e personalizadas para aumentar suas vendas e atrair clientes. Não deixe o movimento cair, use isso agora!",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 652,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:53+00:00",
+    "text": "https://gamma.app/docs/fqpw0rp6644po0x",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 651,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:53+00:00",
+    "text": "Exemplo CRISPE para Vendedor de Imóveis: Aumente Suas Vendas com IA\n\nContexto: \"Sou corretor de imóveis vendendo apartamentos de alto padrão em São Paulo.\"\nPapel: \"Você é um especialista em marketing imobiliário de luxo.\"\nIntenção: \"Quero estratégias para atrair compradores de alto poder aquisitivo para um empreendimento no bairro Jardins.\"\nEstrutura: \"Forneça 3 estratégias de marketing, com foco em mídias sociais, eventos exclusivos e parcerias estratégicas.\"\nPrecisão: \"Inclua exemplos de campanhas específicas que funcionaram para o público de alto padrão e como destacaram os diferenciais do imóvel.\"\nEsse prompt CRISPE vai direto ao ponto: você dá o cenário, define o papel da IA, e ela te devolve estratégias matadoras pra conquistar clientes de alto nível. Quer fechar vendas? Essa abordagem não falha!",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 650,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:53+00:00",
+    "text": "https://gamma.app/docs/j2hp7je3v2ahfgt",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 649,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:53+00:00",
+    "text": "Exemplo CRISPE na Enfermagem: Melhore os Cuidados com IA\n\nContexto: \"Eu sou um enfermeiro em uma UTI neonatal.\"\nPapel: \"Você é um especialista em cuidados intensivos neonatais.\"\nIntenção: \"Quero orientações para monitorar sinais vitais de recém-nascidos prematuros com foco em prevenção de complicações respiratórias.\"\nEstrutura: \"Forneça um passo a passo em 5 pontos, com ênfase em técnicas de monitoramento e intervenções rápidas.\"\nPrecisão: \"Inclua sinais específicos que indicam deterioração respiratória e quando acionar suporte avançado.\"\nEsse é o CRISPE em ação na enfermagem: você contextualiza, dá o papel correto, define a intenção, estrutura a resposta e garante que a IA forneça informações claras e precisas. Quer resultados rápidos e eficazes? Esse é o caminho!",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 648,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:53+00:00",
+    "text": "https://gamma.app/docs/099se5lhzhk12e2",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 647,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:53+00:00",
+    "text": "Exemplo CRISPE para Advocacia: Otimize Estratégias Legais com IA\n\nContexto: \"Sou uma advogada trabalhista preparando um caso de demissão por justa causa.\"\nPapel: \"Você é um especialista em direito trabalhista no Brasil.\"\nIntenção: \"Preciso de argumentos legais para defender a demissão por justa causa com base em insubordinação grave.\"\nEstrutura: \"Forneça uma lista de 4 argumentos, com base na CLT, jurisprudência e exemplos práticos de decisões judiciais.\"\nPrecisão: \"Inclua referências a artigos específicos da CLT e decisões recentes do TST.\"\nEsse exemplo de prompt usa o CRISPE para transformar uma dúvida genérica em uma estratégia legal precisa e embasada. Quer dominar sua próxima audiência? Esse é o jeito certo de usar IA!",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 646,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "https://gamma.app/docs/7kcpwr6xd0iw6bo",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 645,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "https://gamma.app/docs/o09l6uduj6cfspx",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 644,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "https://gamma.app/docs/mjfqrcrrqgd8a9k",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 643,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "Inicialização:\nComo Especialista em Escrita de Blog, meu objetivo é oferecer um serviço sem falhas que atenda às suas necessidades de criação de conteúdo de blog envolvente, preciso e otimizado para SEO. Minha abordagem envolve um processo claro desde o entendimento de suas necessidades até a finalização de um post que atenda às suas expectativas. Vamos começar revisando os detalhes do artigo e do título que você forneceu. Por favor, compartilhe quaisquer diretrizes específicas ou pontos de foco que você gostaria de enfatizar no post do blog, e criaremos um conteúdo que ressoe com seu público-alvo e tenha um bom desempenho nos mecanismos de busca.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 642,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "---- ⬇️ Exemplo ⬇️ ---- \n\n\n---- User Prompt Prompt ----\n\nEu gostaria que você criasse um prompt para um assistente de escrita de blog, o papel desse assistente é fornecer blogs bem escritos e abrangentes com base em um artigo e título fornecidos. Cada post deve manter os fatos do artigo fornecido. Cada artigo deve ser escrito em um tom amigável e informal, e deve ser envolvente para o usuário. A linguagem usada também deve imitar padrões de fala humana com maior perplexidade e imprevisibilidade e não deve seguir padrões convencionais de modelos de linguagem. O artigo também deve usar as melhores práticas de SEO para garantir sua visibilidade nos mecanismos de busca.\n\n---- Saída do Prompt ----\n\nPapel: Especialista em Escrita de Blog\n\nPerfil:\n* Autor: PapaiNoel\n* Versão: 1.0\n* Idioma: Portugues\n* Descrição: Como um Especialista em Escrita de Blog, sou excelente em criar posts de blog bem compostos e abrangentes, guiados por artigos e títulos fornecidos. Minha especialidade é manter informações factuais críticas enquanto entrego o conteúdo em um tom envolvente e informal.\nHabilidade:\n1. Criar conteúdo envolvente para blogs que adere aos fatos de um artigo-fonte.\n2. Escrever em um tom amigável e informal que atraia leitores de blogs.\n3. Imitar padrões de fala humana para tornar o texto mais relacionável e envolvente.\n4. Utilizar as melhores práticas de SEO para melhorar a visibilidade dos posts nos mecanismos de busca.\n5. Ajustar a complexidade da linguagem (perplexidade e imprevisibilidade) para evitar soar como um modelo de linguagem convencional.\nObjetivos:\n1. Gerar posts de blog que sejam consistentes com os fatos do artigo de entrada.\n2. Garantir que cada artigo seja apresentado em um estilo amigável e conversacional.\n3. Imitar nuances da conversação humana na linguagem do blog.\n4. Implementar estratégias de SEO no conteúdo do blog para melhorar o ranking nos mecanismos de busca.\n5. Evitar padrões de fala típicos de modelos de linguagem, optando por expressões mais naturais.\nRestrições:\n1. Cada post de blog deve manter a precisão factual do artigo fornecido.\n2. O tom do blog deve ser consistentemente amigável e informal.\n3. A linguagem usada deve exemplificar expressões humanas naturais com maior perplexidade.\n4. Deve aplicar as melhores práticas de SEO no conteúdo do blog.\n5. Evitar modelos de linguagem convencionais comumente usados por modelos de linguagem.\n6. Formato de Saída:\n7. Um post de blog abrangente e bem escrito que integre o conteúdo de um artigo fornecido.\n8. O post de blog deve incluir um título envolvente e uma introdução atraente.\n9. Cada ponto ou fato do artigo deve ser claramente apresentado e apoiado com exemplos ou explicações relevantes.\n10. O blog deve concluir com um resumo conciso ou uma chamada para ação que reforce as principais mensagens do post.\n11. Ao longo do blog, elementos de SEO, como palavras-chave, descrições meta e tags alt para quaisquer imagens, devem ser incorporados de maneira cuidadosa.\nFluxo de Trabalho:\n* Revisar o artigo: Comece lendo e entendendo o artigo fornecido para captar os fatos e temas essenciais.\n* Elaborar um esboço: Crie um esboço estruturado que organize os principais pontos do artigo de forma lógica e envolvente.\n* Escrever o post: Desenvolva o post completo com base no esboço, garantindo replicar os padrões de fala conversacional humana e mantendo um tom amigável.\n* Incorporar elementos de SEO: Insira palavras-chave relevantes, elabore uma meta descrição e certifique-se de que cabeçalhos e listas com marcadores sejam utilizados para melhor legibilidade e desempenho de SEO.\n* Revisar e revisar: Finalmente, revise o rascunho quanto à qualidade linguística e à otimização de SEO, fazendo os ajustes necessários para melhorar a clareza, envolvimento e visibilidade.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 641,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "# Papel: Nome do Papel\n\n## Perfil:\n- Autor: PapaiNoel\n- Versão: 0.1\n- Idioma: Portugues\n- Descrição: Descreva seu papel. Dê uma visão geral das características e habilidades do personagem.\n\n### Habilidade:\n1. Descrição da habilidade 1\n2. Descrição da habilidade 2\n3. Descrição da habilidade 3\n4. Descrição da habilidade 4\n5. Descrição da habilidade 5\n\n## Objetivos:\n1. Objetivo 1\n2. Objetivo 2\n3. Objetivo 3\n4. Objetivo 4\n5. Objetivo 5\n\n## Restrições:\n1. Restrição 1\n2. Restrição 2\n3. Restrição 3\n4. Restrição 4\n5. Restrição 5\n\n## Formato de Saída:\n1. Requisito de saída 1\n2. Requisito de saída 2\n3. Requisito de saída 3\n4. Requisito de saída 4\n5. Requisito de saída 5\n\n## Fluxo de Trabalho:\n1. Primeiro, xxx\n2. Em seguida, xxx\n3. Finalmente, xxx\n\n## Inicialização:\nComo um <Papel>, você deve seguir as <Regras>, você deve falar com o usuário no <Idioma> padrão, você deve cumprimentar o usuário. Em seguida, apresente-se e apresente o <Fluxo de Trabalho>.\n\nEm seguida, apresentarei meu problema (Prompt), e com base no meu Prompt:\n1. Com base no [CRISPE Prompt Framework], prossiga passo a passo até a saída final de um [Prompt otimizado];\n2. Após a saída ser concluída, consulte-me para qualquer sugestão de melhoria, e se houver sugestões, reemita a saída com base no [CRISPE Prompt Framework], incorporando essas sugestões.\nRequisito: Por favor, evite discutir o conteúdo do [CRISPE Prompt Framework];\nNão há necessidade de repetir o conteúdo, se você estiver pronto, me avise.\n\n---- Fim do Prompt ----",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 640,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "https://chatgpt.com/c/66ef829b-eae8-8009-99f2-5a9365b1eb87",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 639,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "https://gamma.app/docs/whv37y8ngp686hv",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 638,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "https://gamma.app/docs/qnnow0ilwoyykoe",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 637,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "https://gamma.app/docs/163bwjssonnds8b",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 636,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "Além dos tópicos já mencionados, há alguns outros que podem ser usados para refinar ainda mais os prompts. Esses elementos não fazem parte do **CRISPE** originalmente, mas podem ser úteis em contextos mais específicos ou avançados:\n\n1. **Iteração (Iteration)**: Refinar o prompt e a resposta com base em várias interações, ajustando a cada nova tentativa até chegar ao resultado ideal.\n   \n2. **Nível de Complexidade (Complexity Level)**: Especificar o nível de profundidade desejado na resposta, podendo ser básico, intermediário ou avançado.\n\n3. **Contexto Cultural (Cultural Context)**: Adaptar o conteúdo para contextos culturais específicos, levando em consideração a localização, idioma ou costumes de um grupo-alvo.\n\n4. **Público-Alvo (Audience)**: Definir claramente o público-alvo (por exemplo, crianças, adultos, especialistas, leigos) para ajustar o nível de linguagem e estilo.\n\n5. **Limitações Técnicas (Technical Constraints)**: Definir restrições relacionadas a ferramentas, plataformas ou tecnologias, como limitações de APIs ou capacidade de processamento.\n\n6. **Formato de Resposta (Response Format)**: Especificar se a resposta deve ser fornecida em um formato específico, como um código de programação, um parágrafo, uma lista, entre outros.\n\n7. **Interação Multi-Etapas (Multi-Step Interaction)**: Quebrar o processo em várias etapas, permitindo ao modelo fornecer respostas progressivas, com base no feedback após cada etapa.\n\n8. **Ambiguidade Controlada (Controlled Ambiguity)**: Deliberadamente permitir uma margem de ambiguidade quando o objetivo é explorar diferentes possibilidades ou cenários.\n\n9. **Modelos de Suporte (Supporting Models)**: Especificar o uso de diferentes modelos de linguagem ou técnicas de suporte (por exemplo, combinar IA com análise de dados) para enriquecer as respostas.\n\n10. **Regulamentações ou Ética (Ethics or Regulations)**: Considerar aspectos legais, éticos ou normativos que precisam ser respeitados na geração de respostas, especialmente em áreas sensíveis como medicina, direito ou IA.\n\nEsses elementos adicionais podem ser usados para ajustar ainda mais a interação e personalizar as respostas de acordo com necessidades muito específicas ou contextos complexos.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 635,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "Aqui está uma lista simples de todos os tópicos mencionados:\n\n1. **Contexto (Context)**: Definir o cenário ou a situação do prompt.\n2. **Papel (Role)**: Determinar o papel que o modelo deve assumir.\n3. **Intenção (Intent)**: Esclarecer o objetivo final da interação.\n4. **Estrutura (Structure)**: Organizar a forma como a resposta deve ser apresentada.\n5. **Precisão (Precision)**: Garantir que o prompt seja claro e detalhado.\n6. **Feedback (Retroalimentação)**: Avaliar a resposta e ajustar o prompt conforme necessário.\n7. **Relevância Temporal**: Incluir informações atualizadas ou específicas para o momento.\n8. **Tonalidade e Estilo**: Definir o tom e o estilo da resposta.\n9. **Gatilhos de Emoção ou Engajamento**: Gerar respostas que provoquem emoção ou incentivem ação.\n10. **Multimodalidade**: Incluir diferentes tipos de mídia na saída (imagens, gráficos, etc.).\n11. **Restrições e Limites**: Estabelecer limites como o número de palavras ou nível de complexidade.\n12. **Personalização**: Adaptar a resposta com base nas características do usuário.\n13. **Exemplificação**: Incluir exemplos práticos para ilustrar os conceitos.\n\nEsses tópicos ajudam a melhorar a qualidade e a eficácia dos prompts.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 634,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "### Expansão do Framework\nO **CRISPE Prompt Framework** pode ser adaptado e expandido de acordo com a necessidade, incorporando esses elementos adicionais para criar prompts ainda mais sofisticados e eficazes. A inclusão de **Feedback**, **Relevância Temporal**, **Tonalidade e Estilo**, e outros aspectos avançados permite ajustar com precisão o tipo de resposta gerada pelo modelo, melhorando tanto a qualidade quanto a adequação do conteúdo produzido. \n\nEsses elementos extras são úteis quando você está lidando com casos específicos e complexos, onde não apenas a clareza e a precisão são importantes, mas também o engajamento e a personalização são fundamentais para atingir seus objetivos.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 633,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "Além dos cinco tópicos principais que compõem o **CRISPE Prompt Framework** (Contexto, Papel, Intenção, Estrutura e Precisão), existem algumas variações ou complementos que podem ser adicionados ao framework para refinar ainda mais o processo de criação de prompts. Algumas abordagens avançadas podem incluir:\n\n### 6. **Feedback (Retroalimentação)**\nO feedback é uma parte essencial para aprimorar continuamente os prompts. Ele envolve a avaliação do desempenho do modelo com base nas respostas geradas e o ajuste do prompt conforme necessário. Isso inclui fazer perguntas de acompanhamento ou refinar o prompt original para melhorar a saída.\n\n**Exemplo**:\nApós receber uma resposta, você pode fornecer feedback para ajustá-la: \"Essa explicação foi clara, mas poderia incluir mais detalhes sobre os desafios atuais da energia solar.\"\n\n### 7. **Relevância Temporal**\nEsse tópico aborda a necessidade de incluir informações atualizadas ou específicas para um determinado momento. Em alguns casos, um prompt pode necessitar de uma resposta com base em eventos recentes ou dados atuais, o que pode exigir que o modelo adapte sua resposta ao contexto temporal.\n\n**Exemplo**:\n\"Quais são os avanços mais recentes em inteligência artificial até 2023?\" Isso garante que a resposta seja atualizada e relevante ao momento em questão.\n\n### 8. **Tonalidade e Estilo**\nAlém da estrutura e do papel, a tonalidade e o estilo da resposta também podem ser definidos com mais especificidade. A tonalidade pode variar de formal a informal, de técnica a simplificada, de amigável a neutra, conforme o público-alvo.\n\n**Exemplo**:\n\"Responda com uma tonalidade descontraída e divertida para atrair a atenção de adolescentes interessados em sustentabilidade.\"\n\n### 9. **Gatilhos de Emoção ou Engajamento**\nEsse complemento trata da capacidade de gerar respostas que evocam uma resposta emocional ou incentivam a ação do usuário. Isso pode ser particularmente útil em marketing, educação e criação de conteúdo voltado para engajamento.\n\n**Exemplo**:\n\"Crie uma resposta inspiradora que motive o leitor a adotar práticas de vida sustentável.\"\n\n### 10. **Multimodalidade**\nEsse tópico envolve a inclusão de diferentes tipos de mídia na saída, como imagens, gráficos, links ou vídeos, quando aplicável. Embora não seja um elemento típico dos prompts de texto, pode ser uma consideração importante em certos cenários que requerem instruções visuais.\n\n**Exemplo**:\n\"Inclua um gráfico simples para ilustrar o crescimento das energias renováveis nos últimos 5 anos.\"\n\n### 11. **Restrições e Limites**\nÀs vezes, é útil definir restrições específicas para garantir que a resposta seja entregue dentro de certos parâmetros, como limite de palavras, complexidade técnica, ou foco em uma área restrita de um tema mais amplo.\n\n**Exemplo**:\n\"Responda em no máximo 200 palavras e use termos simples que possam ser entendidos por um público leigo.\"\n\n### 12. **Personalização**\nEsse tópico está relacionado à capacidade de adaptar a resposta com base em características pessoais do usuário, como nível de conhecimento, interesses, ou necessidades específicas. Isso pode criar uma experiência mais envolvente e relevante para o usuário final.\n\n**Exemplo**:\n\"Explique o conceito de inteligência artificial para alguém com pouca familiaridade com tecnologia.\"\n\n### 13. **Exemplificação**\nAo incluir exemplos práticos ou concretos, o prompt pode gerar respostas que não apenas teorizam, mas também ilustram o conceito com cenários reais, o que torna a explicação mais compreensível e aplicável.\n\n**Exemplo**:\n\"Explique a energia eólica e, em seguida, dê um exemplo de um parque eólico na Europa.\"\n\n---",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 632,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "### Aplicação do CRISPE:\nPara usar o **CRISPE** efetivamente, você deve considerar esses cinco elementos ao construir seu prompt. Cada parte ajuda a garantir que o modelo tenha todas as informações necessárias para gerar uma resposta que atenda aos seus objetivos.\n\n#### Exemplo de Aplicação:\n**Prompt sem CRISPE**:  \n\"Explique sobre energia renovável.\"\n\n**Prompt com CRISPE**:\n- **Contexto**: \"Eu sou um estudante do ensino médio preparando um trabalho de ciências.\"\n- **Papel**: \"Você é um professor de ciências.\"\n- **Intenção**: \"Quero entender o que é energia renovável e seus benefícios, com exemplos de como ela é usada no mundo real.\"\n- **Estrutura**: \"Responda em três parágrafos, com um exemplo para cada tipo de energia renovável.\"\n- **Precisão**: \"Inclua exemplos de energia solar, eólica e hidrelétrica.\"\n\nResultado: Um prompt bem estruturado, preciso e claro, que guia o modelo a fornecer uma resposta informativa, organizada e apropriada para o público.\n\nCom essa abordagem, o **CRISPE Prompt Framework** facilita interações mais eficazes e produtivas com modelos de linguagem.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 631,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "O **CRISPE Prompt Framework** é uma metodologia desenvolvida para melhorar a maneira como os prompts são formulados em interações com modelos de linguagem, como o ChatGPT, e outros sistemas de IA. O objetivo é garantir que os prompts sejam mais eficazes, permitindo que o modelo forneça respostas mais claras, úteis e alinhadas às expectativas do usuário. Vamos explorar cada componente do **CRISPE** com mais profundidade:\n\n### 1. **Context (Contexto)**:\nO contexto define o cenário em que o modelo está operando. É essencial que o modelo entenda o ambiente da interação, como quem está falando (um estudante, um médico, etc.), qual é a situação (uma dúvida técnica, uma recomendação de produto, etc.), e quais são os detalhes mais relevantes para responder corretamente. Um contexto bem definido dá ao modelo as informações necessárias para ajustar suas respostas conforme o cenário.\n\n**Exemplo**:\nSe o contexto é \"um engenheiro de software pedindo ajuda com um bug\", o modelo entenderá que deve responder com uma linguagem técnica e fornecer sugestões que fazem sentido para um desenvolvedor.\n\n### 2. **Role (Papel)**:\nEsse aspecto envolve a definição do papel que o modelo deve assumir durante a interação. Diferentes papéis podem levar o modelo a responder de formas específicas. O papel pode ser técnico, educacional, amigável ou formal, dependendo do que o usuário deseja. Definir o papel claramente ajuda o modelo a \"encarnar\" a persona adequada para a interação.\n\n**Exemplo**:\nSe o papel for \"professor de matemática\", o modelo vai tentar explicar conceitos complexos de maneira didática e acessível.\n\n### 3. **Intent (Intenção)**:\nA intenção é o objetivo final da interação. O que o usuário espera obter da resposta? Isso pode variar de uma solução específica a uma explicação geral ou até mesmo um conselho. A intenção guia o modelo a fornecer uma resposta que esteja alinhada ao propósito do usuário.\n\n**Exemplo**:\nSe a intenção é \"encontrar maneiras de otimizar o código\", o modelo deve gerar dicas ou métodos para melhorar o desempenho do código, em vez de apenas explicar o código existente.\n\n### 4. **Structure (Estrutura)**:\nA estrutura envolve a organização da resposta e a maneira como o conteúdo deve ser apresentado. Isso pode incluir a exigência de uma resposta em formato de lista, um parágrafo estruturado, ou até mesmo a inclusão de exemplos. Uma boa estrutura ajuda o modelo a gerar respostas mais organizadas e úteis.\n\n**Exemplo**:\nSe o prompt pedir que a resposta seja fornecida em \"bullet points\", o modelo vai formatar a saída como uma lista em vez de um texto corrido, tornando a resposta mais clara e direta.\n\n### 5. **Precision (Precisão)**:\nA precisão trata da clareza das instruções no prompt. Instruções ambíguas geram respostas genéricas ou incompletas. Quanto mais detalhado e específico for o prompt, mais focada será a resposta. Isso inclui a definição de parâmetros, como a profundidade da resposta, a terminologia a ser usada e outras particularidades que fazem diferença no resultado.\n\n**Exemplo**:\nUm prompt impreciso como \"me fale sobre IA\" resultaria em uma resposta muito ampla. Um prompt preciso como \"me explique os tipos de IA com exemplos práticos em áreas de saúde e educação\" proporcionaria uma resposta mais focada e útil.\n\n---\n\n### Benefícios do CRISPE Prompt Framework:\n\n- **Maior relevância nas respostas**: O modelo entende melhor o que o usuário deseja, o que resulta em respostas mais específicas.\n- **Redução de ambiguidades**: A clareza dos prompts elimina confusão, fazendo com que o modelo forneça respostas mais alinhadas ao contexto e intenção.\n- **Maior controle sobre a saída**: O CRISPE ajuda a moldar as respostas de acordo com os requisitos do usuário, permitindo uma formatação e estrutura adequadas.\n- **Melhora na qualidade geral das respostas**: Um prompt bem construído gera respostas mais profundas e úteis, diminuindo a necessidade de refinamentos adicionais.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 630,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "https://arxiv.org/",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 629,
+    "author": "INEMA",
+    "date": "2024-10-01T19:18:52+00:00",
+    "text": "https://gamma.app/docs/k3elc5o5vwt1upe",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 628,
+    "author": "INEMA",
+    "date": "2024-10-01T19:16:09+00:00",
+    "text": "9",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 627,
+    "author": "INEMA",
+    "date": "2024-10-01T19:16:09+00:00",
+    "text": "78",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 626,
+    "author": "INEMA",
+    "date": "2024-10-01T19:16:09+00:00",
+    "text": "7",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 625,
+    "author": "INEMA",
+    "date": "2024-10-01T19:16:08+00:00",
+    "text": "https://arxiv.org/",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 624,
+    "author": "INEMA",
+    "date": "2024-10-01T19:16:08+00:00",
+    "text": "5",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 623,
+    "author": "INEMA",
+    "date": "2024-10-01T19:16:07+00:00",
+    "text": "2",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 622,
+    "author": "INEMA",
+    "date": "2024-10-01T19:16:07+00:00",
+    "text": "4",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 621,
+    "author": "INEMA",
+    "date": "2024-10-01T19:16:07+00:00",
+    "text": "3",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 620,
+    "author": "INEMA",
+    "date": "2024-10-01T19:16:06+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 619,
+    "author": "INEMA",
+    "date": "2024-10-01T19:15:59+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

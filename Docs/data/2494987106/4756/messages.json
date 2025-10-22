@@ -1,0 +1,187 @@
+[
+  {
+    "id": 4778,
+    "author": "INEMA",
+    "date": "2025-09-04T04:53:06+00:00",
+    "text": "As dicas que ele dá ao longo da explicação giram em torno de **como aproveitar melhor a ferramenta de otimização de prompts**. Resumindo:\n\n1. **Usar Claude para criar o rascunho**\n\n   * Porque a estrutura de prompts varia entre plataformas.\n   * Claude ajuda a montar a versão inicial de forma organizada.\n\n2. **Rodar no otimizador**\n\n   * Colar o prompt e clicar em “optimize” para ver como o modelo ajusta.\n   * O sistema mostra em formato de “código GitHub” com + e – (o que entrou e o que saiu).\n\n3. **Aprender com o feedback**\n\n   * Cada alteração vem explicada (o “porquê” da mudança).\n   * Isso ensina boas práticas de prompt engineering.\n\n4. **Comparar entre modelos**\n\n   * Testar no GPT-5, GPT-4.1, etc.\n   * Ver como um modelo de raciocínio (GPT-5) trata de forma diferente de um modelo rápido/não-raciocínio (GPT-4.1).\n\n5. **Usar no Playground**\n\n   * Criar prompts diretamente no playground, depois otimizar.\n   * Assim você consegue gerar, otimizar e depois validar em casos de uso reais.\n\n6. **Iteração prática**\n\n   * Criar o prompt → otimizar → testar → avaliar resultado → ajustar.\n   * Essa iteração ajuda a entender não só a ferramenta, mas como cada modelo responde melhor.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4777,
+    "author": "INEMA",
+    "date": "2025-09-04T04:52:34+00:00",
+    "text": "==================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4776,
+    "author": "INEMA",
+    "date": "2025-09-04T04:52:32+00:00",
+    "text": "A vantagem de otimizar um prompt é que você transforma uma instrução comum em algo **mais claro, eficiente e adaptado ao modelo específico**. Isso gera respostas melhores e mais consistentes.\n\nPrincipais vantagens:\n\n1. Clareza\n\n   * O prompt fica mais direto, sem ambiguidades.\n   * Exemplo: em vez de “crie ideias para meu canal”, passa a ser “gere 10 ideias de vídeos para YouTube sobre IA aplicada à saúde, com título e descrição curta”.\n\n2. Estrutura\n\n   * O otimizador organiza o prompt em partes (objetivo, contexto, instruções, variáveis).\n   * Isso ajuda o modelo a entender melhor a tarefa.\n\n3. Adaptação ao modelo\n\n   * Cada LLM (GPT-5, Claude, Gemini, etc.) responde de forma diferente.\n   * O otimizador ajusta o prompt para aproveitar melhor as características de cada um (modelos de raciocínio vs. modelos rápidos).\n\n4. Feedback automático\n\n   * A ferramenta mostra o que mudou e por quê, ensinando boas práticas de prompt engineering.\n\n5. Resultados consistentes\n\n   * Prompts otimizados reduzem variações inesperadas.\n   * Isso é essencial em automações, criação de conteúdo e fluxos de trabalho.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4775,
+    "author": "INEMA",
+    "date": "2025-09-04T04:52:16+00:00",
+    "text": "================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4774,
+    "author": "INEMA",
+    "date": "2025-09-04T04:52:14+00:00",
+    "text": "Ele usou no Claude por um motivo bem prático:\n\nAs **regras de sintaxe e estrutura de prompts variam entre provedores** (OpenAI, Anthropic, Google, etc.). Então, quando ele mostra o exemplo, ele pega o Claude apenas como ambiente de teste para **montar o prompt inicial**, porque:\n\n1. O Claude aceita instruções longas e estruturadas com mais naturalidade.\n2. É um bom lugar para “gerar” um prompt base (Claude costuma explicar e formatar bem).\n3. Depois, esse prompt pode ser **copiado e otimizado** na ferramenta que ele apresentou, comparando como fica no GPT-5, GPT-4.1 ou outro modelo.\n4. A ideia não é usar só no Claude, mas sim aproveitar a facilidade dele para **criar a primeira versão do prompt** e depois rodar no otimizador e em outros LLMs.\n\nOu seja: o Claude foi usado como **ponto de partida** para escrever o prompt bruto, não como destino final.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4773,
+    "author": "INEMA",
+    "date": "2025-09-04T04:52:06+00:00",
+    "text": "================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4772,
+    "author": "INEMA",
+    "date": "2025-09-04T04:51:48+00:00",
+    "text": "O prompt que aparece na imagem é este aqui, em inglês:\n\n\"Act as a prompt engineer. Help me create a prompt that will act as a content calendar manager for my YouTube. I do YouTube about AI, automation, machine learning, and strategy. Create some variables at the bottom where I can enter the main topic I wanna cover, and it will generate a bunch of ideas, copies, and a content calendar for it.\"\n\nTraduzido para português:\n\n\"Aja como engenheiro de prompt. Me ajude a criar um prompt que funcione como um gerenciador de calendário de conteúdo para o meu YouTube. Eu faço YouTube sobre IA, automação, aprendizado de máquina e estratégia. Crie algumas variáveis no final onde eu possa inserir o tema principal que quero abordar, e ele vai gerar várias ideias, textos e um calendário de conteúdo para isso.\"\n\nQuer que eu reformule esse prompt em uma versão já pronta para uso direto no GPT-5/Claude (com as variáveis estruturadas no final, tipo `{{tema_principal}}`)?",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4771,
+    "author": "INEMA",
+    "date": "2025-09-04T04:51:43+00:00",
+    "text": "criado prompt no Claude para usar no OPENAI e testar",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4770,
+    "author": "INEMA",
+    "date": "2025-09-04T04:51:03+00:00",
+    "text": "=============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4769,
+    "author": "INEMA",
+    "date": "2025-09-04T04:50:59+00:00",
+    "text": "https://platform.openai.com/chat",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4768,
+    "author": "INEMA",
+    "date": "2025-09-04T04:50:44+00:00",
+    "text": "==================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4767,
+    "author": "INEMA",
+    "date": "2025-09-04T04:50:42+00:00",
+    "text": "Aqui está o resumo :\n\n1. Foi lançada uma nova ferramenta para otimizar prompts.\n2. Funciona com GPT-5, GPT-4.1 e O3 (por enquanto).\n3. Exemplo: criar um prompt para gerenciar calendário de conteúdo do YouTube.\n4. A ferramenta mostra as mudanças feitas no prompt, em formato tipo GitHub (com sinais de + e –).\n5. Cada alteração vem acompanhada da explicação do motivo.\n6. É possível comparar como diferentes modelos lidam com o mesmo prompt (GPT-5, GPT-4.1, etc.).\n7. O GPT-4.1, por ser não-raciocínio, gera resultados mais “enxutos” e diferentes do GPT-5.\n8. A interface pode confundir, pois alguns modelos (como 4.0 Mini) ainda redirecionam para o 4.1.\n9. No playground, dá para criar prompts e depois otimizá-los com a ferramenta.\n10. A ideia é testar o mesmo prompt em diferentes modelos, avaliar diferenças e aprender como otimizar.\n11. Ferramenta gratuita, útil para quem trabalha com engenharia de prompt.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4766,
+    "author": "INEMA",
+    "date": "2025-09-04T04:50:08+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4766_013.jpg"
+  },
+  {
+    "id": 4765,
+    "author": "INEMA",
+    "date": "2025-09-04T04:49:33+00:00",
+    "text": "Otimizador de Prompts da OPENAI",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4764,
+    "author": "INEMA",
+    "date": "2025-09-04T04:49:24+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4763,
+    "author": "INEMA",
+    "date": "2025-09-04T04:49:23+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4762,
+    "author": "INEMA",
+    "date": "2025-09-04T04:49:23+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4761,
+    "author": "INEMA",
+    "date": "2025-09-04T04:49:23+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4760,
+    "author": "INEMA",
+    "date": "2025-09-04T04:49:22+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4759,
+    "author": "INEMA",
+    "date": "2025-09-04T04:49:18+00:00",
+    "text": "https://chatgpt.com/c/68b8d21f-79d4-8332-ac70-2f4e25273716",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4758,
+    "author": "INEMA",
+    "date": "2025-09-04T04:49:13+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4757,
+    "author": "INEMA",
+    "date": "2025-09-04T04:49:12+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4756,
+    "author": "INEMA",
+    "date": "2025-09-04T04:49:07+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

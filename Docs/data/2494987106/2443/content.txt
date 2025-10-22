@@ -1,0 +1,248 @@
+TOPICO 2443
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-03-18 19:13:32+00:00
+
+Total de mensagens: 25
+Midias encontradas: 10
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-03-18T23:32:45+00:00
+Texto:
+descrva o prompt utilizado na imagem
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-03-18T23:29:45+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-03-18T19:20:38+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-03-18T19:20:38+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-03-18T19:20:38+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-03-18T19:20:37+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-03-18T19:20:27+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-03-18T19:20:27+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-03-18T19:20:27+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-03-18T19:20:27+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-03-18T19:20:27+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-03-18T19:19:16+00:00
+Texto:
+no ChatGPT criei com sucesso, ja no fluxpro.art nao, mas vou testar no ultra
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-03-18T19:18:40+00:00
+Texto:
+Aqui estão as descrições dos prompts utilizados para gerar as últimas quatro imagens:
+
+1. **Cachorro-quente sendo montado por chefs em miniatura**  
+   **Prompt:**  
+   "Uma cena em miniatura altamente detalhada apresentando um cachorro-quente gigante sendo cuidadosamente preparado por minúsculos chefs de cozinha vestidos com uniformes brancos e chapéus de chef. Eles usam escadas e plataformas para adicionar mostarda, ketchup e picles, enquanto outros ajustam o pão e a salsicha. O fundo é suavemente desfocado, com uma atmosfera quente e acolhedora, destacando a natureza lúdica e envolvente da cena."
+
+2. **Carro esportivo sendo polido por trabalhadores em miniatura**  
+   **Prompt:**  
+   "Uma cena em miniatura altamente detalhada apresentando um carro esportivo elegante sendo meticulosamente mantido por pequenos trabalhadores vestindo uniformes de mecânico. Eles utilizam escadas e ferramentas para polir a lataria, verificar o motor e ajustar as rodas. Alguns trabalhadores estão em andaimes, garantindo um acabamento perfeito. O fundo é suavemente desfocado com um cenário moderno de garagem, enfatizando a sofisticação e o luxo da cena."
+
+3. **Banheira de spa sendo preparada por funcionários em miniatura**  
+   **Prompt:**  
+   "Uma cena em miniatura altamente detalhada apresentando um ambiente de spa luxuoso com uma grande banheira cheia de espuma branca e fofa. Pequenos funcionários em uniformes de spa estão ajustando a temperatura da água, adicionando óleos essenciais e organizando toalhas ao redor da banheira. Alguns usam pequenos pincéis para aperfeiçoar a espuma, enquanto outros posicionam velas para criar uma atmosfera relaxante. O fundo é suavemente desfocado com iluminação quente, realçando a serenidade da cena."
+
+4. **Bebê foca sendo cuidada por veterinários em miniatura**  
+   **Prompt:**  
+   "Uma cena em miniatura altamente detalhada apresentando uma adorável bebê foca sendo cuidadosamente tratada por minúsculos veterinários vestindo jalecos brancos. A foca repousa sobre uma plataforma macia enquanto os pequenos trabalhadores verificam sua saúde, limpam sua pelagem e aplicam tratamentos delicados. Alguns usam estetoscópios, enquanto outros a envolvem em uma toalha aconchegante. O fundo é suavemente desfocado, com um ambiente de resgate marinho, enfatizando a atmosfera calorosa e cuidadosa da cena."
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-03-18T19:18:24+00:00
+Texto:
+-----------
+
+------------------------------
+
+MENSAGEM 15
+Autor: INEMA
+Data: 2025-03-18T19:14:22+00:00
+Texto:
+Aqui estão descrições dos prompts:
+
+1. **Relógio inteligente rosa com trabalhadores em miniatura**  
+   **Prompt:**  
+   "Uma cena em miniatura altamente detalhada de um relógio inteligente rosa sendo montado por pequenos trabalhadores em macacões cor-de-rosa e capacetes brancos. Eles utilizam escadas e ferramentas para dar acabamento ao dispositivo, criando uma atmosfera de construção meticulosa. O fundo é levemente desfocado, mantendo a paleta de cores rosa para um visual harmonioso e esteticamente agradável."
+
+2. **Bota vermelha com trabalhadores em miniatura**  
+   **Prompt:**  
+   "Uma bota vermelha brilhante sendo cuidadosamente trabalhada por pequenos trabalhadores em uniformes e capacetes vermelhos. Eles utilizam escadas e andaimes para polir, amarrar os cadarços e adicionar detalhes ao calçado. A cena é vibrante e detalhada, com um fundo ligeiramente desfocado para destacar a textura e o brilho da bota."
+
+3. **Hambúrguer gigante sendo montado por chefs em miniatura**  
+   **Prompt:**  
+   "Um hambúrguer gigantesco, montado por pequenos chefs de cozinha vestidos com uniformes brancos. Eles utilizam escadas para alcançar diferentes camadas do sanduíche, adicionando ingredientes como alface, tomate, queijo e carne suculenta. Alguns chefs estão decorando o topo do pão com elementos dourados brilhantes para um toque mágico. O fundo tem um tom azulado com partículas flutuantes, dando um ar de fantasia e sofisticação."
+
+4. **Mulher com maquiagem azul intensa**  
+   **Prompt:**  
+   "Retrato hiper-realista de uma jovem mulher com cabelo curto e maquiagem intensa em tons de azul. Os olhos são expressivos e bem detalhados, com sombras azul-elétrico destacando o olhar. Seus lábios brilham em um tom alaranjado metálico, e a iluminação suave valoriza a textura da pele. O fundo azul desfocado complementa a paleta de cores, criando uma atmosfera moderna e futurista."
+
+5. **Frasco de cosmético laranja com trabalhadores em miniatura**  
+   **Prompt:**  
+   "Uma embalagem de cosmético laranja vibrante sendo cuidadosamente trabalhada por pequenos trabalhadores em uniformes e capacetes amarelo-alaranjados. Eles utilizam andaimes e escadas para polir, ajustar e refinar os detalhes do frasco. O cenário segue uma paleta monocromática em tons quentes, criando um efeito visual harmonioso e dinâmico."
+
+Cada um desses prompts segue a estética de cenas em miniatura, combinando elementos do mundo real com um toque de fantasia e hiper-realismo.
+
+------------------------------
+
+MENSAGEM 16
+Autor: INEMA
+Data: 2025-03-18T19:13:40+00:00
+Texto:
+.....
+
+------------------------------
+
+MENSAGEM 17
+Autor: INEMA
+Data: 2025-03-18T19:13:40+00:00
+Texto:
+.....
+
+------------------------------
+
+MENSAGEM 18
+Autor: INEMA
+Data: 2025-03-18T19:13:40+00:00
+Texto:
+....
+
+------------------------------
+
+MENSAGEM 19
+Autor: INEMA
+Data: 2025-03-18T19:13:40+00:00
+Texto:
+...
+
+------------------------------
+
+MENSAGEM 20
+Autor: INEMA
+Data: 2025-03-18T19:13:40+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 21
+Autor: INEMA
+Data: 2025-03-18T19:13:39+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 22
+Autor: INEMA
+Data: 2025-03-18T19:13:39+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 23
+Autor: INEMA
+Data: 2025-03-18T19:13:39+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 24
+Autor: INEMA
+Data: 2025-03-18T19:13:38+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 25
+Autor: INEMA
+Data: 2025-03-18T19:13:32+00:00
+Texto: [Sem texto]
+
+------------------------------
+

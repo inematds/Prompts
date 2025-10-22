@@ -1,0 +1,299 @@
+TOPICO 4653
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-08-25 01:37:07+00:00
+
+Total de mensagens: 13
+Midias baixadas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-08-25T01:38:24+00:00
+Texto:
+====================
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-08-25T01:38:20+00:00
+Texto:
+Tailwind CSS
+* Supabase (auth, DB, real-time)
+* Lucide React (ícones)
+* Vite (dev server)
+
+📁 Organização de Arquivos:
+
+* Estrutura modular (menos de 200 linhas por arquivo)
+* Separação clara de responsabilidades
+* Interfaces TypeScript para todos os dados
+
+🎯 Fluxo de Experiência do Usuário:
+
+1. Landing page com formulário de inscrição/avaliação
+2. Cadastro + avaliação integrados (suas perguntas personalizadas)
+3. Acesso imediato ao dashboard com resultados personalizados
+4. Webhook dispara dados do usuário para seu endpoint
+5. Atualizações em tempo real quando seu serviço responde
+6. Gestão de tarefas e acompanhamento de progresso
+7. Experiência otimizada para mobile
+
+---
+
+### Seção de Configuração
+
+Webhook URL:
+`https://clientee.app.n8n.cloud/webhook-test/9e4dddbf-0f24-40d8-a200-c2b002845a24`
+
+Suas Perguntas de Avaliação (exemplo):
+
+* O que mais te interessa em trading?
+* O que está te impedindo de operar (ou ser consistente se já opera)?
+* Qual porcentagem de lucro anual tornaria o trading vantajoso para você?
+* Você se vê mais como trader de curto prazo ou investidor de longo prazo?
+* Quanto capital se sentiria confortável em começar?
+* Qual o maior erro que sente que já cometeu no trading (ou teme cometer)?
+* Se tivesse a orientação certa, qual seria seu objetivo nº 1 nos próximos 12 meses?
+
+---
+
+### O que você recebe – Sistema Completo
+
+✅ Dashboard profissional (baseado em KPI existente)
+✅ Banco de dados auto-adaptável
+✅ Interface responsiva para mobile
+✅ Dark/light mode
+✅ Sistema de gestão de tarefas
+✅ Atualizações em tempo real + Webhook
+✅ Gráficos de radar escaláveis
+✅ Autenticação e perfis de usuário
+✅ Promoção de workshops com countdown
+✅ Integração com redes sociais
+✅ Vídeos do YouTube por categoria
+✅ Design premium nível Apple
+✅ Código pronto para produção
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-08-25T01:38:20+00:00
+Texto:
+🦸♂ Super-Prompt do Bolt
+
+
+
+Construa um Dashboard Completo – Auto-Adaptável às Suas Perguntas
+
+Crie uma aplicação web pronta para produção usando React, TypeScript, Tailwind CSS e Supabase que replique toda a funcionalidade e design do dashboard de KPIs existente, mas que se adapte dinamicamente a qualquer número de perguntas de avaliação que você fornecer.
+
+### Conjunto Completo de Funcionalidades:
+
+🎨 Design & UI (Estética nível Apple):
+
+* Alternância entre modo escuro/claro com transições suaves
+* Barra lateral profissional com logo, perfil do usuário e navegação
+* Gráfico de radar para visualização de pontuações (auto-adapta ao número de perguntas)
+* Design responsivo para mobile com barra lateral colapsável
+* Fundos com gradiente e efeitos visuais premium
+* Animações suaves e microinterações em todo o sistema
+* Tipografia profissional e espaçamento consistente
+* Estados de hover e elementos interativos
+* Estados de carregamento e transições suaves
+
+🏗 Estrutura de Layout:
+
+* Sidebar esquerda: logo, perfil do usuário, visão geral de forças, navegação por categoria, links sociais, promoção de workshop
+* Área principal: listas dinâmicas de tarefas, resumos de desempenho, vídeos integrados, acompanhamento de progresso
+* Layout mobile: sidebar colapsável e interface amigável ao toque
+* Cabeçalho: menu do usuário, alternância de modo escuro, branding profissional
+
+📊 Componentes do Dashboard:
+
+* Card de visão geral de forças com gráfico de radar
+* Navegação por categoria (gerada dinamicamente pelas perguntas)
+* Sistema de gestão de tarefas com prioridades e acompanhamento de conclusão
+* Resumo de desempenho mostrando pontos fortes e áreas de crescimento
+* Integração de vídeos do YouTube por categoria
+* Rastreamento de progresso com percentuais de conclusão
+* Seções expansíveis para mais detalhes
+
+🔐 Autenticação e Gestão de Usuários:
+
+* Supabase Auth com cadastro/login via e-mail e senha
+* Gestão de perfil com avatar e informações da empresa
+* Persistência de sessão e logout seguro
+* Menu do usuário com configurações e preferências
+
+📱 Experiência Mobile:
+
+* Interface otimizada para toque
+* Sidebar colapsável que desliza
+* Formulários responsivos e otimizados
+* Gráficos de radar responsivos
+* Suporte a gestos de swipe
+
+🎯 Sistema de Gestão de Tarefas:
+
+* Organização por prioridade (alta, média, baixa)
+* Acompanhamento de conclusão com checkboxes
+* Detalhes expansíveis das tarefas com explicações
+* Filtro por categorias
+* Indicadores de progresso e estatísticas de conclusão
+* Estimativa de tempo por tarefa
+
+📈 Visualização de Dados:
+
+* Gráficos de radar interativos
+* Barras de progresso animadas
+* Cards de pontuação com cores para níveis de desempenho
+* Indicadores de tendência e sugestões de melhoria
+* Hierarquia visual bem definida
+
+🔗 Integrações:
+
+* Embeds de YouTube para cada categoria
+* Links para redes sociais (YouTube, Instagram, TikTok, Twitter, site)
+* Links para workshops com contadores regressivos
+* Integração com Webhooks
+
+⚡ Funcionalidades em Tempo Real:
+
+* Contador regressivo ao vivo para workshops
+* Atualizações de disponibilidade em tempo real (simuladas)
+* Cálculos de pontuação instantâneos
+* Acompanhamento ao vivo conforme tarefas são concluídas
+
+🎨 Elementos de Branding:
+
+* Integração do logo DENT (versões claro/escuro)
+* Esquema de cores profissional e consistente
+* Banner de promoção de workshop com urgência
+* Prova social (avaliações 5 estrelas, depoimentos)
+
+---
+
+### Esquema de Banco de Dados Auto-Gerado
+
+Criação dinâmica de colunas conforme suas perguntas:
+
+```CREATE TABLE user_assessments (
+  id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+  user_id uuid REFERENCES auth.users(id) ON DELETE CASCADE,
+  -- AUTO-GERADO: question_1_score, question_2_score, etc.
+  -- AUTO-CALCULADO: overall_score baseado no número de perguntas
+  created_at timestamptz DEFAULT now()
+);```
+
+* Estrutura multi-tabelas completa com relacionamentos
+* Inclui: user\_profiles, user\_tasks, webhook\_logs
+* Políticas de segurança (RLS) implementadas
+
+---
+
+### Requisitos Técnicos
+
+🛠 Stack:
+
+* React 18 + TypeScript
+*
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-08-25T01:37:47+00:00
+Texto: [Sem texto]
+Midia: MessageMediaDocument -> Bolt Super-Prompt.pdf
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-08-25T01:37:17+00:00
+Texto:
+Esse **Super-Prompt do Bolt** é um modelo pronto para gerar um **dashboard profissional e totalmente automatizado**, que se adapta dinamicamente às perguntas que você definir.
+
+### O que ele faz em resumo:
+
+1. **Cria uma aplicação web completa** (React + TypeScript + Tailwind + Supabase) pronta para produção.
+2. **Gera automaticamente o banco de dados** no Supabase, criando colunas e tabelas de acordo com as perguntas que você fornecer.
+3. **Constrói um dashboard dinâmico e responsivo**, com gráficos de radar, barras de progresso, cards de desempenho e sistema de tarefas.
+4. **Personaliza a experiência de cada usuário**: autenticação, perfil, resultados individuais e atualização em tempo real.
+5. **Integrações externas**: Webhooks (ex.: n8n), vídeos do YouTube por categoria, links sociais e promoção de workshops com contagem regressiva.
+6. **Design premium**: estética nível Apple, modo escuro/claro, animações suaves, responsivo para mobile.
+7. **Fluxo completo do usuário**: cadastro + avaliação → resultados imediatos no dashboard → dados enviados via webhook → acompanhamento em tempo real.
+
+### Em uma frase:
+
+Esse prompt cria um **sistema operacional de IA para dashboards personalizados**, onde cada cliente/usuário tem um painel único, com dados, tarefas, vídeos e insights adaptados às suas respostas.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-08-25T01:37:16+00:00
+Texto:
+Prompt Dashboard Bolt (j101)
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-08-25T01:37:16+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-08-25T01:37:16+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-08-25T01:37:16+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-08-25T01:37:16+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-08-25T01:37:15+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-08-25T01:37:15+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-08-25T01:37:07+00:00
+Texto: [Sem texto]
+
+------------------------------
+

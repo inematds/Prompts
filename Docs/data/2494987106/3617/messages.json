@@ -1,0 +1,91 @@
+[
+  {
+    "id": 3627,
+    "author": "INEMA",
+    "date": "2025-05-15T19:52:39+00:00",
+    "text": "Aqui está um **resumo completo** do **Guia Oficial de Prompting do GPT-4.1** da OpenAI:\n\n### Visão Geral\n\nO GPT-4.1 representa uma evolução significativa, com melhorias em:\n\n* Raciocínio multi-etapas\n* Seguir instruções com precisão\n* Manipular grandes janelas de contexto (até 1 milhão de tokens)\n\nO guia foca em técnicas eficazes de prompting com base em testes internos.\n\n---\n\n### 1. **Agentic Workflows**\n\nDesenvolvido para interações em múltiplas etapas com uso de ferramentas (tools).\n\n* **3 lembretes essenciais no system prompt**:\n\n  * **Persistência**: manter o controle até resolver o problema.\n  * **Uso de ferramentas**: evitar respostas inventadas, buscar com ferramentas.\n  * **Planejamento**: pensar antes e depois de cada chamada de ferramenta.\n* Recomendação: usar o campo `tools` da API ao invés de descrever manualmente.\n\n**Exemplo real**: Prompt para resolver problemas em repositórios com planejamento passo a passo e uso de ferramentas como `apply_patch`.\n\n---\n\n### 2. **Long Context**\n\n* Suporta até **1 milhão de tokens** com bom desempenho.\n* Ideal para tarefas como: parsing de documentos extensos, reranking, seleção de informações relevantes e raciocínio multi-hop.\n* Dicas:\n\n  * Posicione instruções **antes e depois** do contexto para melhores resultados.\n  * Especifique se deve usar apenas o contexto externo ou também o conhecimento interno do modelo.\n\n---\n\n### 3. **Chain of Thought (Cadeia de Pensamento)**\n\n* O modelo **não é de raciocínio interno por padrão**, mas pode ser induzido via prompt.\n* Instruções passo a passo melhoram a qualidade das respostas.\n* Dica: analisar falhas nos prompts e incorporar estratégias bem-sucedidas como regras claras.\n\n---\n\n### 4. **Instruction Following**\n\n* GPT-4.1 segue instruções de forma **literal e fiel**, mais do que modelos anteriores.\n* Prompt antigo pode precisar de ajustes.\n* Estrutura recomendada:\n\n  1. Regras gerais de resposta\n  2. Regras específicas por categoria\n  3. Lista de passos\n  4. Exemplos ilustrativos\n* Evite: instruções conflitantes, frases repetitivas, ou excesso de formatação.\n\n**Exemplo prático**: Agente de atendimento ao cliente com instruções detalhadas de tom, etapas e proibições (ex: evitar temas sensíveis).\n\n---\n\n### 5. **Boas Práticas Gerais**\n\n* **Estrutura sugerida**:\n\n  * Papel e objetivo\n  * Instruções\n  * Subinstruções detalhadas\n  * Etapas de raciocínio\n  * Formato de saída\n  * Exemplos\n  * Contexto\n  * Instrução final\n\n* **Delimitadores recomendados**:\n\n  * **Markdown**: melhor para organização geral\n  * **XML**: ótimo para estrutura aninhada\n  * **JSON**: bom para código, mas mais verboso\n  * Para documentos longos, **XML > JSON**\n\n---\n\n### 6. **Gerar e Aplicar Diffs de Código**\n\n* O modelo agora entende **formato de patch V4A**, útil para tarefas de programação automatizada.\n* Permite:\n\n  * Adicionar, deletar ou modificar arquivos com precisão\n  * Sem usar número de linha (usa contexto e estrutura)\n  * Ferramenta `apply_patch` incluída com descrição e exemplo\n\n---\n\n### 7. **Caveats e Dicas Finais**\n\n* Cuidado com chamadas paralelas de ferramentas: podem gerar erros\n* Use prompts específicos e iterativos para evitar interpretações erradas\n* Utilize formatos estruturados com clareza e consistência\n\n---\n\n### Aplicações práticas\n\n* Construção de **agentes autônomos** com workflows complexos\n* Atendimento ao cliente com **controle de tom e contexto**\n* Análise de **documentos longos**\n* **Correção de código** e testes automatizados\n* Fluxos de **RAG**, re-ranking, e scraping com grandes contextos",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3626,
+    "author": "INEMA",
+    "date": "2025-05-15T19:52:00+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "OpenAI Prompting Guide.pdf"
+  },
+  {
+    "id": 3625,
+    "author": "INEMA",
+    "date": "2025-05-15T19:51:46+00:00",
+    "text": "Guia Oficial de Prompting do GPT-4.1 da OpenAI 📝\nA OpenAI acabou de lançar seu guia oficial de prompting para o GPT-4.1. Agradecimentos ao Andreas Horn por compartilhar isso no LinkedIn.\n\nO guia mostra como escrever prompts mais eficazes e fornece exemplos para uma variedade de casos de uso avançados. Vale a pena ler, especialmente se você está construindo fluxos de trabalho com IA ou tentando melhorar a forma como o GPT-4.1 lida com instruções.\n\nAs principais seções são:\n\n* **Fluxos de Trabalho com Agentes** – como orientar o raciocínio em várias etapas e o uso de ferramentas\n* **Contexto Longo** – estratégias para usar de forma eficaz a janela de contexto estendida do GPT-4.1\n* **Cadeia de Pensamento (Chain of Thought)** – incentivar o modelo a raciocinar passo a passo\n* **Seguir Instruções** – melhorar a forma como o modelo interpreta e responde às tarefas\n* **Dicas Gerais de Prompting** – formatação, posicionamento de instruções e gerenciamento de tokens\n\nVocê pode ler o guia completo aqui 👉 [https://cookbook.openai.com/examples/gpt4-1\\_prompting\\_guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3624,
+    "author": "INEMA",
+    "date": "2025-05-15T19:51:13+00:00",
+    "text": "Prompt Guide GPT 4.1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3623,
+    "author": "INEMA",
+    "date": "2025-05-15T19:50:51+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3622,
+    "author": "INEMA",
+    "date": "2025-05-15T19:50:51+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3621,
+    "author": "INEMA",
+    "date": "2025-05-15T19:50:50+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3620,
+    "author": "INEMA",
+    "date": "2025-05-15T19:50:50+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3619,
+    "author": "INEMA",
+    "date": "2025-05-15T19:50:50+00:00",
+    "text": "https://chatgpt.com/c/68264516-a270-8009-816e-0851bd6910dd",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3618,
+    "author": "INEMA",
+    "date": "2025-05-15T19:50:49+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3617,
+    "author": "INEMA",
+    "date": "2025-05-15T19:50:44+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

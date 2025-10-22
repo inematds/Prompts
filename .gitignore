@@ -1,7 +1,27 @@
 Docs/*.zip
 *.zip
+
+# MkDocs build dir (created by mkdocs build)
 site/
+
+# Large extracted dataset (kept out of repo for light publish)
+docs/data/
+!docs/data/*.txt
+!docs/data/*.json
+!docs/data/*.md
+!docs/data/**/*.txt
+!docs/data/**/*.json
+!docs/data/**/*.md
+
+# Large media files (keep repo light)
 *.mp4
 Docs/**/*.mp4
 docs/data/**/*.mp4
-docs/data/
+
+# Ignore legacy uppercase Docs/ folder entirely, but keep lowercase docs/
+Docs/
+!docs/
+
+# BMAD (local only)
+.bmad-core/
+.bmad-*/

@@ -1,0 +1,102 @@
+TOPICO 4867
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-09-18 05:02:28+00:00
+
+Total de mensagens: 9
+Midias baixadas: 0
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-09-18T05:03:31+00:00
+Texto:
+**Recurso de recuperação de bate-papo HIDDEN Claude 
+
+- Continue qualquer conversa 🔁
+**
+Claude acabou de receber um recurso que permite que você relembre e continue bate-papos anteriores - algo que a maioria das pessoas ainda não sabe que existe
+
+Em vez de perder todo o seu contexto quando você atinge o limite de Claude ou começa de novo todas as vezes, agora você pode dizer a Claude para encontrar e fazer referência a qualquer conversa anterior
+
+Aqui está o truque: nomeie seus bate-papos como algo memorável
+→ em um novo bate-papo, peça a Claude para "lembrar o que conversamos em [nome do bate-papo]"
+
+→ ele pesquisa seu histórico e se atualiza instantaneamente
+Eu testei isso com um bate-papo chamado "dominando o estilo de redação" e Claude puxou o prompt exato e o contexto dessa conversa em segundos
+
+SUPER CHEAT CODE: Crie um chat chamado "Tudo sobre mim"
+→ preenchê-lo com suas preferências, objetivos e contexto
+→ referenciá-lo em qualquer novo bate-papo para dar a Claude uma memória instantânea sobre quem você é
+
+Isso substitui extensões de memória externa desajeitadas e copiar e colar entre bate-papos
+
+Funciona especialmente bem quando você atinge os limites de contexto e precisa continuar projetos complexos sem perder o ímpeto
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-09-18T05:02:46+00:00
+Texto:
+Recurso Memoria no Claude
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-09-18T05:02:34+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-09-18T05:02:34+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-09-18T05:02:34+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-09-18T05:02:33+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-09-18T05:02:33+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-09-18T05:02:32+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-09-18T05:02:28+00:00
+Texto: [Sem texto]
+
+------------------------------
+

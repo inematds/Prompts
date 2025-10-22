@@ -1,0 +1,68 @@
+TOPICO 4800
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-09-04 21:42:17+00:00
+
+Total de mensagens: 7
+Midias baixadas: 2
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: Tiza
+Data: 2025-09-05T00:54:02+00:00
+Texto:
+PROMPTS - guia live 02.09.2025.pdf
+Midia: MessageMediaDocument -> PROMPTS - guia live 02.09.2025.pdf
+
+------------------------------
+
+MENSAGEM 2
+Autor: Tiza
+Data: 2025-09-05T00:52:32+00:00
+Texto:
+https://www.youtube.com/live/-R3JQVXambY?si=EZE6wXbccxw6WxmY
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 3
+Autor: Tiza
+Data: 2025-09-04T21:42:25+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 4
+Autor: Tiza
+Data: 2025-09-04T21:42:24+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 5
+Autor: Tiza
+Data: 2025-09-04T21:42:23+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: Tiza
+Data: 2025-09-04T21:42:21+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 7
+Autor: Tiza
+Data: 2025-09-04T21:42:17+00:00
+Texto: [Sem texto]
+
+------------------------------
+

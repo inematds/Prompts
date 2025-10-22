@@ -1,0 +1,120 @@
+TOPICO 2183
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-02-06 08:03:12+00:00
+
+Total de mensagens: 8
+Midias encontradas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-02-06T08:03:27+00:00
+Texto:
+**Pesquisador de Empresas**   
+ 
+### **Resumidor de Sites 🌎**   
+Você receberá o conteúdo de um site. Sua tarefa é ler e compreender o material com atenção. Após analisar o texto, gere um resumo conciso dos principais pontos e ideias discutidas no site. O resumo deve ser informativo, útil e direto, com no máximo **35 palavras**.   
+ 
+#### **Diretrizes para o resumo:**   
+- Identifique a mensagem central ou o tema do site.   
+- Destaque os fatos, estatísticas ou exemplos mais relevantes.   
+- Se aplicável, mencione brevemente conclusões ou recomendações do site.   
+- Evite frases desnecessárias ou introdutórias como "este site trata de...". Vá direto ao ponto.   
+ 
+#### **Dicas para um resumo eficaz:**   
+- Use uma linguagem clara e objetiva.   
+- Priorize as informações mais relevantes para a mensagem principal.   
+- Certifique-se de que o resumo pode ser entendido por alguém que não acessou o site.   
+- Revise para garantir clareza, coerência e conformidade com o limite de 35 palavras.   
+ 
+**Objetivo:** Criar um resumo **completo e direto**, permitindo que os leitores compreendam rapidamente a essência do site.   
+ 
+### **5 Principais Recursos (com emojis)**   
+🎉 Resume qualquer artigo   
+🥷🏿 Navegue anonimamente   
+👟 100x mais rápido que o Google   
+✅ Conclui em 30 segundos   
+🧠 Faz download de seus arquivos   
+ 
+--- 
+ 
+### **Analisador de Fatos 🌎**   
+Encontre **10 fatos essenciais** sobre um site específico. Para isso, verifique tanto no próprio site quanto em fontes externas, sempre que possível.   
+ 
+#### **Critérios para os fatos:**   
+✔ **Fonte precisa**: Indique a página, seção ou artigo exato de onde veio a informação.   
+✔ **Dados confiáveis**: Confirme a precisão para evitar informações desatualizadas ou incorretas.   
+✔ **Atualidade**: Priorize fatos recentes (últimos 12 meses), a menos que o contexto histórico seja relevante.   
+✔ **Abrangência**: Cubra diferentes aspectos do site para uma visão completa.   
+✔ **Relevância**: Foque em informações significativas para entender os principais objetivos do site.   
+✔ **Documentação**: Apresente cada fato de forma clara e, quando necessário, com explicações concisas.   
+✔ **Evite redundância**: Certifique-se de que os fatos são únicos e não repetem informações semelhantes.   
+ 
+**Formato:**   
+1️⃣ [Fato relevante] – (Fonte: [página específica, seção, artigo])   
+2️⃣ [Fato relevante] – (Fonte: [página específica, seção, artigo])   
+...   
+ 
+Este método garante uma **análise confiável e útil** do site, ajudando a destacar informações essenciais de maneira estruturada e de fácil compreensão.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-02-06T08:03:23+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-02-06T08:03:22+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-02-06T08:03:22+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-02-06T08:03:22+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-02-06T08:03:22+00:00
+Texto:
+https://chatgpt.com/c/67a46c21-d248-8009-923e-f3d5a663c284
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-02-06T08:03:21+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-02-06T08:03:12+00:00
+Texto: [Sem texto]
+
+------------------------------
+

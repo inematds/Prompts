@@ -1,0 +1,42 @@
+site_name: Engenharia de Prompts 2.0
+site_description: Curso prático e visual de Engenharia de Prompts inspirado no acervo INEMA.Prompts
+site_url: https://inematds.github.io/Prompts
+repo_url: https://github.com/inematds/Prompts
+theme:
+  name: material
+  language: pt
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: purple
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - toc.integrate
+  logo: recursos/banner-16x9.svg
+edit_uri: edit/main/docs/
+nav:
+  - Início: index.md
+  - Módulos:
+      - Fundamentos: modulo1_fundamentos/README.md
+      - Padrões e Melhores Práticas: modulo2_padroes/README.md
+      - Casos de Uso: modulo3_casos_uso/README.md
+      - Assistentes, Memória e RAG: modulo4_assistentes_memoria/README.md
+      - Automação e Ferramentas: modulo5_automacao_ferramentas/README.md
+      - Projetos Finais: modulo6_projetos_finais/README.md
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/<user>/<repo>
+markdown_extensions:
+  - admonition
+  - footnotes
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+extra_css:
+  - styles/theme.css

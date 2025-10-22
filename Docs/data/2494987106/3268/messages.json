@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3280,
+    "author": "INEMA",
+    "date": "2025-04-07T08:31:50+00:00",
+    "text": "Claro! Para gerar o **modelo de e-mail frio (cold email)** personalizado e pronto para envio, por favor preencha os seguintes campos:\n\n- **[Topic]**: Assunto do e-mail  \n- **[ProspectName]**: Nome do prospect  \n- **[CompanyName]**: Nome da empresa do prospect  \n- **[Industry/Field]**: Setor de atuação da empresa  \n- **[ProductServiceBenefits]**: Benefícios principais do seu produto ou serviço  \n- **[CallToAction]**: Próximo passo sugerido (ex: marcar uma call, responder o e-mail, testar a ferramenta)  \n- **[YourName]**: Seu nome (quem está enviando)\n\nAssim que você me passar essas informações, eu gero o e-mail completo com tom profissional, envolvente e objetivo, dentro do limite de 150–200 palavras.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3279,
+    "author": "INEMA",
+    "date": "2025-04-07T08:31:37+00:00",
+    "text": "```Instructions:\n1. Using the provided variables, generate a tailored cold outreach email addressing the prospect.\n2. Begin with a friendly greeting and personalized introduction using [ProspectName] and [CompanyName].\n3. Clearly explain the [ProductServiceBenefits] and how it addresses specific pain points or needs of the prospect.\n4. Conclude with a strong and concise [CallToAction] that guides the prospect on the next step.\n5. Ensure the email tone is professional, engaging, and concise.\n6. Output the final email in plain text.\n\nConstraints:\n- Use the variables exactly as provided. Do not modify the placeholders.\n- Keep the email concise (around 150-200 words maximum).\n- Maintain a clear structure: Greeting, introduction, main content, call-to-action, and a friendly sign-off.\n- Ensure any background context related to the prospect or service is naturally integrated into the email.\n\nExample Structure:\n---\nSubject: [Topic]\n\nHi [ProspectName],\n\nI hope you're well. I came across [CompanyName], and I was impressed by your work within [Industry/Field]. I wanted to introduce you to our solution that offers [ProductServiceBenefits]. I believe our approach can significantly enhance your current process, helping you achieve better results.\n\nCould we schedule a brief call to discuss how our service aligns with your objectives? [CallToAction]\n\nLooking forward to your thoughts.\n\nBest regards,\n[YourName]\n---\n\nVariables (configure as needed):\n[Topic] = ''\n[ProspectName] = ''\n[CompanyName] = ''\n[Industry/Field] = ''\n[ProductServiceBenefits] = ''\n[CallToAction] = ''\n[YourName] = ''\n------------------------------```",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3278,
+    "author": "INEMA",
+    "date": "2025-04-07T08:31:02+00:00",
+    "text": "mp29 - Modelo de divulgação de e-mail frio",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3277,
+    "author": "INEMA",
+    "date": "2025-04-07T08:31:01+00:00",
+    "text": "...",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3276,
+    "author": "INEMA",
+    "date": "2025-04-07T08:31:00+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3275,
+    "author": "INEMA",
+    "date": "2025-04-07T08:31:00+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3274,
+    "author": "INEMA",
+    "date": "2025-04-07T08:31:00+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3273,
+    "author": "INEMA",
+    "date": "2025-04-07T08:30:59+00:00",
+    "text": "...",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3272,
+    "author": "INEMA",
+    "date": "2025-04-07T08:30:58+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3271,
+    "author": "INEMA",
+    "date": "2025-04-07T08:30:58+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3270,
+    "author": "INEMA",
+    "date": "2025-04-07T08:30:58+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3269,
+    "author": "INEMA",
+    "date": "2025-04-07T08:30:57+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3268,
+    "author": "INEMA",
+    "date": "2025-04-07T08:30:54+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

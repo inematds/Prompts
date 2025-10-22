@@ -1,0 +1,83 @@
+[
+  {
+    "id": 3926,
+    "author": "INEMA",
+    "date": "2025-07-05T00:26:54+00:00",
+    "text": "Aqui vai uma explicação simples e direta de como você deve criar uma instrução (prompt) para pedir uma aplicação desse tipo no Lovable:\n\n---\n\n**Como pedir para o Lovable criar uma aplicação de geração e publicação de posts para redes sociais**\n\n1. **Explique o objetivo da aplicação:**\n\n   * Diga que você quer uma página web para criar e agendar posts em redes sociais (Instagram, TikTok, YouTube, LinkedIn, X/Twitter).\n   * Diga que quer que o usuário possa escolher o tom de voz, o público-alvo, a ideia do post e as redes onde vai publicar.\n\n2. **Peça uma interface simples e intuitiva:**\n\n   * Peça para ser uma página única, responsiva (funciona no celular), com fundo escuro bonito e formulário central bem destacado.\n   * Peça que os campos de tom de voz e público-alvo fiquem salvos no navegador.\n\n3. **Liste os campos que a aplicação deve ter:**\n\n   * Campo para digitar/colar ideias de conteúdo.\n   * Botões para selecionar redes sociais (com os ícones reais das redes).\n   * Opções para cada tipo de conteúdo (ex: post, story, reel, vídeo, texto com imagem).\n   * Campo para adicionar imagem (se for post com imagem).\n   * Escolha entre publicar agora ou agendar para data/hora.\n\n4. **Explique como deve funcionar o envio dos dados:**\n\n   * Peça para, ao clicar no botão principal (“Release the Magic”), enviar os dados para um webhook do Make.com, no formato JSON.\n   * Inclua um campo para chave de API (segurança).\n   * Peça uma animação de confete para mostrar que deu certo.\n\n5. **Peça exemplos visuais e boa experiência de usuário:**\n\n   * Interface bonita, moderna, animada, com microinterações (exemplo: botão com efeito de confete).\n   * Tudo deve ser simples, sem telas extras ou login.\n\n---\n\n**Exemplo de instrução para usar no Lovable:**\n\nQuero uma aplicação web de página única para criar e agendar posts para redes sociais (Instagram, TikTok, YouTube, LinkedIn, X).\nO usuário pode:\n\n* Salvar seu tom de voz e público-alvo,\n* Escrever ou colar uma ideia de conteúdo,\n* Escolher em quais redes vai publicar (com ícones reais),\n* Selecionar o tipo de post (ex: post, story, vídeo, texto com imagem),\n* Adicionar imagem se necessário,\n* Escolher entre publicar agora ou agendar para uma data e hora.\n\nA interface deve ser moderna, escura, com formulário central destacado e animação de confete no botão “Release the Magic”.\nQuando clicar no botão, envie os dados em JSON para um webhook do Make.com, incluindo a chave de API para segurança.\nTodos os dados de tom de voz e público-alvo devem ficar salvos no navegador.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3925,
+    "author": "INEMA",
+    "date": "2025-07-05T00:25:04+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "🩵 Loveable Social Agent Prompt..pdf"
+  },
+  {
+    "id": 3924,
+    "author": "INEMA",
+    "date": "2025-07-05T00:25:02+00:00",
+    "text": "O prompt “Loveable Social Agent Prompt” é uma descrição extremamente detalhada para criação de uma aplicação web de IA para geração e publicação de conteúdo em redes sociais. Ele serve tanto como orientação para desenvolvedores (UI/UX, frontend e integração) quanto para guiar a IA na criação do produto final.\n\nVeja a descrição completa e resumida do prompt:\n\n---\n\n### Função principal do prompt\n\n* Criar uma aplicação web de página única (single page), moderna, atraente e intuitiva, focada na criação e agendamento de conteúdo para redes sociais, com uso intensivo de IA e automação.\n\n### Estrutura da aplicação definida pelo prompt\n\n1. **Interface Visual**\n\n   * Fundo animado com efeito visual “flutuante”, gradiente ou partículas.\n   * Formulário central contrastante, cor carvão/dark destacada, inputs brancos, foco total na usabilidade e estética premium.\n   * Design responsivo e mobile-first.\n\n2. **Título e Explicação**\n\n   * Título principal: “\\$10,000 Social Agent”.\n   * Explicação curta: “Drop any text you want, and create viral social media posts for any platform you choose”.\n\n3. **Seção de Configurações (Settings)**\n\n   * Inputs salvos no navegador (localStorage) para:\n\n     * Tom de voz (exemplo: inspirador, profissional, divertido)\n     * Público-alvo (descrição de quem deseja atingir)\n   * Interface expansível/retrátil, bem destacada.\n\n4. **Campo principal de conteúdo**\n\n   * Área de texto ampla, para colar ideias, artigos, links, transcrições ou qualquer inspiração.\n   * Placeholder: “Paste an article, type a thought, share an example URL, or whatever inspires your next viral post!”\n\n5. **Seleção de Plataformas**\n\n   * Botões para Instagram, TikTok, YouTube, LinkedIn, X (Twitter), exibindo logos reais em uma grade de 5 colunas.\n   * Após selecionar a plataforma, aparecem opções específicas (ex: Instagram Post, Reel, Story; LinkedIn Text ou Text + Image).\n   * Se necessário, campo de URL de imagem para postagens com imagem.\n\n6. **Agendamento**\n\n   * Duas opções: “Post now” (publicar agora) e “Schedule” (agendar).\n   * Agendamento exibe um widget para data/hora.\n\n7. **Botão principal**\n\n   * “Release the Magic” — botão grande e chamativo, com animação de confete ao clicar.\n   * Responsável por enviar os dados via webhook para Make.com.\n\n### Integração e envio de dados\n\n* Todos os dados do formulário são enviados por POST para o webhook do Make.com, junto com a chave de API.\n* O formato dos dados segue um JSON padronizado, indicando tipo de conteúdo, plataformas, horários, URLs de imagem/vídeo, título, descrição etc.\n\n### Outras exigências do prompt\n\n* Não usar múltiplas páginas, navegação lateral ou autenticação de usuário.\n* Persistência só com localStorage (sem backend).\n* Componentes modulares em React, estilizados com Tailwind e ShadCN UI.\n* Tipografia global: Pop-ins.\n* Cores escuras com detalhes vibrantes, visual futurista e sofisticado.\n* Microinterações animadas e design pensado para convidar o usuário a interagir.\n\n---\n\n### Resumo dos campos enviados pelo prompt no webhook (exemplo de JSON)\n\n```{\n  \"instagram_post\": true/false,\n  \"instagram_reel\": true/false,\n  \"instagram_story\": true/false,\n  \"tiktok_video\": true/false,\n  \"youtube_short\": true/false,\n  \"linkedin_text\": true/false,\n  \"linkedin_image\": true/false,\n  \"twitter_text\": true/false,\n  \"twitter_image\": true/false,\n  \"content_idea\": \"conteúdo principal\",\n  \"tone_of_voice\": \"tom de voz salvo\",\n  \"target_audience_description\": \"descrição do público\",\n  \"schedule_time\": \"data/hora agendada ou null\",\n  \"post_now\": true/false,\n  \"video_url\": \"url do vídeo se houver\",\n  \"video_description\": \"descrição do vídeo se houver\",\n  \"youtube_title\": \"título para o YouTube se houver\",\n  \"image_url\": \"url da imagem se houver\"\n}```\n\n---\n\n### Resumindo:\n\n* O prompt é um guia completo para montar uma interface e um fluxo de automação para gerar e agendar publicações em redes sociais usando IA, com experiência premium, integração via webhook e foco em personalização (tom de voz, persona, múltiplas redes, agendamento).",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3923,
+    "author": "INEMA",
+    "date": "2025-07-05T00:24:46+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3922,
+    "author": "INEMA",
+    "date": "2025-07-05T00:24:45+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3921,
+    "author": "INEMA",
+    "date": "2025-07-05T00:24:45+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3920,
+    "author": "INEMA",
+    "date": "2025-07-05T00:24:45+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3919,
+    "author": "INEMA",
+    "date": "2025-07-05T00:24:45+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3918,
+    "author": "INEMA",
+    "date": "2025-07-05T00:24:44+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3917,
+    "author": "INEMA",
+    "date": "2025-07-05T00:24:40+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

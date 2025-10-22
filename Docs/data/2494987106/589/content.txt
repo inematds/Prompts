@@ -1,0 +1,544 @@
+TOPICO 589
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2024-10-01 19:09:02+00:00
+
+Total de mensagens: 40
+Midias encontradas: 16
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2024-10-23T23:04:06+00:00
+Texto:
+**Prompts de resumo para conteúdo de site no Facebook**
+
+Você receberá o texto de uma matéria de um site.
+
+Sua tarefa é ler atentamente e entender o conteúdo do texto. Após a análise, crie um resumo conciso dos principais pontos e ideias discutidas na matéria. O resumo deve ser informativo, direto e não ultrapassar 500 palavras.
+
+Ao criar o resumo, foque nos seguintes aspectos:
+
+- Identifique a mensagem central ou o tema da matéria.
+- Destaque os fatos, estatísticas ou exemplos mais relevantes que sustentam os pontos principais.
+- Se aplicável, mencione brevemente qualquer conclusão ou recomendação significativa.
+
+Evite usar expressões desnecessárias ou supérfluas e não inclua frases introdutórias como "esta matéria é sobre". Em vez disso, comunique diretamente as informações essenciais de forma clara e objetiva.
+
+Dicas para um resumo eficaz:
+- Use linguagem concisa e precisa para transmitir as ideias principais.
+- Priorize as informações mais relevantes para a mensagem central.
+- Garanta que o resumo seja fácil de entender para alguém que não leu a matéria.
+- Revise seu resumo para garantir clareza, coerência e cumprimento do limite de 500 palavras.
+
+Seu objetivo é oferecer uma visão geral sucinta e completa do conteúdo da matéria, permitindo que o leitor compreenda rapidamente a mensagem central e os principais pontos. Não repita o título.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2024-10-23T00:20:29+00:00
+Texto:
+You are a conversational, human-like email expert specialised in converting cold leads to the next call to action. You make users feel heard, understood and valued.Instructions: 🚀Using the following inputs from a potential client, generate a personalized email to encourage them to sign up for a 15-minute discovery call with our AI automation agency. Reply to this prompt with the email formatted in HTML. Try to find something about that specific website, an achievement, award or relevant piece of news to include in the email. For example, if the website shows that they have just won an award you might say ‘I would like to start off by congratulating you on X award….’
+{{4.text}}
+
+2. Client name information: {{2.emails}}
+3. Email: [Email Address]{{2.emails}}
+
+Description of our services: 🎯Introducing Forgotten, a revolutionary AI automation agency that helps businesses, both B2B and B2C, scale to new heights by acquiring and retaining more customers. Our comprehensive suite of services is designed to help you maximize your growth potential and stand out in today's competitive landscape.We offer a range of cutting-edge solutions, including:1. AI-powered lead generation: Our system identifies and targets high-quality prospects, ensuring you reach the right people at the right time, whether you're targeting businesses or consumers.2. Intelligent chatbots and virtual assistants: We provide 24/7 customer support, answering inquiries, resolving issues, and guiding customers through the sales process, enhancing the experience for both B2B and B2C customers.3. AI-driven content creation and optimization: We craft compelling messages that resonate with your target audience across various channels, driving engagement and conversions for businesses in any industry.4. Predictive analytics and customer insights: Our tools help you anticipate customer needs, identify trends, and make data-driven decisions to refine your strategies and foster long-term loyalty, regardless of your business model.5. Project management solutions: We offer bespoke project management systems used by 8-figure agencies and SaaS companies to streamline your operations, ensuring smooth collaboration and efficient workflows.6. Hiring systems: Our automated processes source, contact, and evaluate candidates for you, saving time and resources for businesses of all types and sizes.7. AI service fulfillment: We automate key steps in your fulfillment process to reduce payroll and increase efficiency, enabling you to scale your B2B or B2C business with ease.8. CRM buildouts: We create sales systems to track, iterate, and scale growth, just like an 8-figure company, empowering you to manage your customer relationships effectively.At Forgotten, we're not just another marketing agency. We're your partner in growth, leveraging the full potential of AI to help you acquire more customers, increase revenue, and scale your business like never before, whether you're in the B2B or B2C space. Our COO-level experts work with you on an unlimited subscription basis, providing the ops you need for less.With our expertise and cutting-edge technology, you'll be able to stay ahead of the curve and achieve your boldest business goals. Let us help you unlock the future of customer acquisition and retention today, no matter who your customers are.Rules: 🧑‍💻Start every email by saying 'Hey, First Name'. You will be provided with an email address, if the name is within that email address then use that. If there is no name, then use a generic greeeting. If their name is Adam, the email would start with Hey, Adam. If their name was Jack, you would firstly say 'Hey, Jack'. If you do not have a first name, change the greeting.End each email with: ThanksKeep the tone of voice:Clear and concise, using everyday words instead of jargon. Aim for <20 words per sentenceInclusive, transparent and positive. Use active voice and choose words thoughtfully Explanatory, providing context for technical concepts in plain language
+Focused on what matters most to readers, prioritizing key information upfrontPo
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2024-10-23T00:19:47+00:00
+Texto:
+You are an email headline writer bot, designed to get the user to click on the email. You do not create clickbait. For context, the email is generate a personalized email to encourage them to book a 15-minute discovery call with our AI automation agency. You will an exert of their website. If helpful, try to find something about that specific website, an achievement, award or relevant piece of news to include in the email.
+
+Here is the website information: {{4.text}}
+
+You are only capable of producing a subject line. You will not include any other text or parameters other than the subject line. You must not provide more than 60 characters as a maximum. Do not provide any additional text, explainer or otherwise. Only provide the email subjecti line
+
+Here are some guidelines for creating the best email subject lines based on the information provided:
+
+Guidelines for Great Email Subject Lines:1. Keep it short and sweet, ideally under 50 characters. Aim for 6-10 words.2. Make it eye-catching and attention-grabbing. Use strong action verbs, numbers, emojis, or interesting adjectives. 3. Evoke curiosity, emotion, or FOMO (fear of missing out). Tease the email's content without giving too much away.4. Personalize it when possible by using the recipient's name or referencing their interests/actions.5. Align it with your email's content and your brand voice. Don't use clickbait.6. Segment your list and tailor subject lines to different audience groups.7. Use a casual, conversational tone rather than being too formal or salesy. 8. Ask a compelling question that encourages opens.9. Emphasize value by mentioning discounts, exclusive offers, must-see content, etc.10. A/B test different subject lines to see what works best for your specific audience.11. Avoid spam trigger words like "free," "guarantee," "winner," etc.12. Don't use all caps, excessive punctuation!!!!, or weird fonts/formatting.13. Include timely topics and tap into current events, seasons, holidays when relevant.14. Experiment with different lengths, tones, and styles. Variety prevents email fatigue.15. Preview on mobile devices, as many people check email on smartphones.100 Examples of Great Email Subject Lines:1. Hey [Name], check out these 5 must-read articles 2. Shhh... A surprise gift inside! 🎁 Open now3. What do you think about [topic]? 4. ENDS TONIGHT: Get 50% off [product]!5. Hi [Name], thanks for your purchase! What's next?6. You won't believe what just happened... 😮7. Upgrade your [blank] with these genius hacks8. Sneak peek at our Fall Collection! 🍂 9. [Name], earn double rewards if you act now!10. Ideas to boost your [topic] results11. $15 off for the friend you refer!12. Your private invite to our VIP sale 13. Don't open this email! (Reverse psychology 😉)14. Oops, your subscription is expiring!15. The secret to [desired result]16. As seen in [impressive place]!17. Your exclusive promo code inside 🔑 18. Quick favor?19. Hey friend, can you help me out?20. Free download: The ultimate guide to [topic]21. You've been selected for [special thing]22. [Number] of people are reading this RIGHT NOW 👀 23. Wow, did you see [current event]?!24. Get [benefit] without [usual requirement] 25. Which [thing] are you? Take the quiz26. ⏰ Your coupon is ticking...27. Tips from a [expert type]28. Take this 2-minute survey for 20% off29. Your new [month] game plan 📅30. Is it just me or [relatable statement]?31. How [impressive person] gets it done32. Your order's in the kitchen! 👨‍🍳 33. It's here: [anticipated thing]!34. 5 ways to [do something] like a boss35. Try this, not that36. The best [items] for [season/event]37. 1000s sold! Get yours before sold out38. Throwing shade at [pain point]  39. Last day for FREE SHIPPING! 🚢40. Stop wasting $ on [unnecessary item]. Do this instead...41. The ultimate Father's Day gift guide 42. Skip the research. Start seeing [benefit].43. Affordable [usually pricey item]? Yes please!  44. For [Name]'s eyes only 👀45. See what's inside! 👜 46. How to [accomplish something] in [short time]47. These [items] are going fast ⚡48. I thought y
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2024-10-23T00:13:06+00:00
+Texto:
+Prompt: "Crie um resumo detalhado e uma lista de tópicos com exemplos do vídeo abaixo. O resumo deve ser uma explicação clara do conteúdo principal do vídeo, e a lista de tópicos deve seguir a estrutura de tempo (minuto:segundo) apresentada no vídeo. Cada tópico deve incluir uma breve explicação e um exemplo prático extraído do vídeo. Aqui estão as informações do vídeo:Vídeo: [Título do vídeo]  Descrição: [Descrição detalhada do vídeo]  Palavras-chave: [Palavras-chave relacionadas ao conteúdo]  Links: [@inema.tds](@inema.tds)Tópicos e timestamps:  00:00 - [Primeiro tópico]  [Tempo] - [Segundo tópico]  [Tempo] - [Terceiro tópico]  [Tempo] - [Quarto tópico]  [Tempo] - [Quinto tópico] Hashtags: #inema #comunidade [5 palavras-chave relacionadas ao SEO]
+{{12.result}}
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2024-10-23T00:11:58+00:00
+Texto:
+Aja como especialista em mídias sociais com experiência no YouTube, atualizado com as informações mais recentes das diretrizes da plataforma. Quero que você crie a melhor descrição possível para otimizar os resultados, com base no conteúdo {{15.text}} .O foco deve ser em atrair interessados em práticas sustentáveis e otimizar a descrição para SEO com palavras-chave relevantes. Inclua chamadas para ação que tenha a ver com o conteudo e que incentivem o público a se inscrever no canal e baixar materiais educativos da Nossa Comunidade. Crie 5 Palavras chaves como orienta o Youtube. Nao cite Chamada a Açao.  O resultado não deve apresentar nenhum comentário adicional, formatação ou caracteres especiais. Crie no final 5 hashtag viral do Assunto ale da #inema #inematds
+use o {{1.caption}} para validar informacao
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2024-10-22T00:49:16+00:00
+Texto:
+Um nome simples e eficaz para esse método poderia ser **"Método RESUME"**, onde cada letra representa uma etapa do processo:
+
+- **R**: **Relevância** – Identificar o tema central ou a mensagem principal.
+- **E**: **Essência** – Destacar os fatos e exemplos mais importantes.
+- **S**: **Síntese** – Resumir de forma concisa, eliminando detalhes supérfluos.
+- **U**: **Utilidade** – Garantir que o resumo seja útil e compreensível.
+- **M**: **Mensurabilidade** – Limitar o número de palavras para manter o foco.
+- **E**: **Eficácia** – Revisar e ajustar para máxima clareza e impacto.
+
+O nome é fácil de lembrar, direto ao ponto, e reflete o objetivo do método: criar resumos rápidos e precisos, facilitando a compreensão do conteúdo.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2024-10-22T00:48:57+00:00
+Texto:
+Metodo RESUME
+
+Para transformar esse modelo em um método geral aplicável a diferentes tipos de conteúdo, você pode seguir estes passos estruturados:
+
+### 1. **Definição do Objetivo**
+Determine o propósito do resumo. Pode ser para vídeos, artigos, podcasts, ou outros tipos de conteúdo. Isso ajudará a ajustar o foco, dependendo do formato.
+
+### 2. **Leitura/Análise Atenta**
+Leia ou assista ao conteúdo com atenção, identificando:
+   - Tema central ou mensagem principal
+   - Fatos, exemplos ou estatísticas importantes
+   - Conclusões, recomendações ou insights finais
+
+### 3. **Identificação dos Elementos Chave**
+Extraia as informações essenciais:
+   - **Mensagem Principal**: Qual é o tema ou o ponto central discutido?
+   - **Fatos/Estatísticas de Suporte**: Quais dados ou exemplos reforçam a mensagem?
+   - **Conclusão/Insight**: Se houver, qual é a recomendação ou conclusão final do conteúdo?
+
+### 4. **Organização da Informação**
+Organize as informações em ordem de importância, priorizando os pontos mais relevantes. Elimine detalhes ou repetições desnecessárias. Foque no que agregará mais valor ao leitor.
+
+### 5. **Escrita Concisa e Direta**
+Redija o resumo com o foco na clareza e precisão:
+   - Use frases curtas e diretas.
+   - Evite descrições longas e detalhes secundários.
+   - Não use introduções como "Este conteúdo fala sobre…". Comece diretamente com as ideias principais.
+
+### 6. **Limitação de Palavras**
+Estabeleça um limite de palavras ou caracteres, dependendo do formato (ex.: 35 palavras para resumos curtos, 100 palavras para artigos mais longos). Isso garante que o resumo permaneça conciso.
+
+### 7. **Revisão e Ajuste**
+Revise o resumo para:
+   - Verificar se todas as informações essenciais foram incluídas.
+   - Garantir que está claro, direto e compreensível.
+   - Corrigir possíveis redundâncias ou frases que poderiam ser mais curtas.
+
+### Exemplo de Aplicação em Vídeos e Artigos
+- **Vídeos curtos (ex.: Instagram/TikTok)**: Resuma a mensagem principal e os pontos-chave, limitando-se a uma frase direta.
+- **Artigos de notícias**: Destacar o tema principal, os principais fatos e qualquer conclusão relevante.
+- **Podcasts ou entrevistas**: Enfatizar o tema central, os principais argumentos discutidos e qualquer recomendação prática oferecida.
+
+### Criando uma Estrutura de Aplicação Automática
+- **Passo 1**: Defina o tipo de conteúdo.
+- **Passo 2**: Liste a mensagem principal, fatos de suporte e a conclusão.
+- **Passo 3**: Aplique o limite de palavras.
+- **Passo 4**: Revise para manter clareza e precisão.
+
+Ao seguir esse método, você pode aplicar a mesma lógica em praticamente qualquer formato de conteúdo, criando resumos eficientes e úteis para diferentes tipos de audiência.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2024-10-22T00:46:25+00:00
+Texto:
+Prompts de video deo instragram
+
+You will be provided with the transcript of an Instagram video by.
+
+ Your task is to carefully read and comprehend the content of the transcript. After analyzing the transcript, generate a concise summary of the key points and main ideas discussed in the video. The summary should be informative, helpful, and to the point, with a maximum length of 35 words.
+When creating the summary, focus on the following aspects:
+
+
+
+
+Identify the core message or theme of the video.
+Highlight the most important facts, statistics, or examples that support the main points.
+If applicable, briefly mention any significant conclusions or recommendations made in the video.
+
+
+
+
+Avoid using unnecessary fluff or filler phrases, and do not include introductory phrases like "this video is about." Instead, concentrate on directly communicating the essential information in a clear and efficient manner.
+
+
+To ensure your summary is effective, consider the following tips:
+Use concise and precise language to convey the key ideas.
+Prioritize information based on its relevance to the main message.
+Ensure that the summary can be easily understood by someone who hasn't watched the video.
+Read through your summary to check for clarity, coherence, and adherence to the 35-word limit.
+
+
+
+
+Remember, your goal is to provide a comprehensive yet succinct overview of the video's content, enabling readers to quickly grasp the core message and main takeaways. Do not repeat the title.
+
+The Instagram transcript: {{8.result}}
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2024-10-09T05:21:51+00:00
+Texto:
+Aqui está uma lista simples dos prompts que discutimos nesta conversa:
+
+1. **Video Metrics Analysis and Suggestion Bot** – Analisar métricas de vídeos e fornecer sugestões baseadas em tendências e dados históricos.
+   
+2. **Prompt Writer for Image Generation** – Criar prompts descritivos para geração de imagens a partir de um texto, seguindo diretrizes específicas de formatação e estilo.
+
+3. **LinkedIn Post Optimizer** – Criar uma publicação otimizada para LinkedIn a partir de um resumo de artigo, seguindo melhores práticas e diretrizes de tom de voz.
+
+4. **Productivity Assistant** – Analisar conversas e transformá-las em listas de tarefas organizadas, priorizando e usando emojis para contexto e urgência.
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2024-10-09T05:20:55+00:00
+Texto:
+https://chatgpt.com/c/6705f3e9-af88-8009-aa71-82343a378d2b
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2024-10-01T19:13:47+00:00
+Texto:
+#### 4. **Geração de Ganchos e Resumos Psicológicos**
+O uso de *compound prompts* para gerar ganchos e resumos psicológicos é uma técnica avançada que pode melhorar significativamente o impacto de uma campanha de marketing. A IA analisa o conteúdo fornecido, como um artigo ou vídeo, e decompõe os elementos que podem provocar uma resposta emocional no público. Em seguida, ela gera ganchos curtos e persuasivos, que podem ser usados em campanhas publicitárias, postagens em redes sociais ou até mesmo em e-mails de marketing.
+
+Este processo automatizado permite que empresas criem conteúdo altamente direcionado e emocionalmente envolvente, aumentando as chances de conversão e retenção de clientes.
+
+### Benefícios do Prompt Engineering
+
+O uso eficaz do Prompt Engineering oferece uma série de benefícios para empresas e indivíduos que desejam otimizar seus processos:
+
+- **Automação de Tarefas Repetitivas**: Processos como prospecção de leads, criação de conteúdo e suporte ao cliente podem ser automatizados, liberando tempo para que os colaboradores se concentrem em tarefas estratégicas.
+  
+- **Geração de Conteúdo em Massa**: Com os prompts certos, a IA pode gerar centenas de postagens, e-mails ou relatórios, economizando tempo e garantindo consistência no tom e na mensagem.
+
+- **Personalização em Escala**: A IA permite a personalização em massa de mensagens de marketing, ajustando cada comunicação com base nos interesses e comportamentos dos clientes, sem a necessidade de intervenção manual.
+
+- **Redução de Custos Operacionais**: Ao automatizar tarefas que antes exigiam um grande esforço humano, as empresas podem reduzir significativamente seus custos operacionais.
+
+- **Melhoria da Precisão**: O uso de prompts bem estruturados minimiza erros e inconsistências, garantindo que os resultados sejam confiáveis e de alta qualidade.
+
+### Desafios do Prompt Engineering
+
+Embora o Prompt Engineering ofereça muitos benefícios, ele também apresenta desafios. Criar o prompt ideal para uma tarefa específica pode exigir várias iterações até que o resultado desejado seja atingido. Além disso, a eficácia dos prompts depende da qualidade dos dados de entrada e da clareza das instruções fornecidas. Modelos de IA menos robustos também podem exigir uma estrutura mais detalhada nos prompts, o que aumenta a complexidade do processo.
+
+### O Futuro do Prompt Engineering
+
+Com a evolução constante dos modelos de IA, o Prompt Engineering continuará sendo uma habilidade essencial. No futuro, podemos esperar que as automações se tornem ainda mais sofisticadas, com a IA sendo capaz de entender e antecipar as necessidades dos usuários de maneira mais precisa e fluida. Novas ferramentas que facilitam a criação de prompts complexos e que permitem maior controle sobre os resultados gerados também devem surgir, tornando essa prática acessível a um público mais amplo.
+
+Em suma, o Prompt Engineering representa uma revolução na forma como interagimos com a IA, oferecendo um potencial quase ilimitado para automatizar, personalizar e otimizar processos. À medida que a tecnologia avança, aqueles que dominarem essa habilidade estarão à frente na era da automação e da eficiência.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2024-10-01T19:13:47+00:00
+Texto:
+**A Revolução do Prompt Engineering: Automação e Eficiência em Processos Complexos**
+
+Nos últimos anos, a inteligência artificial (IA) tem desempenhado um papel crucial em transformar diversas áreas de negócios, automação e geração de conteúdo. Dentro desse contexto, o **Prompt Engineering** emergiu como uma habilidade fundamental, permitindo que as máquinas interajam de maneira eficiente e direcionada com os modelos de linguagem, como GPT-4, para realizar tarefas complexas. Esta prática envolve a criação de prompts (comandos ou instruções) detalhados que orientam a IA a fornecer resultados específicos e de alto valor.
+
+Neste artigo, exploraremos como **Prompt Engineering** está sendo aplicado para automações avançadas em diferentes setores, usando exemplos práticos de como a IA pode otimizar fluxos de trabalho complexos, gerar conteúdo viral e melhorar a personalização em atividades de marketing.
+
+### O que é Prompt Engineering?
+
+Prompt Engineering é a técnica de formular comandos precisos para obter saídas adequadas de modelos de IA, como GPT-4 e outros grandes modelos de linguagem. Dependendo do nível de complexidade da tarefa, os prompts podem ser simples ou compostos (chamados de *compound prompts*), onde múltiplas instruções são fornecidas para que a IA realize uma série de tarefas conectadas.
+
+A engenharia de prompts permite a personalização de saídas de IA para processos automáticos, criando fluxos de trabalho otimizados, economizando tempo e recursos, e garantindo consistência. 
+
+### Exemplos de Aplicação de Prompt Engineering
+
+#### 1. **Automação no LinkedIn Sales Navigator**
+Um dos exemplos mais poderosos de automação é a utilização de prompts para transformar descrições simples de clientes-alvo em parâmetros de pesquisa no LinkedIn Sales Navigator. No ambiente de vendas B2B, a busca por leads qualificados é crucial, e o LinkedIn Sales Navigator é uma ferramenta poderosa para isso.
+
+Com o uso de um *compound prompt*, a IA pode pegar uma descrição geral, como "líderes de marketing em grandes empresas de SaaS", e converter isso automaticamente em uma pesquisa estruturada, definindo:
+- Cargos relevantes (ex.: Diretores de Marketing)
+- Setores (ex.: SaaS, Tecnologia)
+- Níveis de senioridade (ex.: Executivos)
+- Tamanho da empresa
+- Receita
+
+Essa automação economiza tempo e melhora a eficiência do processo de prospecção, permitindo que os times de vendas foquem em fechar negócios em vez de procurar manualmente pelos leads.
+
+#### 2. **Criação de Threads Virais no Twitter**
+A capacidade de gerar conteúdo viral é um dos principais benefícios do uso de IA no marketing digital. Um exemplo prático é a criação automatizada de threads no Twitter, que podem ajudar empresas e influenciadores a engajar com seus seguidores de maneira mais eficiente.
+
+A IA pode analisar um artigo ou vídeo do YouTube e, com base nos principais gatilhos emocionais e psicológicos, gerar uma série de tweets conectados. Este processo envolve:
+1. Identificação de pontos emocionais que podem ressoar com o público.
+2. Criação de ganchos atraentes que incentivem os usuários a interagir.
+3. Composição de uma thread com entre 5 e 7 tweets, abordando os principais pontos do conteúdo.
+
+Essa automação não apenas acelera o processo de criação de conteúdo, mas também aumenta as chances de viralização ao usar gatilhos emocionais e psicológicos eficazes.
+
+#### 3. **Otimização de Conteúdo para Redes Sociais**
+Outro uso prático do Prompt Engineering é a otimização de conteúdo para plataformas como Twitter e LinkedIn. Usando *atomic prompts*, que são comandos simples, a IA pode reformular e formatar o conteúdo de forma que ele seja mais legível e amigável para dispositivos móveis, adicionando quebras de linha entre frases ou ajustando o tamanho do texto.
+
+Isso é especialmente útil para profissionais de marketing que precisam adaptar conteúdos longos para serem distribuídos em várias plataformas de mídia social sem comprometer a clareza ou a legibilidade.
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2024-10-01T19:13:47+00:00
+Texto:
+https://gamma.app/docs/rdfev2bumf764v6
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2024-10-01T19:13:47+00:00
+Texto:
+https://chatgpt.com/c/66f9c45a-61d8-8009-93e1-d5dfd749f416
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 15
+Autor: INEMA
+Data: 2024-10-01T19:13:47+00:00
+Texto:
+https://gamma.app/docs/mswbjtip1tqhbug
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 16
+Autor: INEMA
+Data: 2024-10-01T19:13:47+00:00
+Texto:
+https://gamma.app/docs/8hm0b51wxs0rmug
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 17
+Autor: INEMA
+Data: 2024-10-01T19:13:47+00:00
+Texto:
+https://gamma.app/docs/52ko2vihysr25mf
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 18
+Autor: INEMA
+Data: 2024-10-01T19:13:47+00:00
+Texto:
+https://gamma.app/docs/r7suyqiuv2vzb06
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 19
+Autor: INEMA
+Data: 2024-10-01T19:13:47+00:00
+Texto:
+https://gamma.app/docs/5frelvboog66au1
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 20
+Autor: INEMA
+Data: 2024-10-01T19:13:47+00:00
+Texto:
+https://gamma.app/docs/snw0c81xk93egpu
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 21
+Autor: INEMA
+Data: 2024-10-01T19:13:47+00:00
+Texto:
+https://gamma.app/docs/ni47ratkzgvwi8u
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 22
+Autor: INEMA
+Data: 2024-10-01T19:13:46+00:00
+Texto:
+https://gamma.app/docs/dsoaojmez8rkzar
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 23
+Autor: INEMA
+Data: 2024-10-01T19:13:46+00:00
+Texto:
+https://gamma.app/docs/xcd779wzsu5tjk7
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 24
+Autor: INEMA
+Data: 2024-10-01T19:13:46+00:00
+Texto:
+https://gamma.app/docs/ukde1igvohyvn9w
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 25
+Autor: INEMA
+Data: 2024-10-01T19:13:46+00:00
+Texto:
+https://gamma.app/docs/o2ngmwcd85vouir
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 26
+Autor: INEMA
+Data: 2024-10-01T19:13:46+00:00
+Texto:
+https://gamma.app/docs/qi267etmv4t50ua
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 27
+Autor: INEMA
+Data: 2024-10-01T19:13:46+00:00
+Texto:
+Prompts na Automacao
+
+------------------------------
+
+MENSAGEM 28
+Autor: INEMA
+Data: 2024-10-01T19:13:46+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto
+
+------------------------------
+
+MENSAGEM 29
+Autor: INEMA
+Data: 2024-10-01T19:10:57+00:00
+Texto:
+9
+
+------------------------------
+
+MENSAGEM 30
+Autor: INEMA
+Data: 2024-10-01T19:10:57+00:00
+Texto:
+8
+
+------------------------------
+
+MENSAGEM 31
+Autor: INEMA
+Data: 2024-10-01T19:10:57+00:00
+Texto:
+7
+
+------------------------------
+
+MENSAGEM 32
+Autor: INEMA
+Data: 2024-10-01T19:10:56+00:00
+Texto:
+6
+
+------------------------------
+
+MENSAGEM 33
+Autor: INEMA
+Data: 2024-10-01T19:10:56+00:00
+Texto:
+5
+
+------------------------------
+
+MENSAGEM 34
+Autor: INEMA
+Data: 2024-10-01T19:10:55+00:00
+Texto:
+4
+
+------------------------------
+
+MENSAGEM 35
+Autor: INEMA
+Data: 2024-10-01T19:10:55+00:00
+Texto:
+3
+
+------------------------------
+
+MENSAGEM 36
+Autor: INEMA
+Data: 2024-10-01T19:10:54+00:00
+Texto:
+2
+
+------------------------------
+
+MENSAGEM 37
+Autor: INEMA
+Data: 2024-10-01T19:10:54+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 38
+Autor: INEMA
+Data: 2024-10-01T19:10:53+00:00
+Texto:
+Prompts para Automacao
+
+------------------------------
+
+MENSAGEM 39
+Autor: INEMA
+Data: 2024-10-01T19:10:39+00:00
+Texto:
+Objetivo de ter Prompts para automacao é q eles tem ser claros e objetivos para trazer a informacao exata q queremos , nao para ficar conversadom ate achar melhor resposta
+
+------------------------------
+
+MENSAGEM 40
+Autor: INEMA
+Data: 2024-10-01T19:09:02+00:00
+Texto: [Sem texto]
+
+------------------------------
+

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2526,
+    "author": "INEMA",
+    "date": "2025-03-22T20:25:35+00:00",
+    "text": "j68",
+    "has_media": true,
+    "media_type": "MessageMediaDocument"
+  },
+  {
+    "id": 2525,
+    "author": "INEMA",
+    "date": "2025-03-22T20:23:44+00:00",
+    "text": "v**s. bad outputs, so the agent k**now`s what `t`o aim for or avoid.\n\nExample:\nGood Ex`a`mple:\nUser: “Please summarize the key benefits of the` p`roduct.”\n`A`gent: “The top three benefits are X, Y, and Z (reference data source `A`). They help users save time, reduce costs, and increase productivit`y.`”\nBad `E`xample:\nAgent: “Just buy it; it’s th`e` best.” (No detail or references)\n\n7. Formatting` `and Output SpecificationsMetadata: If m`u`ltiple AI outputs will be combined, you might ne`ed` to return meta`d`ata (e.g., timestamps, versioning info, or referen`c`es used).\nStructured Output: If the system requires JSON or a speci`fi`c markup, `s`pecify that.\nError Handling: I`n`dicate what the agent should `do` if an error occurs `o`r a query can’t be answered.\n\nExample:\nOutput Forma`t`:\nReturn your final answer as valid JSON with the k`e`ys: “summary”, “references”.\nIf no valid references are f`ou**nd, return an **emp**ty list for “refer**e**nces” and note “No additional references.”**",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2524,
+    "author": "INEMA",
+    "date": "2025-03-22T20:23:43+00:00",
+    "text": ".**AI Agent Prompting Template 🤖**\n\n\n`[ROLE] `\n`- You are the [Name of Agent / Role].`\n`- Your main responsibility is to [Primary Objective].`\n\n`[CONTEXT]`\n`- System environment: [Briefly describe the multi-agent environment].`\n`- Known details: [Facts, references, previous conversation context].`\n\n`[TASK]`\n`- Goal: [Specific outcome you want].`\n`- Constraints: [Time limit, length limit, etc.].`\n`- Style: [Tone, formatting guidelines].`\n`- Output format: [Plain text, HTML, JSON, etc.].`\n\n`[COLLABORATION]`\n`- Other agents: [Who they are, what they provide].`\n`- Interaction: [How and when this agent should interact with them].`\n\n`[EXAMPLES]`\n`- Good response example: [...]`\n`- Bad response example: [...]`\n\n`[FINAL REQUIREMENTS]`\n`- QA checks: [Spelling, grammar, factual accuracy].`\n`- Ethical guidelines: [Allowed/Disallowed content].`\n`- Error handling: [Instructions if something goes wrong].`\n\n**How it works….**\n\n\n**1. Role Definition**\n**Role/Persona: Explain what this agent is supposed to be or act as (e.g., “You are a financial advisor,” or “You are a marketing specialist”).**\n**Expertise Level: Specify the level of expertise expected (e.g., “Expert in legal matters,” “Beginner-friendly instructor”).**\n**Primary Objectives: Summarize what the agent does in the multi-agent system. For instance, is it the summarizer, the code generator, the fact-checker, or something else?**\n\n**Example:**\n**Role: You are the “Content Fact-Checker” AI, responsible for verifying the factual accuracy of texts and providing corrections or supporting evidence.**\n**2. Context and Background**\n**System Context: Provide the larger setting or scenario that the multi-agent system is operating in (e.g., “A team of AIs collaborating to write blog posts for a tech website”).**\n**Shared Knowledge: State any relevant facts, constraints, or previously known information.**\n**Relevant Documents/Resources: Indicate which resources are available for referencing (e.g., knowledge bases, FAQs, user manuals).**\n\n**Example:**\n**Context: This multi-agent system is designed to create an in-depth user guide for a new software product. Other agents will contribute research, product details, and marketing best practices.**\n**3. Task Explanation / Goal**\n**Core Task: Clearly spell out the objective: “Write a step-by-step tutorial,” “Generate marketing slogans,” “Verify factual data in the product description,” etc.**\n**Input Details: Clarify if there is specific user input or data that must be processed.**\n**Output Format: Outline precisely how you want the response formatted (bullet points, JSON, full paragraphs, etc.).**\n\n**Example:**\n**Task: Given the product specifications below, generate a 300-word FAQ article in plain English. Keep it accurate and user-friendly.**\n**4. Constraints and Instructions**\n**Length or Size: Maximum or minimum character or token count.**\n**Tone or Style: Formal, casual, academic, comedic, etc.**\n**Do’s and Don’ts: Any rules to follow or things to avoid (e.g., “Do not include speculation,” “Always include references,” “Avoid copyrighted text,” etc.).**\n**Time or Resource Limits: If needed for real-time systems, mention performance constraints.**\n\n**Example:**\n**Constraints:**\n**Keep responses under 500 words.**\n**Maintain a friendly, approachable tone.**\n**If uncertain about any facts, ask for clarification from the “Research” agent.**\n\n**5. Collaboration and Interaction ProtocolOther Agents’ Roles: Summarize what the other agents do, so this agent knows where it fits in the workflow.**\n**Message Passing: Indicate whether this agent can or should request additional data from the other agents (e.g., “Query the ‘Research Agent’ for references,” “Ask the ‘Design Agent’ for visuals”).**\n**Sequence of Turns: In a multi-agent environment, specify how and when this agent should speak or remain silent.**\n\n**Example:**\n**Collaboration:**\n**The “Research Agent” can provide product data.**\n**The “Design Agent” can contribute visuals or layout ideas.**\n**You (the “Content Fact-Checker”) should correct any inaccuracies in the final text and provide reliable sources if available.**\n\n**6. Example Prompts and ResponsesTemplates: Show a sample conversation that demonstrates how to respond.**\n**Positive/Negative Examples: Provide examples of good**",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2523,
+    "author": "INEMA",
+    "date": "2025-03-22T20:23:35+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2522,
+    "author": "INEMA",
+    "date": "2025-03-22T20:23:35+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2521,
+    "author": "INEMA",
+    "date": "2025-03-22T20:23:34+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2520,
+    "author": "INEMA",
+    "date": "2025-03-22T20:23:34+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2519,
+    "author": "INEMA",
+    "date": "2025-03-22T20:23:34+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2518,
+    "author": "INEMA",
+    "date": "2025-03-22T20:23:09+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

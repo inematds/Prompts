@@ -1,0 +1,168 @@
+TOPICO 3882
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-06-26 04:34:23+00:00
+
+Total de mensagens: 12
+Midias baixadas: 2
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-07-22T20:39:47+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-06-27T01:34:04+00:00
+Texto:
+https://chatgpt.com/g/g-685df4a75e988191b0576ec5a94d63c3-inema-prompt-vibe-code-boll
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-06-26T04:34:33+00:00
+Texto:
+Aqui está uma **estrutura padrão otimizada** para você usar como **modelo de prompts no Bolt**, especialmente útil para construir apps com IA, Supabase, Stripe, interfaces modernas, etc. Essa estrutura é modular, clara e segue os hacks citados anteriormente.
+
+---
+
+### Estrutura Padrão de Prompt para Bolt
+
+```## 🎯 Objetivo do Projeto
+Estou desenvolvendo um aplicativo que [descreva o propósito geral].
+Exemplo: "um app de receitas personalizadas para pessoas com restrições alimentares (glúten, vegano, etc.)."
+
+## 🧠 Contexto
+O app será usado por [tipo de usuário] e deve ter foco em [acessibilidade, performance, beleza visual, simplicidade, etc.].
+Exemplo: "Usuários de todas as idades que desejam encontrar receitas com base em suas restrições alimentares."
+
+## ⚙️ Funcionalidades Requeridas
+1. Autenticação com e-mail e senha (via Supabase).
+2. Banco de dados com CRUD completo para [nome da entidade, ex: receitas, produtos, usuários].
+3. Integração com Stripe para assinatura mensal e pagamento único.
+4. Busca por filtros personalizados (ex: sem glúten, vegano, low carb).
+5. Sistema de recomendação simples com base nos filtros escolhidos.
+
+## 🎨 Design e UI
+- Estilo moderno e clean.
+- Utilizar Tailwind CSS.
+- Layout responsivo para mobile e desktop.
+- Barra de navegação fixa com fundo degradê.
+- Botões grandes e acessíveis, com animação ao passar o mouse.
+- Cores contrastantes para acessibilidade.
+
+## 🧪 Dados
+- Use dados fictícios como placeholders (mock data) inicialmente.
+- Banco de dados com as seguintes colunas: nome, categoria, ingredientes, tempo de preparo, imagem.
+
+## 📦 Tecnologias
+- Supabase para autenticação e banco de dados.
+- Stripe para pagamentos.
+- Claude 4 (modelo por trás do Bolt).
+- Tailwind CSS para a interface.
+
+## 💬 Observações Importantes
+- Antes de executar qualquer etapa, confirme o entendimento do plano.
+- Sempre me mostre o resultado em formato de preview, com opção de refinar.
+- Ao dividir em etapas, sempre me avise o que está sendo feito.
+- O app precisa ser escalável e modular.
+
+## 🧩 Etapas de Execução (para orientação interna do AI)
+1. Criar estrutura do app com base no layout desejado.
+2. Configurar autenticação.
+3. Criar banco de dados com Supabase.
+4. Integrar Stripe para pagamentos.
+5. Refinar design responsivo e animações.
+6. Testar com dados mock e depois preparar para produção.
+```
+
+---
+
+### Como usar:
+
+* Copie e cole no Bolt.
+* Modifique os blocos conforme o seu projeto.
+* Use o modo **discussão** para validar o entendimento do AI antes de construir.
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-06-26T04:34:29+00:00
+Texto:
+Prompt Estrutural BOLT (Vibe Code)
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-06-26T04:34:29+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-06-26T04:34:29+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-06-26T04:34:29+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-06-26T04:34:28+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-06-26T04:34:28+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-06-26T04:34:28+00:00
+Texto:
+https://chatgpt.com/c/685ccb44-9324-8009-8fd3-904bb888a30c
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-06-26T04:34:27+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-06-26T04:34:23+00:00
+Texto: [Sem texto]
+
+------------------------------
+

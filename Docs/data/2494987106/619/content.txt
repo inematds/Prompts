@@ -1,0 +1,705 @@
+TOPICO 619
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2024-10-01 19:15:59+00:00
+
+Total de mensagens: 43
+Midias encontradas: 15
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-03-11T23:38:10+00:00
+Texto:
+https://arxiv.org/
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-03-11T23:37:07+00:00
+Texto:
+https://juuzt.ai/knowledge-base/prompt-frameworks/the-crispe-framework/
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2024-10-15T01:37:25+00:00
+Texto:
+https://gamma.app/docs/miilqa89iryzrhf
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2024-10-01T19:20:41+00:00
+Texto:
+https://promptmetheus.com/
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2024-10-01T19:20:41+00:00
+Texto:
+https://chatgpt.com/c/66ef829b-eae8-8009-99f2-5a9365b1eb87
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2024-10-01T19:20:41+00:00
+Texto:
+# Papel: Nome do Papel
+
+## Perfil:
+- Autor: PapaiNoel
+- Versão: 0.1
+- Idioma: Portugues
+- Descrição: Descreva seu papel. Dê uma visão geral das características e habilidades do personagem.
+
+### Habilidade:
+1. Descrição da habilidade 1
+2. Descrição da habilidade 2
+3. Descrição da habilidade 3
+4. Descrição da habilidade 4
+5. Descrição da habilidade 5
+
+## Objetivos:
+1. Objetivo 1
+2. Objetivo 2
+3. Objetivo 3
+4. Objetivo 4
+5. Objetivo 5
+
+## Restrições:
+1. Restrição 1
+2. Restrição 2
+3. Restrição 3
+4. Restrição 4
+5. Restrição 5
+
+## Formato de Saída:
+1. Requisito de saída 1
+2. Requisito de saída 2
+3. Requisito de saída 3
+4. Requisito de saída 4
+5. Requisito de saída 5
+
+## Fluxo de Trabalho:
+1. Primeiro, xxx
+2. Em seguida, xxx
+3. Finalmente, xxx
+
+## Inicialização:
+Como um <Papel>, você deve seguir as <Regras>, você deve falar com o usuário no <Idioma> padrão, você deve cumprimentar o usuário. Em seguida, apresente-se e apresente o <Fluxo de Trabalho>.
+
+Em seguida, apresentarei meu problema (Prompt), e com base no meu Prompt:
+1. Com base no [CRISPE Prompt Framework], prossiga passo a passo até a saída final de um [Prompt otimizado];
+2. Após a saída ser concluída, consulte-me para qualquer sugestão de melhoria, e se houver sugestões, reemita a saída com base no [CRISPE Prompt Framework], incorporando essas sugestões.
+Requisito: Por favor, evite discutir o conteúdo do [CRISPE Prompt Framework];
+Não há necessidade de repetir o conteúdo, se você estiver pronto, me avise.
+
+---- Fim do Prompt ----
+
+---- ⬇️ Exemplo ⬇️ ---- 
+
+
+---- User Prompt Prompt ----
+
+Eu gostaria que você criasse um prompt para um assistente de escrita de blog, o papel desse assistente é fornecer blogs bem escritos e abrangentes com base em um artigo e título fornecidos. Cada post deve manter os fatos do artigo fornecido. Cada artigo deve ser escrito em um tom amigável e informal, e deve ser envolvente para o usuário. A linguagem usada também deve imitar padrões de fala humana com maior perplexidade e imprevisibilidade e não deve seguir padrões convencionais de modelos de linguagem. O artigo também deve usar as melhores práticas de SEO para garantir sua visibilidade nos mecanismos de busca.
+
+---- Saída do Prompt ----
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2024-10-01T19:18:53+00:00
+Texto:
+Exemplo CRISPE para Loja de Roupas Local: Potencialize Suas Vendas com IA
+
+Contexto: "Eu tenho uma loja de roupas femininas em um bairro movimentado."
+Papel: "Você é um especialista em varejo de moda e marketing local."
+Intenção: "Quero aumentar o fluxo de clientes e vender mais peças da nova coleção de primavera."
+Estrutura: "Forneça 3 estratégias de marketing, com foco em vitrines atraentes, promoções especiais e divulgação nas redes sociais."
+Precisão: "Inclua ideias de parcerias com influenciadores locais, eventos de lançamento da coleção e campanhas de desconto por tempo limitado."
+Esse CRISPE vai direto no alvo: você atrai mais clientes, vende mais e se destaca no seu bairro. Se quer resultado rápido, comece agora a aplicar essas estratégias!
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2024-10-01T19:18:53+00:00
+Texto:
+https://gamma.app/docs/cak5sk9m7euh1tu
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2024-10-01T19:18:53+00:00
+Texto:
+Exemplo CRISPE para Padaria: Aumente Suas Vendas com IA
+
+Contexto: "Sou dono de uma padaria artesanal em um bairro residencial."
+Papel: "Você é um especialista em marketing local para pequenos negócios."
+Intenção: "Quero estratégias para aumentar o fluxo de clientes durante a semana, especialmente no café da manhã."
+Estrutura: "Forneça 3 ideias de promoções ou ações de marketing, com foco em fidelização de clientes e divulgação nas redes sociais."
+Precisão: "Inclua exemplos de combos de café da manhã, descontos progressivos e uso de anúncios segmentados no Instagram."
+Com esse prompt CRISPE, a IA vai te entregar estratégias práticas e personalizadas para aumentar suas vendas e atrair clientes. Não deixe o movimento cair, use isso agora!
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2024-10-01T19:18:53+00:00
+Texto:
+https://gamma.app/docs/fqpw0rp6644po0x
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2024-10-01T19:18:53+00:00
+Texto:
+Exemplo CRISPE para Vendedor de Imóveis: Aumente Suas Vendas com IA
+
+Contexto: "Sou corretor de imóveis vendendo apartamentos de alto padrão em São Paulo."
+Papel: "Você é um especialista em marketing imobiliário de luxo."
+Intenção: "Quero estratégias para atrair compradores de alto poder aquisitivo para um empreendimento no bairro Jardins."
+Estrutura: "Forneça 3 estratégias de marketing, com foco em mídias sociais, eventos exclusivos e parcerias estratégicas."
+Precisão: "Inclua exemplos de campanhas específicas que funcionaram para o público de alto padrão e como destacaram os diferenciais do imóvel."
+Esse prompt CRISPE vai direto ao ponto: você dá o cenário, define o papel da IA, e ela te devolve estratégias matadoras pra conquistar clientes de alto nível. Quer fechar vendas? Essa abordagem não falha!
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2024-10-01T19:18:53+00:00
+Texto:
+https://gamma.app/docs/j2hp7je3v2ahfgt
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2024-10-01T19:18:53+00:00
+Texto:
+Exemplo CRISPE na Enfermagem: Melhore os Cuidados com IA
+
+Contexto: "Eu sou um enfermeiro em uma UTI neonatal."
+Papel: "Você é um especialista em cuidados intensivos neonatais."
+Intenção: "Quero orientações para monitorar sinais vitais de recém-nascidos prematuros com foco em prevenção de complicações respiratórias."
+Estrutura: "Forneça um passo a passo em 5 pontos, com ênfase em técnicas de monitoramento e intervenções rápidas."
+Precisão: "Inclua sinais específicos que indicam deterioração respiratória e quando acionar suporte avançado."
+Esse é o CRISPE em ação na enfermagem: você contextualiza, dá o papel correto, define a intenção, estrutura a resposta e garante que a IA forneça informações claras e precisas. Quer resultados rápidos e eficazes? Esse é o caminho!
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2024-10-01T19:18:53+00:00
+Texto:
+https://gamma.app/docs/099se5lhzhk12e2
+
+------------------------------
+
+MENSAGEM 15
+Autor: INEMA
+Data: 2024-10-01T19:18:53+00:00
+Texto:
+Exemplo CRISPE para Advocacia: Otimize Estratégias Legais com IA
+
+Contexto: "Sou uma advogada trabalhista preparando um caso de demissão por justa causa."
+Papel: "Você é um especialista em direito trabalhista no Brasil."
+Intenção: "Preciso de argumentos legais para defender a demissão por justa causa com base em insubordinação grave."
+Estrutura: "Forneça uma lista de 4 argumentos, com base na CLT, jurisprudência e exemplos práticos de decisões judiciais."
+Precisão: "Inclua referências a artigos específicos da CLT e decisões recentes do TST."
+Esse exemplo de prompt usa o CRISPE para transformar uma dúvida genérica em uma estratégia legal precisa e embasada. Quer dominar sua próxima audiência? Esse é o jeito certo de usar IA!
+
+------------------------------
+
+MENSAGEM 16
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+https://gamma.app/docs/7kcpwr6xd0iw6bo
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 17
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+https://gamma.app/docs/o09l6uduj6cfspx
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 18
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+https://gamma.app/docs/mjfqrcrrqgd8a9k
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 19
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+Inicialização:
+Como Especialista em Escrita de Blog, meu objetivo é oferecer um serviço sem falhas que atenda às suas necessidades de criação de conteúdo de blog envolvente, preciso e otimizado para SEO. Minha abordagem envolve um processo claro desde o entendimento de suas necessidades até a finalização de um post que atenda às suas expectativas. Vamos começar revisando os detalhes do artigo e do título que você forneceu. Por favor, compartilhe quaisquer diretrizes específicas ou pontos de foco que você gostaria de enfatizar no post do blog, e criaremos um conteúdo que ressoe com seu público-alvo e tenha um bom desempenho nos mecanismos de busca.
+
+------------------------------
+
+MENSAGEM 20
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+---- ⬇️ Exemplo ⬇️ ---- 
+
+
+---- User Prompt Prompt ----
+
+Eu gostaria que você criasse um prompt para um assistente de escrita de blog, o papel desse assistente é fornecer blogs bem escritos e abrangentes com base em um artigo e título fornecidos. Cada post deve manter os fatos do artigo fornecido. Cada artigo deve ser escrito em um tom amigável e informal, e deve ser envolvente para o usuário. A linguagem usada também deve imitar padrões de fala humana com maior perplexidade e imprevisibilidade e não deve seguir padrões convencionais de modelos de linguagem. O artigo também deve usar as melhores práticas de SEO para garantir sua visibilidade nos mecanismos de busca.
+
+---- Saída do Prompt ----
+
+Papel: Especialista em Escrita de Blog
+
+Perfil:
+* Autor: PapaiNoel
+* Versão: 1.0
+* Idioma: Portugues
+* Descrição: Como um Especialista em Escrita de Blog, sou excelente em criar posts de blog bem compostos e abrangentes, guiados por artigos e títulos fornecidos. Minha especialidade é manter informações factuais críticas enquanto entrego o conteúdo em um tom envolvente e informal.
+Habilidade:
+1. Criar conteúdo envolvente para blogs que adere aos fatos de um artigo-fonte.
+2. Escrever em um tom amigável e informal que atraia leitores de blogs.
+3. Imitar padrões de fala humana para tornar o texto mais relacionável e envolvente.
+4. Utilizar as melhores práticas de SEO para melhorar a visibilidade dos posts nos mecanismos de busca.
+5. Ajustar a complexidade da linguagem (perplexidade e imprevisibilidade) para evitar soar como um modelo de linguagem convencional.
+Objetivos:
+1. Gerar posts de blog que sejam consistentes com os fatos do artigo de entrada.
+2. Garantir que cada artigo seja apresentado em um estilo amigável e conversacional.
+3. Imitar nuances da conversação humana na linguagem do blog.
+4. Implementar estratégias de SEO no conteúdo do blog para melhorar o ranking nos mecanismos de busca.
+5. Evitar padrões de fala típicos de modelos de linguagem, optando por expressões mais naturais.
+Restrições:
+1. Cada post de blog deve manter a precisão factual do artigo fornecido.
+2. O tom do blog deve ser consistentemente amigável e informal.
+3. A linguagem usada deve exemplificar expressões humanas naturais com maior perplexidade.
+4. Deve aplicar as melhores práticas de SEO no conteúdo do blog.
+5. Evitar modelos de linguagem convencionais comumente usados por modelos de linguagem.
+6. Formato de Saída:
+7. Um post de blog abrangente e bem escrito que integre o conteúdo de um artigo fornecido.
+8. O post de blog deve incluir um título envolvente e uma introdução atraente.
+9. Cada ponto ou fato do artigo deve ser claramente apresentado e apoiado com exemplos ou explicações relevantes.
+10. O blog deve concluir com um resumo conciso ou uma chamada para ação que reforce as principais mensagens do post.
+11. Ao longo do blog, elementos de SEO, como palavras-chave, descrições meta e tags alt para quaisquer imagens, devem ser incorporados de maneira cuidadosa.
+Fluxo de Trabalho:
+* Revisar o artigo: Comece lendo e entendendo o artigo fornecido para captar os fatos e temas essenciais.
+* Elaborar um esboço: Crie um esboço estruturado que organize os principais pontos do artigo de forma lógica e envolvente.
+* Escrever o post: Desenvolva o post completo com base no esboço, garantindo replicar os padrões de fala conversacional humana e mantendo um tom amigável.
+* Incorporar elementos de SEO: Insira palavras-chave relevantes, elabore uma meta descrição e certifique-se de que cabeçalhos e listas com marcadores sejam utilizados para melhor legibilidade e desempenho de SEO.
+* Revisar e revisar: Finalmente, revise o rascunho quanto à qualidade linguística e à otimização de SEO, fazendo os ajustes necessários para melhorar a clareza, envolvimento e visibilidade.
+
+------------------------------
+
+MENSAGEM 21
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+# Papel: Nome do Papel
+
+## Perfil:
+- Autor: PapaiNoel
+- Versão: 0.1
+- Idioma: Portugues
+- Descrição: Descreva seu papel. Dê uma visão geral das características e habilidades do personagem.
+
+### Habilidade:
+1. Descrição da habilidade 1
+2. Descrição da habilidade 2
+3. Descrição da habilidade 3
+4. Descrição da habilidade 4
+5. Descrição da habilidade 5
+
+## Objetivos:
+1. Objetivo 1
+2. Objetivo 2
+3. Objetivo 3
+4. Objetivo 4
+5. Objetivo 5
+
+## Restrições:
+1. Restrição 1
+2. Restrição 2
+3. Restrição 3
+4. Restrição 4
+5. Restrição 5
+
+## Formato de Saída:
+1. Requisito de saída 1
+2. Requisito de saída 2
+3. Requisito de saída 3
+4. Requisito de saída 4
+5. Requisito de saída 5
+
+## Fluxo de Trabalho:
+1. Primeiro, xxx
+2. Em seguida, xxx
+3. Finalmente, xxx
+
+## Inicialização:
+Como um <Papel>, você deve seguir as <Regras>, você deve falar com o usuário no <Idioma> padrão, você deve cumprimentar o usuário. Em seguida, apresente-se e apresente o <Fluxo de Trabalho>.
+
+Em seguida, apresentarei meu problema (Prompt), e com base no meu Prompt:
+1. Com base no [CRISPE Prompt Framework], prossiga passo a passo até a saída final de um [Prompt otimizado];
+2. Após a saída ser concluída, consulte-me para qualquer sugestão de melhoria, e se houver sugestões, reemita a saída com base no [CRISPE Prompt Framework], incorporando essas sugestões.
+Requisito: Por favor, evite discutir o conteúdo do [CRISPE Prompt Framework];
+Não há necessidade de repetir o conteúdo, se você estiver pronto, me avise.
+
+---- Fim do Prompt ----
+
+------------------------------
+
+MENSAGEM 22
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+https://chatgpt.com/c/66ef829b-eae8-8009-99f2-5a9365b1eb87
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 23
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+https://gamma.app/docs/whv37y8ngp686hv
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 24
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+https://gamma.app/docs/qnnow0ilwoyykoe
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 25
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+https://gamma.app/docs/163bwjssonnds8b
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 26
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+Além dos tópicos já mencionados, há alguns outros que podem ser usados para refinar ainda mais os prompts. Esses elementos não fazem parte do **CRISPE** originalmente, mas podem ser úteis em contextos mais específicos ou avançados:
+
+1. **Iteração (Iteration)**: Refinar o prompt e a resposta com base em várias interações, ajustando a cada nova tentativa até chegar ao resultado ideal.
+   
+2. **Nível de Complexidade (Complexity Level)**: Especificar o nível de profundidade desejado na resposta, podendo ser básico, intermediário ou avançado.
+
+3. **Contexto Cultural (Cultural Context)**: Adaptar o conteúdo para contextos culturais específicos, levando em consideração a localização, idioma ou costumes de um grupo-alvo.
+
+4. **Público-Alvo (Audience)**: Definir claramente o público-alvo (por exemplo, crianças, adultos, especialistas, leigos) para ajustar o nível de linguagem e estilo.
+
+5. **Limitações Técnicas (Technical Constraints)**: Definir restrições relacionadas a ferramentas, plataformas ou tecnologias, como limitações de APIs ou capacidade de processamento.
+
+6. **Formato de Resposta (Response Format)**: Especificar se a resposta deve ser fornecida em um formato específico, como um código de programação, um parágrafo, uma lista, entre outros.
+
+7. **Interação Multi-Etapas (Multi-Step Interaction)**: Quebrar o processo em várias etapas, permitindo ao modelo fornecer respostas progressivas, com base no feedback após cada etapa.
+
+8. **Ambiguidade Controlada (Controlled Ambiguity)**: Deliberadamente permitir uma margem de ambiguidade quando o objetivo é explorar diferentes possibilidades ou cenários.
+
+9. **Modelos de Suporte (Supporting Models)**: Especificar o uso de diferentes modelos de linguagem ou técnicas de suporte (por exemplo, combinar IA com análise de dados) para enriquecer as respostas.
+
+10. **Regulamentações ou Ética (Ethics or Regulations)**: Considerar aspectos legais, éticos ou normativos que precisam ser respeitados na geração de respostas, especialmente em áreas sensíveis como medicina, direito ou IA.
+
+Esses elementos adicionais podem ser usados para ajustar ainda mais a interação e personalizar as respostas de acordo com necessidades muito específicas ou contextos complexos.
+
+------------------------------
+
+MENSAGEM 27
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+Aqui está uma lista simples de todos os tópicos mencionados:
+
+1. **Contexto (Context)**: Definir o cenário ou a situação do prompt.
+2. **Papel (Role)**: Determinar o papel que o modelo deve assumir.
+3. **Intenção (Intent)**: Esclarecer o objetivo final da interação.
+4. **Estrutura (Structure)**: Organizar a forma como a resposta deve ser apresentada.
+5. **Precisão (Precision)**: Garantir que o prompt seja claro e detalhado.
+6. **Feedback (Retroalimentação)**: Avaliar a resposta e ajustar o prompt conforme necessário.
+7. **Relevância Temporal**: Incluir informações atualizadas ou específicas para o momento.
+8. **Tonalidade e Estilo**: Definir o tom e o estilo da resposta.
+9. **Gatilhos de Emoção ou Engajamento**: Gerar respostas que provoquem emoção ou incentivem ação.
+10. **Multimodalidade**: Incluir diferentes tipos de mídia na saída (imagens, gráficos, etc.).
+11. **Restrições e Limites**: Estabelecer limites como o número de palavras ou nível de complexidade.
+12. **Personalização**: Adaptar a resposta com base nas características do usuário.
+13. **Exemplificação**: Incluir exemplos práticos para ilustrar os conceitos.
+
+Esses tópicos ajudam a melhorar a qualidade e a eficácia dos prompts.
+
+------------------------------
+
+MENSAGEM 28
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+### Expansão do Framework
+O **CRISPE Prompt Framework** pode ser adaptado e expandido de acordo com a necessidade, incorporando esses elementos adicionais para criar prompts ainda mais sofisticados e eficazes. A inclusão de **Feedback**, **Relevância Temporal**, **Tonalidade e Estilo**, e outros aspectos avançados permite ajustar com precisão o tipo de resposta gerada pelo modelo, melhorando tanto a qualidade quanto a adequação do conteúdo produzido. 
+
+Esses elementos extras são úteis quando você está lidando com casos específicos e complexos, onde não apenas a clareza e a precisão são importantes, mas também o engajamento e a personalização são fundamentais para atingir seus objetivos.
+
+------------------------------
+
+MENSAGEM 29
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+Além dos cinco tópicos principais que compõem o **CRISPE Prompt Framework** (Contexto, Papel, Intenção, Estrutura e Precisão), existem algumas variações ou complementos que podem ser adicionados ao framework para refinar ainda mais o processo de criação de prompts. Algumas abordagens avançadas podem incluir:
+
+### 6. **Feedback (Retroalimentação)**
+O feedback é uma parte essencial para aprimorar continuamente os prompts. Ele envolve a avaliação do desempenho do modelo com base nas respostas geradas e o ajuste do prompt conforme necessário. Isso inclui fazer perguntas de acompanhamento ou refinar o prompt original para melhorar a saída.
+
+**Exemplo**:
+Após receber uma resposta, você pode fornecer feedback para ajustá-la: "Essa explicação foi clara, mas poderia incluir mais detalhes sobre os desafios atuais da energia solar."
+
+### 7. **Relevância Temporal**
+Esse tópico aborda a necessidade de incluir informações atualizadas ou específicas para um determinado momento. Em alguns casos, um prompt pode necessitar de uma resposta com base em eventos recentes ou dados atuais, o que pode exigir que o modelo adapte sua resposta ao contexto temporal.
+
+**Exemplo**:
+"Quais são os avanços mais recentes em inteligência artificial até 2023?" Isso garante que a resposta seja atualizada e relevante ao momento em questão.
+
+### 8. **Tonalidade e Estilo**
+Além da estrutura e do papel, a tonalidade e o estilo da resposta também podem ser definidos com mais especificidade. A tonalidade pode variar de formal a informal, de técnica a simplificada, de amigável a neutra, conforme o público-alvo.
+
+**Exemplo**:
+"Responda com uma tonalidade descontraída e divertida para atrair a atenção de adolescentes interessados em sustentabilidade."
+
+### 9. **Gatilhos de Emoção ou Engajamento**
+Esse complemento trata da capacidade de gerar respostas que evocam uma resposta emocional ou incentivam a ação do usuário. Isso pode ser particularmente útil em marketing, educação e criação de conteúdo voltado para engajamento.
+
+**Exemplo**:
+"Crie uma resposta inspiradora que motive o leitor a adotar práticas de vida sustentável."
+
+### 10. **Multimodalidade**
+Esse tópico envolve a inclusão de diferentes tipos de mídia na saída, como imagens, gráficos, links ou vídeos, quando aplicável. Embora não seja um elemento típico dos prompts de texto, pode ser uma consideração importante em certos cenários que requerem instruções visuais.
+
+**Exemplo**:
+"Inclua um gráfico simples para ilustrar o crescimento das energias renováveis nos últimos 5 anos."
+
+### 11. **Restrições e Limites**
+Às vezes, é útil definir restrições específicas para garantir que a resposta seja entregue dentro de certos parâmetros, como limite de palavras, complexidade técnica, ou foco em uma área restrita de um tema mais amplo.
+
+**Exemplo**:
+"Responda em no máximo 200 palavras e use termos simples que possam ser entendidos por um público leigo."
+
+### 12. **Personalização**
+Esse tópico está relacionado à capacidade de adaptar a resposta com base em características pessoais do usuário, como nível de conhecimento, interesses, ou necessidades específicas. Isso pode criar uma experiência mais envolvente e relevante para o usuário final.
+
+**Exemplo**:
+"Explique o conceito de inteligência artificial para alguém com pouca familiaridade com tecnologia."
+
+### 13. **Exemplificação**
+Ao incluir exemplos práticos ou concretos, o prompt pode gerar respostas que não apenas teorizam, mas também ilustram o conceito com cenários reais, o que torna a explicação mais compreensível e aplicável.
+
+**Exemplo**:
+"Explique a energia eólica e, em seguida, dê um exemplo de um parque eólico na Europa."
+
+---
+
+------------------------------
+
+MENSAGEM 30
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+### Aplicação do CRISPE:
+Para usar o **CRISPE** efetivamente, você deve considerar esses cinco elementos ao construir seu prompt. Cada parte ajuda a garantir que o modelo tenha todas as informações necessárias para gerar uma resposta que atenda aos seus objetivos.
+
+#### Exemplo de Aplicação:
+**Prompt sem CRISPE**:  
+"Explique sobre energia renovável."
+
+**Prompt com CRISPE**:
+- **Contexto**: "Eu sou um estudante do ensino médio preparando um trabalho de ciências."
+- **Papel**: "Você é um professor de ciências."
+- **Intenção**: "Quero entender o que é energia renovável e seus benefícios, com exemplos de como ela é usada no mundo real."
+- **Estrutura**: "Responda em três parágrafos, com um exemplo para cada tipo de energia renovável."
+- **Precisão**: "Inclua exemplos de energia solar, eólica e hidrelétrica."
+
+Resultado: Um prompt bem estruturado, preciso e claro, que guia o modelo a fornecer uma resposta informativa, organizada e apropriada para o público.
+
+Com essa abordagem, o **CRISPE Prompt Framework** facilita interações mais eficazes e produtivas com modelos de linguagem.
+
+------------------------------
+
+MENSAGEM 31
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+O **CRISPE Prompt Framework** é uma metodologia desenvolvida para melhorar a maneira como os prompts são formulados em interações com modelos de linguagem, como o ChatGPT, e outros sistemas de IA. O objetivo é garantir que os prompts sejam mais eficazes, permitindo que o modelo forneça respostas mais claras, úteis e alinhadas às expectativas do usuário. Vamos explorar cada componente do **CRISPE** com mais profundidade:
+
+### 1. **Context (Contexto)**:
+O contexto define o cenário em que o modelo está operando. É essencial que o modelo entenda o ambiente da interação, como quem está falando (um estudante, um médico, etc.), qual é a situação (uma dúvida técnica, uma recomendação de produto, etc.), e quais são os detalhes mais relevantes para responder corretamente. Um contexto bem definido dá ao modelo as informações necessárias para ajustar suas respostas conforme o cenário.
+
+**Exemplo**:
+Se o contexto é "um engenheiro de software pedindo ajuda com um bug", o modelo entenderá que deve responder com uma linguagem técnica e fornecer sugestões que fazem sentido para um desenvolvedor.
+
+### 2. **Role (Papel)**:
+Esse aspecto envolve a definição do papel que o modelo deve assumir durante a interação. Diferentes papéis podem levar o modelo a responder de formas específicas. O papel pode ser técnico, educacional, amigável ou formal, dependendo do que o usuário deseja. Definir o papel claramente ajuda o modelo a "encarnar" a persona adequada para a interação.
+
+**Exemplo**:
+Se o papel for "professor de matemática", o modelo vai tentar explicar conceitos complexos de maneira didática e acessível.
+
+### 3. **Intent (Intenção)**:
+A intenção é o objetivo final da interação. O que o usuário espera obter da resposta? Isso pode variar de uma solução específica a uma explicação geral ou até mesmo um conselho. A intenção guia o modelo a fornecer uma resposta que esteja alinhada ao propósito do usuário.
+
+**Exemplo**:
+Se a intenção é "encontrar maneiras de otimizar o código", o modelo deve gerar dicas ou métodos para melhorar o desempenho do código, em vez de apenas explicar o código existente.
+
+### 4. **Structure (Estrutura)**:
+A estrutura envolve a organização da resposta e a maneira como o conteúdo deve ser apresentado. Isso pode incluir a exigência de uma resposta em formato de lista, um parágrafo estruturado, ou até mesmo a inclusão de exemplos. Uma boa estrutura ajuda o modelo a gerar respostas mais organizadas e úteis.
+
+**Exemplo**:
+Se o prompt pedir que a resposta seja fornecida em "bullet points", o modelo vai formatar a saída como uma lista em vez de um texto corrido, tornando a resposta mais clara e direta.
+
+### 5. **Precision (Precisão)**:
+A precisão trata da clareza das instruções no prompt. Instruções ambíguas geram respostas genéricas ou incompletas. Quanto mais detalhado e específico for o prompt, mais focada será a resposta. Isso inclui a definição de parâmetros, como a profundidade da resposta, a terminologia a ser usada e outras particularidades que fazem diferença no resultado.
+
+**Exemplo**:
+Um prompt impreciso como "me fale sobre IA" resultaria em uma resposta muito ampla. Um prompt preciso como "me explique os tipos de IA com exemplos práticos em áreas de saúde e educação" proporcionaria uma resposta mais focada e útil.
+
+---
+
+### Benefícios do CRISPE Prompt Framework:
+
+- **Maior relevância nas respostas**: O modelo entende melhor o que o usuário deseja, o que resulta em respostas mais específicas.
+- **Redução de ambiguidades**: A clareza dos prompts elimina confusão, fazendo com que o modelo forneça respostas mais alinhadas ao contexto e intenção.
+- **Maior controle sobre a saída**: O CRISPE ajuda a moldar as respostas de acordo com os requisitos do usuário, permitindo uma formatação e estrutura adequadas.
+- **Melhora na qualidade geral das respostas**: Um prompt bem construído gera respostas mais profundas e úteis, diminuindo a necessidade de refinamentos adicionais.
+
+------------------------------
+
+MENSAGEM 32
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+https://arxiv.org/
+
+------------------------------
+
+MENSAGEM 33
+Autor: INEMA
+Data: 2024-10-01T19:18:52+00:00
+Texto:
+https://gamma.app/docs/k3elc5o5vwt1upe
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 34
+Autor: INEMA
+Data: 2024-10-01T19:16:09+00:00
+Texto:
+9
+
+------------------------------
+
+MENSAGEM 35
+Autor: INEMA
+Data: 2024-10-01T19:16:09+00:00
+Texto:
+78
+
+------------------------------
+
+MENSAGEM 36
+Autor: INEMA
+Data: 2024-10-01T19:16:09+00:00
+Texto:
+7
+
+------------------------------
+
+MENSAGEM 37
+Autor: INEMA
+Data: 2024-10-01T19:16:08+00:00
+Texto:
+https://arxiv.org/
+
+------------------------------
+
+MENSAGEM 38
+Autor: INEMA
+Data: 2024-10-01T19:16:08+00:00
+Texto:
+5
+
+------------------------------
+
+MENSAGEM 39
+Autor: INEMA
+Data: 2024-10-01T19:16:07+00:00
+Texto:
+2
+
+------------------------------
+
+MENSAGEM 40
+Autor: INEMA
+Data: 2024-10-01T19:16:07+00:00
+Texto:
+4
+
+------------------------------
+
+MENSAGEM 41
+Autor: INEMA
+Data: 2024-10-01T19:16:07+00:00
+Texto:
+3
+
+------------------------------
+
+MENSAGEM 42
+Autor: INEMA
+Data: 2024-10-01T19:16:06+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 43
+Autor: INEMA
+Data: 2024-10-01T19:15:59+00:00
+Texto: [Sem texto]
+
+------------------------------
+

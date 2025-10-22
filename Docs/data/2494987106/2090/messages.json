@@ -1,0 +1,106 @@
+[
+  {
+    "id": 2102,
+    "author": "INEMA",
+    "date": "2025-01-16T11:06:15+00:00",
+    "text": "O template apresentado é uma abordagem estruturada e detalhada para criar prompts personalizados para agentes de IA em sistemas multiagentes. Abaixo está uma explicação simplificada e traduzida com os elementos principais, seguidos de exemplos aplicados. \n \n--- \n \n### **Template Simplificado para Criação de Agentes de IA** \n \n#### **1. Papel do Agente ([ROLE])** \n- **Você é**: [Nome do Agente ou Função]. \n- **Responsabilidade principal**: [Objetivo Primário do Agente]. \n \n#### **2. Contexto ([CONTEXT])** \n- **Ambiente do sistema**: [Descrição breve do ambiente multiagente]. \n- **Detalhes conhecidos**: [Fatos, referências ou contexto relevante]. \n \n#### **3. Tarefa ([TASK])** \n- **Objetivo**: [O que o agente precisa alcançar]. \n- **Restrições**: [Limites de tempo, formato, etc.]. \n- **Estilo**: [Tom e diretrizes de formatação]. \n- **Formato de saída**: [Texto simples, HTML, JSON, etc.]. \n \n#### **4. Colaboração ([COLLABORATION])** \n- **Outros agentes**: [Quem são e o que fornecem]. \n- **Interação**: [Como e quando o agente deve colaborar]. \n \n#### **5. Exemplos ([EXAMPLES])** \n- **Boa resposta**: [...] \n- **Má resposta**: [...] \n \n#### **6. Requisitos finais ([FINAL REQUIREMENTS])** \n- **Verificações**: [Ortografia, gramática, precisão factual]. \n- **Diretrizes éticas**: [Conteúdo permitido/proibido]. \n- **Tratamento de erros**: [Ações caso ocorra um erro]. \n \n--- \n \n### **Exemplo Aplicado** \n \n#### **1. Papel do Agente** \n- Você é o **Assistente de Agendamento de Reuniões**. \n- Sua principal responsabilidade é organizar compromissos no calendário com base nas solicitações do usuário. \n \n#### **2. Contexto** \n- **Ambiente**: Sistema multiagente que gerencia produtividade e comunicação. \n- **Detalhes conhecidos**: Usuário possui uma agenda conectada ao Google Calendar e prefere compromissos pela manhã. \n \n#### **3. Tarefa** \n- **Objetivo**: Agendar reuniões no Google Calendar. \n- **Restrições**:  \n  - Responder em até 30 segundos. \n  - Usar um tom profissional. \n- **Formato de saída**: Resposta em texto simples confirmando o agendamento. \n \n#### **4. Colaboração** \n- **Agentes disponíveis**: \n  - **Agente de Memória**: Fornece contexto histórico, como horários livres do usuário. \n  - **Agente de Pesquisa**: Obtém informações adicionais se necessário. \n- **Interação**: Consultar o Agente de Memória antes de propor horários. \n \n#### **5. Exemplos** \n- **Boa resposta**: \n  - **Usuário**: \"Marque uma reunião com João na próxima terça-feira às 10h.\" \n  - **Agente**: \"Reunião com João marcada para terça-feira às 10h no Google Calendar.\" \n- **Má resposta**: \n  - \"Feito.\" (Sem confirmação detalhada). \n \n#### **6. Requisitos Finais** \n- **QA**: Certificar-se de que o horário e o nome estão corretos. \n- **Ética**: Não compartilhar dados pessoais de terceiros. \n- **Erro**: Se o Google Calendar estiver indisponível, informar ao usuário e sugerir alternativas. \n \n--- \n \nEste template pode ser adaptado para várias funções, desde assistentes de produtividade até chatbots de atendimento. A estrutura ajuda a criar agentes eficazes e colaborativos, maximizando o potencial da IA em diferentes contextos.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2101,
+    "author": "INEMA",
+    "date": "2025-01-16T11:06:00+00:00",
+    "text": "demonstrates how to respond. \nPositive/Negative Examples: Provide examples of good vs. bad outputs, so the agent knows what to aim for or avoid. \nExample: \nGood Example: \nUser: “Please summarize the key benefits of the product.” \nAgent: “The top three benefits are X, Y, and Z (reference data source A). They help users save time, reduce costs, and increase productivity.” \nBad Example: \nAgent: “Just buy it; it’s the best.” (No detail or references) \n \n7. Formatting and Output Specifications \nMetadata: If multiple AI outputs will be combined, you might need to return metadata (e.g., timestamps, versioning info, or references used). \nStructured Output: If the system requires JSON or a specific markup, specify that. \nError Handling: Indicate what the agent should do if an error occurs or a query can’t be answered. \nExample: \nOutput Format: \nReturn your final answer as valid JSON with the keys: “summary”, “references”. \nIf no valid references are found, return an empty list for “references” and note “No additional references.”",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2100,
+    "author": "INEMA",
+    "date": "2025-01-16T11:06:00+00:00",
+    "text": "AI Agent Prompting Template 🤖 \n \n \n[ROLE]  \n- You are the [Name of Agent / Role]. \n- Your main responsibility is to [Primary Objective]. \n \n[CONTEXT] \n- System environment: [Briefly describe the multi-agent environment]. \n- Known details: [Facts, references, previous conversation context]. \n \n[TASK] \n- Goal: [Specific outcome you want]. \n- Constraints: [Time limit, length limit, etc.]. \n- Style: [Tone, formatting guidelines]. \n- Output format: [Plain text, HTML, JSON, etc.]. \n \n[COLLABORATION] \n- Other agents: [Who they are, what they provide]. \n- Interaction: [How and when this agent should interact with them]. \n \n[EXAMPLES] \n- Good response example: [...] \n- Bad response example: [...] \n \n[FINAL REQUIREMENTS] \n- QA checks: [Spelling, grammar, factual accuracy]. \n- Ethical guidelines: [Allowed/Disallowed content]. \n- Error handling: [Instructions if something goes wrong]. \n \nHow it works…. \n \n \n1. Role Definition \nRole/Persona: Explain what this agent is supposed to be or act as (e.g., “You are a financial advisor,” or “You are a marketing specialist”). \nExpertise Level: Specify the level of expertise expected (e.g., “Expert in legal matters,” “Beginner-friendly instructor”). \nPrimary Objectives: Summarize what the agent does in the multi-agent system. For instance, is it the summarizer, the code generator, the fact-checker, or something else? \nExample: \nRole: You are the “Content Fact-Checker” AI, responsible for verifying the factual accuracy of texts and providing corrections or supporting evidence. \n \n2. Context and Background \nSystem Context: Provide the larger setting or scenario that the multi-agent system is operating in (e.g., “A team of AIs collaborating to write blog posts for a tech website”). \nShared Knowledge: State any relevant facts, constraints, or previously known information. \nRelevant Documents/Resources: Indicate which resources are available for referencing (e.g., knowledge bases, FAQs, user manuals). \nExample: \nContext: This multi-agent system is designed to create an in-depth user guide for a new software product. Other agents will contribute research, product details, and marketing best practices. \n \n3. Task Explanation / Goal \nCore Task: Clearly spell out the objective: “Write a step-by-step tutorial,” “Generate marketing slogans,” “Verify factual data in the product description,” etc. \nInput Details: Clarify if there is specific user input or data that must be processed. \nOutput Format: Outline precisely how you want the response formatted (bullet points, JSON, full paragraphs, etc.). \nExample: \nTask: Given the product specifications below, generate a 300-word FAQ article in plain English. Keep it accurate and user-friendly. \n \n4. Constraints and Instructions \nLength or Size: Maximum or minimum character or token count. \nTone or Style: Formal, casual, academic, comedic, etc. \nDo’s and Don’ts: Any rules to follow or things to avoid (e.g., “Do not include speculation,” “Always include references,” “Avoid copyrighted text,” etc.). \nTime or Resource Limits: If needed for real-time systems, mention performance constraints. \nExample: \nConstraints: \nKeep responses under 500 words. \nMaintain a friendly, approachable tone. \nIf uncertain about any facts, ask for clarification from the “Research” agent. \n \n5. Collaboration and Interaction Protocol \nOther Agents’ Roles: Summarize what the other agents do, so this agent knows where it fits in the workflow. \nMessage Passing: Indicate whether this agent can or should request additional data from the other agents (e.g., “Query the ‘Research Agent’ for references,” “Ask the ‘Design Agent’ for visuals”). \nSequence of Turns: In a multi-agent environment, specify how and when this agent should speak or remain silent. \nExample: \nCollaboration: \nThe “Research Agent” can provide product data. \nThe “Design Agent” can contribute visuals or layout ideas. \nYou (the “Content Fact-Checker”) should correct any inaccuracies in the final text and provide reliable sources if available. \n \n6. Example Prompts and Responses \nTemplates: Show a sample conversation that",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2099,
+    "author": "INEMA",
+    "date": "2025-01-16T11:05:49+00:00",
+    "text": "0",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2098,
+    "author": "INEMA",
+    "date": "2025-01-16T11:05:48+00:00",
+    "text": "9",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2097,
+    "author": "INEMA",
+    "date": "2025-01-16T11:05:48+00:00",
+    "text": "8",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2096,
+    "author": "INEMA",
+    "date": "2025-01-16T11:05:48+00:00",
+    "text": "7",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2095,
+    "author": "INEMA",
+    "date": "2025-01-16T11:05:47+00:00",
+    "text": "6",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2094,
+    "author": "INEMA",
+    "date": "2025-01-16T11:05:47+00:00",
+    "text": "5",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2093,
+    "author": "INEMA",
+    "date": "2025-01-16T11:05:46+00:00",
+    "text": "3",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2092,
+    "author": "INEMA",
+    "date": "2025-01-16T11:05:46+00:00",
+    "text": "2",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2091,
+    "author": "INEMA",
+    "date": "2025-01-16T11:05:46+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 2090,
+    "author": "INEMA",
+    "date": "2025-01-16T11:05:36+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

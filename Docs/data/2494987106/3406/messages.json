@@ -1,0 +1,107 @@
+[
+  {
+    "id": 3418,
+    "author": "INEMA",
+    "date": "2025-04-12T02:06:30+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Prompt Engineering Google.pdf"
+  },
+  {
+    "id": 3417,
+    "author": "INEMA",
+    "date": "2025-04-12T01:58:01+00:00",
+    "text": "**Guia do Google para AI Prompting\n**\nAlgumas das coisas legais que ele cobre:\n\nZero-shot vs Few-shot → Quando usar nenhum exemplo vs. alguns para obter melhores resultados\n\nPrompts do sistema → Como moldar o tom, as regras e o estilo de resposta do modelo\n\nCadeia de pensamento → Ensine os modelos a pensar em voz alta para um melhor raciocínio\n\nReagir → Combinar lógica com ações para tarefas de várias etapas\n\nSolicitando código → práticas recomendadas para desenvolvedores que usam LLMs",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3416,
+    "author": "INEMA",
+    "date": "2025-04-12T01:57:30+00:00",
+    "text": "Guia de Prompt Google 2025/4",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3415,
+    "author": "INEMA",
+    "date": "2025-04-12T01:57:27+00:00",
+    "text": "....",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3414,
+    "author": "INEMA",
+    "date": "2025-04-12T01:57:26+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3413,
+    "author": "INEMA",
+    "date": "2025-04-12T01:57:26+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3412,
+    "author": "INEMA",
+    "date": "2025-04-12T01:57:26+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3411,
+    "author": "INEMA",
+    "date": "2025-04-12T01:57:26+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3410,
+    "author": "INEMA",
+    "date": "2025-04-12T01:57:25+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3409,
+    "author": "INEMA",
+    "date": "2025-04-12T01:57:25+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3408,
+    "author": "INEMA",
+    "date": "2025-04-12T01:57:25+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3407,
+    "author": "INEMA",
+    "date": "2025-04-12T01:57:24+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3406,
+    "author": "INEMA",
+    "date": "2025-04-12T01:57:16+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

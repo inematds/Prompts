@@ -1,0 +1,205 @@
+TOPICO 3420
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-04-12 21:49:47+00:00
+
+Total de mensagens: 17
+Midias baixadas: 8
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-04-12T21:54:46+00:00
+Texto: [Sem texto]
+Midia: MessageMediaDocument -> voice_ai_resource_kit.zip
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-04-12T21:54:11+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_3435_002.jpg
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-04-12T21:54:11+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_3434_003.jpg
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-04-12T21:54:11+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_3433_004.jpg
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-04-12T21:54:11+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_3432_005.jpg
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-04-12T21:54:11+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_3431_006.jpg
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-04-12T21:54:11+00:00
+Texto: [Sem texto]
+Midia: MessageMediaPhoto -> photo_3430_007.jpg
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-04-12T21:52:34+00:00
+Texto:
+**Prompt Utilizado:**
+
+"Você é um agente autônomo atuando em nome de uma agência de IA de voz. Seu objetivo é criar um kit de recursos acionáveis e de nível especialista para construir agentes de voz de classe mundial, usando Retell ou Vapi como infraestrutura de backend.
+
+## FASE 1: PESQUISA APROFUNDADA  
+1. Pesquise Retell e Vapi de forma abrangente:
+- Explore a documentação oficial, visões gerais dos produtos, guias para desenvolvedores, repositórios no GitHub, demonstrações em vídeo, estudos de caso e discussões da comunidade.  
+- Identifique seus principais diferenciais, capacidades, modelos de precificação e pontos fortes de arquitetura.  
+- Analise o desempenho (latência, concorrência, confiabilidade) e as integrações disponíveis (OpenAI, Claude, Anthropic, Twilio, Zapier, etc.)  
+- Destaque quaisquer modelos recomendados ou padrões que eles suportem (por exemplo, GPT-4-turbo, Claude 3, etc.)  
+- Resuma os insights em um relatório comparativo estruturado.
+
+## FASE 2: DESIGN DE PROMPTS PARA AGENTES DE VOZ (5 CASOS DE USO)  
+Crie templates de prompt modulares e reutilizáveis para agentes de voz nos seguintes casos de uso:  
+1. Agente de suporte receptivo  
+2. Agente de acompanhamento ativo  
+3. Agente de prospecção (cold call)  
+4. Agente de agendamento de compromissos  
+5. Agente de vendas para chamadas gerais  
+
+Para cada prompt:  
+- Inclua **espaços reservados claros** para nome da empresa, descrição do produto/serviço, lista de objeções, vocabulário do setor e tom de voz.  
+- Garanta que cada prompt esteja otimizado para **diálogo com múltiplas interações**, **interrupções** e **consciência de latência**.  
+- Use linguagem com base em persona, com inteligência emocional.  
+- Incorpore ciclos de esclarecimento e desambiguação de intenção, quando necessário.
+
+## FASE 3: BLUEPRINTS DE DESIGN DE CONVERSA  
+Para cada um dos cinco casos de uso:  
+- Crie um **fluxo de design de conversa**, em um dos formatos:  
+  - **Diagrama Mermaid.js** (preferido se houver muita lógica), OU  
+  - **Diagrama em Python** (por exemplo, usando bibliotecas `graphviz` ou `diagrams`)  
+- Mostre claramente os ramos para sim/não, confirmações, tratamento de falhas, recuperação de erros e lógica de transferência (por exemplo, escalar para humano ou fallback para correio de voz).  
+- Anote todos os nós lógicos com resumos do propósito e gatilhos.
+
+## FASE 4: README + GUIA DE FERRAMENTAS  
+Crie um documento estilo README que inclua:  
+- Boas práticas para design de prompts com Retell e Vapi  
+- Quais modelos têm melhor desempenho (por exemplo, GPT-4-turbo para raciocínio, Claude para empatia)  
+- Se há suporte a streaming (para feedback em tempo real)  
+- Como gerenciar latência e concorrência  
+- Quaisquer recursos de ajuste de voz ou incorporação de persona (por exemplo, estilo, tom, modulação de voz)  
+- Considerações de conformidade (por exemplo, SOC 2, HIPAA)
+
+Entregue todos os resultados em uma pasta estruturada com:  
+- `/prompts/*.txt` para cada caso de uso  
+- `/flows/*.md` ou `/flows/*.png` para diagramas  
+- `README.md` resumindo o kit de construção e como integrá-lo com Retell ou Vapi  
+
+Assuma que o usuário está construindo para pequenas e médias empresas e provavelmente irá personalizar esses agentes via interfaces low-code ou APIs. Seja completo, prático e com foco em produção."
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-04-12T21:51:32+00:00
+Texto:
+Experimento Manus #7: Oh My Voice Agent; 
+
+Prompts de Voz e Designs 🤯
+
+Sobre o Manus, estou EMPOLGADO para compartilhar meu próximo experimento — tentei gravar um Loom no aeroporto, mas o barulho estava insano, então vocês vão ter que se contentar com capturas de tela haha.
+
+Basicamente, pedi para ele criar prompts para agentes de voz otimizados tanto para o Retell quanto para o VAPI, usando os melhores princípios que pudesse encontrar em técnicas de engenharia de prompts para agentes de voz.
+
+Pedi 5 tipos de agentes: receptivo, ativo, cold calling (ligação fria), agendamento de compromissos e vendas.
+
+TAMBÉM pedi os PLANOS (blueprints) dos possíveis fluxos de conversa com esses agentes.
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-04-12T21:49:57+00:00
+Texto:
+mm7 - Experiencia #7 - Prompts Manus Vozes
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-04-12T21:49:54+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-04-12T21:49:53+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-04-12T21:49:53+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-04-12T21:49:53+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 15
+Autor: INEMA
+Data: 2025-04-12T21:49:53+00:00
+Texto:
+https://chatgpt.com/c/67fae033-ebd4-8009-bc85-d2fb8a2c2c7e
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 16
+Autor: INEMA
+Data: 2025-04-12T21:49:52+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 17
+Autor: INEMA
+Data: 2025-04-12T21:49:47+00:00
+Texto: [Sem texto]
+
+------------------------------
+

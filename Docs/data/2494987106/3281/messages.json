@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3291,
+    "author": "INEMA",
+    "date": "2025-04-07T08:33:16+00:00",
+    "text": "Perfeito! Aqui está o modelo pronto com os espaços reservados para você personalizar:\n\n---\n\n\"Welcome to [Business Name]! We're excited to offer you [Service Description]. How can we assist you today?\"\n\n---\n\nSe quiser, posso preencher com os dados reais da sua empresa. É só me enviar o nome e a descrição do serviço!",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3290,
+    "author": "INEMA",
+    "date": "2025-04-07T08:32:53+00:00",
+    "text": "```Create a friendly, engaging initial greeting for a chatbot based on the following details:\n\n- **Business Name:** [Business Name]\n- **Brief Service Description:** [Service Description]\n\n## Instructions\n1. Develop a warm and inviting greeting message that incorporates both the business name and service description.\n2. Use a conversational tone that immediately welcomes visitors and highlights the key service offered.\n3. Ensure the greeting is concise (2-3 sentences) and avoids overly formal language.\n4. The greeting should feel natural and friendly, inviting further interaction without providing excessive detail.\n\n## Constraints\n- Include the provided variable placeholders ([Business Name] and [Service Description]) directly in the output.\n- Do not add extra information beyond what is necessary for greeting visitors.\n- Maintain clarity and brevity.\n\n## Example Output Format\n\"Welcome to [Business Name]! We're excited to offer you [Service Description]. How can we assist you today?\"\n\n## Variables\n[Business Name] = ''\n[Service Description] = ''\n```\n```",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3289,
+    "author": "INEMA",
+    "date": "2025-04-07T08:32:28+00:00",
+    "text": "mp30 - Script de saudação de chatbot",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3288,
+    "author": "INEMA",
+    "date": "2025-04-07T08:32:26+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3287,
+    "author": "INEMA",
+    "date": "2025-04-07T08:32:25+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3286,
+    "author": "INEMA",
+    "date": "2025-04-07T08:32:25+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3285,
+    "author": "INEMA",
+    "date": "2025-04-07T08:32:25+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3284,
+    "author": "INEMA",
+    "date": "2025-04-07T08:32:25+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3283,
+    "author": "INEMA",
+    "date": "2025-04-07T08:32:25+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3282,
+    "author": "INEMA",
+    "date": "2025-04-07T08:32:24+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3281,
+    "author": "INEMA",
+    "date": "2025-04-07T08:32:21+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

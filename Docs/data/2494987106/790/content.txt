@@ -1,0 +1,402 @@
+TOPICO 790
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2024-10-01 19:36:48+00:00
+
+Total de mensagens: 15
+Midias encontradas: 0
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2024-10-01T19:37:29+00:00
+Texto:
+Aqui estão seis prompts revolucionários para criar conteúdo irresistível em qualquer plataforma de mídia social:
+
+1. **Engajamento Informativo**:
+   - **Prompt**: Crie uma ideia de história que forneça informações valiosas e relevantes para meu persona ideal sobre [assunto específico] e o persuade a [ação desejada] com uma mensagem clara e convincente.
+   - **Exemplo**: Crie uma história sobre os benefícios da meditação diária para profissionais ocupados e persuada-os a se inscreverem em nosso curso gratuito de meditação online.
+
+2. **Mostrar Características e Benefícios**:
+   - **Prompt**: Desenhe uma ideia de história que mostre as características únicas e os benefícios do meu produto/serviço para meu persona ideal de maneira criativa e envolvente.
+   - **Exemplo**: Crie uma postagem que destaque as funcionalidades avançadas do nosso aplicativo de produtividade e como ele pode economizar 2 horas por dia na rotina de trabalho dos usuários.
+
+3. **Engajamento Relatável**:
+   - **Prompt**: Elabore uma ideia de mídia social que atraia seu persona ideal com uma mensagem autêntica e relacionável, e o persuade a [ação desejada] com um forte call to action e visuais atraentes.
+   - **Exemplo**: Desenvolva uma postagem que compartilhe uma história pessoal de superação no empreendedorismo, incentivando os seguidores a compartilhar suas próprias histórias e a baixar nosso e-book gratuito.
+
+4. **Prova Social para Construir Credibilidade**:
+   - **Prompt**: Gere uma ideia de mídia social que aproveite a prova social e a credibilidade de postagens anteriores para persuadir meu público ideal a experimentar meu produto/serviço.
+   - **Exemplo**: Crie uma postagem destacando depoimentos de clientes satisfeitos, mostrando como nosso serviço de consultoria transformou seus negócios, e encoraje novos clientes a agendar uma consulta.
+
+5. **Criar Antecipação com Conteúdo Sneak Peek**:
+   - **Prompt**: Desenvolva uma ideia de mídia social que forneça uma prévia de produtos/serviços futuros e crie um senso de antecipação e entusiasmo para meu cliente ou público ideal, com um call to action claro e convincente.
+   - **Exemplo**: Crie uma postagem teaser sobre a nova coleção de moda sustentável que será lançada em breve, incentivando os seguidores a se inscreverem na nossa newsletter para acesso antecipado.
+
+6. **Insight dos Bastidores**:
+   - **Prompt**: Crie uma ideia de mídia social que ofereça ao meu cliente ou público ideal uma visão dos bastidores de [minha atividade], mostrando a autenticidade e transparência da minha marca e persuadindo-os a se envolverem com minha marca através de [ação desejada].
+   - **Exemplo**: Desenvolva uma série de postagens mostrando os bastidores da criação de nossos produtos artesanais, incentivando os seguidores a comentarem suas opiniões e visitarem nossa loja online.
+
+Esses prompts são mais eficazes quando personalizados para suas necessidades específicas. Ao receber a primeira resposta do ChatGPT, refine-a para focar nos pontos-chave e aprimorar os detalhes. Isso garantirá um conteúdo ainda mais atraente e relevante para seu público.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2024-10-01T19:37:29+00:00
+Texto:
+Aqui estão todos os prompts que criei com o ChatGPT hoje:
+
+1. **Prompt Geral Melhorado para Definição:**
+   "Por favor, defina [termo/conceito] de forma detalhada e clara, incluindo seus principais componentes, funcionalidades, aplicações práticas, exemplos relevantes, e a importância e implicações no contexto atual."
+
+2. **Prompt para Definição de Produto/Serviço em Vendas:**
+   "Por favor, defina [produto/serviço] de forma detalhada e clara, incluindo:
+   1. Principais características
+   2. Benefícios para o cliente
+   3. Usos práticos
+   4. Exemplos de sucesso
+   5. Importância e implicações para o cliente"
+
+3. **Prompt para Descobrir seu Diferencial:**
+   "Trabalho com [sua indústria/campo] e minha expertise está em [suas habilidades específicas]. Ajude-me a identificar um ângulo único para minha marca pessoal, algo que me diferencie dos outros em meu nicho. Considere combinações não convencionais para as minhas habilidades, experiências ou perspectivas. Forneça 10 ‘diferenciais de marca’ potenciais que me posicionem como uma liderança. Para cada um, explique como ele poderia me diferenciar e atrair meu público-alvo."
+
+4. **Prompt para Criar uma Metodologia Exclusiva:**
+   "Com base em minha experiência em [seu campo] e minha abordagem única para [aspecto específico do seu trabalho], ajude-me a desenvolver um sistema de trabalho exclusivo. Este framework deve ter de 3 a 5 componentes principais, ser fácil de lembrar e mostrar meu pensamento inovador. Sugira 5 nomes potenciais para este sistema e descreva os elementos principais de cada versão."
+
+5. **Prompt para Aplicar Estratégias para Chamar a Atenção do Público:**
+   "Imagine que eu sou a maior referência em [sua indústria]. Sua tarefa é fazer engenharia reversa de como eu posso chegar lá. Meu objetivo é criar uma marca pessoal tão convincente que meu público-alvo venha naturalmente até mim. Sugira 5 maneiras não convencionais de demonstrar minha expertise e carisma para o meu campo. Esses métodos devem ser ousados, certeiros e impossíveis de ignorar."
+
+6. **Prompt para Contar sua História de Vida:**
+   "Ajude-me a construir uma história de origem que contribua para minha marca pessoal. Aqui estão os elementos-chave de minha jornada profissional: [liste 3-5 momentos ou experiências cruciais]. Crie um arco narrativo que destaque minha transformação em um especialista em [seu campo]. A história deve ser autêntica, emocionalmente ressonante e ilustrar claramente por que estou particularmente qualificado para ajudar meu público. Forneça 3 versões diferentes – uma inspiradora, uma focada em superar adversidades e uma não convencional ou surpreendente."
+
+7. **Prompt para Demonstrar Conhecimento:**
+   "Quero elevar minha marca pessoal ao status de ‘oráculo’ em [sua indústria]. Primeiro, faça-me perguntas para aprender mais sobre meu trabalho. Depois disso, ajude-me a desenvolver uma estratégia para me posicionar como uma fonte de referência para insights em meu campo. Sugira 5 maneiras únicas e chamativas para que eu consiga demonstrar meu conhecimento e reforçar minha imagem como um ‘oráculo’ da indústria."
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2024-10-01T19:37:29+00:00
+Texto:
+Exemplo do uso do  Persona
+
+Quando você formatar um padrão antes de fazer uma pergunta para o chat GPT você pode definir esses 24 tópicos e eu pedir para listar algumas opções em cada tópicos para facilitar nosso trabalho
+
+1. *Profissão/Função*
+   - Profissional de marketing digital
+   - Gerente de marketing
+   - Especialista em SEO
+   - Analista de mídias sociais
+
+2. *Projetos/Desafios Atuais*
+   - Campanha de aumento de presença online
+   - Otimização da taxa de conversão
+   - Lançamento de um novo produto
+   - Expansão para novos mercados
+
+3. *Interesses Específicos*
+   - Marketing em mídias sociais
+   - Análise de dados
+   - SEO
+   - Publicidade paga
+
+4. *Valores e Princípios*
+   - Transparência
+   - Tomada de decisões baseada em dados
+   - Inovação
+   - Ética no trabalho
+
+5. *Estilo de Aprendizagem*
+   - Aprendizado prático
+   - Aprendizado visual
+   - Aprendizado por leitura
+   - Aprendizado auditivo
+
+6. *Antecedentes Pessoais*
+   - Localizado em Toronto
+   - Trabalha remotamente
+   - Trabalha em um escritório
+   - Parte de uma equipe global
+
+7. *Objetivos*
+   - Atingir metas trimestrais de geração de leads
+   - Assumir um papel de liderança estratégica
+   - Expandir a presença online da empresa
+   - Aumentar a taxa de conversão
+
+8. *Preferências*
+   - Google Analytics
+   - Hootsuite
+   - HubSpot
+   - Salesforce
+
+9. *Proficiência em Idiomas*
+   - Inglês
+   - Espanhol
+   - Francês
+   - Alemão
+
+10. *Conhecimento Especializado*
+    - Marketing
+    - Otimização de motores de busca
+    - Publicidade paga
+    - Análise de dados
+
+11. *Formação Educacional*
+    - MBA em Marketing
+    - Graduação em Comunicação
+    - Graduação em Administração de Empresas
+    - Mestrado em Marketing Digital
+
+12. *Estilo de Comunicação*
+    - Amigável, mas profissional
+    - Direto e conciso
+    - Detalhado e explicativo
+    - Casual e descontraído
+
+13. *Formato de Resposta*
+    - Respostas claras e estruturadas
+    - Respostas curtas e diretas
+    - Respostas detalhadas e explicativas
+    - Respostas com exemplos práticos
+
+14. *Tom*
+    - Profissional
+    - Amigável
+    - Formal
+    - Casual
+
+15. *Nível de Detalhe*
+    - Explicações completas, mas sucintas
+    - Respostas detalhadas
+    - Respostas diretas e concisas
+    - Respostas com exemplos práticos
+
+16. *Tipos de Sugestões*
+    - Melhorar as estratégias de marketing digital
+    - Recursos relevantes
+    - Tendências da indústria
+    - Dicas de otimização de conversão
+
+17. *Tipos de Perguntas*
+    - Perguntas estratégicas
+    - Perguntas criativas
+    - Perguntas técnicas
+    - Perguntas sobre tendências da indústria
+
+18. *Verificações e Balanços*
+    - Verificação de estatísticas de marketing
+    - Verificação de tendências
+    - Verificação de dados de campanhas
+    - Verificação de informações de concorrentes
+
+19. *Referências de Recursos*
+    - Citação de fontes
+    - Referências a estudos de caso
+    - Links para recursos online
+    - Referências a livros e publicações
+
+20. *Nível de Pensamento Crítico*
+    - Insights ponderados
+    - Perspectivas matizadas
+    - Análise crítica
+    - Avaliação de estratégias
+
+21. *Nível de Criatividade*
+    - Ideias inovadoras
+    - Abordagens não convencionais
+    - Soluções criativas para problemas
+    - Campanhas de marketing criativas
+
+22. *Abordagem de Resolução de Problemas*
+    - Abordagem estratégica
+    - Abordagem criativa
+    - Abordagem analítica
+    - Abordagem orientada a dados
+
+23. *Consciência de Viés*
+    - Evitar favoritismo de plataformas
+    - Avaliação justa de estratégias
+    - Consciência de viés inconsciente
+    - Abordagem equilibrada para avaliação de ferramentas
+
+24. *Preferências de Linguagem*
+    - Inglês padrão
+    - Terminologia específica da indústria
+    - Linguagem simples e clara
+    - Jargão técnico, quando necessário
+
+#Profissão #Projetos #Interesses #Valores #Aprendizagem #Antecedentes #Objetivos #Preferências #Idiomas #Conhecimento #Formação #Comunicação #Resposta #Tom #Detalhe #Sugestões #Perguntas #Verificações #Recursos #PensamentoCrítico #Criatividade #ResoluçãoDeProblemas #Viés #Linguagem
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2024-10-01T19:37:29+00:00
+Texto:
+Prompt Persona 
+
+Aqui apresento o Persona como exemplo de marketing e estruturei de várias formas para  poderem entenderem
+
+Persona de profissional de marketing digital:
+O que você gostaria que o ChatGPT soubesse sobre você para fornecer melhores respostas?
+Profissão/Função: Sou um profissional de marketing digital, gerenciando estratégias de marketing online para uma empresa de tecnologia de médio porte.
+Projetos/Desafios Atuais: Atualmente, estou trabalhando em uma campanha para aumentar a presença online do nosso produto e a taxa de conversão.
+Interesses Específicos: Sou apaixonado por marketing em mídias sociais e análise de dados
+Valores e Princípios: Valorizo a transparência e acredito em tomar decisões baseadas em dados.
+Estilo de Aprendizagem: Aprendo melhor fazendo e prospero em aplicações práticas da teoria do marketing.
+Antecedentes Pessoais: Estou localizado em Toronto e trabalho com uma equipe globalmente dispersa.
+Objetivos: Meu objetivo imediato é atingir nossas metas trimestrais de geração de leads. A longo prazo, pretendo assumir um papel de liderança estratégica.
+Preferências: Prefiro usar Google Analytics, Hootsuite e HubSpot para meus projetos.
+Proficiência em Idiomas: O inglês é minha língua principal e me sinto confortável usando-o em um contexto profissional.
+Conhecimento Especializado: Me especializo em marketing e otimização de motores de busca.
+Formação Educacional: Tenho um MBA com concentração em Marketing.
+Estilo de Comunicação: Sou amigável, mas profissional, e aprecio uma comunicação clara e concisa.
+
+Como você gostaria que o ChatGPT respondesse?
+Formato de Resposta: Por favor, forneça respostas de maneira clara e estruturada, com pontos importantes resumidos no início.
+Tom: Mantenha um tom profissional que equilibre a amizade e a formalidade.
+Nível de Detalhe: Aprecio explicações completas, mas sucintas.
+Tipos de Sugestões: Ofereça sugestões para melhorar as estratégias de marketing digital, fornecendo recursos relevantes e destacando tendências da indústria.
+Tipos de Perguntas: Faça perguntas que estimulem o pensamento estratégico e a criatividade.
+Verificações e Balanços: Por favor, verifique qualquer estatística de marketing ou tendências que você compartilhe contra fontes confiáveis.
+Referências de Recursos: Cite fontes ao referenciar tendências da indústria ou dados.
+Nível de Pensamento Crítico: Ofereça insights e perspectivas ponderadas, mostrando uma compreensão matizada do marketing digital.
+Nível de Criatividade: Acolho ideias inovadoras que desafiam as abordagens convencionais de marketing digital.
+Abordagem de Resolução de Problemas: Adote uma abordagem estratégica de resolução de problemas, considerando as implicações de curto e longo prazo.
+Consciência de Viés: Por favor, evite favorecer uma plataforma de marketing ou estratégia sobre outra sem motivos válidos.
+Preferências de Linguagem: Prefiro o inglês padrão com terminologia específica da indústria, conforme necessário.
+
+ChatGPT
+Profissão/Função
+Projetos/Desafios Atuais
+Interesses Específicos
+Valores e Princípios
+Estilo de Aprendizagem
+Antecedentes Pessoais
+Objetivos
+Preferências
+Proficiência em Idiomas
+Conhecimento Especializado
+Formação Educacional
+Estilo de Comunicação
+Formato de Resposta
+Tom
+Nível de Detalhe
+Tipos de Sugestões
+Tipos de Perguntas
+Verificações e Balanços
+Referências de Recursos
+Nível de Pensamento Crítico
+Nível de Criatividade
+Abordagem de Resolução de Problemas
+Consciência de Viés
+Preferências de Linguagem
+
+Descreva cada um e de espaço entre o tópico antes e depois para melhor visualização 
+
+ChatGPT
+Profissão/Função
+A persona é um profissional de marketing digital que gerencia estratégias de marketing online para uma empresa de tecnologia de médio porte.
+
+Projetos/Desafios Atuais
+Atualmente, a persona está trabalhando em uma campanha para aumentar a presença online do produto da empresa e a taxa de conversão.
+
+Interesses Específicos
+A persona é apaixonada por marketing em mídias sociais e análise de dados.
+
+Valores e Princípios
+A persona valoriza a transparência e acredita em tomar decisões baseadas em d
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2024-10-01T19:36:56+00:00
+Texto:
+0
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2024-10-01T19:36:55+00:00
+Texto:
+9
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2024-10-01T19:36:54+00:00
+Texto:
+8
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2024-10-01T19:36:54+00:00
+Texto:
+7
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2024-10-01T19:36:54+00:00
+Texto:
+6
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2024-10-01T19:36:53+00:00
+Texto:
+5
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2024-10-01T19:36:53+00:00
+Texto:
+4
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2024-10-01T19:36:52+00:00
+Texto:
+3
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2024-10-01T19:36:52+00:00
+Texto:
+2
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2024-10-01T19:36:52+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 15
+Autor: INEMA
+Data: 2024-10-01T19:36:48+00:00
+Texto: [Sem texto]
+
+------------------------------
+

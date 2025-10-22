@@ -1,0 +1,914 @@
+TOPICO 2927
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-03-29 04:00:02+00:00
+
+Total de mensagens: 76
+Midias baixadas: 9
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-09-18T05:03:54+00:00
+Texto:
+Recurso Memoria no Claude
+https://t.me/c/2494987106/4867
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-09-14T03:30:29+00:00
+Texto:
+Prompt Nano Banana
+https://t.me/c/2494987106/4850
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-09-13T19:22:51+00:00
+Texto:
+Prompt Thumb Youtube
+https://t.me/c/2494987106/4836
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-09-12T05:31:41+00:00
+Texto:
+Prompt Guide 4 Iniciantes e 12 Avancado
+https://t.me/c/2494987106/4819
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-09-12T04:31:30+00:00
+Texto:
+Estrutura de um bom Prompt
+https://t.me/c/2494987106/4807
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-09-04T21:41:18+00:00
+Texto:
+Prompt Tecnico Padrao GPT5
+https://t.me/c/2494987106/4789
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-09-04T04:57:53+00:00
+Texto:
+Secure GPT - fail
+https://t.me/c/2494987106/4780
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-09-04T04:53:30+00:00
+Texto:
+Otimizador de Prompts da OPENAI
+https://t.me/c/2494987106/4756
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-09-04T04:29:12+00:00
+Texto:
+GPT do Mapa da Dor - LLMs
+https://t.me/c/2494987106/4739
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-09-03T01:49:24+00:00
+Texto:
+Cinematic FPV – Durga Puja Market Flight
+https://t.me/c/2494987106/4706
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-08-31T06:37:17+00:00
+Texto:
+Prompt para raspar N8N Workflows
+https://t.me/c/2494987106/4691
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-08-30T02:27:05+00:00
+Texto:
+Prompts Usados no Abacus
+https://t.me/c/2494987106/4668
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-08-25T01:39:27+00:00
+Texto:
+Prompt Dashboard Bolt (j101)
+https://t.me/c/2494987106/4653
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-08-23T10:14:53+00:00
+Texto:
+Hacker do Alex Hormozi
+https://t.me/c/2494987106/4617
+
+------------------------------
+
+MENSAGEM 15
+Autor: INEMA
+Data: 2025-08-23T07:16:40+00:00
+Texto:
+Prompt ID - Playground OPENAI
+https://t.me/c/2494987106/4593
+
+------------------------------
+
+MENSAGEM 16
+Autor: INEMA
+Data: 2025-08-23T04:46:58+00:00
+Texto:
+Prompts para GPT5
+https://t.me/c/2494987106/4559
+
+------------------------------
+
+MENSAGEM 17
+Autor: INEMA
+Data: 2025-08-16T02:48:18+00:00
+Texto:
+Prompt ap55 - Guia do Agente de Midia
+https://t.me/c/2494987106/4525
+
+------------------------------
+
+MENSAGEM 18
+Autor: INEMA
+Data: 2025-08-15T03:05:43+00:00
+Texto:
+Curso Engenharia de Prompt
+https://t.me/c/2494987106/4486
+
+------------------------------
+
+MENSAGEM 19
+Autor: INEMA
+Data: 2025-08-14T00:41:33+00:00
+Texto:
+Prompt da Verdade
+https://t.me/c/2494987106/4476
+
+------------------------------
+
+MENSAGEM 20
+Autor: INEMA
+Data: 2025-08-13T22:31:56+00:00
+Texto:
+Prompt J3 - JSON Estruturado
+https://t.me/c/2494987106/4462
+
+------------------------------
+
+MENSAGEM 21
+Autor: INEMA
+Data: 2025-08-13T22:30:25+00:00
+Texto:
+Prompt V3 JSON Cinematica
+https://t.me/c/2494987106/4454
+
+------------------------------
+
+MENSAGEM 22
+Autor: INEMA
+Data: 2025-08-12T04:29:49+00:00
+Texto:
+Prompt ThumbFut - GPT
+https://t.me/c/2494987106/4428
+
+------------------------------
+
+MENSAGEM 23
+Autor: INEMA
+Data: 2025-08-11T22:29:42+00:00
+Texto:
+Prompt AIH - Escreve como Humano
+https://t.me/c/2494987106/4412
+
+------------------------------
+
+MENSAGEM 24
+Autor: INEMA
+Data: 2025-08-09T17:19:10+00:00
+Texto:
+Prompt GPT Acessa qq LLM via OpenRouter
+https://t.me/c/2494987106/4394
+
+------------------------------
+
+MENSAGEM 25
+Autor: INEMA
+Data: 2025-08-09T02:13:14+00:00
+Texto:
+Prompt Criar Workflow N8N
+https://t.me/c/2494987106/4376
+
+------------------------------
+
+MENSAGEM 26
+Autor: INEMA
+Data: 2025-08-07T21:02:38+00:00
+Texto:
+Prompt COPY para o Homem H1
+https://t.me/c/2494987106/4320
+
+------------------------------
+
+MENSAGEM 27
+Autor: INEMA
+Data: 2025-08-07T21:00:24+00:00
+Texto:
+Prompts  COPY para Mulheres
+https://t.me/c/2494987106/4296
+
+------------------------------
+
+MENSAGEM 28
+Autor: INEMA
+Data: 2025-08-07T20:58:01+00:00
+Texto:
+Prompt de Analise de Tom de Texto
+https://t.me/c/2494987106/4335
+
+------------------------------
+
+MENSAGEM 29
+Autor: INEMA
+Data: 2025-08-07T20:56:04+00:00
+Texto:
+Prompt Escrevendo Artigos
+https://t.me/c/2494987106/4349
+
+------------------------------
+
+MENSAGEM 30
+Autor: INEMA
+Data: 2025-08-07T04:33:43+00:00
+Texto:
+Prompt Extraia Tom de Voice
+https://t.me/c/2494987106/4277
+
+------------------------------
+
+MENSAGEM 31
+Autor: INEMA
+Data: 2025-08-04T05:02:29+00:00
+Texto:
+Prompt para Descoberta Aberta
+https://t.me/c/2494987106/4208
+
+------------------------------
+
+MENSAGEM 32
+Autor: INEMA
+Data: 2025-07-31T23:33:50+00:00
+Texto:
+Prompt EC7 v2h - Automação
+https://t.me/c/2494987106/4125
+
+------------------------------
+
+MENSAGEM 33
+Autor: INEMA
+Data: 2025-07-31T23:32:48+00:00
+Texto:
+Prompt EC8 - Automação
+https://t.me/c/2494987106/4134
+
+------------------------------
+
+MENSAGEM 34
+Autor: INEMA
+Data: 2025-07-31T02:57:48+00:00
+Texto:
+Prompt EC7 - Eng Contexto N8N Agente
+https://t.me/c/2494987106/4107
+
+------------------------------
+
+MENSAGEM 35
+Autor: INEMA
+Data: 2025-07-30T02:52:18+00:00
+Texto:
+Prompt EC6-Eng Contexto N8N Agente
+https://t.me/c/2494987106/4088
+
+------------------------------
+
+MENSAGEM 36
+Autor: INEMA
+Data: 2025-07-28T04:47:08+00:00
+Texto:
+Prompt Caixa Explosiva
+https://t.me/c/2494987106/4073
+
+------------------------------
+
+MENSAGEM 37
+Autor: INEMA
+Data: 2025-07-17T18:42:27+00:00
+Texto:
+Prompt Cria Fluxos N8n (e30)
+https://t.me/c/2494987106/4050
+
+------------------------------
+
+MENSAGEM 38
+Autor: INEMA
+Data: 2025-07-16T03:01:39+00:00
+Texto:
+Prompt INUY Oráclo Profundo
+https://t.me/c/2494987106/4026
+
+------------------------------
+
+MENSAGEM 39
+Autor: INEMA
+Data: 2025-07-16T03:00:24+00:00
+Texto:
+https://ai-gen.co/
+exemplos de prompts
+
+use o hacks
+
+------------------------------
+
+MENSAGEM 40
+Autor: INEMA
+Data: 2025-07-13T08:25:09+00:00
+Texto:
+Prompt AYRA Magico
+https://t.me/c/2494987106/3980
+
+------------------------------
+
+MENSAGEM 41
+Autor: INEMA
+Data: 2025-07-11T00:52:44+00:00
+Texto:
+Prompt Consultor Estratégico Pessoal
+https://t.me/c/2494987106/3962
+
+------------------------------
+
+MENSAGEM 42
+Autor: INEMA
+Data: 2025-07-09T17:57:29+00:00
+Texto:
+Prompts para Espirtualidade Interior
+https://t.me/c/2494987106/3937
+
+------------------------------
+
+MENSAGEM 43
+Autor: INEMA
+Data: 2025-07-06T00:20:54+00:00
+Texto:
+Prompt Perplexity Auditoria M1
+https://t.me/c/2494987106/3927
+
+------------------------------
+
+MENSAGEM 44
+Autor: INEMA
+Data: 2025-07-02T02:06:45+00:00
+Texto:
+Prompts Assistente Total GPT
+https://t.me/c/2494987106/3898
+
+------------------------------
+
+MENSAGEM 45
+Autor: INEMA
+Data: 2025-06-26T04:35:51+00:00
+Texto:
+Prompt Estrutural BOLT (Vibe Code)
+https://t.me/c/2494987106/3882
+
+------------------------------
+
+MENSAGEM 46
+Autor: INEMA
+Data: 2025-06-22T06:42:31+00:00
+Texto:
+__M1 - Prompt Engineering Masterclass__ de Devin
+https://t.me/c/2494987106/3856
+__M2 - Prompt Engineering Masterclass__ de Devin
+https://t.me/c/2494987106/3866
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 47
+Autor: INEMA
+Data: 2025-06-19T10:03:42+00:00
+Texto:
+Super Prompt VEO3
+https://t.me/c/2494987106/3842
+
+------------------------------
+
+MENSAGEM 48
+Autor: INEMA
+Data: 2025-06-19T09:06:30+00:00
+Texto:
+Prompts Camera Participante
+https://t.me/c/2494987106/3826
+
+------------------------------
+
+MENSAGEM 49
+Autor: INEMA
+Data: 2025-06-17T23:27:43+00:00
+Texto:
+np01 - Prompt Master VEO3
+https://t.me/c/2494987106/3774
+
+------------------------------
+
+MENSAGEM 50
+Autor: INEMA
+Data: 2025-06-12T04:21:36+00:00
+Texto:
+Prompt Video VEO3 - para Propostas Vendas
+https://t.me/c/2494987106/3765
+
+------------------------------
+
+MENSAGEM 51
+Autor: INEMA
+Data: 2025-06-12T03:08:05+00:00
+Texto:
+GenSpark #1 Prompt
+https://t.me/c/2494987106/3750
+
+------------------------------
+
+MENSAGEM 52
+Autor: INEMA
+Data: 2025-06-08T02:38:24+00:00
+Texto:
+Estado da Arte sobre PROMPTS
+https://t.me/c/2494987106/3706
+
+------------------------------
+
+MENSAGEM 53
+Autor: INEMA
+Data: 2025-06-07T17:37:15+00:00
+Texto:
+Perplexity Labs Prompts
+https://t.me/c/2494987106/3671
+
+------------------------------
+
+MENSAGEM 54
+Autor: INEMA
+Data: 2025-06-07T16:40:05+00:00
+Texto:
+m17 - (n8n) Prompt para VEO3
+https://t.me/c/2494987106/3662
+
+------------------------------
+
+MENSAGEM 55
+Autor: INEMA
+Data: 2025-05-25T18:46:18+00:00
+Texto:
+Prompt Vibe Code - Criando app de Videos
+https://t.me/c/2494987106/3638
+
+------------------------------
+
+MENSAGEM 56
+Autor: INEMA
+Data: 2025-05-15T16:14:11+00:00
+Texto:
+Prompt Tipo GURU no Claude (Prompt Vazado do Calude)
+https://t.me/c/2494987106/3595
+
+------------------------------
+
+MENSAGEM 57
+Autor: INEMA
+Data: 2025-05-04T21:57:07+00:00
+Texto:
+010525 - Mente Bilionária em Ação
+https://t.me/c/2494987106/3549
+
+------------------------------
+
+MENSAGEM 58
+Autor: INEMA
+Data: 2025-04-23T02:18:09+00:00
+Texto:
+Prompts Vazados dos SISTEMAS
+https://t.me/c/2494987106/3461
+
+------------------------------
+
+MENSAGEM 59
+Autor: INEMA
+Data: 2025-04-23T02:02:58+00:00
+Texto:
+Prompt Analise Casa GPT o3
+https://t.me/c/2494987106/3450
+
+------------------------------
+
+MENSAGEM 60
+Autor: INEMA
+Data: 2025-04-12T02:10:42+00:00
+Texto:
+Guias
+
+Guia de Prompt Google 2025/4
+https://t.me/c/2494987106/3406
+
+------------------------------
+
+MENSAGEM 61
+Autor: INEMA
+Data: 2025-04-11T03:53:13+00:00
+Texto:
+Manus 
+
+
+mm1 - Experiência Manus #1: Auto Projeto Claude & GPTs Personalizados...
+https://t.me/c/2494987106/3350
+
+mm2 - Experiência Manus #2: RIP AI Consultants...https://t.me/c/2494987106/3363
+
+mm3 - Experincia #3 - Manus n8n - json (esta no n8n)
+https://t.me/c/2494913847/5226
+
+
+mm4 - Experiência Manus #4: Agências RIP SEO/GEOhttps://t.me/c/2494913847/5343
+
+mm5 - Experincia #56 - Prompt Manus Criar Site
+https://t.me/c/2494987106/3321
+
+mm6 - Experiencia #6 - Prompts Manus Lovable
+https://t.me/c/2494987106/3382
+
+mm7 - Experiencia #7 - Prompts Manus Vozeshttps://t.me/c/2494987106/3420
+
+mm9 - Experimento Manus #9: Manus me ensina tudo sobre o OpenAI 4.1
+https://t.me/c/2494987106/3438
+
+mm10 - Experimento [#10](tg://search_hashtag?hashtag=10) Manus - Ensine Vibe Codigo
+https://t.me/c/2494987106/3478
+
+mm11 - Manus + n8n + Lovable
+https://t.me/c/2494987106/3532
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 62
+Autor: INEMA
+Data: 2025-04-07T05:17:25+00:00
+Texto:
+Assistentes
+
+Prompt INEMA 4 IMG
+https://t.me/c/2494987106/2670
+
+Prompt Mentoria Redes Sociais
+https://t.me/c/2494987106/2306
+
+Prompt kinsho
+https://t.me/c/2494987106/2318
+
+Prompts Pirata Capitão Max
+https://t.me/c/2494987106/2320
+
+Prompt Persona Auditor Fiscal
+https://t.me/c/2494987106/2336
+
+Prompt para tom de voz ALEX
+https://t.me/c/2494987106/2352
+
+Prompt de Contraposição
+https://t.me/c/2494987106/2368
+
+INEMA Texto Viral
+https://t.me/c/2494987106/2005
+
+Assistente Coach Interativo
+https://t.me/c/2494987106/1959
+
+INEMA Digital Coach v1
+https://t.me/c/2494987106/1973
+
+INEMA Manicure
+https://t.me/c/2494987106/1990
+
+Prompt Mentoria Milionária
+https://t.me/c/2494987106/2430
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 63
+Autor: INEMA
+Data: 2025-04-07T04:28:46+00:00
+Texto:
+Masters de Engenharia de Prompts
+
+Masterclass Engenharia de Prompt 2024
+[https://t.me/c/2494987106/1758](https://t.me/c/2494987106/1758)
+
+Mastering Prompt Engineering: 
+[https://t.me/c/2494987106/2151](https://t.me/c/2494987106/2151)
+
+Framework CRISPE
+https://t.me/c/2494987106/619
+
+
+Master de Engenharia de Prompt - MK 2025
+
+1- Master Engenharia de Prompt - MK 2025
+https://t.me/c/2494987106/3064
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 64
+Autor: INEMA
+Data: 2025-04-05T18:44:23+00:00
+Texto:
+Prompt Boneco na Caixa
+https://t.me/c/2494987106/3037
+
+Prompt Edição IMAGEM ChatGPT
+https://t.me/c/2494987106/2995
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 65
+Autor: INEMA
+Data: 2025-04-02T11:06:22+00:00
+Texto:
+Prompt para criar Papel Carta de Criança
+https://t.me/c/2494987106/2466
+
+Prompt Trabalhadores em Miniatura
+https://t.me/c/2494987106/2443
+
+Prompt de Agente Diretor
+https://t.me/c/2494987106/2482
+
+Prompts OneShot
+https://t.me/c/2494987106/2501
+
+Prompt Agente N8N
+https://t.me/c/2494987106/2518
+
+Prompt de SaaS com N8N e Lovable
+https://t.me/c/2494987106/2527
+
+Prompt Citação
+https://t.me/c/2494987106/2422
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 66
+Autor: INEMA
+Data: 2025-04-02T11:00:29+00:00
+Texto:
+Prompts Redes Agentes
+https://t.me/c/2494987106/2018
+
+Criar um Chatbot para um WebHooks
+https://t.me/c/2494987106/2062
+
+Classificacao Atemporal x Pessoal
+https://t.me/c/2494987106/2070
+
+Prompt de Tom Para Assistentes (clones)
+https://t.me/c/2494987106/2078
+
+Prompt Modelos
+https://t.me/c/2494987106/806
+
+Prompt Automação Make de Agentes
+https://t.me/c/2494987106/2090
+
+Prompts Simples Bons Videos
+https://t.me/c/2494987106/2118
+
+RESUMO de um Site
+https://t.me/c/2494987106/2183
+
+Prompt Perfil Cliente Ideal
+https://t.me/c/2494987106/2198
+
+Podcast NotebookLM Gloogle
+https://t.me/c/2494987106/2241
+
+j72n - Prompt Sistema Email
+https://t.me/c/2494987106/2258
+
+Temperatura x Top P
+https://t.me/c/2494987106/2262
+
+Prompt Realtime OpenAI API
+https://t.me/c/2494987106/2272
+
+Prompt Manual Curso
+https://t.me/c/2494987106/2229
+
+j65 - Prompt Agente IA - Make
+https://t.me/c/2494987106/2103
+
+e2n - Prompts Assistentes de VENDA
+https://t.me/c/2494987106/2140
+
+Prompts de Musicas
+https://t.me/c/2494987106/1176
+
+Prompt Youtube
+https://t.me/c/2494987106/2383
+
+Youtube Gerador de Titulos
+https://t.me/c/2494987106/2403
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 67
+Autor: INEMA
+Data: 2025-04-02T10:36:09+00:00
+Texto:
+Prompt Persona 
+https://t.me/c/2494987106/790
+
+Empoderamento
+https://t.me/c/2494987106/678
+
+Prompt Humanizado 
+https://t.me/c/2494987106/835
+
+Exemplo Viral do Confeitero
+Prompt Analise de Perfil
+https://t.me/c/2494987106/659
+
+Prompt de Automação
+https://t.me/c/2494987106/589
+
+Prompt Video
+https://t.me/c/2494987106/1394
+
+Prompts Personagens
+https://t.me/c/2494987106/1092
+
+Prompt Pessoas Realistas
+https://t.me/c/2494987106/1747
+
+Masterclass Engenharia de Prompt
+https://t.me/c/2494987106/1758
+
+Prompt Facebook
+https://t.me/c/2494987106/1853
+
+Prompt Heygen Interativo
+https://t.me/c/2494987106/1873
+
+Prompt Imagens
+https://t.me/c/2494987106/703
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 68
+Autor: INEMA
+Data: 2025-03-29T04:06:29+00:00
+Texto:
+M- Hacks de Prompts
+https://t.me/c/2494987106/2698
+
+System x User x Assistente
+https://t.me/c/2494987106/2646
+
+Prompt Analise Tecnica de Bolsa de Valores
+https://t.me/c/2494987106/2657
+
+Visão Geral de Prompts
+https://t.me/c/2494987106/2191
+
+M- Engenharia de Prompt Modelo Mx
+https://t.me/c/2494987106/2634
+
+Prompt Analise Bolsa Valor
+https://t.me/c/2494987106/2538
+
+Prompt Foto Realista
+https://t.me/c/2494987106/2492
+
+Prompt N8N Agente
+https://t.me/c/2494987106/3292
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 69
+Autor: INEMA
+Data: 2025-03-29T04:00:11+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 70
+Autor: INEMA
+Data: 2025-03-29T04:00:10+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 71
+Autor: INEMA
+Data: 2025-03-29T04:00:10+00:00
+Texto:
+Coneçando
+
+Prompt Emnpoderamento
+https://t.me/c/2494987106/678
+
+Visão Geral de Prompts
+https://t.me/c/2494987106/2191
+
+------------------------------
+
+MENSAGEM 72
+Autor: INEMA
+Data: 2025-03-29T04:00:09+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 73
+Autor: INEMA
+Data: 2025-03-29T04:00:09+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 74
+Autor: INEMA
+Data: 2025-03-29T04:00:09+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 75
+Autor: INEMA
+Data: 2025-03-29T04:00:08+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 76
+Autor: INEMA
+Data: 2025-03-29T04:00:02+00:00
+Texto: [Sem texto]
+
+------------------------------
+

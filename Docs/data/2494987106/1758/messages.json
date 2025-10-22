@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1777,
+    "author": "INEMA",
+    "date": "2024-11-20T04:00:44+00:00",
+    "text": "Aqui estão as dicas que o instrutor da masterclass provavelmente compartilhou para cada um dos prompts, com foco nas técnicas de construção e otimização de cada tipo de prompt:\n\n1. **Prompt para Aumento de Produtividade com IA**  \n   **Dica**: O instrutor enfatizou a importância de especificar etapas e objetivos no prompt para que a IA consiga mapear todo o processo de forma eficiente. Ao dividir a automação em etapas claras, a IA pode sugerir ferramentas e métricas para medir o sucesso, facilitando a implementação. A dica é incluir palavras como “detalhado” e “eficiência” para que o resultado seja objetivo e aplicável.\n\n2. **Prompt Composto para Análise de Sentimento**  \n   **Dica**: O instrutor mencionou que prompts para análise de sentimento funcionam melhor quando incluem uma classificação clara (positivo, neutro ou negativo) e um resumo do motivo. Ao pedir que a IA resuma o motivo do sentimento, o prompt se torna mais preciso. Outra dica foi usar termos específicos, como “classifique” e “resuma”, para garantir clareza e evitar interpretações ambíguas.\n\n3. **Prompt para Geração de Conteúdo Viral no Twitter**  \n   **Dica**: A recomendação foi usar “ganchos” baseados em gatilhos psicológicos, como curiosidade ou controvérsia, para aumentar o engajamento. O instrutor destacou que adicionar instruções para “criar um resumo” e “focar em gatilhos emocionais” ajuda a IA a construir frases atraentes. Ele também sugeriu usar palavras impactantes no início do tweet para capturar a atenção rapidamente.\n\n4. **Prompt para Criação de Briefing para Conteúdo**  \n   **Dica**: O instrutor sugeriu que dividir o briefing em seções, como introdução, pontos principais e conclusão, permite que a IA forneça uma estrutura coesa. Ao especificar “sugestões de estilo de escrita”, o prompt se torna mais direcionado, facilitando a adaptação do conteúdo ao tom da marca. A dica é sempre pedir um formato claro e consistente.\n\n5. **Prompt com Estruturação Específica para LinkedIn**  \n   **Dica**: Para adaptar mensagens ao LinkedIn, a dica do instrutor foi ajustar o tom para algo mais profissional e direto, abordando as necessidades do público-alvo. Ele enfatizou que adicionar detalhes específicos, como “conteúdo de onboarding” e “mensagem de prospecção”, ajuda a IA a personalizar a abordagem. Outro conselho foi incluir o objetivo da mensagem (atrair leads) para orientar a criação do conteúdo.\n\n6. **Prompt para Ideação para Conteúdos Virais**  \n   **Dica**: A dica aqui foi instruir a IA a “identificar temas populares” e sugerir “hashtags e emojis” para maximizar o alcance. Ao incluir instruções para extrair temas de interesse, a IA consegue criar conteúdo alinhado às tendências. O instrutor também sugeriu explorar diferentes tópicos para ver quais geram mais engajamento, permitindo testes A/B.\n\n7. **Prompt para Seleção de Ganchos Virais**  \n   **Dica**: O instrutor recomendou pedir “ganchos que explorem pontos de vista incomuns ou controvérsias”, pois esses elementos atraem mais comentários. A dica é especificar o tipo de gancho desejado, como “impactante” ou “provocativo”, para aumentar a chance de viralização. Outra sugestão foi incluir a essência do conteúdo original no prompt para garantir relevância.\n\n8. **Prompt para Simplificação de Explicações Técnicas**  \n   **Dica**: Para simplificar conceitos técnicos, o instrutor aconselhou a IA a “usar uma linguagem simples e acessível”. Ele sugeriu descrever o público-alvo (por exemplo, “para leigos”) para que a IA ajuste o tom e elimine jargões complexos. A dica adicional foi pedir um exemplo prático para tornar o conceito ainda mais fácil de entender.\n\n9. **Prompt para Criação de Scripts para Vídeos de YouTube**  \n   **Dica**: O instrutor enfatizou a importância de uma estrutura com “introdução, desenvolvimento e conclusão”, sugerindo que a IA inclua dicas práticas para engajar o público. A dica foi adicionar “tom informal e envolvente” para manter a atenção do espectador. Ele também mencionou que o script deve incluir um CTA claro ao final para incentivar a interação.\n\n10.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1776,
+    "author": "INEMA",
+    "date": "2024-11-20T04:00:28+00:00",
+    "text": "Aqui está uma descrição detalhada de cada prompt mencionado, com o contexto e a aplicação prática de cada um:\n\n1. **Prompt para Aumento de Produtividade com IA**:  \n   **Exemplo**: “Crie um plano detalhado para automatizar [processo específico] usando IA. Especifique etapas, ferramentas e como medir a eficiência.”  \n   **Descrição**: Esse prompt visa transformar processos manuais em automações usando IA, identificando cada etapa e ferramenta necessária. Por exemplo, se aplicado a um processo de atendimento ao cliente, o prompt ajudaria a detalhar como usar modelos de IA para respostas rápidas e precisas, reduzindo o tempo e esforço dos operadores humanos.\n\n2. **Prompt Composto para Análise de Sentimento**:  \n   **Exemplo**: “Analise o texto a seguir e classifique o sentimento como positivo, neutro ou negativo. Depois, resuma o motivo da classificação em uma frase.”  \n   **Descrição**: Esse prompt é útil para identificar a opinião do cliente em grande volume de textos, como comentários ou avaliações. O objetivo é que a IA categorize rapidamente o sentimento e forneça um resumo conciso do motivo, ajudando empresas a monitorar a percepção pública e agir sobre feedbacks negativos.\n\n3. **Prompt para Geração de Conteúdo Viral no Twitter**:  \n   **Exemplo**: “A partir do conteúdo do vídeo/artigo abaixo, crie um resumo com três ganchos virais para Twitter, focando em gatilhos psicológicos que gerem engajamento.”  \n   **Descrição**: Esse prompt foca em criar tweets atrativos com potencial de viralização. Os \"ganchos\" são frases curtas e impactantes que captam a atenção e incentivam compartilhamentos e curtidas. É útil para marcas que desejam expandir seu alcance e ganhar visibilidade nas redes sociais.\n\n4. **Prompt para Criação de Briefing para Conteúdo**:  \n   **Exemplo**: “Dado o tópico [tópico], crie um briefing que inclua uma introdução, três pontos principais, uma conclusão e sugestões de estilo de escrita para maximizar a clareza e impacto.”  \n   **Descrição**: Este prompt organiza as ideias principais de um conteúdo antes de sua criação, definindo uma estrutura clara. Ajuda criadores a manterem o foco e a consistência, orientando a criação de artigos, posts ou scripts que sejam fáceis de entender e engajantes.\n\n5. **Prompt com Estruturação Específica para LinkedIn**:  \n   **Exemplo**: “Transforme o conteúdo de onboarding de um cliente em uma mensagem de prospecção no LinkedIn, abordando o público-alvo com um tom profissional e cativante.”  \n   **Descrição**: Esse prompt converte conteúdo técnico ou de treinamento em mensagens de marketing adaptadas ao LinkedIn, focando em atrair leads ou clientes potenciais. Ele é valioso para empresas que desejam se conectar com profissionais no LinkedIn de forma relevante e personalizada.\n\n6. **Prompt para Ideação para Conteúdos Virais**:  \n   **Exemplo**: “Leia o artigo/vídeo abaixo e extraia os principais temas de interesse que podem ser usados para criar conteúdo viral em redes sociais. Inclua sugestões de hashtags e emojis.”  \n   **Descrição**: Esse prompt ajuda a identificar temas populares ou provocativos que possam gerar discussões e compartilhamentos. Ele também sugere hashtags e emojis que aumentam a visibilidade e facilitam o alcance orgânico nas redes sociais.\n\n7. **Prompt para Seleção de Ganchos Virais**:  \n   **Exemplo**: “Crie três ganchos virais que capturam a essência do vídeo/artigo a seguir, destacando um ponto de vista incomum ou controvérsias que atraiam comentários.”  \n   **Descrição**: Focado em atrair a atenção, este prompt cria ganchos com base em elementos únicos ou controversos do conteúdo. É especialmente eficaz para aumentar o engajamento, pois esses ganchos incentivam reações e conversas.\n\n8. **Prompt para Simplificação de Explicações Técnicas**:  \n   **Exemplo**: “Explique o conceito de [conceito técnico] em linguagem simples, de modo que qualquer pessoa, mesmo sem conhecimento prévio, possa entender.”  \n   **Descrição**: Esse prompt permite traduzir termos complexos para uma linguagem acessível. Ele é útil para empresas e pro",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1775,
+    "author": "INEMA",
+    "date": "2024-11-20T03:59:40+00:00",
+    "text": "Aqui estão mais 10 prompts avançados para complementar ainda mais suas estratégias de automação, conteúdo e marketing:\n\n41. **Prompt para Identificação de Padrões de Feedback Negativo**: “Analise o feedback dos clientes sobre [produto/serviço] e identifique os três problemas mais comuns relatados, propondo soluções específicas para cada um.”\n\n42. **Prompt para Redação de Biografia de Marca para Redes Sociais**: “Escreva uma biografia atraente para a marca [nome da marca] no Instagram e LinkedIn, transmitindo seus valores e propósito em até 150 caracteres.”\n\n43. **Prompt para Criação de Desafios de Engajamento para Comunidades**: “Sugira cinco ideias de desafios semanais para engajar a comunidade de [tema/nicho] nas redes sociais, incentivando os participantes a compartilhar suas experiências.”\n\n44. **Prompt para Estruturação de Guia de Estilo de Conteúdo**: “Crie um guia de estilo básico para o conteúdo da marca [nome da marca], especificando tom de voz, palavras-chave preferidas, e diretrizes de formatação.”\n\n45. **Prompt para Desenvolvimento de Scripts de Atendimento ao Cliente**: “Crie um script de atendimento para clientes que abordam [problema específico] com o produto [nome do produto], incluindo uma saudação inicial, solução sugerida e despedida amigável.”\n\n46. **Prompt para Estratégia de Promoção em Datas Especiais**: “Desenvolva uma estratégia de promoção para [produto/serviço] durante [data especial, como Natal ou Black Friday], incluindo ideias de descontos e sugestões de comunicação.”\n\n47. **Prompt para Ideias de Conteúdo de Teste de Produtos**: “Sugira cinco ideias para conteúdo de teste prático de [produto], destacando as funcionalidades e benefícios de forma visual e informativa.”\n\n48. **Prompt para Planejamento de Lives ou Webinars**: “Desenvolva um esboço para uma live/webinar sobre [tema], incluindo tópicos a serem abordados, perguntas de engajamento e um CTA final para a audiência.”\n\n49. **Prompt para Análise de Palavras-Chave para SEO**: “Liste palavras-chave principais e secundárias para otimizar um artigo sobre [assunto], com foco em aumentar a visibilidade no Google.”\n\n50. **Prompt para Redação de Texto Persuasivo para Landing Page**: “Escreva um texto persuasivo para a landing page de [produto/serviço], com uma introdução cativante, benefícios destacados e um CTA claro e direto para conversão.”\n\nEsses prompts expandem o escopo de automação e criação de conteúdo, englobando desde a análise de feedback até o planejamento de eventos ao vivo e a otimização de SEO.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1774,
+    "author": "INEMA",
+    "date": "2024-11-20T03:59:29+00:00",
+    "text": "Aqui estão mais 10 prompts avançados para diversas aplicações de automação e criação de conteúdo:\n\n31. **Prompt para Análise de Concorrência em Redes Sociais**: “Analise o conteúdo de [concorrente] nas redes sociais e identifique três estratégias que eles utilizam para engajar o público. Sugira como podemos adaptar essas estratégias.”\n\n32. **Prompt para Criação de Plano de Conteúdo Semanal**: “Desenvolva um plano de conteúdo para uma semana sobre [tema ou produto], com ideias de posts para cada dia, incluindo hashtags e CTAs para engajamento.”\n\n33. **Prompt para Segmentação Geográfica de Público**: “Redija uma mensagem de marketing para [produto/serviço] focada em atrair clientes de [localização geográfica específica], destacando elementos culturais ou regionais relevantes.”\n\n34. **Prompt para Elicitação de Valores de Marca**: “Crie uma descrição dos valores fundamentais da marca [nome da marca], com três a cinco valores principais e uma breve explicação para cada um.”\n\n35. **Prompt para Geração de Ideias de Conteúdo Educativo**: “Sugira cinco ideias de conteúdo educativo para o público-alvo de [setor/nicho], focando em resolver dúvidas comuns e melhorar a autoridade da marca.”\n\n36. **Prompt para Criação de Fluxo de E-mails de Boas-Vindas**: “Desenvolva um fluxo de e-mails de boas-vindas para novos clientes de [produto ou serviço], com uma sequência de três e-mails que introduzam o produto e incentivem o engajamento inicial.”\n\n37. **Prompt para Construção de Roteiro de Vídeo Explicativo**: “Crie um roteiro para um vídeo explicativo de 1 minuto sobre [assunto], com uma introdução envolvente, apresentação do problema, solução e um CTA final.”\n\n38. **Prompt para Criação de Anúncio em Redes Sociais**: “Escreva um anúncio para [produto ou serviço] no Facebook e Instagram, incluindo uma chamada inicial que prenda a atenção e um CTA que incentive a compra.”\n\n39. **Prompt para Gerar Testimonial de Cliente**: “Crie um depoimento fictício de um cliente para [produto/serviço], destacando os principais benefícios e o impacto positivo na vida do cliente.”\n\n40. **Prompt para Elaboração de Perguntas de Entrevista de Persona**: “Desenvolva uma lista de perguntas para entrevistar clientes e obter insights sobre seu perfil, interesses, valores e expectativas em relação a [produto/serviço].”\n\nEsses prompts ampliam as possibilidades de automação e planejamento estratégico, desde a análise de concorrência até a criação de anúncios, roteiros e fluxos de comunicação com o público.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1773,
+    "author": "INEMA",
+    "date": "2024-11-20T03:59:16+00:00",
+    "text": "Aqui estão mais 10 prompts avançados que seguem a linha de aplicação em automação, criação de conteúdo e estratégias de engajamento:\n\n21. **Prompt para Elaboração de Personas**: “Crie uma persona detalhada para [produto ou serviço], incluindo comportamentos, desejos, valores e interesses principais, com base no público-alvo específico.”\n\n22. **Prompt para Geração de Títulos Atrativos para Artigos**: “Sugira cinco títulos impactantes para um artigo sobre [assunto], focando em palavras que gerem curiosidade e engajem leitores.”\n\n23. **Prompt para Resumo Executivo de Relatório**: “Faça um resumo executivo do relatório a seguir, destacando os principais pontos e resultados, em um formato que seja direto e fácil de ler para executivos.”\n\n24. **Prompt para Criação de Storytelling para Marcas**: “Escreva uma história curta que humanize a marca [nome da marca] e conecte-a emocionalmente ao público, mostrando como o produto impacta positivamente a vida dos clientes.”\n\n25. **Prompt para Perguntas de Qualificação de Lead**: “Crie uma série de cinco perguntas para qualificar um lead interessado em [produto/serviço], ajudando a identificar necessidades e interesses específicos.”\n\n26. **Prompt para Planejamento de Campanha de E-mail Marketing**: “Elabore um plano de campanha de e-mail marketing para [produto/serviço], incluindo um título atrativo, estrutura do e-mail e sugestões de CTA para aumentar a taxa de cliques.”\n\n27. **Prompt para Análise de Público-Alvo com Segmentação de Idade**: “Analise como diferentes faixas etárias respondem ao conteúdo sobre [assunto] e sugira abordagens de comunicação específicas para cada grupo.”\n\n28. **Prompt para Identificar Influenciadores em Nichos Específicos**: “Liste influenciadores relevantes para o nicho de [tema] com base em seu impacto e engajamento no Instagram, TikTok e YouTube.”\n\n29. **Prompt para Sugestão de Conteúdos para Instagram Stories**: “Sugira uma série de cinco conteúdos para stories no Instagram sobre [assunto], cada um com um gancho inicial e uma pergunta para incentivar interações.”\n\n30. **Prompt para Redação de Descrições de Produto**: “Crie uma descrição persuasiva para o produto [nome do produto], destacando suas funcionalidades e benefícios de forma que atraia o público-alvo e incentive a compra.”\n\nEsses prompts cobrem uma ampla gama de funções, desde o planejamento de conteúdo e campanhas até a criação de personas e estratégias de segmentação, permitindo aplicar a IA para automatizar e enriquecer processos de marketing e vendas.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1772,
+    "author": "INEMA",
+    "date": "2024-11-20T03:59:02+00:00",
+    "text": "Aqui estão mais 10 exemplos de prompts avançados que refletem técnicas apresentadas na masterclass, abrangendo automação, criação de conteúdo e segmentação para engajamento:\n\n11. **Prompt para Resumo com Gatilhos Emocionais**: “Resuma o texto abaixo em um parágrafo curto que utilize gatilhos emocionais (como curiosidade ou urgência) para atrair leitores e gerar interesse.”\n\n12. **Prompt para Análise Competitiva de Conteúdo**: “Compare o conteúdo de [marca A] e [marca B] sobre [tema específico] e identifique três pontos em que um se destaca sobre o outro, incluindo sugestões para melhorar a presença da [marca específica].”\n\n13. **Prompt para Estruturação de Blog Post**: “Elabore um esboço para um blog post sobre [assunto], incluindo título, introdução, subtítulos e uma conclusão com CTA que incentive o compartilhamento.”\n\n14. **Prompt para Tradução Adaptada de Mensagem**: “Traduza a mensagem a seguir para [idioma], ajustando o tom para soar natural e acolhedor para leitores nativos do idioma.”\n\n15. **Prompt para Criação de Ganchos Virais**: “Crie três ganchos virais que capturam a essência do vídeo/artigo a seguir, destacando um ponto de vista incomum ou controvérsias que atraiam comentários.”\n\n16. **Prompt para Segmentação de Público no LinkedIn**: “Redija uma mensagem de prospecção no LinkedIn focada em [perfil do público], com um tom confiante e objetivo, enfatizando a relevância de nossos serviços para suas necessidades.”\n\n17. **Prompt para Simplificação de Explicações Técnicas**: “Explique o conceito de [conceito técnico] em linguagem simples, de modo que qualquer pessoa, mesmo sem conhecimento prévio, possa entender.”\n\n18. **Prompt para Feedback de Produto**: “Analise o feedback do cliente sobre [produto] e identifique três principais áreas de melhoria, sugerindo mudanças práticas.”\n\n19. **Prompt para Análise de Tendências em Redes Sociais**: “Analise as tendências de [tema] nas redes sociais e destaque os tópicos mais discutidos, sugerindo ideias para posts que acompanhem essas tendências.”\n\n20. **Prompt para Gerar Teste A/B de Conteúdo**: “Crie duas versões de uma legenda de Instagram para o produto [produto], uma versão focada em benefícios emocionais e outra nos benefícios práticos, para realizar um teste A/B de desempenho.”\n\nEsses prompts exemplificam como usar a engenharia de prompt para gerar conteúdo impactante e estratégias de engajamento, além de aprimorar a comunicação e análise de público em diversas plataformas digitais.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1771,
+    "author": "INEMA",
+    "date": "2024-11-20T03:58:49+00:00",
+    "text": "Baseado na descrição da masterclass, aqui estão 10 tipos de prompts que o instrutor provavelmente demonstra ou explica em detalhes. Esses prompts são modelos comuns que podem ser adaptados conforme a necessidade. São exemplos para ilustrar como estruturar prompts avançados em automações e conteúdos virais:\n\n1. **Prompt de Aumento de Produtividade com IA**: “Crie um plano detalhado para automatizar [processo específico] usando IA. Especifique etapas, ferramentas e como medir a eficiência.”\n\n2. **Prompt Composto para Análise de Sentimento**: “Analise o texto a seguir e classifique o sentimento como positivo, neutro ou negativo. Depois, resuma o motivo da classificação em uma frase.”\n\n3. **Prompt para Geração de Conteúdo Viral no Twitter**: “A partir do conteúdo do vídeo/artigo abaixo, crie um resumo com três ganchos virais para Twitter, focando em gatilhos psicológicos que gerem engajamento.”\n\n4. **Prompt para Criação de Briefing para Conteúdo**: “Dado o tópico [tópico], crie um briefing que inclua uma introdução, três pontos principais, uma conclusão e sugestões de estilo de escrita para maximizar a clareza e impacto.”\n\n5. **Prompt com Estruturação Específica para LinkedIn**: “Transforme o conteúdo de onboarding de um cliente em uma mensagem de prospecção no LinkedIn, abordando o público-alvo com um tom profissional e cativante.”\n\n6. **Prompt para Elaboração de Estratégia de Marketing**: “Desenvolva uma estratégia de marketing com base nas tendências atuais, incluindo uma análise de público, principais canais de divulgação, e uma sugestão de conteúdo adaptada ao perfil da marca.”\n\n7. **Prompt de Ideação para Conteúdos Virais**: “Leia o artigo/vídeo abaixo e extraia os principais temas de interesse que podem ser usados para criar conteúdo viral em redes sociais. Inclua sugestões de hashtags e emojis.”\n\n8. **Prompt para Edição de Conteúdo com Otimização de CTA**: “Revise o conteúdo a seguir e acrescente uma chamada para ação que incentive o engajamento, usando um tom inclusivo e persuasivo.”\n\n9. **Prompt para Segmentação de Público no Instagram**: “Crie uma legenda para Instagram que seja atraente para [perfil do público-alvo], com uma introdução impactante, uma breve explicação e um CTA, usando hashtags relevantes.”\n\n10. **Prompt para Geração de Scripts para Vídeos de YouTube**: “Com base no tema [tema], crie um script dividido em introdução, desenvolvimento e conclusão. Mantenha o tom informal e envolvente, e inclua três dicas práticas.”\n\nEsses prompts exemplares destacam a diversidade de aplicações e metodologias de engenharia de prompt que foram abordadas na masterclass e podem ser adaptados para diferentes objetivos e plataformas.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1770,
+    "author": "INEMA",
+    "date": "2024-11-20T03:58:07+00:00",
+    "text": "Com essa masterclass de engenharia de prompt, você pode aprender:\n\n1. **Aumentar a Eficiência das Automações de IA**: Descobrir técnicas para criar prompts que tornam automações mais rápidas e eficazes, economizando tempo e recursos.\n\n2. **Tipos e Estruturação de Prompts**: Compreender a diferença entre prompts atômicos, compostos e conversacionais, além de saber quando usar cada tipo para alcançar resultados específicos.\n\n3. **Métodos Avançados de Criação de Prompt**: Aprender métodos como o “Dizer e Mostrar”, “Injeção de Conhecimento” e “Cadeia de Pensamento”, que ajudam a melhorar a precisão e qualidade das respostas da IA.\n\n4. **Tornar a IA Mais Consistente e Confiável**: Entender como definir contextos e especificações claras para que as saídas da IA sejam mais previsíveis e alinhadas aos seus objetivos.\n\n5. **Iteração e Experimentação em Engenharia de Prompt**: Desenvolver habilidades para ajustar, testar e iterar prompts até que a IA ofereça o resultado ideal.\n\n6. **Monetização da Habilidade de Engenharia de Prompt**: Aplicar seus conhecimentos para ganhar dinheiro, seja criando prompts para empresas ou usando-os para melhorar processos internos e conteúdo.\n\n7. **Construir Conteúdo Viral e Engajador**: Explorar como usar prompts compostos para gerar conteúdo que capta a atenção do público, especialmente em plataformas como Twitter, LinkedIn e YouTube.\n\n8. **Gestão de Projetos e Ferramentas para Automação**: Entender o papel de cada parte do prompt no ChatGPT e outros modelos de IA, melhorando o uso de ferramentas para criação de conteúdo automatizado.\n\n9. **Aplicação Real e ROI**: Identificar formas práticas de medir o retorno sobre o investimento de prompts eficientes, mostrando o valor agregado que eles podem trazer ao seu trabalho ou negócio.\n\n10. **Estratégias para Profissionais e Negócios**: Usar prompts para melhorar processos em áreas como atendimento ao cliente, marketing e operações, trazendo vantagens competitivas através de automação com IA. \n\nEsses aprendizados oferecem uma base completa para que você otimize automações, crie conteúdos melhores e use IA de forma prática e impactante.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1769,
+    "author": "INEMA",
+    "date": "2024-11-20T03:57:38+00:00",
+    "text": "https://chatgpt.com/c/67330a1e-b960-8009-9639-9c0fc660e9d0",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 1768,
+    "author": "INEMA",
+    "date": "2024-11-20T03:57:25+00:00",
+    "text": "1. Introdução à Masterclass de Engenharia de Prompt\n2. Importância de aumentar o impacto das automações de IA\n3. Benefícios de otimizar prompts para automações\n4. Experiência e especialização do instrutor em engenharia de prompts\n5. Como prompts podem aumentar o valor e a produtividade de automações\n6. Estrutura de prompts para obter saídas perfeitas e consistentes\n7. Erros comuns em engenharia de prompts entre especialistas de IA\n8. Tipos de prompts:\n   - Conversacionais\n   - Atômicos\n   - Compostos\n9. Utilização de prompts compostos em automações complexas\n10. Aplicação de prompts compostos para automação em redes sociais (exemplo de LinkedIn)\n11. Diferença entre prompts de uma só etapa e prompts compostos\n12. Exemplo prático: Automação de threads virais no Twitter\n13. Uso de triggers psicológicos para conteúdo viral\n14. Estrutura de prompt para selecionar ganchos (hooks) e criar um esboço de conteúdo\n15. Ferramentas para automação de conteúdo e validação de ideias\n16. Necessidade de especificidade ao criar prompts (evitar informações irrelevantes)\n17. Importância de dar contexto claro ao modelo para evitar ambiguidades\n18. Estruturação detalhada do prompt:\n    - Uso de etiquetas (labels)\n    - Parênteses e seções organizadas\n19. Formatação de entrada e seu impacto na saída\n20. Experimentação e iteração para melhorar prompts\n21. Funções e papéis no ChatGPT:\n    - Papel do sistema\n    - Papel do usuário\n    - Papel do assistente\n22. Limites de tokens em modelos de IA e como isso afeta o comprimento da saída\n23. Uso do método “Cadeia de Pensamento” para tarefas detalhadas\n24. Métodos avançados de engenharia de prompt:\n    - Método de Injeção de Conhecimento\n    - Método “Dizer e Mostrar”\n    - Método de Importação\n25. Importância de dividir prompts em etapas para qualidade superior\n26. Como \"empilhar\" prompts para melhorar resultados\n27. Uso do método “Dizer e Mostrar” para aprimorar a qualidade de saídas\n28. Método de Importação: Incorporar conhecimento especializado nos prompts\n29. Método “Cadeia de Pensamento” para estruturar o raciocínio da IA\n30. Evitar termos genéricos em prompts e usar instruções específicas\n31. Exemplos de ganhos em produtividade e economia usando prompts bem estruturados\n32. Prática diária como essencial para dominar engenharia de prompts\n33. Engenharia de prompts como uma habilidade aplicável para monetização\n34. Como construir carreira ou negócios usando engenharia de prompts para IA\n35. Sessão de Perguntas e Respostas com dicas adicionais\n36. Fechamento e planos para futuras sessões",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1767,
+    "author": "INEMA",
+    "date": "2024-11-20T03:57:15+00:00",
+    "text": "9",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1766,
+    "author": "INEMA",
+    "date": "2024-11-20T03:57:15+00:00",
+    "text": "8",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1765,
+    "author": "INEMA",
+    "date": "2024-11-20T03:57:15+00:00",
+    "text": "4567",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1764,
+    "author": "INEMA",
+    "date": "2024-11-20T03:57:14+00:00",
+    "text": "456",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1763,
+    "author": "INEMA",
+    "date": "2024-11-20T03:57:14+00:00",
+    "text": "45",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1762,
+    "author": "INEMA",
+    "date": "2024-11-20T03:57:14+00:00",
+    "text": "4",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1761,
+    "author": "INEMA",
+    "date": "2024-11-20T03:57:14+00:00",
+    "text": "23",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1760,
+    "author": "INEMA",
+    "date": "2024-11-20T03:57:13+00:00",
+    "text": "2",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1759,
+    "author": "INEMA",
+    "date": "2024-11-20T03:57:13+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1758,
+    "author": "INEMA",
+    "date": "2024-11-20T03:57:08+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

@@ -1,0 +1,334 @@
+TOPICO 2352
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-02-25 04:46:12+00:00
+
+Total de mensagens: 14
+Midias encontradas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-02-25T04:49:42+00:00
+Texto:
+### **Prompt 3 - Elementos de Nível Macro e Considerações Adicionais:**  
+
+Analise o texto fornecido com foco nos seguintes elementos de nível macro e considerações adicionais:  
+
+7️⃣ **Tom e humor**  
+   - Analise o tom geral do texto, como formal, casual, humorístico ou sério.  
+   - Identifique mudanças no tom ao longo do texto e examine como o autor as implementa.  
+   - Determine o uso de escolha de palavras, sintaxe e imagens para criar um tom específico.  
+   - Procure inconsistências ou contradições no tom do escritor.  
+
+8️⃣ **Coerência e coesão geral**  
+   - Analise como as ideias do escritor fluem e se conectam ao longo do texto.  
+   - Examine o uso de palavras, frases ou sentenças de transição para ligar ideias.  
+   - Identifique o uso de repetição, estrutura paralela ou outros dispositivos coesivos.  
+   - Determine a capacidade do escritor de manter o foco e a unidade do texto.  
+
+9️⃣ **Idiossincrasias e características únicas**  
+   - Identifique quaisquer aspectos únicos ou incomuns no estilo do escritor, como grafias não convencionais, palavras inventadas ou frases distintivas.  
+   - Procure traços estilísticos recorrentes que tornem o escritor facilmente reconhecível.  
+   - Analise como essas características contribuem ou prejudicam a eficácia geral do texto.  
+
+🔟 **Diálogos (se aplicável)**  
+   - Examine como o escritor lida com diálogos, incluindo pontuação, marcações e formatação.  
+   - Analise a autenticidade e consistência da voz de cada personagem.  
+   - Identifique traços distintos ou maneirismos no discurso dos personagens.  
+
+1️⃣1️⃣ **Linguagem figurativa**  
+   - Identifique o uso de recursos figurativos, como personificação, sinédoque ou metonímia.  
+   - Analise como o autor usa a linguagem figurada para transmitir significado, evocar emoções ou criar imagens vívidas.  
+   - Examine a frequência e a eficácia da linguagem figurativa no texto.  
+
+**⚠️ Diretriz Importante:**  
+Forneça diretrizes detalhadas para cada elemento, incluindo exemplos relevantes do texto. As diretrizes devem ser escritas como instruções para um modelo de linguagem emular esse estilo com precisão.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-02-25T04:49:38+00:00
+Texto:
+### **Prompt 2 - Elementos de Nível Médio:**  
+
+Analise o texto fornecido com foco nos seguintes elementos de nível médio:  
+
+4️⃣ **Estrutura e comprimento das frases**  
+   - Examine a complexidade, a variedade e o comprimento médio das frases do escritor.  
+   - Identifique o uso de frases simples, compostas, complexas ou compostas-complexas.  
+   - Analise o uso de fragmentos de frases, frases excessivamente longas ou variações nos inícios de frases.  
+   - Determine se o escritor prefere frases curtas e diretas ou mais longas e elaboradas.  
+   - Calcule a média de palavras por frase.  
+   - Identifique a porcentagem de frases curtas (menos de 10 palavras) e longas (mais de 30 palavras).  
+
+5️⃣ **Dispositivos retóricos**  
+   - Reconheça o uso de técnicas literárias, como metáforas, comparações, aliterações ou repetições.  
+   - Identifique o uso de perguntas retóricas, ironia ou hipérbole.  
+   - Examine o uso de analogias, anedotas ou exemplos para ilustrar ideias.  
+   - Identifique dispositivos retóricos recorrentes e distintivos no trabalho do escritor.  
+
+6️⃣ **Estrutura dos parágrafos**  
+   - Examine como os parágrafos são organizados, incluindo sua extensão, frases tópicas e transições.  
+   - Analise o uso de raciocínio dedutivo ou indutivo no desenvolvimento dos parágrafos.  
+   - Identifique o uso de ordem cronológica, espacial ou ênfase na organização dos parágrafos.  
+   - Procure padrões únicos ou recorrentes na estrutura dos parágrafos do escritor.  
+
+**⚠️ Diretriz Importante:**  
+Forneça diretrizes detalhadas para cada elemento, incluindo exemplos relevantes do texto. As diretrizes devem ser escritas como instruções para um modelo de linguagem emular esse estilo com precisão.  
+
+---
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-02-25T04:49:27+00:00
+Texto:
+### **Prompt 1 - Elementos de Nível Micro:**  
+
+Analise o texto fornecido com foco nos seguintes elementos de nível micro:  
+
+1️⃣ **Vocabulário e escolha de palavras**  
+   - Analise o uso de palavras e frases únicas, especializadas ou repetitivas do autor.  
+   - Identifique a frequência e a diversidade do vocabulário do escritor.  
+   - Examine o uso de jargões, gírias ou expressões coloquiais.  
+   - Determine se o autor prefere palavras simples ou complexas.  
+   - Identifique escolhas de palavras distintas ou incomuns.  
+   - Avalie o nível de leitura necessário para compreender o vocabulário utilizado.  
+
+2️⃣ **Padrões gramaticais**  
+   - Identifique o uso de estruturas gramaticais específicas, como voz passiva, tempos verbais complexos ou tipos de palavras recorrentes.  
+   - Analise o uso dos tempos verbais e a consistência na aplicação deles.  
+   - Examine o uso de substantivos no singular e plural, além de pronomes.  
+   - Identifique erros gramaticais recorrentes ou desvios deliberados da gramática padrão.  
+
+3️⃣ **Pontuação**  
+   - Analise o uso de sinais de pontuação, como vírgulas, pontos e vírgulas, travessões e parênteses.  
+   - Determine se o escritor favorece certos sinais de pontuação em detrimento de outros.  
+   - Examine como a pontuação é usada para criar ritmo, ênfase ou clareza.  
+   - Identifique quaisquer padrões de pontuação incomuns ou idiossincráticos.  
+
+**⚠️ Diretriz Importante:**  
+Forneça diretrizes detalhadas para cada elemento, incluindo exemplos relevantes do texto. As diretrizes devem ser escritas como instruções para um modelo de linguagem emular esse estilo com precisão.  
+
+---
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-02-25T04:49:17+00:00
+Texto:
+### **Prompt de Segmentação 🤖**  
+
+---
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-02-25T04:49:06+00:00
+Texto:
+===============
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-02-25T04:46:34+00:00
+Texto:
+(chocante, né?).".  
+- **Pontuação enfática!**  
+  - **Exemplo:** "Incrível, né?", "Isso só funciona onde há transparência... e confiança!".  
+
+---
+
+### **Diretrizes para os elementos médios do estilo de escrita:**  
+
+#### **📌 Estrutura e comprimento das frases:**  
+- Misture frases **curtas para impacto** e **longas para transmitir ideias complexas**.  
+- Varie a forma de começar as frases para evitar monotonia.  
+- Frases médias devem ter **15 a 20 palavras** em média.  
+- Frases curtas representam **20-30% do texto**, enquanto frases longas representam **10-15%**.  
+  - **Exemplo de frase curta:** "Você consegue."  
+  - **Exemplo de frase longa:** "Eu mal conseguia falar porque não queria que as lágrimas transparecessem no tremor da minha voz."  
+
+---
+
+#### **📌 Dispositivos retóricos:**  
+- **Metáforas e comparações** para tornar conceitos abstratos mais fáceis de entender.  
+  - **Exemplo:** "Achar um mentor é como encontrar um mapa para um tesouro escondido."  
+- **Aliteração** para criar frases chamativas e memoráveis.  
+  - **Exemplo:** "Isso ativa nosso medo psicológico da perda para nos fazer agir."  
+- **Perguntas retóricas** para envolver o leitor.  
+  - **Exemplo:** "Já imaginou um dos meus vendedores dizendo: 'Alex vai trabalhar pessoalmente com você até que sua oferta converta'?"  
+- **Hipérbole para impacto.**  
+  - **Exemplo:** "Estou falando de quantidades ABSURDAS de dinheiro."  
+- **Anedotas e exemplos para tornar os argumentos mais pessoais e convincentes.**  
+  - **Exemplo:** "Muita gente consegue ganhar R$10 mil por mês. Mas quantos conseguem adicionar R$5 milhões ao faturamento sem criar novos produtos?".  
+
+---
+
+### **Diretrizes para os elementos macro do estilo de escrita:**  
+
+#### **📌 Tom e humor:**  
+- **Principalmente casual, motivacional e direto.**  
+- **Use contrações e linguagem simples** para criar proximidade.  
+  - **Exemplo:** "Agora me diz: quantos clientes você conseguiria atender? 5? 10? 25?".  
+- **Use um tom sério e autoritário** quando discutir estratégias de negócios.  
+  - **Exemplo:** "Todo marketing existe para influenciar a curva de oferta e demanda."  
+- **Insira humor e sarcasmo ocasionalmente.**  
+  - **Exemplo:** "As pessoas, de fato, julgam um livro pela capa (e pelas avaliações).".  
+- **Crie uma sensação de entusiasmo e otimismo.**  
+  - **Exemplo:** "Alguns chegam lá rápido. Outros devagar. Mas todos chegam, desde que nunca desistam."  
+
+---
+
+#### **📌 Estrutura dos parágrafos:**  
+- Comece com **uma frase clara que introduza o tema.**  
+- **Mantenha os parágrafos curtos** (3-5 frases) para manter a atenção.  
+- **Use palavras de transição** para fluidez.  
+  - **Exemplos:** "Além disso", "Em seguida", "Agora que já entendemos isso...".  
+
+---
+
+### **Conclusão**  
+Esse é um guia detalhado para replicar o estilo de Alex. Cada elemento foi estruturado para garantir que a escrita gerada pela IA reflita exatamente seu tom de voz. Com essas diretrizes, qualquer conteúdo gerado seguirá a identidade única do autor sem perder autenticidade.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-02-25T04:46:34+00:00
+Texto:
+### **Prompt para Tom de Voz 🤖**  
+
+---
+
+### **Você escreverá como Alex.**  
+Abaixo, você receberá um guia completo sobre como escrever no estilo de Alex. Você receberá uma tarefa e deverá seguir rigorosamente todos os princípios de tom de voz para criar um conteúdo alinhado com essas diretrizes.  
+
+⚠️ **Você nunca deve fazer referência às diretrizes de tom de voz no texto gerado, mas deve segui-las exatamente.**  
+
+---
+
+### **Tarefa:**  
+Escreva uma descrição de 100 palavras explicando por que comunidades pagas são benéficas para os negócios.  
+
+---
+
+## **Tom de Voz de Alex**  
+
+### **Diretrizes detalhadas para emular os elementos micro do estilo de escrita:**  
+
+#### **📌 Vocabulário e escolha de palavras:**  
+- Misture palavras simples e conversacionais com termos mais especializados de negócios e marketing.  
+  - **Exemplos de palavras simples:** "coisa", "fazer", "melhor", "bacana".  
+  - **Exemplos de termos especializados:** "comoditização", "discrepância de valor", "curva de demanda", "margens de lucro".  
+- Utilize um vocabulário relativamente amplo, mas repita palavras e frases-chave para ênfase.  
+  - **Exemplos de palavras/frases repetidas:** "valor", "resultado dos sonhos", "bônus", "garantia", "escassez", "urgência".  
+- Use gírias e expressões casuais ocasionalmente para um tom mais próximo e envolvente.  
+  - **Exemplos:** "vou nessa", "não presta", "me dá meu dinheiro".  
+- Prefira palavras simples, mas insira algumas palavras mais complexas para soar autoritário.  
+  - **Exemplos de palavras complexas:** "desproporcional", "psicológico", "comoditização", "diferenciado".  
+- Utilize algumas escolhas de palavras impactantes para chamar atenção.  
+  - **Exemplos:** "quantias absurdas de dinheiro", "bate de frente com seu sistema de crenças".  
+- Escreva para um público adulto sem simplificar demais. O nível de leitura recomendado é ensino médio para cima.  
+
+---
+
+#### **📌 Padrões gramaticais:**  
+- Dê preferência à **voz ativa** para um tom mais direto e envolvente.  
+  - **Exemplo:** "Fazer isso vai facilitar MUITO seu trabalho com vendas." (voz ativa)  
+  - **Evite:** "Seu trabalho com vendas será MUITO facilitado por fazer isso." (voz passiva)  
+- Use predominantemente os **tempos presente e futuro**.  
+  - **Exemplo:** "Não importa, contanto que você acredite nisso", "Você também perceberá que...".  
+- Use o **pretérito perfeito e passado** ocasionalmente para histórias e exemplos.  
+  - **Exemplo:** "Já usei essa garantia várias vezes", "Anos de altos e baixos... FINALMENTE se transformaram em riqueza."  
+- Utilize **modo imperativo** para instruções diretas.  
+  - **Exemplo:** "Agora, faça isso para todos os problemas que seus clientes enfrentam...".  
+- Fale na **primeira pessoa do singular** ("eu") para criar proximidade com o leitor.  
+  - **Exemplo:** "Vou te mostrar isso", "Espero que tenha gostado deste primeiro volume...".  
+- Fale diretamente com o leitor usando **"você"**.  
+  - **Exemplo:** "Se você está disposto a investir o tempo...".  
+- **Quebre regras gramaticais de propósito** para criar impacto e naturalidade.  
+  - **Exemplo:** "Prazos. Definem. Decisões.", "Parabéns! Você descobriu como...".  
+
+---
+
+#### **📌 Pontuação:**  
+- Use **vírgulas frequentemente** para ritmo e fluidez.  
+  - **Exemplo:** "Melhor ainda, se você estiver em um negócio que não reforça seus contratos, então você não tem nada a perder ao adicionar a garantia."  
+- Utilize **travessões** para inserir informações adicionais e dar ênfase.  
+  - **Exemplo:** "E só para lembrar — se houver a opção de reembolso...".  
+- **Reticências (...)** para criar suspense e pausas.  
+  - **Exemplo:** "Mas vamos ver quanto dinheiro geramos... nossa oferta de R$400 agora tem a possibilidade...".  
+- **Caixa alta para ênfase.**  
+  - **Exemplo:** "É UMA das COISAS MAIS éticas que você pode fazer."  
+- **Dois-pontos para introduzir listas e exemplos.**  
+  - **Exemplo:** "Aqui está minha lista:".  
+- **Parênteses para comentários extras.**  
+  - **Exemplo:** "E o mais incrível, agora eles gastam menos tempo por cliente
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-02-25T04:46:29+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-02-25T04:46:29+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-02-25T04:46:20+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-02-25T04:46:20+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-02-25T04:46:20+00:00
+Texto:
+https://chatgpt.com/c/67bd489b-ea24-8009-b395-58794384bf65
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-02-25T04:46:19+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 14
+Autor: INEMA
+Data: 2025-02-25T04:46:12+00:00
+Texto: [Sem texto]
+
+------------------------------
+

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 2004,
+    "author": "INEMA",
+    "date": "2025-01-04T02:44:28+00:00",
+    "text": "use uma planilha comum",
+    "has_media": true,
+    "media_type": "MessageMediaDocument"
+  },
+  {
+    "id": 2002,
+    "author": "INEMA",
+    "date": "2025-01-04T02:38:52+00:00",
+    "text": "https://chatgpt.com/g/g-6777279e3f4c819180d78f7b344f4024-inema-manicure",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 2000,
+    "author": "INEMA",
+    "date": "2025-01-04T02:38:03+00:00",
+    "text": "openapi: 3.1.0info:\n  title: Agendamento de Manicure API  description: API para enviar dados de agendamento de manicure para um webhook.\n  version: 1.0.0paths:\n  /:    post:\n      operationId: enviarAgendamento      summary: Envia dados de agendamento de manicure para o webhook.\n      requestBody:        required: true\n        content:          application/json:\n            schema:              type: object\n              properties:                cliente:\n                  type: string                  description: Nome do cliente.\n                data:                  type: string\n                  format: date-time                  description: Data e hora do agendamento.\n                servico:                  type: string\n                  description: Tipo de serviço de manicure.                contato:\n                  type: string                  description: Informações de contato do cliente.\n              required:                - cliente\n                - data                - servico\n      responses:        '200':\n          description: Agendamento enviado com sucesso.        '400':\n          description: Requisição inválida.servers:\n  - url: https://hook.us2.make.com/v22t72urrh80lmqnsca3xxx\n    description: Webhook para receber dados de agendamento.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1998,
+    "author": "INEMA",
+    "date": "2025-01-04T02:36:48+00:00",
+    "text": "Você é um especialista em manicure com vasta experiência atendendo mulheres e homens que buscam informações detalhadas e práticas sobre cuidados com unhas, tendências, técnicas de aplicação, manutenção e personalização. Sua tarefa é responder exclusivamente dentro do contexto da manicure, mantendo o foco em tópicos como saúde das unhas, técnicas modernas, produtos adequados, dúvidas comuns e tendências do setor. Não saia desse tema e mantenha suas respostas claras, completas e úteis, com exemplos práticos sempre que necessário. Seja direto e educativo, mas acolhedor, garantindo que a cliente se sinta segura e informada sobre o assunto. Além disso, você também pode fornecer informações de contato para agendamento de serviços. O contato para agendamento é manicure@inema.vip. Quando um usuário solicitar agendamento, registre os dados fornecidos acionando um webhook para cadastro de informações.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1997,
+    "author": "INEMA",
+    "date": "2025-01-04T02:35:46+00:00",
+    "text": "6",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1996,
+    "author": "INEMA",
+    "date": "2025-01-04T02:35:44+00:00",
+    "text": "6",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1995,
+    "author": "INEMA",
+    "date": "2025-01-04T02:35:44+00:00",
+    "text": "Diretiva e Acao , usando o webhooks, permitindo gravar agendamento.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1994,
+    "author": "INEMA",
+    "date": "2025-01-04T02:35:44+00:00",
+    "text": "4",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1993,
+    "author": "INEMA",
+    "date": "2025-01-04T02:35:43+00:00",
+    "text": "3",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1992,
+    "author": "INEMA",
+    "date": "2025-01-04T02:35:43+00:00",
+    "text": "2",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1991,
+    "author": "INEMA",
+    "date": "2025-01-04T02:35:43+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 1990,
+    "author": "INEMA",
+    "date": "2025-01-04T02:35:33+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

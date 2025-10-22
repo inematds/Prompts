@@ -1,0 +1,131 @@
+TOPICO 4208
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-08-04 05:01:04+00:00
+
+Total de mensagens: 10
+Midias baixadas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-08-04T05:12:30+00:00
+Texto:
+estou vendo outra abordagem do ec8 para talves ser o ec9
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-08-04T05:01:22+00:00
+Texto:
+O objetivo da fase 1 continua sendo “descoberta”, mas devemos deixá-lo mais claro e restrito a entender o problema antes de planejar soluções. Em vez de “mapear cronograma, recursos e KPIs” (que são atividades de planejamento), a fase 1 deve focar só em:
+
+• contexto e objetivos de negócio
+• dores e oportunidades atuais
+• personas e suas jornadas
+• premissas e hipóteses a validar
+• critérios simples para sabermos que descobrimos o suficiente
+
+Tópicos com exemplos e respostas
+
+1. contexto e objetivos de negócio
+   pergunta
+   o que a ONG espera resolver com esta automação?
+   resposta ideal
+   reduzir tempo de resposta a pedidos, centralizar atendimento e evitar esquecimento de mensagens
+
+2. dores e oportunidades
+   pergunta
+   quais os principais gargalos hoje?
+   resposta ideal
+   demora na triagem de pedidos, falta de histórico unificado, repetição de perguntas
+
+3. personas e jornadas
+   pergunta
+   quem interage com o sistema e como?
+   resposta ideal
+   voluntário abre chat, envia foto do pet, sistema sugere datas, voluntário confirma
+
+4. premissas e hipóteses
+   pergunta
+   o que supomos sobre volumes e tipos de consulta?
+   resposta ideal
+   70 % dos contatos virão por WhatsApp; dúvidas técnicas = 30 %
+
+5. critérios de “descoberta completa”
+   pergunta
+   quando consideramos que temos informações suficientes?
+   resposta ideal
+   cada persona tem pelo menos um cenário descrito; principais dores listadas; canais definidos
+
+assim mantemos a fase 1 estritamente em modo “descoberta” e deixamos planejamento e priorização para as próximas fases.
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-08-04T05:01:17+00:00
+Texto:
+Prompt para Descoberta Aberta
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-08-04T05:01:14+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-08-04T05:01:12+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-08-04T05:01:12+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-08-04T05:01:11+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-08-04T05:01:10+00:00
+Texto:
+https://chatgpt.com/c/68903b22-a038-8326-b00a-c5de5d6f51ce
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-08-04T05:01:10+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-08-04T05:01:04+00:00
+Texto: [Sem texto]
+
+------------------------------
+

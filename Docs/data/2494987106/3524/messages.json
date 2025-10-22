@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3548,
+    "author": "INEMA",
+    "date": "2025-05-01T05:50:02+00:00",
+    "text": "nao testei o q criei",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3547,
+    "author": "INEMA",
+    "date": "2025-05-01T05:49:50+00:00",
+    "text": "https://chatgpt.com/g/g-68130ab8857481919615c202a8ff6a0d-inema-assistente-de-api-sample",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3545,
+    "author": "INEMA",
+    "date": "2025-05-01T05:49:01+00:00",
+    "text": "openapi: 3.1.0\ninfo:\n  title: Sample API\n  description: Optional multiline or single-line description in [CommonMark](http://commonmark.org/help/) or HTML.\n  version: 0.1.9\nservers:\n  - url: http://api.example.com/v1\n    description: Optional server description, e.g. Main (production) server\n  - url: http://staging-api.example.com\n    description: Optional server description, e.g. Internal staging server for testing\npaths:\n  /users:\n    get:\n      operationId: GetUsers\n      summary: Returns a list of users.\n      description: Optional extended description in CommonMark or HTML.\n      responses:\n        '200':    # status code\n          description: A JSON array of user names\n          content:\n            application/json:\n              schema: \n                type: array\n                items: \n                  type: string\n    post:\n      operationId: CreateUser\n      summary: Creates a user.\n      requestBody:\n        required: true\n        content:\n          application/json:\n            schema:\n              type: object\n              properties:\n                username:\n                  type: string\n      responses: \n        '201':\n          description: Created",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3544,
+    "author": "INEMA",
+    "date": "2025-05-01T05:43:01+00:00",
+    "text": "https://chatgpt.com/g/g-TYEliDU6A-actionsgpt",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3531,
+    "author": "INEMA",
+    "date": "2025-04-30T23:41:42+00:00",
+    "text": "openapi: 3.1.0\ninfo:\n  title: Conversation Logging API\n  description: API para registrar conversas em um webhook, incluindo nome, email, perguntas e respostas.\n  version: 1.0.0\nservers:\n  - url: https://hook.us2.make.com/baf9qjdmqcjwscjbyg0qhrep67f4wlt3\n    description: Webhook para registrar informações\npaths:\n  /:\n    post:\n      operationId: logConversation\n      summary: Registra uma conversa no webhook.\n      description: Envia dados da conversa, incluindo o nome, email, perguntas feitas pelo cliente e as respostas do GPT, para\n        um webhook configurado.\n      requestBody:\n        required: true\n        content:\n          application/json:\n            schema:\n              type: object\n              properties:\n                customer:\n                  type: object\n                  properties:\n                    name:\n                      type: string\n                      description: Nome do cliente.\n                    email:\n                      type: string\n                      description: Email do cliente.\n                messages:\n                  type: array\n                  description: Lista de mensagens trocadas durante a conversa.\n                  items:\n                    type: object\n                    properties:\n                      sender:\n                        type: string\n                        enum:\n                          - customer\n                          - gpt\n                        description: Quem enviou a mensagem.\n                      content:\n                        type: string\n                        description: Conteúdo da mensagem.\n              required:\n                - messages\n      responses:\n        \"200\":\n          description: Conversa registrada com sucesso.\n        \"400\":\n          description: Requisição inválida.\n        \"500\":\n          description: Erro no servidor ao processar a requisição.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3530,
+    "author": "INEMA",
+    "date": "2025-04-30T23:41:40+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3529,
+    "author": "INEMA",
+    "date": "2025-04-30T23:41:39+00:00",
+    "text": "Acao no GPT do ChatGPT",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3528,
+    "author": "INEMA",
+    "date": "2025-04-30T23:41:39+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3527,
+    "author": "INEMA",
+    "date": "2025-04-30T23:41:39+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3526,
+    "author": "INEMA",
+    "date": "2025-04-30T23:41:38+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3525,
+    "author": "INEMA",
+    "date": "2025-04-30T23:41:38+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3524,
+    "author": "INEMA",
+    "date": "2025-04-30T23:41:33+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

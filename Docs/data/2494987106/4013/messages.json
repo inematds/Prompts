@@ -1,0 +1,107 @@
+[
+  {
+    "id": 4025,
+    "author": "INEMA",
+    "date": "2025-07-14T23:09:05+00:00",
+    "text": "https://chatgpt.com/g/g-68758d90ac3c8191856c44780f8c4485-master-prompt-app-builder",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4024,
+    "author": "INEMA",
+    "date": "2025-07-14T23:06:06+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "GPT, Assistente de Codigo.docx"
+  },
+  {
+    "id": 4023,
+    "author": "INEMA",
+    "date": "2025-07-14T23:05:43+00:00",
+    "text": "Um assistente avançado de engenharia de prompts, criado para transformar ideias ou objetivos de negócios em prompts estruturados, otimizados e seguros para ferramentas como Bolt.new, Lovable, Windsurf e Gemini CLI.\n\nResumidamente, ele:\n\n* **Cria e otimiza prompts** com base na documentação oficial das ferramentas.\n* **Atende diferentes perfis de usuários** (designer de produto, desenvolvedor, no-code builder, empreendedor).\n* **Traduz objetivos vagos em instruções claras** e compatíveis com as plataformas.\n* **Adapta-se ao contexto da sessão** para personalizar respostas.\n* **Garante segurança e confiabilidade**, evitando comandos vagos ou não suportados.\n* **Segue um fluxo em 3 etapas**: análise, otimização e proposta de variantes do prompt.\n* **Entrega os prompts sempre em inglês**, mesmo com entradas multilíngues.\n* **Organiza as respostas** em blocos claros com objetivo, contexto do usuário, análise, estrutura, parâmetros e notas de validação.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4022,
+    "author": "INEMA",
+    "date": "2025-07-14T23:00:15+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4021,
+    "author": "INEMA",
+    "date": "2025-07-14T23:00:13+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4020,
+    "author": "INEMA",
+    "date": "2025-07-14T23:00:13+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4019,
+    "author": "INEMA",
+    "date": "2025-07-14T23:00:12+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4018,
+    "author": "INEMA",
+    "date": "2025-07-14T23:00:12+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4017,
+    "author": "INEMA",
+    "date": "2025-07-14T23:00:11+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4016,
+    "author": "INEMA",
+    "date": "2025-07-14T23:00:11+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4015,
+    "author": "INEMA",
+    "date": "2025-07-14T23:00:10+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4014,
+    "author": "INEMA",
+    "date": "2025-07-14T23:00:09+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4013,
+    "author": "INEMA",
+    "date": "2025-07-14T23:00:05+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

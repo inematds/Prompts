@@ -1,0 +1,278 @@
+TOPICO 2090
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-01-16 11:05:36+00:00
+
+Total de mensagens: 13
+Midias encontradas: 0
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-01-16T11:06:15+00:00
+Texto:
+O template apresentado é uma abordagem estruturada e detalhada para criar prompts personalizados para agentes de IA em sistemas multiagentes. Abaixo está uma explicação simplificada e traduzida com os elementos principais, seguidos de exemplos aplicados. 
+ 
+--- 
+ 
+### **Template Simplificado para Criação de Agentes de IA** 
+ 
+#### **1. Papel do Agente ([ROLE])** 
+- **Você é**: [Nome do Agente ou Função]. 
+- **Responsabilidade principal**: [Objetivo Primário do Agente]. 
+ 
+#### **2. Contexto ([CONTEXT])** 
+- **Ambiente do sistema**: [Descrição breve do ambiente multiagente]. 
+- **Detalhes conhecidos**: [Fatos, referências ou contexto relevante]. 
+ 
+#### **3. Tarefa ([TASK])** 
+- **Objetivo**: [O que o agente precisa alcançar]. 
+- **Restrições**: [Limites de tempo, formato, etc.]. 
+- **Estilo**: [Tom e diretrizes de formatação]. 
+- **Formato de saída**: [Texto simples, HTML, JSON, etc.]. 
+ 
+#### **4. Colaboração ([COLLABORATION])** 
+- **Outros agentes**: [Quem são e o que fornecem]. 
+- **Interação**: [Como e quando o agente deve colaborar]. 
+ 
+#### **5. Exemplos ([EXAMPLES])** 
+- **Boa resposta**: [...] 
+- **Má resposta**: [...] 
+ 
+#### **6. Requisitos finais ([FINAL REQUIREMENTS])** 
+- **Verificações**: [Ortografia, gramática, precisão factual]. 
+- **Diretrizes éticas**: [Conteúdo permitido/proibido]. 
+- **Tratamento de erros**: [Ações caso ocorra um erro]. 
+ 
+--- 
+ 
+### **Exemplo Aplicado** 
+ 
+#### **1. Papel do Agente** 
+- Você é o **Assistente de Agendamento de Reuniões**. 
+- Sua principal responsabilidade é organizar compromissos no calendário com base nas solicitações do usuário. 
+ 
+#### **2. Contexto** 
+- **Ambiente**: Sistema multiagente que gerencia produtividade e comunicação. 
+- **Detalhes conhecidos**: Usuário possui uma agenda conectada ao Google Calendar e prefere compromissos pela manhã. 
+ 
+#### **3. Tarefa** 
+- **Objetivo**: Agendar reuniões no Google Calendar. 
+- **Restrições**:  
+  - Responder em até 30 segundos. 
+  - Usar um tom profissional. 
+- **Formato de saída**: Resposta em texto simples confirmando o agendamento. 
+ 
+#### **4. Colaboração** 
+- **Agentes disponíveis**: 
+  - **Agente de Memória**: Fornece contexto histórico, como horários livres do usuário. 
+  - **Agente de Pesquisa**: Obtém informações adicionais se necessário. 
+- **Interação**: Consultar o Agente de Memória antes de propor horários. 
+ 
+#### **5. Exemplos** 
+- **Boa resposta**: 
+  - **Usuário**: "Marque uma reunião com João na próxima terça-feira às 10h." 
+  - **Agente**: "Reunião com João marcada para terça-feira às 10h no Google Calendar." 
+- **Má resposta**: 
+  - "Feito." (Sem confirmação detalhada). 
+ 
+#### **6. Requisitos Finais** 
+- **QA**: Certificar-se de que o horário e o nome estão corretos. 
+- **Ética**: Não compartilhar dados pessoais de terceiros. 
+- **Erro**: Se o Google Calendar estiver indisponível, informar ao usuário e sugerir alternativas. 
+ 
+--- 
+ 
+Este template pode ser adaptado para várias funções, desde assistentes de produtividade até chatbots de atendimento. A estrutura ajuda a criar agentes eficazes e colaborativos, maximizando o potencial da IA em diferentes contextos.
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-01-16T11:06:00+00:00
+Texto:
+demonstrates how to respond. 
+Positive/Negative Examples: Provide examples of good vs. bad outputs, so the agent knows what to aim for or avoid. 
+Example: 
+Good Example: 
+User: “Please summarize the key benefits of the product.” 
+Agent: “The top three benefits are X, Y, and Z (reference data source A). They help users save time, reduce costs, and increase productivity.” 
+Bad Example: 
+Agent: “Just buy it; it’s the best.” (No detail or references) 
+ 
+7. Formatting and Output Specifications 
+Metadata: If multiple AI outputs will be combined, you might need to return metadata (e.g., timestamps, versioning info, or references used). 
+Structured Output: If the system requires JSON or a specific markup, specify that. 
+Error Handling: Indicate what the agent should do if an error occurs or a query can’t be answered. 
+Example: 
+Output Format: 
+Return your final answer as valid JSON with the keys: “summary”, “references”. 
+If no valid references are found, return an empty list for “references” and note “No additional references.”
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-01-16T11:06:00+00:00
+Texto:
+AI Agent Prompting Template 🤖 
+ 
+ 
+[ROLE]  
+- You are the [Name of Agent / Role]. 
+- Your main responsibility is to [Primary Objective]. 
+ 
+[CONTEXT] 
+- System environment: [Briefly describe the multi-agent environment]. 
+- Known details: [Facts, references, previous conversation context]. 
+ 
+[TASK] 
+- Goal: [Specific outcome you want]. 
+- Constraints: [Time limit, length limit, etc.]. 
+- Style: [Tone, formatting guidelines]. 
+- Output format: [Plain text, HTML, JSON, etc.]. 
+ 
+[COLLABORATION] 
+- Other agents: [Who they are, what they provide]. 
+- Interaction: [How and when this agent should interact with them]. 
+ 
+[EXAMPLES] 
+- Good response example: [...] 
+- Bad response example: [...] 
+ 
+[FINAL REQUIREMENTS] 
+- QA checks: [Spelling, grammar, factual accuracy]. 
+- Ethical guidelines: [Allowed/Disallowed content]. 
+- Error handling: [Instructions if something goes wrong]. 
+ 
+How it works…. 
+ 
+ 
+1. Role Definition 
+Role/Persona: Explain what this agent is supposed to be or act as (e.g., “You are a financial advisor,” or “You are a marketing specialist”). 
+Expertise Level: Specify the level of expertise expected (e.g., “Expert in legal matters,” “Beginner-friendly instructor”). 
+Primary Objectives: Summarize what the agent does in the multi-agent system. For instance, is it the summarizer, the code generator, the fact-checker, or something else? 
+Example: 
+Role: You are the “Content Fact-Checker” AI, responsible for verifying the factual accuracy of texts and providing corrections or supporting evidence. 
+ 
+2. Context and Background 
+System Context: Provide the larger setting or scenario that the multi-agent system is operating in (e.g., “A team of AIs collaborating to write blog posts for a tech website”). 
+Shared Knowledge: State any relevant facts, constraints, or previously known information. 
+Relevant Documents/Resources: Indicate which resources are available for referencing (e.g., knowledge bases, FAQs, user manuals). 
+Example: 
+Context: This multi-agent system is designed to create an in-depth user guide for a new software product. Other agents will contribute research, product details, and marketing best practices. 
+ 
+3. Task Explanation / Goal 
+Core Task: Clearly spell out the objective: “Write a step-by-step tutorial,” “Generate marketing slogans,” “Verify factual data in the product description,” etc. 
+Input Details: Clarify if there is specific user input or data that must be processed. 
+Output Format: Outline precisely how you want the response formatted (bullet points, JSON, full paragraphs, etc.). 
+Example: 
+Task: Given the product specifications below, generate a 300-word FAQ article in plain English. Keep it accurate and user-friendly. 
+ 
+4. Constraints and Instructions 
+Length or Size: Maximum or minimum character or token count. 
+Tone or Style: Formal, casual, academic, comedic, etc. 
+Do’s and Don’ts: Any rules to follow or things to avoid (e.g., “Do not include speculation,” “Always include references,” “Avoid copyrighted text,” etc.). 
+Time or Resource Limits: If needed for real-time systems, mention performance constraints. 
+Example: 
+Constraints: 
+Keep responses under 500 words. 
+Maintain a friendly, approachable tone. 
+If uncertain about any facts, ask for clarification from the “Research” agent. 
+ 
+5. Collaboration and Interaction Protocol 
+Other Agents’ Roles: Summarize what the other agents do, so this agent knows where it fits in the workflow. 
+Message Passing: Indicate whether this agent can or should request additional data from the other agents (e.g., “Query the ‘Research Agent’ for references,” “Ask the ‘Design Agent’ for visuals”). 
+Sequence of Turns: In a multi-agent environment, specify how and when this agent should speak or remain silent. 
+Example: 
+Collaboration: 
+The “Research Agent” can provide product data. 
+The “Design Agent” can contribute visuals or layout ideas. 
+You (the “Content Fact-Checker”) should correct any inaccuracies in the final text and provide reliable sources if available. 
+ 
+6. Example Prompts and Responses 
+Templates: Show a sample conversation that
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-01-16T11:05:49+00:00
+Texto:
+0
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-01-16T11:05:48+00:00
+Texto:
+9
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-01-16T11:05:48+00:00
+Texto:
+8
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-01-16T11:05:48+00:00
+Texto:
+7
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-01-16T11:05:47+00:00
+Texto:
+6
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-01-16T11:05:47+00:00
+Texto:
+5
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-01-16T11:05:46+00:00
+Texto:
+3
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-01-16T11:05:46+00:00
+Texto:
+2
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-01-16T11:05:46+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-01-16T11:05:36+00:00
+Texto: [Sem texto]
+
+------------------------------
+

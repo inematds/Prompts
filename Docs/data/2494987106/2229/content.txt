@@ -1,0 +1,182 @@
+TOPICO 2229
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-02-09 18:57:01+00:00
+
+Total de mensagens: 13
+Midias encontradas: 0
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-02-18T14:56:45+00:00
+Texto: [Sem texto]
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-02-09T18:57:16+00:00
+Texto:
+Aqui está um **prompt padrão** altamente detalhado para garantir que eu sempre gere um conteúdo técnico e prático, adequado para leigos que querem aprender a criar imagens e vídeos para vídeos e propagandas virais. 
+ 
+--- 
+ 
+## **PROMPT PADRÃO PARA CRIAÇÃO DE CAPÍTULOS DO CURSO**   
+ 
+### **Objetivo**   
+Crie um capítulo completo de um curso técnico prático sobre **criação de imagens e vídeos virais com IA**, voltado para **pessoas leigas** que desejam aprender de forma eficiente.   
+ 
+### **Público-Alvo**   
+- Pessoas sem conhecimento técnico que querem criar imagens e vídeos para redes sociais.   
+- Empreendedores, influenciadores e pequenos negócios que precisam criar propagandas virais.   
+- Usuários que aprenderão por **texto e PDF**, sem vídeos ou aulas interativas.   
+ 
+### **Formato do Capítulo**   
+Cada capítulo deve ser **didático, detalhado e passo a passo**, garantindo que o aluno consiga **aplicar imediatamente** o que aprendeu.   
+- **Explicação clara** do conceito principal.   
+- **Passo a passo prático**, sem termos técnicos complicados.   
+- **Exemplos reais e aplicáveis** ao marketing digital.   
+- **Dicas para evitar erros comuns**.   
+- **Desafio final** para o aluno testar o conhecimento.   
+ 
+### **Estrutura do Capítulo**   
+1️⃣ **Introdução**   
+   - Apresente o tema do capítulo e **por que ele é importante** para a criação de vídeos e imagens virais.   
+   - Explique **o que será aprendido** no capítulo.   
+ 
+2️⃣ **Conceitos Fundamentais**   
+   - Explique os conceitos essenciais de forma **simples e direta**.   
+   - Faça **comparações fáceis de entender**.   
+ 
+3️⃣ **Ferramentas e Plataformas**   
+   - Liste as ferramentas disponíveis e **para que cada uma serve**.   
+   - Diga **qual a melhor ferramenta para cada caso de uso**.   
+   - Explique **como acessar, instalar e configurar** cada ferramenta.   
+ 
+4️⃣ **Passo a Passo Prático**   
+   - Explique cada etapa **de forma detalhada e sequencial**.   
+   - **Exemplo:** Se for um capítulo sobre criação de vídeos animados, explique **desde o login na ferramenta até a exportação do vídeo pronto**.   
+   - Use listas numeradas para facilitar a leitura.   
+ 
+5️⃣ **Erros Comuns e Como Evitá-los**   
+   - Liste os **erros mais frequentes** que iniciantes cometem.   
+   - Dê **dicas práticas** para evitar esses erros.   
+ 
+6️⃣ **Exemplos Reais e Aplicações**   
+   - Mostre **casos reais de vídeos/imagens virais** feitos com IA.   
+   - Dê exemplos de **propagandas bem-sucedidas** e como replicá-las.   
+ 
+7️⃣ **Desafio Final**   
+   - Proponha uma **atividade prática** para reforçar o aprendizado.   
+   - Diga exatamente o que o aluno precisa fazer e como avaliar o próprio progresso.   
+ 
+8️⃣ **Resumo e Próximos Passos**   
+   - Faça um **resumo rápido** do que foi aprendido.   
+   - Dê sugestões de como continuar praticando e aperfeiçoando as habilidades.   
+ 
+--- 
+ 
+### **Regras para a Escrita**   
+✅ Linguagem simples, acessível e direta.   
+✅ Nada de jargões técnicos sem explicação.   
+✅ Texto organizado e fácil de ler.   
+✅ Sempre apresentar um **passo a passo detalhado**.   
+✅ Incluir **exemplos práticos e reais**.   
+✅ Dicas para que o aluno **não se perca no processo**.   
+ 
+--- 
+ 
+Agora, sempre que você me passar um **conteúdo programático de um capítulo**, eu vou gerar um material completo seguindo essa estrutura e garantindo que o aprendizado seja eficaz! 🚀
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-02-09T18:57:07+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-02-09T18:57:07+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-02-09T18:57:07+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-02-09T18:57:07+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-02-09T18:57:07+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-02-09T18:57:06+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-02-09T18:57:06+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-02-09T18:57:06+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-02-09T18:57:06+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 12
+Autor: INEMA
+Data: 2025-02-09T18:57:05+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 13
+Autor: INEMA
+Data: 2025-02-09T18:57:01+00:00
+Texto: [Sem texto]
+
+------------------------------
+

@@ -1,0 +1,416 @@
+TOPICO 4728
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-09-04 01:23:07+00:00
+
+Total de mensagens: 11
+Midias baixadas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-09-04T01:24:29+00:00
+Texto:
+Perfeito. Organizei seus GPTs por categorias para facilitar a visualização:
+
+### Nutrição e Saúde
+
+* Nutri sem Leite full
+* Nutri sem Leite (especialista)
+* Nutri sem Leite (apenas para você)
+* Nutri Sem Leite (com JSON)
+* INEMA nutri Estômago Irritável
+* INEMA Nutri
+* Alívio Postural
+* Estética Acessível
+* Assistente Viva
+* ATE Academia
+
+### Automação, RAG e Desenvolvimento
+
+* INEMA.EC8
+* INEMA.EC7 v2h Arquiteto
+* INEMA.EC7 Arquiteto
+* INEMA.EC6 Arquiteto
+* Automação IA com Agentes e RAG
+* INEMA Prompt Agente N8N v2
+* INEMA Prompt Agente N8N
+* INEMA Prompt Vibe Code Bolt
+* INEMA App Bolt Prompts
+* INEMA Prompt Agente de Conversão
+* Chatbot para n8n Webhook
+* Webhook Chatbot
+* INEMA TIA
+* INEMA S3D
+* INEMA Assistente de API Sample
+* INEMA Agencia Automatiza
+* Especialista em Criação de Assistentes
+
+### Prompts Visuais e Vídeos (Imagem, Cinema, Arte)
+
+* V3 JSON Cinemático
+* J3 - JSON IMG
+* Gerador JSON Imagens
+* IMG-j3 Prompts
+* TbFut
+* INEMA Mestre do mdj
+* Prompts Cinematográficos VOE3
+* INEMA Câmera Participante Prompt Pro
+* Guia M.E.T.A. para Prompts Visuais
+* INEMA IMAGEM VIDEO X1 Max
+* INEMA VEO3 Prompt Master
+* INEMA 4IMG
+* INEMA Produto Quente
+* INEMA IMG Realista Full
+* INEMA IMG Realista Pro
+* INEMA IMGtxt
+* INEMA Banner Futurista Impacto
+* INEMA caixa Explosiva
+* INEMA Explodindo Caixa
+* INEMA Thumb Pro
+* INEMA Prompt Melhor
+* INEMA Engenheiro de Prompt Vibe
+* INEMA Prompt Vibe Code Bolt
+* INEMA Cine POV
+* Criador de Roteiros POV
+* INEMA Prompt Agente N8N v2
+* INEMA Prompt Vibe Code Bolt
+* INEMA o Gênio da Arte de IA 2025
+* INEMA o Genio da Arte de IA 2024
+
+### Conteúdo Viral, Redes e Marketing
+
+* Construtor de Marca
+* Mentor dos 10 Poderes
+* INEMA Nível Consciência Textos Virais
+* INEMA Textos Virais
+* INEMA Termos MKT
+* INEMA TDS Diagnostico Redes
+* INEMA TDS Analise Perfil
+* INEMA Viralize
+* INEMA Mente Bilionária em Ação
+* Mente Bilionária
+* INEMA Mentor da Riqueza
+* Seatira2
+* Seatira
+* FaceViral
+* gptViral
+* Copy Organica
+* ImpactoRedes
+* INEMA Digital Coach
+* INEMA AI Business Coach
+* INEMA VIP Entry
+
+### Educação, Cursos e Mentoria
+
+* INEMA TutorBot x1
+* INUY Oráculo Profundo
+* Guia de Pais Conscientes
+* Mentor Alex Desenvolvendo seu Interior Brilhante
+* INEMA Construtor Cursos Viral
+* INEMA Narrador KSTK
+* INEMA Narrador Kinsho
+* INEMA Duelo de Ideias
+* INEMA VetBot
+* INEMA GURU AI Claude 2025
+* INEMA Termos MKT
+* INEMA Narrador KSTK
+* INEMA Narrador Kinsho
+* Master Prompt App Builder
+* Ayra Prompt Ultra
+* Ayra Prompt Magico PRO
+* Ayra Prompt Magico
+* PSO
+* POE
+* PPPI
+* Prompt Designer
+* G5 Direto ao Ponto
+* AIH - Escrevendo como Humano
+
+### Infantil, Histórias e Música
+
+* INEMA Vídeos Gospel Infantis Virais
+* Músicas Infantis Gospel Virais
+* INEMA Histórias do Pirata Capitão Max
+* INEMA Manicure (infantil também)
+* Virtual Baking Assistant
+* Guia de Pais Conscientes
+* SOA (educação socioemocional)
+* Professor NOE
+* Math Mentor
+
+### Jurídico e Fiscal
+
+* RI Advogados Especialistas em Usucapião
+* INEMA Auditor Fiscal
+* Assistente Jurídico
+* INEMA Contador Parceiro do MEI
+
+### Negócios e Consultoria
+
+* INEMA Restaurante Assistant
+* INEMA Atendente Virtual Gourme
+* PesqueBR
+* CSEG (corretor)
+* INEMA AI Business Coach
+* Estratégia Digital GTE
+* MKT (consultor marketing)
+* Analista INEMA
+
+### Criatividade, Inspiração e Reflexão
+
+* A verdade
+* HIR - Inspiração e Reflexão
+* HIR
+* HIR-Inspirational-Reflexive Copy
+* HistoriaInspiradora
+* 2Textos
+* GRA
+* NLK
+* AlexViralVoz
+* AlexViralTexto
+* AlexViralVideo
+* AlexViralVoz/Texto/Video
+
+### Idiomas e Aprendizado
+
+* Polyglot Pal
+* Linguística Explorer
+* Linguistique (MC)
+* Linguistique (tradutor)
+
+### Outros Especialistas
+
+* Mestre do Mate
+* Realistic Costume Critter
+* Dog Expert
+* Car Adviser Bot
+* Weather Buddy
+* Idea Ranker
+* TextNews
+* TDS Guide
+* TDS Eco Digital
+* Analista INEMA
+* Planejador de Festas
+* Baker's Insight
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-09-04T01:24:14+00:00
+Texto:
+================
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-09-04T01:24:12+00:00
+Texto:
+========================
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-09-04T01:23:17+00:00
+Texto:
+Aqui está a lista simples com os nomes dos seus GPTs:
+
+* Nutri sem Leite full
+* Nutri sem Leite (versão especialista)
+* Nutri sem Leite (apenas para você)
+* Nutri Sem Leite (com JSON)
+* Construtor de Marca
+* INEMA RegEx
+* A verdade
+* Mentor dos 10 Poderes
+* J3 - JSON IMG
+* V3 JSON Cinemático
+* Gerador JSON Imagens
+* IMG-j3 Prompts
+* G5 Direto ao Ponto
+* TbFut
+* AIH - Escrevendo como Humano
+* Consultor de LLMs
+* INEMA TutorBot x1
+* INEMA.EC8
+* INEMA.EC7 v2h Arquiteto
+* INEMA.EC7 Arquiteto
+* INEMA.EC6 Arquiteto
+* Automação IA com Agentes e RAG
+* Guia de Pais Conscientes
+* INEMA caixa Explosiva
+* INEMA Explodindo Caixa
+* INUY Oráculo Profundo
+* Master Prompt App Builder
+* Ayra Prompt Ultra
+* Ayra Prompt Magico PRO
+* Ayra Prompt Magico
+* ASMR Video Prompt Master
+* INEMA Prompt Agente de Conversão
+* Webhook Chatbot
+* INEMA Thumb Pro
+* INEMA IMGtxt
+* Mentor Alex Desenvolvendo seu Interior Brilhante
+* INEMA Vídeos Gospel Infantis Virais
+* Músicas Infantis Gospel Virais
+* INEMA Mestre do mdj
+* INEMA Prompt Vibe Code Bolt
+* Prompts Cinematográficos VOE3
+* INEMA Câmera Participante Prompt Pro
+* Guia M.E.T.A. para Prompts Visuais
+* INEMA IMAGEM VIDEO X1 Max
+* INEMA VEO3 Prompt Master
+* Alívio Postural
+* INEMA Contador Parceiro do MEI
+* INEMA Prompt Melhor
+* INEMA Banner Futurista Impacto
+* INEMA Engenheiro de Prompt Vibe
+* Mestre do Mate
+* INEMA App Bolt Prompts
+* INEMA GURU AI Claude 2025
+* INEMA o Gênio da Arte de IA 2025
+* INEMA o Genio da Arte de IA 2024
+* INEMA Produto Quente
+* INEMA Mente Bilionária em Ação
+* Mente Bilionária
+* INEMA Assistente de API Sample
+* INEMA nutri Estômago Irritável
+* INEMA Agencia Automatiza
+* RI Advogados Especialistas em Usucapião
+* INEMA Prompt Agente N8N v2
+* INEMA 4IMG
+* Seatira2
+* INEMA Mentor da Riqueza
+* INEMA Duelo de Ideias
+* INEMA S3D
+* INEMA Auditor Fiscal
+* INEMA TIA
+* INEMA Construtor Cursos Viral
+* INEMA Nutri
+* INEMA Histórias do Pirata Capitão Max
+* INEMA IMG Realista Full
+* INEMA IMG Realista Pro
+* INEMA Nível Consciência Textos Virais
+* INEMA TDS Diagnostico Redes
+* INEMA TDS Analise Perfil
+* INEMA Termos MKT
+* INEMA VetBot
+* INEMA Narrador KSTK
+* INEMA Narrador Kinsho
+* INEMA Textos Virais
+* INEMA Manicure
+* INEMA Digital Coach
+* INEMA AI Business Coach
+* Assistente Viva
+* ATE Academia
+* INEMA VIP Entry
+* Virtual Baking Assistant
+* AlexViralVoz
+* AlexViralTexto
+* AlexViralVideo
+* PesqueBR
+* INEMA Restaurante Assistant
+* INEMA Atendente Virtual Gourme
+* Especialista em Criação de Assistentes
+* TextNews
+* PPPI
+* Prompt Designer
+* PSO
+* POE
+* FaceViral
+* Copy Organica
+* CSEG
+* gptViral
+* HIR - Inspiração e Reflexão
+* HIR
+* HIR-Inspirational-Reflexive Copy
+* HistoriaInspiradora
+* 2Textos
+* GRA
+* NLK
+* Estratégia Digital GTE
+* MKT
+* Realistic Costume Critter
+* ImpactoRedes
+* Seatira
+* Baker's Insight
+* Car Adviser Bot
+* SOA
+* Assistente de Tendências
+* TDS Eco Digital
+* TDS Guide
+* Analista INEMA
+* Polyglot Pal
+* Linguística Explorer
+* Linguistique (MC)
+* Linguistique (tradutor)
+* Planejador de Festas
+* Math Mentor
+* Professor NOE
+* Weather Buddy
+* Idea Ranker
+* Pesquisa Chat Historicos
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-09-04T01:23:14+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-09-04T01:23:14+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-09-04T01:23:13+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-09-04T01:23:13+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 9
+Autor: INEMA
+Data: 2025-09-04T01:23:13+00:00
+Texto:
+https://chatgpt.com/c/68b8e9cb-4838-8327-88e1-af63186437c1
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 10
+Autor: INEMA
+Data: 2025-09-04T01:23:12+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 11
+Autor: INEMA
+Data: 2025-09-04T01:23:07+00:00
+Texto: [Sem texto]
+
+------------------------------
+

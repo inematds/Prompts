@@ -1,0 +1,179 @@
+[
+  {
+    "id": 4689,
+    "author": "INEMA",
+    "date": "2025-08-30T02:28:19+00:00",
+    "text": "arabenizando pelo gancho específico encontrado e apresentando brevemente meus serviços de consultoria.\nEntrega: Compile esses 10 e-mails em um único arquivo markdown bem organizado e envie por e-mail para mark@promptadvisers.com com o assunto Weekly High-Potential Sales Leads.\n\n---\n\n### 6. Chatbot Synapse\n\n**English**\nChatbot:\nBuild a conversational AI chatbot for my consulting website, [https://www.promptadvisers.com/](https://www.promptadvisers.com/). The chatbot's persona should be 'Synapse', a friendly and highly knowledgeable AI Prompt Engineering consultant.\nKnowledge Base: Crawl the website to build knowledge from Home, About, Services, Case Studies, and Contact pages.\nPrimary Objective - Lead Qualification: Engage visitors with an opening hook and ask qualifying questions (e.g., “What is your primary goal with Generative AI right now?”, “What is your role?”, “What is your company size?”).\nSecondary Objective - FAQ: Be able to answer questions like “What services does Prompt Advisers offer?”, “Can you explain your AI integration process?”, “What results have clients seen?”.\nCTA: If a user qualifies as high-potential, guide them: “It sounds like our AI Strategy & Roadmapping service could be a great fit. Would you like me to guide you to our contact page to schedule a free assessment?”\nTone: Professional, expert, approachable, slightly witty.\nUI/UX: Clean, modern, dark-mode with blue/purple accents. Include logo placeholder in chat header.\nFinal Output: Fully functional, embeddable chatbot web app ready for deployment.\n\n**Português**\nChatbot:\nCrie um chatbot de IA conversacional para meu site de consultoria, [https://www.promptadvisers.com/](https://www.promptadvisers.com/). A persona do chatbot deve ser \"Synapse\", um consultor amigável e altamente conhecedor de Prompt Engineering em IA.\nBase de Conhecimento: Rastrear o site para construir conhecimento a partir das páginas Home, About, Services, Case Studies e Contact.\nObjetivo Principal - Qualificação de Leads: Engajar visitantes com uma abertura envolvente e fazer perguntas qualificadoras (ex.: \"Qual é o seu principal objetivo com IA Generativa neste momento?\", \"Qual é o seu cargo?\", \"Qual é o tamanho da sua empresa?\").\nObjetivo Secundário - FAQ: Responder perguntas como \"Quais serviços a Prompt Advisers oferece?\", \"Você pode explicar seu processo de integração de IA?\", \"Que resultados seus clientes já tiveram?\".\nCTA: Se o usuário for lead de alto potencial, direcioná-lo: \"Parece que nosso serviço de Estratégia e Roadmapping de IA pode ser uma ótima opção. Gostaria que eu o guiasse até nossa página de contato para agendar uma avaliação gratuita?\"\nTom: Profissional, especialista, acessível e levemente espirituoso.\nUI/UX: Limpo, moderno, dark mode com detalhes em azul/roxo. Incluir espaço para logotipo no cabeçalho do chat.\nResultado Final: Aplicativo web de chatbot totalmente funcional, incorporável e pronto para implantação.\n\n---\n\n### 7. Meeting Recap AI\n\n**English**\nMeeting Recap:\nBuild a web app called 'MeetingRecap AI'.\nUser Input: A large text area where a user pastes raw meeting transcript.\nAI Processing: On 'Summarize' click, AI generates:\na. One-paragraph summary of key points.\nb. Extracted action items assigned to mentioned people.\nc. Key decisions made.\nOutput: Show Summary, Action Items, and Key Decisions in separate sections. Add 'Copy to Clipboard' button.\n\n**Português**\nRecapitulador de Reunião:\nCrie um aplicativo web chamado \"MeetingRecap AI\".\nEntrada do Usuário: Uma área de texto grande onde o usuário cola a transcrição bruta da reunião.\nProcessamento por IA: Ao clicar em \"Resumir\", a IA gera:\na. Um resumo em um parágrafo com os principais pontos.\nb. As tarefas extraídas, atribuídas às pessoas mencionadas.\nc. As decisões principais tomadas.\nSaída: Mostrar Resumo, Tarefas e Decisões em seções separadas. Incluir botão \"Copiar para Área de Transferência\".",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4688,
+    "author": "INEMA",
+    "date": "2025-08-30T02:28:18+00:00",
+    "text": "segmentados.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4687,
+    "author": "INEMA",
+    "date": "2025-08-30T02:28:18+00:00",
+    "text": "### 1. AI-fying a Business\n\n**English**\nAI-fying a business:\nAct as a tech startup incubator partner. Your goal is to take a traditional business idea and 'AI-ify' it to create a modern, tech-forward business model. The traditional idea is: 'A neighborhood-focused, artisanal coffee shop.'\nAI Feature Brainstorm: First, brainstorm and outline 3 distinct ways Generative AI can be integrated into the coffee shop's operations and customer experience (e.g., personalized loyalty, dynamic menu suggestions, automated social media).\nDevelop One Feature: From your brainstorm, select the most impactful idea and develop it further. Describe the key features of an 'AI-powered personalized loyalty app' that suggests new drinks based on past orders and offers hyper-targeted promotions.\nRebranded Pitch: Generate a new, compelling one-paragraph business pitch for this 'AI-ified' coffee shop, including a new tech-savvy name for the brand.\nIdentify Risks: Finally, identify one major technical or adoption risk associated with implementing your proposed AI feature.\n\n**Português**\nAI-fying um negócio:\nAja como um parceiro de incubadora de startups de tecnologia. Seu objetivo é pegar uma ideia de negócio tradicional e \"IA-ficá-la\" para criar um modelo de negócio moderno e voltado para tecnologia. A ideia tradicional é: \"Uma cafeteria artesanal focada no bairro.\"\nBrainstorm de Recursos de IA: Primeiro, faça um brainstorm e descreva 3 maneiras distintas de como a Inteligência Artificial Generativa pode ser integrada nas operações da cafeteria e na experiência do cliente (ex.: programa de fidelidade personalizado, sugestões dinâmicas de cardápio, automação de redes sociais).\nDesenvolver um Recurso: A partir do brainstorm, selecione a ideia mais impactante e desenvolva-a mais a fundo. Descreva as principais funcionalidades de um \"aplicativo de fidelidade personalizado com IA\" que sugere novas bebidas com base nos pedidos anteriores e oferece promoções hipersegmentadas.\nPitch Reimaginado: Crie um novo e convincente pitch de negócio em um parágrafo para essa cafeteria \"IA-ficada\", incluindo um novo nome de marca com apelo tecnológico.\nIdentificação de Riscos: Por fim, identifique um risco técnico ou de adoção importante associado à implementação do recurso de IA proposto.\n\n---\n\n### 2. GTM Strategist – AI Sherpa\n\n**English**\nGTM Strategist:\nAct as a seasoned venture catalyst and GTM strategist. Generate a comprehensive business launch kit for a new, highly specialized service business: a boutique consultancy called 'AI Sherpa' that provides hands-on, personalized AI implementation workshops for non-technical leadership teams at traditional SMEs (Small to Medium-sized Enterprises).\nGTM Strategy: Research the target market (SMEs in manufacturing and retail) and outline a 3-phase Go-to-Market strategy. Suggest the top 2 marketing channels, such as LinkedIn outreach and targeted webinars.\nService Offering Tiers: Design a 3-tiered service offering: a 'Discovery Workshop' (one-day assessment), a 'Pilot Program' (30-day implementation of one AI tool), and a 'Full-Scale Integration' (6-month retainer).\nUnique Selling Proposition (USP): Articulate a clear USP that emphasizes the 'human-in-the-loop' and 'personalized implementation' aspects to differentiate from generic AI software.\nOutput: Compile all of this into a single, well-organized markdown document titled 'AI Sherpa - Business Launch Kit'.\n\n**Português**\nEstrategista de GTM:\nAja como um catalisador de empreendimentos experiente e estrategista de GTM. Gere um kit completo de lançamento de negócios para um novo serviço altamente especializado: uma consultoria boutique chamada \"AI Sherpa\", que oferece workshops práticos e personalizados de implementação de IA para equipes de liderança não técnicas em PMEs (Pequenas e Médias Empresas) tradicionais.\nEstratégia de Go-to-Market (GTM): Pesquise o mercado-alvo (PMEs nos setores de manufatura e varejo) e descreva uma estratégia de entrada no mercado em 3 fases. Sugira os 2 principais canais de marketing, como prospecção no LinkedIn e webinars",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4686,
+    "author": "INEMA",
+    "date": "2025-08-30T02:27:25+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "unified_prompts.md"
+  },
+  {
+    "id": 4685,
+    "author": "INEMA",
+    "date": "2025-08-30T02:27:21+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "AI-fying a business (1).pdf"
+  },
+  {
+    "id": 4684,
+    "author": "INEMA",
+    "date": "2025-08-30T02:27:21+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "GTM Strategist (1).pdf"
+  },
+  {
+    "id": 4683,
+    "author": "INEMA",
+    "date": "2025-08-30T02:27:21+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Custom CRM (1).pdf"
+  },
+  {
+    "id": 4682,
+    "author": "INEMA",
+    "date": "2025-08-30T02:27:21+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Project Management Dashboard (1).pdf"
+  },
+  {
+    "id": 4681,
+    "author": "INEMA",
+    "date": "2025-08-30T02:27:21+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "AI Workflow_ (1).pdf"
+  },
+  {
+    "id": 4680,
+    "author": "INEMA",
+    "date": "2025-08-30T02:27:21+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Chatbot_ (1).pdf"
+  },
+  {
+    "id": 4679,
+    "author": "INEMA",
+    "date": "2025-08-30T02:27:21+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Meeting Recap_ (1).pdf"
+  },
+  {
+    "id": 4678,
+    "author": "INEMA",
+    "date": "2025-08-30T02:27:21+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "unified_prompts.md"
+  },
+  {
+    "id": 4676,
+    "author": "INEMA",
+    "date": "2025-08-30T02:26:38+00:00",
+    "text": "Prompts Usados no Abacus",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4675,
+    "author": "INEMA",
+    "date": "2025-08-30T02:26:27+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4674,
+    "author": "INEMA",
+    "date": "2025-08-30T02:26:27+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4673,
+    "author": "INEMA",
+    "date": "2025-08-30T02:26:27+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4672,
+    "author": "INEMA",
+    "date": "2025-08-30T02:26:26+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4671,
+    "author": "INEMA",
+    "date": "2025-08-30T02:26:26+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4670,
+    "author": "INEMA",
+    "date": "2025-08-30T02:26:26+00:00",
+    "text": "https://chatgpt.com/c/68b25c6e-e568-832e-bf8f-e73b0bd99e07",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4669,
+    "author": "INEMA",
+    "date": "2025-08-30T02:26:25+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4668,
+    "author": "INEMA",
+    "date": "2025-08-30T02:26:22+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

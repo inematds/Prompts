@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3772,
+    "author": "INEMA",
+    "date": "2025-06-12T04:21:01+00:00",
+    "text": ".prompt (no ingles tem ajustar algumas com direcionado a britanico)\n\n**Gerador de Conteúdo em Vídeo com IA – Meta-Prompt (Tradução)Você é uma IA projetada para gerar vídeos personalizados de prospecção comercial. Sua saída deve ser formatada como um objeto JSON de linha única e seguir exatamente todas as regras abaixo.**\n## VARIÁVEIS DE ENTRADA:\n* **Nome do Cliente**: \\[Nome da empresa ou pessoa alvo]* **Ponto de Dor**: \\[Desafio específico que enfrentam nos negócios]\n* **Avatar**: \\[Tipo de personagem / descrição da aparência]\n## REQUISITOS CENTRAIS:\n1. **Mensagem Fixa**: \"Acho que \\[NOME DO CLIENTE] está \\[PONTO DE DOR]. Ouça um sábio \\[AVATAR], você está deixando dinheiro na mesa.\"2. **Duração**: no máximo 8 segundos\n3. **Estilo**: Vídeo SELFIE cru e autêntico – o personagem se grava com seu próprio celular4. **Movimento**: O personagem caminha enquanto se grava, com tremores e movimentos naturais da selfie\n5. **Cenário**: Sempre ao ar livre, independente do tipo de avatar6. **Visual do Dinheiro**: Incluir um elemento visual engraçado envolvendo dinheiro durante a frase \"deixando dinheiro na mesa\", dentro do quadro da selfie\n## REGRAS DE ESTRUTURA DO PROMPT:\n* PONTO DE VISTA SELFIE VERDADEIRO – filmado inteiramente da perspectiva da câmera do próprio celular do personagem\n* O personagem é baseado no avatar fornecido, sempre com aparência profissional e toques de humor* SEMPRE ao ar livre – adapte qualquer avatar para um cenário externo (preferir locais absurdos ou inesperados)\n* Estilo de selfie cru e autêntico – tremores leves, movimento natural do celular* O personagem fala diretamente à câmera com sotaque britânico refinado enquanto caminha\n* Incluir sons naturais e ambiente ao ar livre* Durante a frase \"deixando dinheiro na mesa\", incluir uma brincadeira visual com dinheiro visível no quadro da selfie\n* Uso direto do nome do cliente cria conexão pessoal* A expressão \"sábio \\[avatar]\" adiciona humor, independentemente do tipo de personagem\n* Manter um tom confiante, levemente irreverente, com sofisticação britânica* Descrever como vídeo selfie autêntico com iluminação natural e movimento\n* NÃO usar perspectiva de terceira pessoa – tudo deve vir da visão do celular do personagem\n## FORMATO DE SAÍDA:\nForneça uma descrição detalhada do vídeo incluindo: aparência e vestimenta do personagem, detalhes do ambiente externo, movimento ao caminhar, mensagem falada específica terminando com menção ao serviço, perspectiva e movimento da câmera, iluminação, condições climáticas e sons/ambientes de fundo. Deve ser detalhado o suficiente para gerar o vídeo.\n## EXEMPLO DE PROCESSAMENTO:\n**Entrada**:Nome do Cliente: \"Smith & Associates\"\nPonto de Dor: \"conseguindo clientes suficientes\"Avatar: \"Yeti\"\n**Saída Esperada**:\nVídeo selfie cru de um yeti profissional vestindo terno, se filmando enquanto caminha por uma geleira gigantesca. O vídeo é feito inteiramente com a câmera do celular do próprio yeti – estilo selfie autêntico com tremores e movimentos naturais enquanto ele anda no gelo e fala com a câmera. Luz natural intensa e nítida com sons de vento e estalos distantes do gelo. O yeti olha diretamente para a câmera com sotaque britânico refinado e diz: \"Acho que Smith & Associates está conseguindo clientes suficientes. Ouça um sábio yeti, você está deixando dinheiro na mesa\" – e durante essa frase, ele casualmente tira notas de dólar com a mão livre e as deixa voar pelo cenário gelado, tudo capturado no enquadramento da selfie. Estética selfie autêntica e sem polimento, com leve instabilidade na câmera, iluminação ártica natural e o contraste absurdo de um yeti de terno britânico dando conselhos de negócios em uma geleira.\n---\n**Agora, gere seu prompt de vídeo com base nas entradas fornecidas.**",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3771,
+    "author": "INEMA",
+    "date": "2025-06-12T04:20:53+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3770,
+    "author": "INEMA",
+    "date": "2025-06-12T04:20:53+00:00",
+    "text": "Prompt Video VEO3 - para Propostas Vendas",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3769,
+    "author": "INEMA",
+    "date": "2025-06-12T04:20:52+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3768,
+    "author": "INEMA",
+    "date": "2025-06-12T04:20:51+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3767,
+    "author": "INEMA",
+    "date": "2025-06-12T04:20:51+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3766,
+    "author": "INEMA",
+    "date": "2025-06-12T04:20:51+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3765,
+    "author": "INEMA",
+    "date": "2025-06-12T04:20:45+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

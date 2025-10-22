@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3661,
+    "author": "INEMA",
+    "date": "2025-05-31T00:34:52+00:00",
+    "text": "Aqui estão **10 estilos visuais** que você pode usar para enriquecer seus prompts no **Veo 3**, com uma pequena explicação e exemplos:\n\n1. **Cinematográfico**\n   Estilo de filme realista, com iluminação e composição profissionais.\n   Exemplo: \"estilo cinematográfico com cores frias e foco dramático\"\n\n2. **Cartoon**\n   Visual mais simples e colorido, como desenhos animados.\n   Exemplo: \"estilo cartoon com contornos grossos e expressões exageradas\"\n\n3. **Noir**\n   Estilo sombrio e elegante, típico de filmes policiais antigos.\n   Exemplo: \"estilo noir com sombras fortes e luzes de postes iluminando a cena\"\n\n4. **Cyberpunk**\n   Futurista e caótico, com tecnologia avançada e estética urbana decadente.\n   Exemplo: \"estilo cyberpunk com neon, fumaça e poluição visual intensa\"\n\n5. **Steampunk**\n   Mistura de tecnologia retrô com visual vitoriano e engrenagens.\n   Exemplo: \"estilo steampunk com máquinas a vapor, bronze e roupas de época\"\n\n6. **Surrealista**\n   Imagens que desafiam a lógica, com elementos de sonho ou fantasia abstrata.\n   Exemplo: \"estilo surrealista com céu líquido e árvores flutuantes\"\n\n7. **Stop Motion**\n   Imita animações quadro a quadro com visual tátil (massinha, bonecos).\n   Exemplo: \"estilo stop motion com textura de feltro e movimento travado\"\n\n8. **Realismo Mágico**\n   Combina o cotidiano real com elementos mágicos tratados como normais.\n   Exemplo: \"estilo realismo mágico com chuva de flores em uma cidade comum\"\n\n9. **Minimalista**\n   Simples, com poucos elementos e foco na composição limpa.\n   Exemplo: \"estilo minimalista com fundo branco e apenas dois objetos na cena\"\n\n10. **Vintage / Retrô**\n    Aparência envelhecida ou com estética de épocas passadas.\n    Exemplo: \"estilo retrô dos anos 80 com granulação e tons desbotados\"",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3660,
+    "author": "INEMA",
+    "date": "2025-05-31T00:34:47+00:00",
+    "text": "========",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3659,
+    "author": "INEMA",
+    "date": "2025-05-31T00:33:47+00:00",
+    "text": "Aqui estão **10 tipos de movimento de câmera** com exemplos simples para cada um, muito usados em produções cinematográficas, vídeos criativos e prompts de vídeo:\n\n---\n\n1. **Pan (Panorâmica lateral)**\n   Movimento horizontal da câmera, da esquerda para a direita (ou vice-versa).\n   *Exemplo:* mostrando uma cidade futurista ao entardecer.\n\n2. **Tilt (Inclinação vertical)**\n   Movimento vertical da câmera, de cima para baixo (ou de baixo para cima).\n   *Exemplo:* revelando um prédio alto do chão até o topo.\n\n3. **Dolly (Aproximação física)**\n   A câmera se move para frente ou para trás em trilhos (ou simulando isso).\n   *Exemplo:* dolly-in para se aproximar de um personagem assustado.\n\n4. **Zoom (Aproximação óptica)**\n   A lente aproxima ou afasta a imagem sem mover fisicamente a câmera.\n   *Exemplo:* zoom-in em um objeto misterioso ao longe.\n\n5. **Crane (Movimento de guindaste)**\n   A câmera sobe ou desce suavemente, como se estivesse em um guindaste.\n   *Exemplo:* subindo do chão até o céu revelando uma multidão.\n\n6. **Tracking/Follow (Acompanhamento)**\n   A câmera segue um personagem em movimento.\n   *Exemplo:* correndo atrás de alguém em uma floresta escura.\n\n7. **Handheld (Câmera na mão)**\n   Movimento tremido e natural, como se alguém estivesse segurando a câmera.\n   *Exemplo:* cenas de ação intensas ou documentários.\n\n8. **Steadicam (Estabilizada)**\n   Movimento fluido mesmo com a câmera em movimento, sem tremores.\n   *Exemplo:* seguindo alguém andando por um corredor.\n\n9. **360° (Rotação completa)**\n   A câmera gira ao redor do personagem ou objeto.\n   *Exemplo:* mostrando um herói no centro de uma explosão épica.\n\n10. **Whip Pan (Panorâmica rápida)**\n    Movimento rápido lateral que cria um efeito de transição ou surpresa.\n    *Exemplo:* mudando bruscamente de um personagem para outro.\n\n---\n\nSe quiser, posso transformar esses movimentos em **descrições prontas para usar em prompts Veo 3**. Deseja isso?",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3658,
+    "author": "INEMA",
+    "date": "2025-05-31T00:33:44+00:00",
+    "text": "========",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3657,
+    "author": "INEMA",
+    "date": "2025-05-31T00:31:08+00:00",
+    "text": "Aqui está a **fórmula ideal de prompt para o Veo 3** organizada de forma prática, com explicações e exemplos para cada elemento:\n\n### Fórmula do Prompt Perfeito – Veo 3\n\n1. **Subject (Sujeito)**\n   *Quem ou o quê está na cena?*\n   Exemplo: \"um menino de 12 anos com cabelo azul e óculos holográficos\"\n\n2. **Action (Ação)**\n   *O que ele/ela está fazendo?*\n   Exemplo: \"correndo por entre destroços enquanto foge de um robô gigante\"\n\n3. **Setting/Context (Cenário/Contexto)**\n   *Onde e quando está acontecendo?*\n   Exemplo: \"em uma cidade futurista à noite, com letreiros de neon e céu carregado\"\n\n4. **Style (Estilo visual)**\n   *Qual o estilo da cena?*\n   Exemplo: \"estilo cyberpunk cinematográfico, com cores vibrantes e atmosfera densa\"\n\n5. **Camera Direction (Direção de câmera)**\n   *Tipo de plano, movimento, ângulo da câmera*\n   Exemplo: \"plano aberto com travelling lateral e ângulo baixo para aumentar a tensão\"\n\n6. **Audio (Áudio)**\n   *O que está sendo ouvido? Música? Som ambiente? Diálogo?*\n   Exemplo: \"música eletrônica intensa, sons metálicos dos escombros, sirenes ao fundo\"\n\n7. **Emotion/Tone (Emoção/Tom)**\n   *Qual o tom emocional ou sentimento da cena?*\n   Exemplo: \"clima de urgência, adrenalina e tensão com toques de esperança\"\n\n---\n\n### Template completo para montar seus prompts:\n\n```[Shot type] of [subject] [action] in [setting/context], [style]. [Camera movement/angle]. [Audio cues]. [Dialogue with emotion].```\n\n---\n\n### Exemplo final usando todos os elementos:\n\n```Plano aberto de um menino de 12 anos com cabelo azul e óculos holográficos correndo por entre destroços enquanto foge de um robô gigante em uma cidade futurista à noite, com letreiros de neon e céu carregado, estilo cyberpunk cinematográfico. Travelling lateral com ângulo baixo. Música eletrônica intensa, sons metálicos dos escombros e sirenes ao fundo. O menino grita “Nova, me ajude agora!” com voz ofegante e desesperada.```",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3656,
+    "author": "INEMA",
+    "date": "2025-05-31T00:30:54+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3655,
+    "author": "INEMA",
+    "date": "2025-05-31T00:30:54+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3654,
+    "author": "INEMA",
+    "date": "2025-05-31T00:30:54+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3653,
+    "author": "INEMA",
+    "date": "2025-05-31T00:30:53+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3652,
+    "author": "INEMA",
+    "date": "2025-05-31T00:30:53+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3651,
+    "author": "INEMA",
+    "date": "2025-05-31T00:30:53+00:00",
+    "text": "https://chatgpt.com/c/6839e161-faac-8009-a20e-534dbd1aaa39",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3650,
+    "author": "INEMA",
+    "date": "2025-05-31T00:30:52+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3649,
+    "author": "INEMA",
+    "date": "2025-05-31T00:30:39+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3865,
+    "author": "INEMA",
+    "date": "2025-06-22T06:36:57+00:00",
+    "text": "Aqui estão os **principais hacks (atalhos e estratégias práticas)** extraídos da *Prompt Engineering Masterclass*, com foco direto na aplicação e impacto imediato nas automações e geração de conteúdo:\n\n---\n\n**HACKS DE PROMPT ENGINEERING**\n\n1. **Use \"Compound Prompts\" para automações complexas**\n\n   * Estruture o prompt com: Identidade + Pedido + Regras + Formato de Saída + Exemplos.\n   * Exemplo: transformar uma descrição vaga em pesquisa avançada no LinkedIn Sales Navigator.\n\n2. **Separar o prompt em partes (Deconstruction Method)**\n\n   * Crie prompts diferentes para cada etapa: ex: gancho → resumo → estrutura → conteúdo final.\n   * Vantagem: aumenta a qualidade e a consistência da automação.\n\n3. **Use exemplos reais no prompt (Tell and Show Method)**\n\n   * Diga o que quer e mostre como deve ser.\n   * Isso reduz o erro do modelo e melhora a previsibilidade da saída.\n\n4. **Injete conhecimento específico (Import Method)**\n\n   * Pegue insights de cursos ou especialistas e insira no prompt.\n   * Exemplo: “Use os princípios do curso X sobre viralização de vídeos curtos”.\n\n5. **Formatação molda a saída**\n\n   * Bullet points → resposta em tópicos\n   * Parágrafos → resposta fluida\n   * Tags (ex: `<title>`, `<hook>`) ajudam na consistência\n\n6. **Adapte o prompt ao modelo**\n\n   * Modelos menores (ex: GPT-3.5, LLaMA) precisam de mais passo a passo.\n   * Modelos maiores (ex: GPT-4o, Claude 3) entendem melhor estruturas complexas.\n\n7. **Stacking: empilhe instruções com lógica**\n\n   * Crie prompts em blocos organizados como \"tijolos\", cada um com uma função clara.\n   * Exemplo: `[estilo]`, `[formato]`, `[tom]`, `[exemplos bons]`.\n\n8. **Evite palavras genéricas que “mancham” o prompt (Anti-Keyword Staining)**\n\n   * Não diga: “escreva uma headline”.\n   * Diga: “escreva uma frase curta e impactante com no máximo 12 palavras”.\n\n9. **Chaining: use a saída de um prompt como entrada para o próximo**\n\n   * Ideal para automações. Exemplo: input → gancho → resumo → post → CTA.\n\n10. **Faça muitos testes e repita**\n\n* Deon chegou a fazer **54 versões de um único prompt** até alcançar o ideal.\n* Repetição = refinamento = qualidade = impacto.\n\n---\n\n**Exemplo de estrutura de compound prompt (modelo base):**\n\n```[IDENTIDADE]: Você é um redator especialista em conteúdo viral no Twitter.\n[OBJETIVO]: Gerar uma thread com base em um vídeo de 5 min.\n[ESTILO]: Leve, provocativo, com curiosidade no início.\n[EXEMPLO DE BOM HOOK]: “Este vídeo me deixou 10 anos mais inteligente em 5 minutos.”\n[FORMATO DE SAÍDA]: 1 gancho, 1 resumo, 5 bullets com insights.\n[INPUT]: Link ou transcrição do vídeo.```",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3864,
+    "author": "INEMA",
+    "date": "2025-06-22T06:36:20+00:00",
+    "text": "https://www.youtube.com/watch?v=ODl4olu1L7U",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3863,
+    "author": "INEMA",
+    "date": "2025-06-22T06:35:49+00:00",
+    "text": "Aqui está o resumo completo e estruturado da *Prompt Engineering Masterclass* de Deon, com os principais tópicos, insights e exemplos aplicados:\n\n---\n\n**Resumo Geral:**\n\nA masterclass foca em como aumentar em até 100 vezes a eficácia das automações com IA usando engenharia de prompts avançada. O palestrante compartilha frameworks, exemplos reais e boas práticas para construir prompts robustos e confiáveis, especialmente em contextos automatizados, como geração de conteúdo, análise de dados e fluxos em ferramentas como n8n, Make.com e outras.\n\n---\n\n**Tópicos principais com explicações e exemplos:**\n\n1. **Importância da Engenharia de Prompt para Automações**\n\n   * Automação só funciona bem se o output for **consistente, previsível e formatado corretamente.**\n   * Exemplo: automatizar análise de transcrições do YouTube exige estrutura idêntica em cada execução.\n\n2. **Dois Estilos de Prompting**\n\n   * **Conversacional**: comum no ChatGPT, bom para testes ou aprendizado.\n   * **One-shot Prompting** (recomendado para automações): prompt único, bem estruturado, que evita retrabalho.\n\n3. **Tipos de Prompts**\n\n   * **Atomic Prompt**: simples e direto, útil para pequenas tarefas (ex: adicionar quebra de linha, classificar sentimento).\n   * **Compound Prompt**: robusto, com identidade, pedido, critérios, exemplos e formatação. Ex: traduzir mensagem de ICP em pesquisa no LinkedIn Sales Navigator.\n\n4. **Exemplo real de automação com Compound Prompt**\n\n   * Input: link de vídeo ou artigo de notícias.\n   * Etapas:\n\n     1. **Análise psicológica** do conteúdo.\n     2. Geração de **3 ganchos virais**.\n     3. Extração de **briefing emocional e narrativo**.\n     4. Criação de **roteiro estruturado de thread** no Twitter.\n   * Resultado: conteúdo viral com alto impacto e custo baixo (US\\$ 1 por execução, feito por VA).\n\n5. **Boas práticas para criar bons prompts**\n\n   * **Assuma responsabilidade**: não culpe o modelo, revise sua estrutura.\n   * **Seja específico**: detalhe estilo, formatação e exemplos reais.\n   * **Use estrutura clara**: use rótulos, blocos, tags (ex: XML), listas numeradas.\n   * **Estrutura influencia o output**: usar parágrafos ou bullets molda a forma final.\n\n6. **Adaptação por modelo**\n\n   * Modelos menores (GPT-3.5, LLaMA): exigem mais etapas e chain-of-thought.\n   * Modelos maiores (Claude 3 Opus, GPT-4o): entendem estruturas mais complexas, mas ainda se beneficiam da clareza.\n\n---\n\n**Frameworks Avançados de Prompt Engineering:**\n\n1. **Deconstruction Method**\n\n   * Dividir tarefas complexas em várias partes: hook → brief → outline → corpo do texto.\n\n2. **Stacking Method**\n\n   * Empilhar blocos de instruções como “tijolos” que formam um prompt robusto.\n\n3. **Tell and Show Method**\n\n   * Conte o que quer + mostre um exemplo.\n   * Ex: “Escreva uma thread com base nesse estilo” + exemplo real de thread.\n\n4. **Import Method**\n\n   * Injete conhecimento especializado no prompt (ex: regras de um curso sobre conteúdo viral).\n\n5. **Train of Thought Method**\n\n   * Forçar o modelo a pensar passo a passo para melhorar precisão.\n\n6. **Anti-keyword Staining**\n\n   * Evite palavras genéricas (ex: “escreva uma headline”) e use descrições mais específicas (ex: “escreva uma frase de impacto com até 12 palavras”).\n\n7. **Chaining Method**\n\n   * Encadeamento: saída de um prompt serve de entrada para outro.\n\n---\n\n**Como Monetizar com Prompts:**\n\n* Comece aplicando prompts em atividades já remuneradas (ex: copywriting, automações).\n* Preste serviços para empresas SaaS ou startups.\n* Cobrança possível: de US\\$ 500 até US\\$ 10 mil/mês, ou % da receita recorrente.\n* Diferencial: saber criar prompts personalizados que geram ROI direto.\n\n---\n\n**Mensagem Final:**\n\n* Não existe prompt perfeito de primeira. Testar, iterar e praticar **diariamente** é o único caminho.\n* Deon criou mais de **2.000 prompts manualmente** para se tornar referência na área.\n* A engenharia de prompt é hoje uma das habilidades de maior **leverage** e menor custo.\n\n---",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3862,
+    "author": "INEMA",
+    "date": "2025-06-22T06:35:15+00:00",
+    "text": "__M1 - Prompt Engineering Masterclass__ de Devin",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3861,
+    "author": "INEMA",
+    "date": "2025-06-22T06:35:13+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3860,
+    "author": "INEMA",
+    "date": "2025-06-22T06:35:12+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3859,
+    "author": "INEMA",
+    "date": "2025-06-22T06:35:12+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3858,
+    "author": "INEMA",
+    "date": "2025-06-22T06:35:12+00:00",
+    "text": "https://chatgpt.com/c/6857a3ee-3bf0-8009-9c54-fe43ff29359d",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3857,
+    "author": "INEMA",
+    "date": "2025-06-22T06:35:11+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3856,
+    "author": "INEMA",
+    "date": "2025-06-22T06:35:05+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

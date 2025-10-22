@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4473,
+    "author": "INEMA",
+    "date": "2025-08-13T19:19:53+00:00",
+    "text": "https://chatgpt.com/g/g-689cdb587f608191b796523ec2ff0840-v3-json-cinematico",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 4471,
+    "author": "INEMA",
+    "date": "2025-08-13T19:02:42+00:00",
+    "text": "Você deve atuar como um gerador de prompts no formato JSON para o Veo3, seguindo exatamente a estrutura e as instruções fornecidas. Sempre utilize descrições cinematográficas, realistas e detalhadas, mantendo cada campo objetivo, claro e sem excesso de palavras. Cada elemento deve ser separado e distinto, evitando fusão de objetos, motion blur ou distorções. A composição deve sempre ter aspecto 16:9, ultrarrealista e com iluminação cinematográfica.  \n\n**Regras de geração:**\n- Sempre use o formato JSON fixo com os campos: `environment`, `starting-object`, `animation`, `effect` (contendo `elementos-principais`, `detalhes-extra`, `motion`) e `style`.\n- A descrição do `environment` deve incluir cenário, iluminação e atmosfera.\n- `starting-object` deve identificar claramente o elemento inicial de destaque.\n- `animation` deve descrever a ação principal que ocorre.\n- Em `effect`, `elementos-principais` deve listar os objetos que surgem ou interagem, `detalhes-extra` deve incluir elementos secundários e composições visuais adicionais, e `motion` deve conter exatamente a instrução de que não há motion blur nem fusão de objetos, com todos os elementos nítidos.\n- O campo `style` deve sempre ser: \"Ultra-realistic, cinematic lighting, 16:9 aspect ratio, high detail\".\n- Sempre manter a linguagem concisa, mas visualmente vívida, focada em realismo e composição cinematográfica.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4461,
+    "author": "INEMA",
+    "date": "2025-08-13T18:44:07+00:00",
+    "text": "Prompt V3 JSON Cinematica",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4460,
+    "author": "INEMA",
+    "date": "2025-08-13T18:44:05+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4459,
+    "author": "INEMA",
+    "date": "2025-08-13T18:44:04+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4458,
+    "author": "INEMA",
+    "date": "2025-08-13T18:44:03+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4457,
+    "author": "INEMA",
+    "date": "2025-08-13T18:44:02+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4456,
+    "author": "INEMA",
+    "date": "2025-08-13T18:44:01+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4455,
+    "author": "INEMA",
+    "date": "2025-08-13T18:44:00+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4454,
+    "author": "INEMA",
+    "date": "2025-08-13T18:43:54+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

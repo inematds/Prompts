@@ -1,0 +1,243 @@
+[
+  {
+    "id": 3702,
+    "author": "INEMA",
+    "date": "2025-06-07T18:34:59+00:00",
+    "text": "assistente q usei esta estrutura de prompt",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3701,
+    "author": "INEMA",
+    "date": "2025-06-07T18:34:40+00:00",
+    "text": "https://chatgpt.com/g/g-684483a24ee08191808eabc409d598db-inema-engenheiro-de-prompt-vibe",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3699,
+    "author": "INEMA",
+    "date": "2025-06-07T18:21:50+00:00",
+    "text": "Estrutura de um prompt de Instrucao:\n\n\n1. **Diretiva Central**\n   Define a tarefa principal em uma única frase.\n\n2. **Seções Numeradas (1–7)**\n   Divide a tarefa em entregáveis distintos, cada um com seu próprio título.\n\n3. **Subtópicos**\n   Especifica exatamente o que deve ser abordado dentro de cada seção.\n\n4. **Pistas de Formatação**\n   Títulos em negrito, listas numeradas e travessões longos indicam hierarquia e ênfase.\n\n5. **Restrições de Dados e Saída**\n   Exige o uso de rastreamento em tempo real, calculadoras, visualizações etc.\n\n6. **Detalhamento Contextual**\n   Fornece suposições de fundo para fundamentar a análise.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3698,
+    "author": "INEMA",
+    "date": "2025-06-07T18:21:27+00:00",
+    "text": "============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3697,
+    "author": "INEMA",
+    "date": "2025-06-07T18:14:23+00:00",
+    "text": "Com base na estrutura de cada prompt e nas capacidades do **Perplexity Labs**, aqui está uma previsão clara e objetiva do **tipo de resultado que cada prompt vai gerar**, incluindo o valor prático para negócios, estratégia ou aprendizado:\n\n---\n\n### **Prompt 1 – Análise de mercado para ferramentas de IA e automação (revenda SaaS)**\n\n**Resultado esperado:**\n\n* Relatório técnico altamente profissional, tipo consultoria (McKinsey/BCG)\n* Comparações detalhadas entre ferramentas líderes\n* Visualizações: matriz comparativa, gráfico de penetração de mercado, modelos de ROI\n* Insights acionáveis sobre qual ferramenta escolher e como montar um negócio SaaS\n\n**Aplicação:**\nIdeal para startups, consultores e agências querendo entrar ou crescer no mercado de automação com IA.\n\n---\n\n### **Prompt 2 – Dashboard de investimentos em energia renovável (2024–2025)**\n\n**Resultado esperado:**\n\n* Dashboard interativo estilo Bloomberg/Statista\n* Gráficos de fluxo de capital por setor e região\n* Filtros dinâmicos e simuladores de retorno financeiro\n* Destaque para ações e setores com maior crescimento\n\n**Aplicação:**\nÚtil para investidores, analistas financeiros, consultorias ESG e criadores de conteúdo no setor energético.\n\n---\n\n### **Prompt 3 – Estratégia de marketing para marca de calçados sustentáveis**\n\n**Resultado esperado:**\n\n* Plano de marketing completo e visualmente organizado\n* Personas geradas por IA com imagens e perfil detalhado\n* Análise da concorrência + cronograma de postagens\n* Calculadora de CAC e ROI por canal\n\n**Aplicação:**\nPerfeito para marcas D2C, agências de marketing verde, ou para quem quer lançar uma marca sustentável.\n\n---\n\n### **Prompt 4 – Planejador de viagem para Japão (outubro de 2025)**\n\n**Resultado esperado:**\n\n* Ferramenta visual e interativa com mapa, roteiro e orçamento\n* Itinerário personalizável com foco em experiências equilibradas\n* Recomendações culturais, climáticas e gastronômicas\n* Exportação de roteiro e filtros por cidade e tipo de experiência\n\n**Aplicação:**\nÚtil para agências de turismo, influenciadores de viagem, criadores de conteúdo e viajantes autônomos.\n\n---\n\n### **Prompt 5 – Correlação entre inovação e crescimento econômico (1970–2025)**\n\n**Resultado esperado:**\n\n* Relatório histórico com visualizações tipo linha do tempo, gráficos de bolha e análise estatística\n* Modelos preditivos para impactos de IA, computação quântica, fusão nuclear etc.\n* Tabelas comparativas de investimento em P\\&D e retorno econômico\n* Ferramenta interativa para simular variáveis econômicas e tecnológicas\n\n**Aplicação:**\nMuito útil para pesquisadores, planejadores governamentais, educadores, analistas econômicos e estrategistas de inovação.\n\n---",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3696,
+    "author": "INEMA",
+    "date": "2025-06-07T18:13:36+00:00",
+    "text": "================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3695,
+    "author": "INEMA",
+    "date": "2025-06-07T18:13:33+00:00",
+    "text": "Segue o resumo do que cada prompt do **Perplexity Labs** faz:\n\n---\n\n### **Prompt 1: Análise do mercado de ferramentas de automação com IA para revenda SaaS**\n\n* Gera um **relatório estratégico completo**\n* Compara Make, n8n, Zapier, Lovable, Bolt.new, Replit, AWS\n* Avalia:\n\n  * Diferenças técnicas e propostas de valor\n  * Oportunidades emergentes de mercado\n  * Viabilidade técnica\n  * Modelos de receita\n  * Estratégias futuras\n* Inclui:\n\n  * **Matriz comparativa dinâmica**\n  * Cronograma de penetração de mercado\n  * Projeções de ROI\n\n---\n\n### **Prompt 2: Dashboard de investimentos em energia renovável (****2024-2025****)**\n\n* Cria um **dashboard interativo**\n* Visualiza:\n\n  * Fluxo de investimentos por setor (solar, vento, hidrogênio...)\n  * Filtros por região, tipo de investimento e tempo\n  * Melhores ações do setor\n  * Estatísticas e projeções de mercado\n* Simulador para retorno de investimentos históricos\n\n---\n\n### **Prompt 3: Estratégia de marketing Q3 2025 para marca de calçados sustentáveis**\n\n* Desenvolve um **plano completo de marketing**\n* Define:\n\n  * Análise de mercado\n  * Personas detalhadas (idade, valores, comportamentos)\n  * Estratégia por canal (Instagram, influenciadores etc.)\n  * Calendário de conteúdo com ideias de postagens\n  * Orçamento com projeção de ROI\n  * KPIs e metas claras\n  * Análise de concorrência\n* Inclui:\n\n  * **Calculadora de CAC**\n  * Templates visuais e dashboard de métricas\n\n---\n\n### **Prompt 4: Planejador de viagem para Tóquio, Quioto e Osaka (outubro de 2025)**\n\n* Cria uma **ferramenta interativa de planejamento de viagem**\n* Funções:\n\n  * Itinerário otimizado (roteiros, horários, atrações)\n  * Previsão do tempo por dia\n  * Mapa de transportes (shinkansen, metrô, custos)\n  * Calculadora de custos por perfil de viajante\n  * Calendário de eventos culturais\n  * Recomendações de restaurantes com preços e especialidades\n\n---\n\n### **Prompt 5: Relação entre inovações tecnológicas e crescimento econômico (1970–2025)**\n\n* Produz um **relatório de pesquisa histórico e preditivo**\n* Mostra:\n\n  * Principais inovações e impactos econômicos\n  * Linha do tempo com crescimento do PIB e tecnologia\n  * Análise estatística do tempo entre inovação e impacto\n  * Comparações entre setores e países\n  * Modelo preditivo do impacto das tecnologias atuais (IA, computação quântica etc.)\n* Inclui:\n\n  * Tabelas interativas, gráficos e um mini-app para simulações",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3694,
+    "author": "INEMA",
+    "date": "2025-06-07T18:13:21+00:00",
+    "text": "===============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3693,
+    "author": "INEMA",
+    "date": "2025-06-07T18:01:10+00:00",
+    "text": "O **Perplexity Labs** superou outras ferramentas como **Manus, GenSpark, Lovable e Airtable** em **cinco áreas-chave**, combinando várias funcionalidades em uma experiência mais integrada, acessível e poderosa. Veja abaixo:\n\n### 1. **Integração de Pesquisa + Criação**\n\n* **O que fez melhor:** Uniu a força da busca em tempo real (marca registrada do Perplexity) com a criação de relatórios e dashboards interativos — algo que **Manus e GenSpark não fazem juntos**.\n* **Exemplo:** Geração de relatórios com dados pesquisados automaticamente, e não só com base em templates ou banco fixo.\n\n### 2. **Dashboards Interativos Gerados por Texto**\n\n* **O que fez melhor:** Criou **dashboards completos** (com filtros, simulações e visualizações dinâmicas) **com um único prompt**, enquanto outras ferramentas exigem configuração manual.\n* **Exemplo:** Simulador de investimentos em energia renovável com filtros por país, tipo de energia e tempo.\n\n### 3. **Visual com Padrão Premium**\n\n* **O que fez melhor:** O visual final lembra **consultorias como McKinsey ou BCG**, mas é gerado automaticamente.\n* **Exemplo:** Relatórios prontos com visual polido, gráficos embutidos e seções bem organizadas.\n\n### 4. **Uso Inteligente de Imagens Geradas por IA**\n\n* **O que fez melhor:** Integra **imagens criadas por GPT (não buscadas)** dentro dos relatórios, dashboards e personas, o que não é feito por Lovable nem Airtable.\n* **Exemplo:** Criou personas com nome, idade, valores e imagens ilustrativas, tudo com IA.\n\n### 5. **Ferramentas Interativas em Estilo App**\n\n* **O que fez melhor:** Criou experiências **semelhantes a pequenos aplicativos web** com simulações, exportações, interações, quiz e navegação fluida.\n* **Exemplo:** Planejador de viagem de 14 dias com exportação de itinerário, sugestão de restaurantes por cidade e orçamento.\n\n---\n\n### Resumo final:\n\nO **Perplexity Labs** fez melhor que os concorrentes porque:\n\n* Junta **pesquisa profunda + criação visual + interatividade** num só fluxo.\n* Usa **IA de forma real e contextual**, não só como enfeite.\n* Cria **tudo a partir de prompts únicos**, com **zero configuração manual.**\n* Tem um **visual e usabilidade profissional**, prontos para apresentação ou uso direto.\n\nÉ como se **o Lovable, o Airtable, o GenSpark, o Manus e o Notion tivessem se fundido... e ganhado acesso à internet e ao GPT.**",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3692,
+    "author": "INEMA",
+    "date": "2025-06-07T18:01:04+00:00",
+    "text": "================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3691,
+    "author": "INEMA",
+    "date": "2025-06-07T17:39:06+00:00",
+    "text": "**Resumo – Perplexity Labs (lançado ontem):**\n\nO Perplexity lançou uma nova funcionalidade chamada **Perplexity Labs**, acessível via um ícone de lâmpada. Ela permite a criação de **projetos completos com apenas um prompt**, reunindo **pesquisa, análise de mercado, dashboards interativos e elementos visuais com GPT images**, em um estilo que concorre diretamente com ferramentas como Manus e GenSpark.\n\n### Principais recursos demonstrados:\n\n* **Geração de relatórios completos** com dados, gráficos, dashboards e citações;\n* **Análise de ferramentas como Make, N8N, ****Bolt.new****, Lovable, Repl.Agent** etc.;\n* **Dashboards interativos** (comparação, ROI, simulações, personas e itinerários de viagem);\n* **Visualizações com GPT-generated images** e tabelas com filtros interativos;\n* **Educação interativa** (como simuladores e quizzes sobre computação quântica);\n* **Planejamentos práticos**: marketing para marcas sustentáveis, viagens, energia renovável;\n* **Exportação em CSV**, geração de conteúdo para redes sociais e recursos educacionais embutidos;\n* **Nível de usabilidade semelhante ao Airtable + Manus + Lovable, com design refinado.**\n\n### Exemplos de projetos criados:\n\n1. **Análise de mercado para revenda SaaS com dashboards, ROI, modelos de receita.**\n2. **Dashboard de investimentos em energia renovável com filtros e simulador.**\n3. **Plano de marketing para marca de calçados sustentáveis, incluindo personas e posts de Instagram.**\n4. **Planejador de viagem interativo para Japão com orçamento, clima e restaurantes.**\n5. **Relatório sobre inovações tecnológicas e crescimento econômico desde 1970.**\n6. **Módulo educacional sobre computação quântica com simulações e quizzes.**\n\n### Conclusão:\n\nPerplexity Labs representa uma fusão poderosa entre **pesquisa automatizada, inteligência de mercado, criação de software leve e conteúdo visual interativo**, com forte impacto na educação, marketing e automação empresarial. Já está disponível para membros de nível 3 ou plano anual com promoções como **3 meses grátis no plano Pro**.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3690,
+    "author": "INEMA",
+    "date": "2025-06-07T17:38:57+00:00",
+    "text": "===================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3688,
+    "author": "INEMA",
+    "date": "2025-06-07T17:36:28+00:00",
+    "text": "**Prompt 5**\n\n\n**Analyze the correlation between major technological innovations and economic growth from ****1970-2025****. Create a comprehensive research project that includes:**\n\n**1. A detailed report identifying key technological breakthroughs and their economic impacts**\n**2. Interactive timeline visualization showing when major innovations occurred alongside GDP growth rates**\n**3. Statistical analysis of the lag time between innovation introduction and measurable economic impact**\n**4. Sector-specific analysis focusing on computing, telecommunications, biotech, and renewable energy**\n**5. Data tables showing R&D investment vs. economic returns by country and sector**\n**6. A predictive model estimating the potential economic impact of current emerging technologies (AI, quantum computing, fusion energy, etc.) over the next decade**\n**7. Comparative analysis of countries that invested heavily in technological innovation versus those that didn't**\n\n**Package all elements into a cohesive presentation with downloadable assets, interactive visualizations, and a mini-app that allows users to explore different variables in the analysis**",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3687,
+    "author": "INEMA",
+    "date": "2025-06-07T17:36:13+00:00",
+    "text": "==============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3686,
+    "author": "INEMA",
+    "date": "2025-06-07T17:36:12+00:00",
+    "text": "**Prompt 4**\n\n**Create an interactive travel planning tool for a 14-day trip across Tokyo, Kyoto, and Osaka in October 2025. The tool should include:**\n\n**1. An interactive itinerary builder that optimizes for:**\n**- Efficient travel routes between cities**\n**- Avoiding peak tourist times at major attractions**\n**- Balancing cultural sites, nature, food experiences, and shopping**\n**- Accommodating different budget levels (budget, mid-range, luxury)**\n\n**2. Daily weather predictions based on historical October data**\n\n**3. A transportation guide with:**\n**- Interactive map showing bullet train routes with times and costs**\n**- Local transportation options in each city**\n**- Estimated travel times between major attractions**\n\n**4. Cost calculator that provides estimated daily expenses for different traveler profiles**\n\n**5. Cultural calendar showing local festivals and events occurring during the travel period**\n\n**6. Restaurant recommendations with price ranges, specialty dishes, and booking information**\n\n**The tool should be visually engaging with maps, images of key attractions, and a user-friendly interface that allows for customization based on personal preferences**",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3685,
+    "author": "INEMA",
+    "date": "2025-06-07T17:35:54+00:00",
+    "text": "===================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3684,
+    "author": "INEMA",
+    "date": "2025-06-07T17:35:51+00:00",
+    "text": "**Prompt 3**\n\n**Develop a comprehensive Q3 2025 marketing strategy for a new sustainable footwear brand targeting eco-conscious millennials and Gen Z consumers. The strategy should include:**\n\n**1. Market analysis with current trends in sustainable fashion**\n**2. Detailed customer persona profiles with demographic and psychographic data**\n**3. Channel strategy with specific recommendations for social media platforms, influencer partnerships, and content types**\n**4. Content calendar for the first month of implementation with post ideas and optimal posting times**\n**5. Budget allocation recommendations with ROI projections**\n**6. KPI framework with measurable metrics for success**\n**7. Competitive analysis of 3-5 similar sustainable footwear brands**\n**8. Interactive calculator that estimates customer acquisition costs across different channels**\n\n**Please include visual assets such as charts comparing different marketing approaches, sample social media templates, and a dynamic dashboard for tracking the proposed KPIs**",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3683,
+    "author": "INEMA",
+    "date": "2025-06-07T17:35:50+00:00",
+    "text": "=================",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3682,
+    "author": "INEMA",
+    "date": "2025-06-07T17:35:31+00:00",
+    "text": "**Prompt 2**\n\n**Create an interactive dashboard analyzing global renewable energy investment trends in ****2024-2025****. Include:**\n**1. A main visualization showing investment flows across different renewable sectors (solar, wind, hydrogen, etc.)**\n**2. Interactive filters to view data by region, time period, and investment type**\n**3. A section highlighting the top-performing renewable energy stocks**\n**4. Key statistics on growth rates and market projections**\n**5. A mini-app component that allows users to simulate potential returns on different renewable investments based on historical performance**\n\n**Make the dashboard visually appealing with a modern, clean design and ensure all data is from reputable financial and energy research sources**",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3681,
+    "author": "INEMA",
+    "date": "2025-06-07T17:35:13+00:00",
+    "text": "============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3680,
+    "author": "INEMA",
+    "date": "2025-06-07T17:35:03+00:00",
+    "text": "**Prompt 1**\n\n**Analyze the global AI automation and development tools market to determine optimal solutions for a SaaS reselling business. Create a comprehensive strategic report that identifies:**\n\n**1. **Market Differentiation Analysis****\n**Compare capabilities of Make (Integromat), n8n, Zapier, ****Lovable.dev****, ****Bolt.new****, Replit AI Agent, and AWS AI services across:**\n**- Workflow complexity handling (chained vs autonomous agents)[2][18]**\n**- Target user technical proficiency (no-code vs pro-code)[7][15]**\n**- Unique value propositions (Lovable's production-ready apps vs Bolt's lightning prototyping)[8][9]**\n**- Integration ecosystems (AWS's enterprise readiness vs Make's 2000+ app connections)[1][3]**\n\n**2. **Emerging Opportunity Mapping****\nIdentify 3 high-growth verticals for AI automation tools based on:\n- Current adoption patterns in the search results[2][11]\n- Unsolved pain points in specific industries[10][18]\n- Technical feasibility of implementation[4][13]\n\n3. **Technical Viability Assessment**\nEvaluate implementation requirements for each platform:\n- AWS AI Services' free tier limitations vs enterprise scalability[5]\n- Lovable.dev's 25k daily app creation rate vs customization needs[8][15]\n- Replit's mobile development capabilities vs security considerations[13]\n\n4. **Revenue Model Comparison**\nAnalyze pricing structures and partner programs:\n- Bolt.new's token-based pricing vs Make's subscription model[9][11]\n- Lovable.dev's $17M ARR growth trajectory[8]\n- AWS's pay-as-you-go AI services[5]\n\n5. **Future-Proofing Strategy**\nPredict next-stage developments for each platform based on:\n- Zapier's AI orchestration roadmap[3]\n- Lovable.dev's planned Supabase/GitHub integrations[8]\n- Replit's mobile-first development trends[13]\n\nInclude 3 interactive elements:\n- A dynamic comparison matrix scoring platforms on 10 key factors\n- Market penetration timelines for different user segments\n- ROI projection models for different reseller scenarios\n\nPresent findings through the lens of a technical solutions architect, emphasizing:\n- Implementation complexity vs business value\n- Hidden costs in AI agent maintenance[2][19]\n- Emerging patterns in chained vs autonomous workflows[2][18]",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3679,
+    "author": "INEMA",
+    "date": "2025-06-07T17:34:45+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaDocument",
+    "media_file": "Perplexity Labs Prompts.docx"
+  },
+  {
+    "id": 3678,
+    "author": "INEMA",
+    "date": "2025-06-07T17:34:32+00:00",
+    "text": "Perplexity Labs Prompts",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3677,
+    "author": "INEMA",
+    "date": "2025-06-07T17:34:31+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3676,
+    "author": "INEMA",
+    "date": "2025-06-07T17:34:30+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3675,
+    "author": "INEMA",
+    "date": "2025-06-07T17:34:30+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3674,
+    "author": "INEMA",
+    "date": "2025-06-07T17:34:30+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3673,
+    "author": "INEMA",
+    "date": "2025-06-07T17:34:30+00:00",
+    "text": "https://chatgpt.com/c/68447900-09a8-8009-9356-b26ea6643777",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3672,
+    "author": "INEMA",
+    "date": "2025-06-07T17:34:29+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3671,
+    "author": "INEMA",
+    "date": "2025-06-07T17:34:23+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

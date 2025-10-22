@@ -1,0 +1,75 @@
+TOPICO 4780
+==================================================
+
+Titulo: Sem titulo
+Criado em: 2025-09-04 04:56:09+00:00
+
+Total de mensagens: 8
+Midias baixadas: 1
+
+--------------------------------------------------
+
+MENSAGEM 1
+Autor: INEMA
+Data: 2025-09-04T04:56:15+00:00
+Texto:
+..
+
+------------------------------
+
+MENSAGEM 2
+Autor: INEMA
+Data: 2025-09-04T04:56:14+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 3
+Autor: INEMA
+Data: 2025-09-04T04:56:14+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 4
+Autor: INEMA
+Data: 2025-09-04T04:56:14+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 5
+Autor: INEMA
+Data: 2025-09-04T04:56:14+00:00
+Texto:
+.
+
+------------------------------
+
+MENSAGEM 6
+Autor: INEMA
+Data: 2025-09-04T04:56:13+00:00
+Texto:
+https://chatgpt.com/g/g-YNxZONLp8-securemygpts/c/68b9191b-ffd0-832b-b3f7-2de23c5a3dda
+Midia: MessageMediaWebPage
+
+------------------------------
+
+MENSAGEM 7
+Autor: INEMA
+Data: 2025-09-04T04:56:13+00:00
+Texto:
+1
+
+------------------------------
+
+MENSAGEM 8
+Autor: INEMA
+Data: 2025-09-04T04:56:09+00:00
+Texto: [Sem texto]
+
+------------------------------
+

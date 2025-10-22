@@ -1,0 +1,144 @@
+[
+  {
+    "id": 4105,
+    "author": "INEMA",
+    "date": "2025-07-31T02:49:03+00:00",
+    "text": "Aja como especialista em criar automações N8N, completas, funcionais e validadas.\n\n- Você terá arquivos workflow exemplos neste projeto e um prompt de instrução para se guiar.\n- Antes de tudo pergunte sobre as duvidas q você tenha.\n\n\n### Prompt para Definir o Escopo da Automação Inteligente\n\nTarefa:\nDescreva e desenvolva uma automação inteligente baseada nas seguintes diretrizes e arquitetura modular de agentes IA:\n\n---\n\n### 1. Padrão de Entrada e Saída Multicanal\n\nEntrada esperada:\nMensagens provenientes de canais como WhatsApp, Gmail, Telegram e Slack.\nIdentifique qual a plataforma de entrada para garantir a saida\n\nSaída esperada:\nRespostas personalizadas pelo mesmo canal de origem, usando o switch, com formatação contextual e adaptação ao meio (texto simples, HTML, botões, anexos, etc.).\n\n---\n\n### 2. Agente IA com Engenharia de Contexto\n\nEstrutura esperada:\n\n* Prompt base (system prompt) claro com papel e instruções.\n* Memória de curto prazo: últimas interações. (redis/sheet/supabase/airtable)\n* Memória de trabalho: informações na execução atual (contexto da tarefa).\n* Memória de longo prazo: Supabase/Airtable como banco de preferências e histórico.\n* Ferramentas ou Subfluxos\n---\n\n### 3. RAG (Recuperação Aumentada por Geração)\n\nArquitetura esperada:\n\n* Embeddings gerados com OpenAI.\n* Armazenamento vetorial no Supabase com ou sem metadados.\n* Possibilidade de reranking semântico (Cohere ou reordenadores).\n* Sistema chunk-based com metadata opcional (nome, fonte, tipo de documento).\n* Divisão de documentos e persistência automatizada via Google Drive/Airtable.\n* Usar modelos semanticos ou metadados se for identificado esta necessidade\n\n---\n\n### 4. Subagentes (Agents Dinâmicos)\n\nConfiguração esperada:\n\n* Agentes especializados como:\n\n  * Email Agent (ler, responder, enviar)\n  * Calendar Agent (criar eventos, buscar agendas)\n  * Web Agent (consultas externas como Weather, Perplexity)\n  * Metadata Agent (extrair e injetar metadados em documentos)\n* Agente principal atua como roteador inteligente entre os subagentes.\n\n---\n\n### 5. Formato de Saida\n\n\nConfiguração esperada:\n\n* A saida deve ser pela mesma plataforma q chegou, garantir esta saida de forma identificalvel.\n* os elementos necessarios para conversao ou humanizacao pode ser importantes nesta hora.\n* podera existir o HITL neste  momento de forma direta ou complementar se necessário.\n\n---\n\n### 6. Funções Complementares\n\nFerramentas auxiliares:\n\n* Manipulação de documentos (upload, leitura, divisão, OCR).\n* Transcrição de áudio (para entradas de voz). Deve entrar no local apropriado.\n* Extração de dados de PDF com metadata.\n* Requisições HTTP, Webhooks e controle via Switchs para lógica condicional.\n* garantir compatibilidade com versao atual do N8N.\n\n---\n\n### Exemplo de comando:\n\nCrie uma automação multicanal com agente principal e subagentes, que:\n\n* Receba mensagens do WhatsApp, Slack e Gmail.\n* Utilize Supabase como memória longa e RAG.\n* Tenha um pipeline de embedding com chunking + metadata.\n* Use subagentes para e-mail, calendário, contatos, e web search.\n* Implemente memória de curto prazo para manter contexto da sessão.\n* Possua fallback de logs em planilha do Google.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4103,
+    "author": "INEMA",
+    "date": "2025-07-30T02:49:27+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4103_002.jpg"
+  },
+  {
+    "id": 4102,
+    "author": "INEMA",
+    "date": "2025-07-30T02:49:27+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4102_003.jpg"
+  },
+  {
+    "id": 4101,
+    "author": "INEMA",
+    "date": "2025-07-30T02:49:27+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4101_004.jpg"
+  },
+  {
+    "id": 4100,
+    "author": "INEMA",
+    "date": "2025-07-30T02:49:27+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4100_005.jpg"
+  },
+  {
+    "id": 4099,
+    "author": "INEMA",
+    "date": "2025-07-30T02:49:27+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4099_006.jpg"
+  },
+  {
+    "id": 4098,
+    "author": "INEMA",
+    "date": "2025-07-30T02:49:27+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_4098_007.jpg"
+  },
+  {
+    "id": 4097,
+    "author": "INEMA",
+    "date": "2025-07-30T02:47:52+00:00",
+    "text": "=============",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4096,
+    "author": "INEMA",
+    "date": "2025-07-30T02:47:48+00:00",
+    "text": "### Prompt para Definir o Escopo da Automação Inteligente\n\n**Tarefa:**\nDescreva e desenvolva uma automação inteligente baseada nas seguintes diretrizes e arquitetura modular de agentes IA:\n\n---\n\n### **1. Padrão de Entrada e Saída Multicanal**\n\n**Entrada esperada:**\nMensagens provenientes de canais como WhatsApp, Gmail, Telegram e Slack.\n\n**Saída esperada:**\nRespostas personalizadas pelo mesmo canal de origem, com formatação contextual e adaptação ao meio (texto simples, HTML, botões, anexos, etc.).\n\n---\n\n### **2. Agente IA com Engenharia de Contexto**\n\n**Estrutura esperada:**\n\n* Prompt base (system prompt) claro com papel e instruções.\n* **Memória de curto prazo:** última interação.\n* **Memória de trabalho:** informações na execução atual (contexto da tarefa).\n* **Memória de longo prazo:** Supabase/Airtable como banco de preferências e histórico.\n\n---\n\n### **3. RAG (Recuperação Aumentada por Geração)**\n\n**Arquitetura esperada:**\n\n* Embeddings gerados com OpenAI.\n* Armazenamento vetorial no Supabase com ou sem metadados.\n* Possibilidade de reranking semântico (Cohere ou reordenadores).\n* Sistema chunk-based com metadata opcional (nome, fonte, tipo de documento).\n* Divisão de documentos e persistência automatizada via Google Drive/Airtable.\n\n---\n\n### **4. Subagentes (Agents Dinâmicos)**\n\n**Configuração esperada:**\n\n* Agentes especializados como:\n\n  * `Email Agent` (ler, responder, enviar)\n  * `Calendar Agent` (criar eventos, buscar agendas)\n  * `Web Agent` (consultas externas como Weather, Perplexity)\n  * `Metadata Agent` (extrair e injetar metadados em documentos)\n* Agente principal atua como roteador inteligente entre os subagentes.\n\n---\n\n### **5. Memória e Persistência**\n\n**Memória de curto prazo:**\n\n* Sessão ativa com contexto via Simple Memory ou Redis.\n\n**Memória de longo prazo:**\n\n* Supabase como vetor permanente com controle de embeddings, atualizações e exclusões.\n* Planilha (Google Sheets ou Airtable) como fallback de persistência leve, organizando logs ou status de tarefas.\n\n---\n\n### **6. Funções Complementares**\n\n**Ferramentas auxiliares:**\n\n* Manipulação de documentos (upload, leitura, divisão, OCR).\n* Transcrição de áudio (para entradas de voz).\n* Extração de dados de PDF com metadata.\n* Requisições HTTP, Webhooks e controle via Switchs para lógica condicional.\n\n---\n\n### Exemplo de comando:\n\nCrie uma automação multicanal com agente principal e subagentes, que:\n\n* Receba mensagens do WhatsApp, Slack e Gmail.\n* Utilize Supabase como memória longa e RAG.\n* Tenha um pipeline de embedding com chunking + metadata.\n* Use subagentes para e-mail, calendário, contatos, e web search.\n* Implemente memória de curto prazo para manter contexto da sessão.\n* Possua fallback de logs em planilha do Google.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4095,
+    "author": "INEMA",
+    "date": "2025-07-30T02:47:29+00:00",
+    "text": "Prompt Eng Contexto N8N Agente",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4094,
+    "author": "INEMA",
+    "date": "2025-07-30T02:47:28+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4093,
+    "author": "INEMA",
+    "date": "2025-07-30T02:47:28+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4092,
+    "author": "INEMA",
+    "date": "2025-07-30T02:47:28+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4091,
+    "author": "INEMA",
+    "date": "2025-07-30T02:47:28+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4090,
+    "author": "INEMA",
+    "date": "2025-07-30T02:47:28+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4089,
+    "author": "INEMA",
+    "date": "2025-07-30T02:47:27+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 4088,
+    "author": "INEMA",
+    "date": "2025-07-30T02:47:21+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

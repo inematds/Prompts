@@ -1,0 +1,98 @@
+[
+  {
+    "id": 4071,
+    "author": "INEMA",
+    "date": "2025-07-22T20:39:47+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3897,
+    "author": "INEMA",
+    "date": "2025-06-27T01:34:04+00:00",
+    "text": "https://chatgpt.com/g/g-685df4a75e988191b0576ec5a94d63c3-inema-prompt-vibe-code-boll",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3891,
+    "author": "INEMA",
+    "date": "2025-06-26T04:34:33+00:00",
+    "text": "Aqui está uma **estrutura padrão otimizada** para você usar como **modelo de prompts no Bolt**, especialmente útil para construir apps com IA, Supabase, Stripe, interfaces modernas, etc. Essa estrutura é modular, clara e segue os hacks citados anteriormente.\n\n---\n\n### Estrutura Padrão de Prompt para Bolt\n\n```## 🎯 Objetivo do Projeto\nEstou desenvolvendo um aplicativo que [descreva o propósito geral].\nExemplo: \"um app de receitas personalizadas para pessoas com restrições alimentares (glúten, vegano, etc.).\"\n\n## 🧠 Contexto\nO app será usado por [tipo de usuário] e deve ter foco em [acessibilidade, performance, beleza visual, simplicidade, etc.].\nExemplo: \"Usuários de todas as idades que desejam encontrar receitas com base em suas restrições alimentares.\"\n\n## ⚙️ Funcionalidades Requeridas\n1. Autenticação com e-mail e senha (via Supabase).\n2. Banco de dados com CRUD completo para [nome da entidade, ex: receitas, produtos, usuários].\n3. Integração com Stripe para assinatura mensal e pagamento único.\n4. Busca por filtros personalizados (ex: sem glúten, vegano, low carb).\n5. Sistema de recomendação simples com base nos filtros escolhidos.\n\n## 🎨 Design e UI\n- Estilo moderno e clean.\n- Utilizar Tailwind CSS.\n- Layout responsivo para mobile e desktop.\n- Barra de navegação fixa com fundo degradê.\n- Botões grandes e acessíveis, com animação ao passar o mouse.\n- Cores contrastantes para acessibilidade.\n\n## 🧪 Dados\n- Use dados fictícios como placeholders (mock data) inicialmente.\n- Banco de dados com as seguintes colunas: nome, categoria, ingredientes, tempo de preparo, imagem.\n\n## 📦 Tecnologias\n- Supabase para autenticação e banco de dados.\n- Stripe para pagamentos.\n- Claude 4 (modelo por trás do Bolt).\n- Tailwind CSS para a interface.\n\n## 💬 Observações Importantes\n- Antes de executar qualquer etapa, confirme o entendimento do plano.\n- Sempre me mostre o resultado em formato de preview, com opção de refinar.\n- Ao dividir em etapas, sempre me avise o que está sendo feito.\n- O app precisa ser escalável e modular.\n\n## 🧩 Etapas de Execução (para orientação interna do AI)\n1. Criar estrutura do app com base no layout desejado.\n2. Configurar autenticação.\n3. Criar banco de dados com Supabase.\n4. Integrar Stripe para pagamentos.\n5. Refinar design responsivo e animações.\n6. Testar com dados mock e depois preparar para produção.\n```\n\n---\n\n### Como usar:\n\n* Copie e cole no Bolt.\n* Modifique os blocos conforme o seu projeto.\n* Use o modo **discussão** para validar o entendimento do AI antes de construir.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3890,
+    "author": "INEMA",
+    "date": "2025-06-26T04:34:29+00:00",
+    "text": "Prompt Estrutural BOLT (Vibe Code)",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3889,
+    "author": "INEMA",
+    "date": "2025-06-26T04:34:29+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3888,
+    "author": "INEMA",
+    "date": "2025-06-26T04:34:29+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3887,
+    "author": "INEMA",
+    "date": "2025-06-26T04:34:29+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3886,
+    "author": "INEMA",
+    "date": "2025-06-26T04:34:28+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3885,
+    "author": "INEMA",
+    "date": "2025-06-26T04:34:28+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3884,
+    "author": "INEMA",
+    "date": "2025-06-26T04:34:28+00:00",
+    "text": "https://chatgpt.com/c/685ccb44-9324-8009-8fd3-904bb888a30c",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3883,
+    "author": "INEMA",
+    "date": "2025-06-26T04:34:27+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3882,
+    "author": "INEMA",
+    "date": "2025-06-26T04:34:23+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]

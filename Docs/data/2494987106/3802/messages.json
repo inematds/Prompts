@@ -1,0 +1,150 @@
+[
+  {
+    "id": 3825,
+    "author": "INEMA",
+    "date": "2025-06-18T03:45:12+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_3825_001.jpg"
+  },
+  {
+    "id": 3824,
+    "author": "INEMA",
+    "date": "2025-06-18T03:45:12+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_3824_002.jpg"
+  },
+  {
+    "id": 3823,
+    "author": "INEMA",
+    "date": "2025-06-18T03:45:12+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_3823_003.jpg"
+  },
+  {
+    "id": 3822,
+    "author": "INEMA",
+    "date": "2025-06-18T03:36:54+00:00",
+    "text": "",
+    "has_media": true,
+    "media_type": "MessageMediaPhoto",
+    "media_file": "photo_3822_004.jpg"
+  },
+  {
+    "id": 3820,
+    "author": "INEMA",
+    "date": "2025-06-18T03:31:03+00:00",
+    "text": "https://chatgpt.com/g/g-68522a96e0688191863626b56ad90512-guia-m-e-t-a-para-prompts-visuais",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3819,
+    "author": "INEMA",
+    "date": "2025-06-18T03:30:12+00:00",
+    "text": "https://gamma.app/docs/opatho9joipjtox",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3816,
+    "author": "INEMA",
+    "date": "2025-06-18T03:29:18+00:00",
+    "text": "https://gamma.app/docs/0sho4zb9c7bdjh2",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3813,
+    "author": "INEMA",
+    "date": "2025-06-18T03:28:33+00:00",
+    "text": "https://gamma.app/docs/pqmvk750aknhpw0",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3811,
+    "author": "INEMA",
+    "date": "2025-06-18T03:28:14+00:00",
+    "text": "https://gamma.app/docs/ywec0c5po6nx1e1",
+    "has_media": true,
+    "media_type": "MessageMediaWebPage"
+  },
+  {
+    "id": 3810,
+    "author": "INEMA",
+    "date": "2025-06-18T03:21:09+00:00",
+    "text": "## Guia de Criação de Imagens com IA - MÉTODO M.E.T.A. ®\n\n### Introdução\n\nCriar imagens com Inteligência Artificial vai muito além de apenas descrever uma cena. Envolve transmitir sensação, atmosfera, intenção e narrativa visual. O MÉTODO M.E.T.A. é um guia estruturado que transforma uma ideia em uma imagem cinematográfica, coerente e impactante.\n\n---\n\n### O que significa M.E.T.A. ®\n\n| Letra | Nome   | Função no Prompt                                          | Objetivo                                                |\n| ----- | ------ | --------------------------------------------------------- | ------------------------------------------------------- |\n| M     | Mundo  | Onde tudo acontece (cenário, clima, tempo)                | Criar coerência e imersão no ambiente                   |\n| E     | Enredo | O que está acontecendo                                    | Dar vida, movimento e narrativa à imagem                |\n| T     | Tom    | Emoção, cor, atmosfera visual                             | Definir o estilo emocional e visual da imagem           |\n| A     | Ângulo | Como o espectador vê a cena (câmera, foco, enquadramento) | Direcionar a perspectiva e profundidade cinematográfica |\n\n---\n\n### Etapa M - MUNDO\n\n**Pergunta-chave:** Onde estamos?\n\n* Defina o local, tempo e condição.\n* Crie paisagens ricas com detalhes táteis.\n\n**Exemplos:**\n\n* \"num deserto radioativo ao amanhecer, com tempestade de areia no horizonte\"\n* \"em um vilarejo alpino coberto por neve durante a noite de Natal\"\n\n**Dica:** Use tempo + lugar + condição + elementos táteis.\n\n---\n\n### Etapa E - ENREDO\n\n**Pergunta-chave:** O que está acontecendo?\n\n* Adicione movimento, intenção ou expressão corporal.\n\n**Exemplos:**\n\n* \"uma criança chorando abraçada a um robô quebrado\"\n* \"um homem correndo descalço por entre ruínas em chamas\"\n\n**Dica:** Use verbos fortes + emoção no corpo ou rosto.\n\n---\n\n### Etapa T - TOM\n\n**Pergunta-chave:** Qual a emoção dominante da imagem?\n\n* Escolha luz, cor e atmosfera que expressem sentimento.\n\n**Exemplos:**\n\n* \"melancólico, com tons azulados e luz suave de fim de tarde\"\n* \"esperançoso, com luz dourada e brisa leve levantando folhas secas\"\n\n**Dica:** Combine emoção + cor + iluminação.\n\n---\n\n### Etapa A - ÂNGULO\n\n**Pergunta-chave:** De onde estamos vendo a cena?\n\n* Determine o ponto de vista e o tipo de lente.\n\n**Exemplos:**\n\n* \"câmera ao nível do chão, em close-up do rosto suado e com olhar decidido\"\n* \"visão de cima em 90º, como se estivéssemos espionando a cena\"\n\n**Dica:** Sempre especifique ângulo + profundidade de campo + lente.\n\n---\n\n### Aplicando o M.E.T.A. na prática:\n\n**Prompt completo:**\n\"numa cidade submersa, com raios de sol atravessando a água e ruínas cobertas por limo e corais (M), uma mergulhadora se move lentamente observando uma fotografia antiga flutuando (E), em clima nostálgico com luz azul esverdeada suave e poeira flutuante (T), filmado de baixo para cima com fundo desfocado e câmera ARRI Alexa (A)\"\n\n---\n\n### Termos de Apoio Avançado\n\n#### Textura fotográfica:\n\n* realistic skin pores\n* sweat and dirt marks\n* sharp fabric details\n* natural surface imperfections\n\n#### Iluminação cinematográfica:\n\n* golden hour lighting\n* soft bloom\n* volumetric light rays\n* realistic shadows\n\n#### Câmera e ângulo:\n\n* shallow depth of field\n* over-the-shoulder shot\n* wide-angle cinematic framing\n* ARRI Alexa, RED Komodo 6K\n\n#### Textura de ambiente:\n\n* cracked concrete\n* moss-covered structures\n* floating dust\n* burnt debris\n\n#### Estilo visual:\n\n* cyberpunk futuristic\n* minimalist brutalist\n* pastel cinematic\n* aged film look\n\n---\n\n### Exemplo Rápido com M.E.T.A.:\n\n**M**: \"num templo abandonado dentro da floresta tropical, com vegetação tomando as paredes\"\n**E**: \"uma arqueóloga acendendo uma tocha diante de um altar antigo\"\n**T**: \"clima de descoberta com luz dourada filtrando pelas folhas\"\n**A**: \"close-up lateral da expressão surpresa, com fundo escuro e foco suave\"\n\n---\n\nEsse método não só organiza seu prompt, mas transforma palavras em direção de arte profissional para qualquer ferramenta de geração de imagem com IA.",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3809,
+    "author": "INEMA",
+    "date": "2025-06-18T03:20:59+00:00",
+    "text": ".Metodo META de Prompt Visual",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3808,
+    "author": "INEMA",
+    "date": "2025-06-18T03:20:44+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3807,
+    "author": "INEMA",
+    "date": "2025-06-18T03:20:43+00:00",
+    "text": "..",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3806,
+    "author": "INEMA",
+    "date": "2025-06-18T03:20:43+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3805,
+    "author": "INEMA",
+    "date": "2025-06-18T03:20:43+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3804,
+    "author": "INEMA",
+    "date": "2025-06-18T03:20:42+00:00",
+    "text": ".",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3803,
+    "author": "INEMA",
+    "date": "2025-06-18T03:20:42+00:00",
+    "text": "1",
+    "has_media": false,
+    "media_type": null
+  },
+  {
+    "id": 3802,
+    "author": "INEMA",
+    "date": "2025-06-18T03:20:16+00:00",
+    "text": "",
+    "has_media": false,
+    "media_type": null
+  }
+]
