@@ -28,3 +28,7 @@ Docs/
 publish_tmp/
 
 scripts/
+
+# Ignore video files
+*.mp4
+mp4/
