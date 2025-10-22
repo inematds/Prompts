@@ -21,7 +21,7 @@ Insira o link do vídeo (YouTube/Vimeo):
 ## Exercício aplicado
 - Tarefa: reescreva 2 prompts do seu dia a dia usando a estrutura acima e compare resultados.
 - Entregue no GitHub Discussions (categoria "exercicios-modulo-1"):
-  https://github.com/inematds/Prompts/discussions
+  https://github.com/inematds/prompts/discussions
 
 ## Desafio extra
 - Pegue um prompt do acervo e proponha melhorias com justificativa.

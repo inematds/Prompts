@@ -23,7 +23,7 @@
 - Otimizador de prompts para um processo específico — 4756/4789
 
 ## Entrega
-- Abra um tópico em: https://github.com/inematds/Prompts/discussions
+- Abra um tópico em: https://github.com/inematds/prompts/discussions
 - Inclua: objetivo, prompts, evidências (imagens/links), aprendizados
 
 ## Leituras (acervo)

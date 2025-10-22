@@ -15,3 +15,10 @@
 }
 /* make buttons pop a bit */
 .md-button.md-button--primary { box-shadow: 0 4px 16px rgba(99,102,241,0.45); }
+
+/* Cards grid */
+.cards { display:grid; gap:16px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); margin: 16px 0; }
+.card { background:#0f1020; border:1px solid #2b2d42; border-radius:10px; padding:16px; box-shadow:0 6px 18px rgba(0,0,0,.15); }
+.card h3 { margin:0 0 8px 0 }
+.card p { margin:0 0 12px 0; color:#b9c1d9 }
+.card a { text-decoration:none }
