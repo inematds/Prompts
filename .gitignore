@@ -1,0 +1,7 @@
+site/
+*.zip
+*.mp4
+docs/data/
+!docs/data/**/*.txt
+!docs/data/**/*.json
+!docs/data/**/*.md

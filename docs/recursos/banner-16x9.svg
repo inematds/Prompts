@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#3b0764"/>
+    </linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <style>
+      .title{font:700 72px 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; fill:#fff}
+      .subtitle{font:400 28px 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; fill:#c7c9ff}
+      .pill{font:600 22px 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; fill:#fff}
+    </style>
+  </defs>
+  <rect width="1280" height="720" fill="url(#g)"/>
+  <g opacity="0.25">
+    <circle cx="200" cy="140" r="180" fill="url(#a)"/>
+    <circle cx="1180" cy="620" r="220" fill="url(#a)"/>
+    <circle cx="980" cy="120" r="120" fill="url(#a)"/>
+  </g>
+  <text x="80" y="320" class="title">Engenharia de Prompts 2.0</text>
+  <text x="80" y="370" class="subtitle">Curso prático e visual — estilo tecnológico agradável</text>
+  <rect x="80" y="410" rx="12" ry="12" width="380" height="44" fill="url(#a)"/>
+  <text x="100" y="440" class="pill">Baseado no acervo INEMA.Prompts</text>
+  <rect x="80" y="468" rx="12" ry="12" width="280" height="44" fill="#0ea5e9" opacity="0.9"/>
+  <text x="100" y="498" class="pill">Hospedado em GitHub Pages</text>
+</svg>
