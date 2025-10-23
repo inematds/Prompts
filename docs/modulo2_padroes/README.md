@@ -1,28 +1,28 @@
-﻿# MÃ³dulo 2 â€” PadrÃµes e Melhores PrÃ¡ticas
+# Módulo 2 — Padrões e Melhores Práticas
 
-> Objetivo: padronizar prompts para consistÃªncia, qualidade e eficiÃªncia.
+> Objetivo: padronizar prompts para consistência, qualidade e eficiência.
 
-## O que vocÃª vai aprender
-- Prompt tÃ©cnico padrÃ£o (templates reutilizÃ¡veis)
-- OtimizaÃ§Ã£o: eliciar, decompor, verificar e corrigir
-- Armadilhas comuns e como evitÃ¡-las
+## O que você vai aprender
+- Prompt técnico padrão (templates reutilizáveis)
+- Otimização: eliciar, decompor, verificar e corrigir
+- Armadilhas comuns e como evitá-las
 
-## VÃ­deo (5â€“10 min)
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/XXXXXXXXXXX" title="PadrÃµes e Melhores PrÃ¡ticas" frameborder="0" allowfullscreen></iframe>
+## Vídeo (5–10 min)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/XXXXXXXXXXX" title="Padrões e Melhores Práticas" frameborder="0" allowfullscreen></iframe>
 
-## Resumo prÃ¡tico
-- Template base: contexto â†’ instruÃ§Ãµes â†’ critÃ©rios de saÃ­da â†’ validaÃ§Ãµes
-- Checklist de revisÃ£o (clareza, controle de escopo, testabilidade)
-- Versione prompts e registre mudanÃ§as
+## Resumo prático
+- Template base: contexto → instruções → critérios de saída → validações
+- Checklist de revisão (clareza, controle de escopo, testabilidade)
+- Versione prompts e registre mudanças
 
-## ExercÃ­cio aplicado
-- Transforme um prompt livre em um template tÃ©cnico padronizado.
+## Exercício aplicado
+- Transforme um prompt livre em um template técnico padronizado.
 - Publique no Discussions (categoria "exercicios-modulo-2").
 
 ## Desafio extra
-- Crie um kit de prompts para um fluxo (ex.: briefing â†’ rascunho â†’ revisÃ£o).
+- Crie um kit de prompts para um fluxo (ex.: briefing → rascunho → revisão).
 
 ## Leituras (acervo)
+- [Prompt Técnico Padrão — 4789](../data/2494987106/4789/content.txt)
+- [Otimizador de Prompts da OpenAI — 4756](../data/2494987106/4756/content.txt)
 
-- [Prompt TÃ©cnico PadrÃ£o â€” 4789](../data/2494987106/4789/content.txt)
-- [Otimizador de Prompts da OpenAI â€” 4756](../data/2494987106/4756/content.txt)

@@ -5,7 +5,7 @@
 Se o inventário estiver presente, você verá os tópicos aqui. Caso contrário, publique o `docs/data/inventory.json`.
 
 <div id="inventory-app">
-  <input id="search" type="search" placeholder="Buscar por título…" style="width:100%;padding:10px;border-radius:8px;border:1px solid #333;margin:8px 0 16px 0;" />
+  <input id="search" type="search" placeholder="Buscar por título..." style="width:100%;padding:10px;border-radius:8px;border:1px solid #333;margin:8px 0 16px 0;" />
   <div id="stats" style="margin-bottom:8px;color:#9aa4c7"></div>
   <div style="overflow:auto">
     <table id="inv" class="md-typeset" style="width:100%;min-width:720px">
@@ -21,16 +21,16 @@ Se o inventário estiver presente, você verá os tópicos aqui. Caso contrário
       <tbody></tbody>
     </table>
   </div>
+  
 </div>
 
 <script>
 (async function(){
   const $ = (sel, el=document) => el.querySelector(sel);
-  const $$ = (sel, el=document) => Array.from(el.querySelectorAll(sel));
   const app = $('#inventory-app');
-  const tbody = $('#inv tbody', app);
-  const stats = $('#stats', app);
-  const search = $('#search', app);
+  const tbody = app.querySelector('#inv tbody');
+  const stats = app.querySelector('#stats');
+  const search = app.querySelector('#search');
   let raw;
   try {
     const res = await fetch('data/inventory.json');
