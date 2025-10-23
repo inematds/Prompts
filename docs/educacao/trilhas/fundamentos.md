@@ -18,11 +18,11 @@ title: Trilha â€” Fundamentos
 - CritÃ©rios de qualidade: como avaliar (ex.: checklist rÃ¡pida)
 
 ## Roteiro sugerido
-1. MÃ³dulo 1 â€” Fundamentos â†’ [abrir](https://inematds.github.io/prompts/modulo1_fundamentos/)
-2. Leituras do acervo (exemplos prÃ¡ticos):
-   - IntroduÃ§Ã£o e visÃ£o geral: [2191](../../data/2494987106/2191/content.txt)
-   - Estrutura de um bom prompt: [4807](../../data/2494987106/4807/content.txt)
-   - Guia para iniciantes e avanÃ§ado: [4819](../../data/2494987106/4819/content.txt)
+ - Módulo 1 — Fundamentos → [abrir](https://inematds.github.io/prompts/modulo1_fundamentos/)
+ - Leituras do acervo (exemplos práticos):
+   - [Introdução e visão geral (acervo)](../../data/2494987106/2191/content.txt)
+   - [Estrutura de um bom prompt (acervo)](../../data/2494987106/4807/content.txt)
+   - [Guia para iniciantes e avançado (acervo)](../../data/2494987106/4819/content.txt)
 
 ## ExercÃ­cios prÃ¡ticos
 - Reescreva 2 prompts do seu dia a dia usando a anatomia completa; compare resultados antes/depois.
@@ -107,4 +107,5 @@ CritÃ©rios: tom profissional, sem jargÃ£o, cada CTA com verbo de aÃ§Ã£o
 - Caso difÃ­cil: mesma tarefa com entrada ambÃ­gua; refine atÃ© estabilizar.
 
 > Dica: veja modelos prontos em Templates â†’ Modelos de Prompt.
+
 
