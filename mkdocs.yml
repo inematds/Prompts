@@ -1,7 +1,7 @@
 ﻿site_name: Engenharia de Prompts 2.0
 site_description: Curso prÃ¡tico e visual de Engenharia de Prompts inspirado no acervo INEMA.Prompts
-site_url: https://inematds.github.io/Prompts
-repo_url: https://github.com/inematds/Prompts
+site_url: https://inematds.github.io/prompts
+repo_url: https://github.com/inematds/prompts
 theme:
   name: material
   language: pt
