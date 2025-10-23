@@ -38,3 +38,72 @@ title: Trilha — Fundamentos
 - Você declara objetivo, formato e critérios de qualidade em cada prompt
 - Você testa o mesmo prompt em casos fáceis/difíceis e refina conscientemente
 
+---
+
+## Prompt base (copiar e colar)
+
+```
+Papel: Você é [função] que [objetivo].
+Tarefa: [o que fazer] para [quem] em [contexto].
+Requisitos: [bullet points claros]
+Formato de saída: [Markdown/JSON], campos: [x, y, z]
+Critérios de qualidade: [ex.: 3 bullets, tom neutro, citar fonte]
+Exemplos (opcional): [1–2 mini exemplos]
+```
+
+### Variante JSON
+```
+Papel: Instrutor de escrita técnica
+Tarefa: Resumir o texto abaixo em 3 bullets factuais.
+Requisitos: sem opinião, sem adjetivos vagos.
+Formato: JSON { "bullets": ["...", "...", "..."] }
+Critérios: cada bullet ≤ 20 palavras, sem redundância.
+Texto: """<cole o texto>"""
+```
+
+## Antes/Depois (exemplos)
+
+- Antes (vago):
+```
+Faça um resumo do documento.
+```
+- Depois (claro):
+```
+Papel: Analista de conteúdo
+Tarefa: Resumir o documento em 3 bullets factuais
+Formato: Markdown (lista)
+Critérios: 1 ideia por bullet, sem opinião, ≤ 18 palavras
+Texto: """<documento>"""
+```
+
+- Antes (escopo solto):
+```
+Me ajude com ideias de marketing.
+```
+- Depois (focado):
+```
+Papel: Estrategista de Marketing
+Tarefa: Gerar 5 ideias de posts LinkedIn sobre [tema] para [persona]
+Formato: Tabela | colunas: Título, Ângulo, CTA
+Critérios: tom profissional, sem jargão, cada CTA com verbo de ação
+```
+
+## Anti‑padrões e correções
+- Pedido genérico sem contexto → adicionar “para quem”, “por quê” e critérios.
+- Formato aberto → especificar estrutura (Markdown/JSON e campos).
+- Tom inconsistente → explicitar “tom”, “público”, “nível de detalhe”.
+- Requisitos ambíguos → trocar “bom/claro” por limites/contagens.
+
+## Rubrica de autoavaliação (0–2 por item, meta ≥ 7/10)
+- Clareza do objetivo (0–2)
+- Formato de saída e completude (0–2)
+- Critérios objetivos e verificáveis (0–2)
+- Consistência objetivo→requisitos→saída (0–2)
+- Teste e refinamento (0–2)
+
+## Exercícios enriquecidos
+- Reescrita guiada: aplique o Prompt Base a 2 prompts reais e compare.
+- Validação de formato: peça saída em JSON e verifique campos/limites.
+- Caso difícil: mesma tarefa com entrada ambígua; refine até estabilizar.
+
+> Dica: veja modelos prontos em Templates → Modelos de Prompt.
