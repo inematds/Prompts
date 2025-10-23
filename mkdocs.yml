@@ -17,9 +17,16 @@ theme:
     - content.code.copy
     - toc.integrate
   logo: recursos/banner-16x9.svg
+  favicon: recursos/favicon.svg
 edit_uri: edit/main/docs/
 nav:
   - Início: index.md
+  - Educação:
+      - Visão Geral: educacao/index.md
+      - Trilhas:
+          - Fundamentos: educacao/trilhas/fundamentos.md
+          - Técnicas: educacao/trilhas/tecnicas.md
+          - Avançado (Masterclass): educacao/trilhas/avancado-masterclass.md
   - Módulos:
       - Fundamentos: modulo1_fundamentos/README.md
       - Padrões e Melhores Práticas: modulo2_padroes/README.md
@@ -27,6 +34,8 @@ nav:
       - Assistentes, Memória e RAG: modulo4_assistentes_memoria/README.md
       - Automação e Ferramentas: modulo5_automacao_ferramentas/README.md
       - Projetos Finais: modulo6_projetos_finais/README.md
+  - Acervo: acervo.md
+  - Exercícios: exercicios/index.md
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -40,3 +49,5 @@ markdown_extensions:
       permalink: true
 extra_css:
   - styles/theme.css
+docs_dir: docs
+

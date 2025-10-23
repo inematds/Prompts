@@ -1,28 +1,28 @@
-# Módulo 5 — Automação e Ferramentas
+﻿# MÃ³dulo 5 â€” AutomaÃ§Ã£o e Ferramentas
 
-> Objetivo: conectar prompts a fluxos e ferramentas com segurança.
+> Objetivo: conectar prompts a fluxos e ferramentas com seguranÃ§a.
 
-## O que você vai aprender
-- Extração e automação (ex.: N8N workflows)
-- Boas práticas de segurança (evitar vazamentos, jailbreaks)
-- Observabilidade básica (inputs/outputs, logs)
+## O que vocÃª vai aprender
+- ExtraÃ§Ã£o e automaÃ§Ã£o (ex.: N8N workflows)
+- Boas prÃ¡ticas de seguranÃ§a (evitar vazamentos, jailbreaks)
+- Observabilidade bÃ¡sica (inputs/outputs, logs)
 
-## Vídeo (5–10 min)
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/XXXXXXXXXXX" title="Automação e Ferramentas" frameborder="0" allowfullscreen></iframe>
+## VÃ­deo (5â€“10 min)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/XXXXXXXXXXX" title="AutomaÃ§Ã£o e Ferramentas" frameborder="0" allowfullscreen></iframe>
 
-## Resumo prático
-- Mapear fluxo: entrada → processamento → saída → validação
-- Crie "prompts guardrails" e checagens automáticas
-- Registre erros e melhore prompts com evidências
+## Resumo prÃ¡tico
+- Mapear fluxo: entrada â†’ processamento â†’ saÃ­da â†’ validaÃ§Ã£o
+- Crie "prompts guardrails" e checagens automÃ¡ticas
+- Registre erros e melhore prompts com evidÃªncias
 
-## Exercício aplicado
+## ExercÃ­cio aplicado
 - Raspe/analise um fluxo simples (ou simule) e proponha prompts de robustez.
 - Poste no Discussions (categoria "exercicios-modulo-5").
 
 ## Desafio extra
-- Instrumente um prompt com validação de saída (ex.: JSON Schema).
+- Instrumente um prompt com validaÃ§Ã£o de saÃ­da (ex.: JSON Schema).
 
 ## Leituras (acervo)
 
-- [Raspar N8N Workflows — 4691](data/2494987106/4691/content.txt)
-- [Secure GPT — pitfalls — 4780](data/2494987106/4780/content.txt)
+- [Raspar N8N Workflows â€” 4691](../data/2494987106/4691/content.txt)
+- [Secure GPT â€” pitfalls â€” 4780](../data/2494987106/4780/content.txt)
